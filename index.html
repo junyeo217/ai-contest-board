@@ -157,6 +157,7 @@
     .official { margin-top: auto; padding-top: 18px; display: inline-flex; width: fit-content; gap: 8px; align-items: center; font-size: 14px; font-weight: 950; color: var(--ink); text-decoration: none; }
     .official::after { content: "↗"; color: var(--accent); }
     .official:hover { text-decoration: underline; text-underline-offset: 4px; }
+    .official-missing { margin-top: auto; padding-top: 18px; display: inline-flex; width: fit-content; font-size: 14px; font-weight: 900; color: var(--soft); }
     .empty { grid-column: 1 / -1; border: 1px dashed var(--line-strong); background: rgba(255,255,255,.56); border-radius: var(--radius); padding: 34px; text-align: center; color: var(--muted); line-height: 1.75; }
     .empty b { color: var(--ink); }
 
@@ -293,7 +294,7 @@
         <h3>${escapeHtml(item.title || '제목 미정')}</h3>
         <ul class="meta"><li><b>분야</b> ${escapeHtml(item.category || 'AI 이미지, 영상')}</li><li><b>주최</b> ${escapeHtml(item.organizer || '미정')}</li><li><b>접수</b> ${escapeHtml(range(item))}</li>${result}</ul>
         ${item.summary ? `<p class="summary">${escapeHtml(item.summary)}</p>` : ''}
-        ${officialUrl ? `<a class="official" href="${escapeHtml(officialUrl)}" target="_blank" rel="noopener noreferrer">공식 링크</a>` : ''}
+        ${officialUrl ? `<a class="official" href="${escapeHtml(officialUrl)}" target="_blank" rel="noopener noreferrer">공식 링크</a>` : '<span class="official-missing">공식 링크 미확인</span>'}
       </article>`;
     }
     function empty(label) { return `<div class="empty"><b>${escapeHtml(label)}</b> 항목이 아직 없습니다.<br>다음 자동 조사 후 업데이트됩니다.</div>`; }
