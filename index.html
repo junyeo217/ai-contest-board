@@ -283,15 +283,17 @@
       return d.toLocaleString('ko-KR', { dateStyle: 'medium', timeStyle: 'short' });
     }
     function tagTone(tone) { return tone === 'start' ? 'start' : tone === 'wait' ? 'wait' : 'ongoing'; }
+    function hasValidUrl(value) { return typeof value === 'string' && /^https?:\/\/\S+$/i.test(value.trim()); }
     function card(item, tone) {
       const due = tone === 'ongoing' ? dday(item.submission_end) : '';
       const result = tone === 'wait' && item.result_date ? `<li><b>발표</b> ${escapeHtml(item.result_date)}</li>` : '';
+      const officialUrl = hasValidUrl(item.url) ? item.url.trim() : '';
       return `<article class="contest-card">
         <div class="card-top"><span class="tag ${tagTone(tone)}">${escapeHtml(item.status || item.category || '공모전')}</span>${due ? `<span class="due">${escapeHtml(due)}</span>` : ''}</div>
         <h3>${escapeHtml(item.title || '제목 미정')}</h3>
         <ul class="meta"><li><b>분야</b> ${escapeHtml(item.category || 'AI 이미지, 영상')}</li><li><b>주최</b> ${escapeHtml(item.organizer || '미정')}</li><li><b>접수</b> ${escapeHtml(range(item))}</li>${result}</ul>
         ${item.summary ? `<p class="summary">${escapeHtml(item.summary)}</p>` : ''}
-        ${item.url ? `<a class="official" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">공식 링크</a>` : ''}
+        ${officialUrl ? `<a class="official" href="${escapeHtml(officialUrl)}" target="_blank" rel="noopener noreferrer">공식 링크</a>` : ''}
       </article>`;
     }
     function empty(label) { return `<div class="empty"><b>${escapeHtml(label)}</b> 항목이 아직 없습니다.<br>다음 자동 조사 후 업데이트됩니다.</div>`; }
