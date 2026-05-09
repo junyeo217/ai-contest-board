@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>AI 이미지/영상 공모전 보드</title>
+  <title>AI 이미지, 영상 공모전 보드</title>
   <meta name="description" content="국내 AI 이미지·영상 공모전을 오늘 시작, 진행중, 발표 대기로 정리한 공개 보드" />
-  <meta property="og:title" content="AI 이미지/영상 공모전 보드" />
+  <meta property="og:title" content="AI 이미지, 영상 공모전 보드" />
   <meta property="og:description" content="국내 AI 이미지·영상 공모전 공개 정보 정리" />
   <meta property="og:type" content="website" />
   <meta name="theme-color" content="#0f172a" />
@@ -197,7 +197,7 @@
       <div class="hero-grid">
         <div class="hero-card">
           <div class="kicker">Korea · AI Image & Video</div>
-          <h1><span>AI 이미지/영상</span><span>공모전 보드</span></h1>
+          <h1><span>AI 이미지, 영상</span><span>공모전 보드</span></h1>
           <p class="hero-copy">국내 AI 이미지·영상 공모전을 매일 정리합니다. 오늘 새로 열린 공모전, 현재 접수 가능한 공모전, 접수 종료 후 발표를 기다리는 공모전을 한 곳에서 확인하세요.</p>
           <div class="hero-actions">
             <a class="btn primary" href="#starting-today">오늘 시작 보기</a>
@@ -243,7 +243,7 @@
   </main>
 
   <footer class="wrap">
-    <div class="footer-line"><div>AI 이미지/영상 공모전 보드</div><div>공식 페이지에서 세부 조건을 최종 확인하세요.</div></div>
+    <div class="footer-line"><div>AI 이미지, 영상 공모전 보드</div><div>공식 페이지에서 세부 조건을 최종 확인하세요.</div></div>
   </footer>
 
   <script>
@@ -278,7 +278,7 @@
       return `<article class="contest-card">
         <div class="card-top"><span class="tag ${tagTone(tone)}">${escapeHtml(item.status || item.category || '공모전')}</span>${due ? `<span class="due">${escapeHtml(due)}</span>` : ''}</div>
         <h3>${escapeHtml(item.title || '제목 미정')}</h3>
-        <ul class="meta"><li><b>분야</b> ${escapeHtml(item.category || 'AI 이미지/영상')}</li><li><b>주최</b> ${escapeHtml(item.organizer || '미정')}</li><li><b>접수</b> ${escapeHtml(range(item))}</li>${result}</ul>
+        <ul class="meta"><li><b>분야</b> ${escapeHtml(item.category || 'AI 이미지, 영상')}</li><li><b>주최</b> ${escapeHtml(item.organizer || '미정')}</li><li><b>접수</b> ${escapeHtml(range(item))}</li>${result}</ul>
         ${item.summary ? `<p class="summary">${escapeHtml(item.summary)}</p>` : ''}
         ${item.url ? `<a class="official" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">공식 링크</a>` : ''}
       </article>`;
