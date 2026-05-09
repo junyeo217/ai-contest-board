@@ -1,0 +1,16 @@
+# Local/runtime files that must never be published
+.env
+.env.*
+*.sqlite
+*.db
+*.log
+logs/
+raw/
+tmp/
+.DS_Store
+
+# Node/Python caches if later tooling is added
+node_modules/
+__pycache__/
+*.pyc
+.venv/
