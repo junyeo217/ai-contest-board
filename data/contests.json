@@ -1,46 +1,9 @@
 {
-  "generated_at": "준비중",
-  "source_note": "이 파일은 OpenClaw/오기 크론이 매일 갱신할 공개용 데이터입니다. 민감정보/내부 로그/카카오방 정보는 저장하지 않습니다.",
+  "generated_at": "2026-05-09T20:55:09+09:00",
+  "notice": "국내 AI 이미지·영상 공모전 공개 정보 기반 보드입니다.",
   "sections": {
-    "starting_today": [
-      {
-        "title": "샘플: 오늘 시작한 AI 이미지 공모전",
-        "category": "AI 이미지",
-        "organizer": "주최기관",
-        "submission_start": "YYYY-MM-DD",
-        "submission_end": "YYYY-MM-DD",
-        "url": "https://example.com",
-        "summary": "오늘부터 접수가 시작된 공모전 예시 항목입니다.",
-        "status": "오늘 시작",
-        "is_sample": true
-      }
-    ],
-    "ongoing": [
-      {
-        "title": "샘플: 현재 진행중인 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "주최기관",
-        "submission_start": "YYYY-MM-DD",
-        "submission_end": "YYYY-MM-DD",
-        "url": "https://example.com",
-        "summary": "접수 기간이 진행 중인 공모전 예시 항목입니다.",
-        "status": "진행중",
-        "is_sample": true
-      }
-    ],
-    "awaiting_results": [
-      {
-        "title": "샘플: 종료 후 발표 대기 공모전",
-        "category": "AI 이미지/영상",
-        "organizer": "주최기관",
-        "submission_start": "YYYY-MM-DD",
-        "submission_end": "YYYY-MM-DD",
-        "result_date": "YYYY-MM-DD 또는 미정",
-        "url": "https://example.com",
-        "summary": "접수는 종료되었고 결과 발표를 기다리는 공모전 예시 항목입니다.",
-        "status": "발표 대기",
-        "is_sample": true
-      }
-    ]
+    "starting_today": [],
+    "ongoing": [],
+    "awaiting_results": []
   }
 }
