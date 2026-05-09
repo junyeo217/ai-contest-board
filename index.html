@@ -123,7 +123,7 @@
 
     .toolbar { padding: 12px 0 28px; }
     .toolbar-inner {
-      display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: center;
+      display: grid; grid-template-columns: 1fr; gap: 12px; align-items: center;
       padding: 12px; border-radius: 22px; border: 1px solid var(--line); background: rgba(255,255,255,.7); box-shadow: 0 12px 36px rgba(15,23,42,.06);
     }
     .search {
@@ -131,9 +131,6 @@
     }
     .search span { color: var(--soft); font-weight: 900; }
     .search input { width: 100%; border: 0; outline: 0; font: inherit; color: var(--ink); background: transparent; }
-    .data-link { color: var(--muted); text-decoration: none; font-size: 13px; font-weight: 850; padding: 12px 14px; border-radius: 14px; }
-    .data-link:hover { background: white; color: var(--ink); }
-
     .section { padding: 24px 0; }
     .section-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 18px; margin-bottom: 15px; }
     .section-title { display: flex; align-items: center; gap: 12px; }
@@ -222,7 +219,6 @@
     <section class="toolbar wrap" aria-label="공모전 검색">
       <div class="toolbar-inner">
         <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="공모전명, 주최, 분야로 검색" autocomplete="off" /></label>
-        <a class="data-link" href="data/contests.json">데이터 JSON</a>
       </div>
     </section>
 
