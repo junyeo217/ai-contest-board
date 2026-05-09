@@ -160,6 +160,18 @@
     .empty { grid-column: 1 / -1; border: 1px dashed var(--line-strong); background: rgba(255,255,255,.56); border-radius: var(--radius); padding: 34px; text-align: center; color: var(--muted); line-height: 1.75; }
     .empty b { color: var(--ink); }
 
+    .to-top {
+      position: fixed; right: max(18px, calc((100vw - var(--max)) / 2 + 18px)); bottom: 22px; z-index: 50;
+      width: 52px; height: 52px; border: 1px solid rgba(15,23,42,.12); border-radius: 999px;
+      display: grid; place-items: center; background: rgba(15,23,42,.92); color: #fff; text-decoration: none;
+      box-shadow: 0 18px 42px rgba(15,23,42,.22); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+      font-size: 22px; font-weight: 950; opacity: 0; pointer-events: none; transform: translateY(10px);
+      transition: opacity .18s ease, transform .18s ease, background .18s ease;
+    }
+    .to-top.visible { opacity: 1; pointer-events: auto; transform: translateY(0); }
+    .to-top:hover, .to-top:focus-visible { background: var(--accent); outline: none; transform: translateY(-2px); }
+    .to-top span { transform: translateY(-1px); }
+
     footer { padding: 48px 0 66px; color: var(--muted); font-size: 13px; line-height: 1.7; }
     .footer-line { border-top: 1px solid var(--line); padding-top: 22px; display: flex; justify-content: space-between; gap: 18px; flex-wrap: wrap; }
 
@@ -199,6 +211,7 @@
           <div class="hero-actions">
             <a class="btn primary" href="#starting-today">오늘 시작 보기</a>
             <a class="btn" href="#ongoing">진행중 보기</a>
+            <a class="btn" href="#awaiting-results">발표대기 보기</a>
           </div>
         </div>
         <aside class="summary-card" aria-label="업데이트 요약">
@@ -242,13 +255,15 @@
     <div class="footer-line"><div>공모전 보드</div><div>공식 페이지에서 세부 조건을 최종 확인하세요.</div></div>
   </footer>
 
+  <button class="to-top" id="toTop" type="button" aria-label="맨 위로 이동"><span aria-hidden="true">↑</span></button>
+
   <script>
     const state = { data: null, query: '' };
     const $ = id => document.getElementById(id);
     const nodes = {
       updatedAt: $('updatedAt'), countStart: $('countStart'), countOngoing: $('countOngoing'), countWait: $('countWait'),
       pillStart: $('pillStart'), pillOngoing: $('pillOngoing'), pillWait: $('pillWait'),
-      listStart: $('listStart'), listOngoing: $('listOngoing'), listWait: $('listWait'), search: $('searchInput')
+      listStart: $('listStart'), listOngoing: $('listOngoing'), listWait: $('listWait'), search: $('searchInput'), toTop: $('toTop')
     };
 
     function escapeHtml(v) { return String(v ?? '').replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c])); }
@@ -290,6 +305,10 @@
       renderList(nodes.listStart, starting, 'start', '오늘 시작한 공모전'); renderList(nodes.listOngoing, ongoing, 'ongoing', '현재 진행중인 공모전'); renderList(nodes.listWait, waiting, 'wait', '발표 대기 공모전');
     }
     nodes.search.addEventListener('input', e => { state.query = e.target.value; render(); });
+    function updateToTop() { nodes.toTop.classList.toggle('visible', window.scrollY > 420); }
+    nodes.toTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+    window.addEventListener('scroll', updateToTop, { passive: true });
+    updateToTop();
     fetch('data/contests.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : Promise.reject()).then(data => { state.data = data; render(); }).catch(() => { state.data = { generated_at: '', sections: {} }; render(); });
   </script>
 </body>
