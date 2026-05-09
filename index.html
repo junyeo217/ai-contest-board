@@ -94,6 +94,11 @@
       font-size: 13px; font-weight: 950; letter-spacing: .1em; text-transform: uppercase; margin-bottom: 18px;
     }
     .kicker::before { content: ""; width: 34px; height: 2px; border-radius: 999px; background: currentColor; }
+    .hero-notice {
+      display: inline-flex; align-items: center; gap: 9px; color: var(--accent);
+      font-size: 13px; font-weight: 950; letter-spacing: .1em; margin: 18px 0 0;
+    }
+    .hero-notice::before { content: ""; width: 34px; height: 2px; border-radius: 999px; background: currentColor; }
     h1 { margin: 0; font-size: clamp(42px, 7vw, 78px); line-height: .98; letter-spacing: -.055em; text-wrap: balance; }
     h1 span { display: block; word-spacing: .08em; }
     .hero-copy { margin: 22px 0 0; max-width: 690px; color: var(--muted); font-size: clamp(16px, 2vw, 19px); line-height: 1.75; text-wrap: pretty; }
@@ -207,6 +212,7 @@
           <div class="kicker">Korea · AI Image & Video</div>
           <h1><span>공모전 보드</span></h1>
           <p class="hero-copy">국내 AI 이미지·영상 공모전을 매일 정리합니다. 오늘 새로 열린 공모전, 현재 접수 가능한 공모전, 접수 종료 후 발표를 기다리는 공모전을 한 곳에서 확인하세요.</p>
+          <p class="hero-notice">누락된 공고가 있으면 채팅방에서 @주녀 를 찾아주세요</p>
           <div class="hero-actions">
             <a class="btn primary" href="#starting-today">오늘 시작 보기</a>
             <a class="btn" href="#ongoing">진행중 보기</a>
