@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T22:45:31+09:00",
+  "generated_at": "2026-05-09T23:24:08+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다.",
   "sections": {
     "starting_today": [],
@@ -12,11 +12,13 @@
         "submission_end": "2026-06-01",
         "result_date": "2026-07-17 이후 예정",
         "url": "https://ai-kalis.com/",
-        "source_type": "official_contest_site",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202605040019",
         "evidence": "공식 페이지에 참가부문 '영상 부문 / 이미지(포스터) 부문', 공모기간 '2026. 5. 4.(월) ~ 2026. 6. 1.(월)', 영상 MP4/MOV 및 이미지 JPG/JPEG/PNG 규격 명시.",
         "summary": "건설안전 주제를 생성형 AI 영상 또는 이미지 포스터로 제작하는 대국민 공모전입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-05-09T22:45:31+09:00"
+        "source_checked_at": "2026-05-09T23:24:08+09:00"
       },
       {
         "title": "Y아티스트 레이블 AI 영상 공모전",
@@ -26,11 +28,13 @@
         "submission_end": "2026-06-08",
         "result_date": "2026-07-06",
         "url": "https://www.yspotlight.co.kr/artist/ai_contest",
-        "source_type": "official_contest_site",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.yspotlight.co.kr/artist/ai_contest",
         "evidence": "KT Y 공식 페이지에 'AI 영상 공모전', 응모 기간 '2026.05.07.(목)~2026.06.08.(월)', Y덤 소개 영상 콘텐츠·Y브랜드 소개 영상 콘텐츠 및 AI 제작 문구 삽입 요건 명시.",
         "summary": "KT Y 브랜드와 함께 성장할 생성형 AI 영상 크리에이터를 모집하는 공모전입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-05-09T22:45:31+09:00"
+        "source_checked_at": "2026-05-09T23:24:08+09:00"
       },
       {
         "title": "서울 디자인 AI 영상 공모전",
@@ -40,11 +44,13 @@
         "submission_end": "2026-06-30",
         "result_date": "미정",
         "url": "https://www.seoul.go.kr/news/news_report.do?nttNo=457324&srchCtgry=466",
-        "source_type": "official_organizer_notice",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.seoul.go.kr/news/news_report.do?nttNo=457324",
         "evidence": "서울시 공식 페이지에 서울디자인재단 개최, AI로 구현한 K-컬처·연말 축제 대중 콘텐츠 영상 출품, 접수 '6월 30일(화) 오전 11시까지' 명시.",
         "summary": "AI로 구현한 K-컬처·연말 축제 영상 작품을 모집하며 수상작은 DDP 미디어에 송출될 예정입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-05-09T22:45:31+09:00"
+        "source_checked_at": "2026-05-09T23:24:08+09:00"
       },
       {
         "title": "2026 정선 여행 AI 영상 광고 공모전",
@@ -54,11 +60,13 @@
         "submission_end": "2026-05-29",
         "result_date": "2026-06-08",
         "url": "https://themade.net/t_movie/1450",
-        "source_type": "official_platform_listing",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202604200079",
         "evidence": "공식 접수 플랫폼에 참가자격 'AI 기술을 활용하여 영상을 만들 수 있는 만 18세 이상', 작품규격 60초 FHD MP4 영상, 결과발표 2026.6.8 명시.",
         "summary": "정선 여행의 매력을 생성형 AI 기반 60초 광고 영상으로 표현하는 공모전입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-05-09T22:45:31+09:00"
+        "source_checked_at": "2026-05-09T23:24:08+09:00"
       }
     ],
     "awaiting_results": [
@@ -70,11 +78,13 @@
         "submission_end": "2026-04-30",
         "result_date": "발표 대기",
         "url": "https://aiseocho.gcontest.co.kr/",
-        "source_type": "official_contest_site",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://aiseocho.gcontest.co.kr/",
         "evidence": "공식 공모전 페이지 이미지에 '생성형 AI를 활용한 이미지·영상 분야 공모전', 접수기간 '2026.3.3.(화) ~ 4.30.(목)' 명시.",
         "summary": "NEXT 서초를 주제로 생성형 AI 이미지와 영상 디자인을 모집한 청년 대상 공모전입니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-05-09T22:45:31+09:00"
+        "source_checked_at": "2026-05-09T23:24:08+09:00"
       }
     ]
   }
