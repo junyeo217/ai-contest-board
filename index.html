@@ -121,17 +121,8 @@
     .stat span { display: block; margin-top: 9px; color: #cbd5e1; font-size: 12px; font-weight: 800; line-height: 1.35; }
     .summary-note { margin: auto 0 0; padding-top: 28px; color: #dbe4ef; font-size: 14px; line-height: 1.65; }
 
-    .toolbar { padding: 12px 0 28px; }
-    .toolbar-inner {
-      display: grid; grid-template-columns: 1fr; gap: 12px; align-items: center;
-      padding: 12px; border-radius: 22px; border: 1px solid var(--line); background: rgba(255,255,255,.7); box-shadow: 0 12px 36px rgba(15,23,42,.06);
-    }
-    .search {
-      display: flex; align-items: center; gap: 10px; background: white; border: 1px solid var(--line); border-radius: 16px; padding: 0 14px; min-height: 46px;
-    }
-    .search span { color: var(--soft); font-weight: 900; }
-    .search input { width: 100%; border: 0; outline: 0; font: inherit; color: var(--ink); background: transparent; }
     .section { padding: 24px 0; }
+
     .section-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 18px; margin-bottom: 15px; }
     .section-title { display: flex; align-items: center; gap: 12px; }
     .dot { width: 13px; height: 13px; border-radius: 50%; flex: none; box-shadow: 0 0 0 7px rgba(37,99,235,.09); }
@@ -183,7 +174,7 @@
       .nav-links { justify-content: flex-start; }
       .hero { padding-top: 34px; }
       .hero-card, .summary-card { border-radius: 26px; }
-      .stats, .grid, .toolbar-inner { grid-template-columns: 1fr; }
+      .stats, .grid { grid-template-columns: 1fr; }
       .section-head { align-items: flex-start; flex-direction: column; }
       .desc { margin-left: 0; }
     }
@@ -230,12 +221,6 @@
       </div>
     </section>
 
-    <section class="toolbar wrap" aria-label="공모전 검색">
-      <div class="toolbar-inner">
-        <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="공모전명, 주최, 분야로 검색" autocomplete="off" /></label>
-      </div>
-    </section>
-
     <section class="section wrap" id="starting-today">
       <div class="section-head"><div><div class="section-title"><span class="dot" style="background: var(--start)"></span><h2>오늘부터 시작한 공모전</h2></div><p class="desc">접수 시작일이 오늘인 신규 공모전입니다. 카카오톡 요약 알림의 핵심 항목입니다.</p></div><div class="pill" id="pillStart">0건</div></div>
       <div class="grid" id="listStart"></div>
@@ -259,12 +244,12 @@
   <button class="to-top" id="toTop" type="button" aria-label="맨 위로 이동"><span aria-hidden="true">↑</span></button>
 
   <script>
-    const state = { data: null, query: '' };
+    const state = { data: null };
     const $ = id => document.getElementById(id);
     const nodes = {
       updatedAt: $('updatedAt'), countStart: $('countStart'), countOngoing: $('countOngoing'), countWait: $('countWait'),
       pillStart: $('pillStart'), pillOngoing: $('pillOngoing'), pillWait: $('pillWait'),
-      listStart: $('listStart'), listOngoing: $('listOngoing'), listWait: $('listWait'), search: $('searchInput'), toTop: $('toTop')
+      listStart: $('listStart'), listOngoing: $('listOngoing'), listWait: $('listWait'), toTop: $('toTop')
     };
 
     function escapeHtml(v) { return String(v ?? '').replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c])); }
@@ -276,8 +261,6 @@
       const d = Math.ceil((target - today) / 86400000);
       if (d < 0) return '마감'; if (d === 0) return 'D-Day'; return `D-${d}`;
     }
-    function searchable(item) { return [item.title, item.category, item.organizer, item.summary, item.status].filter(Boolean).join(' ').toLowerCase(); }
-    function filtered(items) { const q = state.query.trim().toLowerCase(); return q ? items.filter(item => searchable(item).includes(q)) : items; }
     function formatUpdated(v) {
       if (!v) return '업데이트 대기';
       const d = new Date(v); if (Number.isNaN(d.getTime())) return v;
@@ -301,13 +284,12 @@
     function renderList(node, items, tone, label) { node.innerHTML = items.length ? items.map(i => card(i, tone)).join('') : empty(label); }
     function render() {
       const data = state.data || { sections: {} }; const s = data.sections || {};
-      const starting = filtered(s.starting_today || []); const ongoing = filtered(s.ongoing || []); const waiting = filtered(s.awaiting_results || []);
+      const starting = s.starting_today || []; const ongoing = s.ongoing || []; const waiting = s.awaiting_results || [];
       nodes.updatedAt.textContent = formatUpdated(data.generated_at);
       nodes.countStart.textContent = (s.starting_today || []).length; nodes.countOngoing.textContent = (s.ongoing || []).length; nodes.countWait.textContent = (s.awaiting_results || []).length;
       nodes.pillStart.textContent = `${starting.length}건`; nodes.pillOngoing.textContent = `${ongoing.length}건`; nodes.pillWait.textContent = `${waiting.length}건`;
       renderList(nodes.listStart, starting, 'start', '오늘 시작한 공모전'); renderList(nodes.listOngoing, ongoing, 'ongoing', '현재 진행중인 공모전'); renderList(nodes.listWait, waiting, 'wait', '발표 대기 공모전');
     }
-    nodes.search.addEventListener('input', e => { state.query = e.target.value; render(); });
     function updateToTop() { nodes.toTop.classList.toggle('visible', window.scrollY > 420); }
     nodes.toTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
     window.addEventListener('scroll', updateToTop, { passive: true });
