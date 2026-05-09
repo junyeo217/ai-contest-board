@@ -70,11 +70,14 @@
     }
     .logo::after { content: ""; position: absolute; inset: 10px; border: 2px solid rgba(255,255,255,.82); border-radius: 8px; }
     .nav-links { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
-    .nav-links a {
-      text-decoration: none; color: var(--muted); font-weight: 800; font-size: 14px;
-      padding: 9px 12px; border-radius: 999px; transition: .16s ease;
+    .nav-links a, .nav-links span {
+      display: inline-flex; align-items: center; justify-content: center; min-height: 38px;
+      text-decoration: none; font-weight: 900; font-size: 14px;
+      padding: 9px 15px; border-radius: 999px; transition: .16s ease; border: 1px solid transparent;
     }
-    .nav-links a:hover, .nav-links a:focus-visible { color: var(--ink); background: white; outline: none; box-shadow: 0 8px 22px rgba(15,23,42,.07); }
+    .nav-links a { color: var(--ink); background: white; border-color: rgba(203,213,225,.9); box-shadow: 0 8px 22px rgba(15,23,42,.07); }
+    .nav-links a:hover, .nav-links a:focus-visible { transform: translateY(-1px); outline: none; box-shadow: 0 12px 28px rgba(15,23,42,.12); }
+    .nav-links span { color: var(--soft); background: rgba(255,255,255,.46); border-color: rgba(203,213,225,.62); cursor: not-allowed; }
 
     .hero { padding: 76px 0 36px; }
     .hero-grid { display: grid; grid-template-columns: minmax(0, 1.12fr) minmax(320px, .88fr); gap: 22px; align-items: stretch; }
@@ -120,6 +123,8 @@
     .stat b { display: block; font-size: 36px; line-height: .95; letter-spacing: -.07em; }
     .stat span { display: block; margin-top: 9px; color: #cbd5e1; font-size: 12px; font-weight: 800; line-height: 1.35; }
     .summary-note { margin: auto 0 0; padding-top: 28px; color: #dbe4ef; font-size: 14px; line-height: 1.65; }
+    .link-guide { margin: 12px 0 0; color: #94a3b8; font-size: 12px; line-height: 1.55; }
+    .link-guide b { color: #e2e8f0; }
 
     .section { padding: 24px 0; }
 
@@ -148,7 +153,10 @@
     .official { margin-top: auto; padding-top: 18px; display: inline-flex; width: fit-content; gap: 8px; align-items: center; font-size: 14px; font-weight: 950; color: var(--ink); text-decoration: none; }
     .official::after { content: "↗"; color: var(--accent); }
     .official:hover { text-decoration: underline; text-underline-offset: 4px; }
-    .official-missing { margin-top: auto; padding-top: 18px; display: inline-flex; width: fit-content; font-size: 14px; font-weight: 900; color: var(--soft); }
+    .reference { margin-top: auto; padding-top: 18px; display: inline-flex; width: fit-content; gap: 8px; align-items: center; font-size: 14px; font-weight: 950; color: var(--muted); text-decoration: none; }
+    .reference::after { content: "↗"; color: var(--soft); }
+    .reference:hover { color: var(--ink); text-decoration: underline; text-underline-offset: 4px; }
+    .link-missing { margin-top: auto; padding-top: 18px; display: inline-flex; width: fit-content; font-size: 14px; font-weight: 900; color: var(--soft); }
     .empty { grid-column: 1 / -1; border: 1px dashed var(--line-strong); background: rgba(255,255,255,.56); border-radius: var(--radius); padding: 34px; text-align: center; color: var(--muted); line-height: 1.75; }
     .empty b { color: var(--ink); }
 
@@ -185,10 +193,9 @@
   <header class="nav-shell">
     <div class="nav wrap">
       <a class="brand" href="#top" aria-label="AI 공모전 보드 홈"><span class="logo" aria-hidden="true"></span><span>AI Contest Board</span></a>
-      <nav class="nav-links" aria-label="상태별 섹션">
-        <a href="#starting-today">오늘 시작</a>
-        <a href="#ongoing">진행중</a>
-        <a href="#awaiting-results">발표 대기</a>
+      <nav class="nav-links" aria-label="공고 지역 탭">
+        <a href="#starting-today" aria-current="page">국내 공고</a>
+        <span aria-disabled="true">해외 공고 <small>(예정)</small></span>
       </nav>
     </div>
   </header>
@@ -208,14 +215,15 @@
         </div>
         <aside class="summary-card" aria-label="업데이트 요약">
           <div class="summary-inner">
-            <div class="label">Last updated</div>
+            <div class="label">Last update</div>
             <div class="updated" id="updatedAt">불러오는 중</div>
             <div class="stats">
               <div class="stat"><b id="countStart">0</b><span>오늘부터 시작</span></div>
               <div class="stat"><b id="countOngoing">0</b><span>현재 진행중</span></div>
               <div class="stat"><b id="countWait">0</b><span>종료 후 발표 대기</span></div>
             </div>
-            <p class="summary-note">공개 공고와 접수 링크를 기준으로 정리합니다. 세부 접수 조건은 반드시 공식 페이지에서 최종 확인하세요.</p>
+            <p class="summary-note">공개 공고와 접수 링크를 우선으로 정리합니다. 세부 접수 조건은 반드시 원문에서 최종 확인하세요.</p>
+            <p class="link-guide"><b>공식 링크</b>는 주최·접수 원문, <b>참고 링크</b>는 공식은 아니지만 확인 가능한 출처입니다. 링크 근거가 없으면 <b>미확인</b>으로 표시합니다.</p>
           </div>
         </aside>
       </div>
@@ -264,20 +272,29 @@
     function formatUpdated(v) {
       if (!v) return '업데이트 대기';
       const d = new Date(v); if (Number.isNaN(d.getTime())) return v;
-      return d.toLocaleString('ko-KR', { dateStyle: 'medium', timeStyle: 'short' });
+      return d.toLocaleDateString('ko-KR', { dateStyle: 'medium' });
     }
     function tagTone(tone) { return tone === 'start' ? 'start' : tone === 'wait' ? 'wait' : 'ongoing'; }
     function hasValidUrl(value) { return typeof value === 'string' && /^https?:\/\/\S+$/i.test(value.trim()); }
+    function isOfficialSource(item) {
+      const source = String(item.source_type || item.link_type || '').toLowerCase();
+      return source.startsWith('official_') || source === 'official';
+    }
+    function linkControl(item, url) {
+      if (!url) return '<span class="link-missing">미확인</span>';
+      if (isOfficialSource(item)) return `<a class="official" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">공식 링크</a>`;
+      return `<a class="reference" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">참고 링크</a>`;
+    }
     function card(item, tone) {
       const due = tone === 'ongoing' ? dday(item.submission_end) : '';
       const result = tone === 'wait' && item.result_date ? `<li><b>발표</b> ${escapeHtml(item.result_date)}</li>` : '';
-      const officialUrl = hasValidUrl(item.url) ? item.url.trim() : '';
+      const linkUrl = hasValidUrl(item.url) ? item.url.trim() : '';
       return `<article class="contest-card">
         <div class="card-top"><span class="tag ${tagTone(tone)}">${escapeHtml(item.status || item.category || '공모전')}</span>${due ? `<span class="due">${escapeHtml(due)}</span>` : ''}</div>
         <h3>${escapeHtml(item.title || '제목 미정')}</h3>
         <ul class="meta"><li><b>분야</b> ${escapeHtml(item.category || 'AI 이미지, 영상')}</li><li><b>주최</b> ${escapeHtml(item.organizer || '미정')}</li><li><b>접수</b> ${escapeHtml(range(item))}</li>${result}</ul>
         ${item.summary ? `<p class="summary">${escapeHtml(item.summary)}</p>` : ''}
-        ${officialUrl ? `<a class="official" href="${escapeHtml(officialUrl)}" target="_blank" rel="noopener noreferrer">공식 링크</a>` : '<span class="official-missing">공식 링크 미확인</span>'}
+        ${linkControl(item, linkUrl)}
       </article>`;
     }
     function empty(label) { return `<div class="empty"><b>${escapeHtml(label)}</b> 항목이 아직 없습니다.<br>다음 자동 조사 후 업데이트됩니다.</div>`; }
