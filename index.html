@@ -27,6 +27,7 @@
       --radius: 24px;
       --shadow: 0 24px 80px rgba(15, 23, 42, .09);
       --max: 1180px;
+      --density-label-width: 44px;
       color-scheme: light;
     }
 
@@ -42,6 +43,9 @@
         linear-gradient(180deg, #fbfcff 0%, var(--bg) 48%, #eef2f7 100%);
       min-height: 100vh;
     }
+    body[data-density="compact"] { --density-label-width: 44px; }
+    body[data-density="comfortable"] { --density-label-width: 44px; }
+    body[data-density="large"] { --density-label-width: 44px; }
 
     a { color: inherit; }
     .wrap { width: min(var(--max), calc(100% - 40px)); margin: 0 auto; }
@@ -179,19 +183,20 @@
       position: fixed; right: max(18px, calc((100vw - var(--max)) / 2 - 72px)); bottom: 22px; z-index: 50;
       display: flex; flex-direction: column; align-items: flex-end; gap: 10px;
     }
-    .view-toggle, .to-top {
+    .density-toggle, .view-toggle, .to-top {
       border: 1px solid rgba(15,23,42,.12); border-radius: 999px;
       background: rgba(15,23,42,.92); color: #fff; box-shadow: 0 18px 42px rgba(15,23,42,.22);
       backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); font-weight: 950; cursor: pointer;
       transition: opacity .18s ease, transform .18s ease, background .18s ease;
     }
-    .view-toggle { min-height: 44px; padding: 0 16px; font-size: 13px; }
+    .density-toggle, .view-toggle { min-height: 44px; padding: 0 16px; font-size: 13px; }
+    .density-toggle { min-width: var(--density-label-width); }
     .to-top {
       width: 52px; height: 52px; display: grid; place-items: center; text-decoration: none;
       font-size: 22px; opacity: 0; pointer-events: none; transform: translateY(10px);
     }
     .to-top.visible { opacity: 1; pointer-events: auto; transform: translateY(0); }
-    .view-toggle:hover, .view-toggle:focus-visible, .to-top:hover, .to-top:focus-visible { background: var(--accent); outline: none; transform: translateY(-2px); }
+    .density-toggle:hover, .density-toggle:focus-visible, .view-toggle:hover, .view-toggle:focus-visible, .to-top:hover, .to-top:focus-visible { background: var(--accent); outline: none; transform: translateY(-2px); }
     .to-top span { transform: translateY(-1px); }
     body[data-view-mode="list"] .grid { grid-template-columns: 1fr; gap: 10px; }
     body[data-view-mode="list"] .contest-card { min-height: 0; padding: 16px 18px; }
@@ -205,15 +210,71 @@
 
     @media (max-width: 950px) { .hero-grid { grid-template-columns: 1fr; } .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
     @media (max-width: 680px) {
-      .wrap { width: min(100% - 28px, var(--max)); }
-      .nav { align-items: flex-start; flex-direction: column; padding: 14px 0; }
-      .nav-links { justify-content: flex-start; }
-      .hero { padding-top: 34px; }
-      .hero-card, .summary-card { border-radius: 26px; }
-      .stats, .grid { grid-template-columns: 1fr; }
-      .section-head { align-items: flex-start; flex-direction: column; }
-      .desc, .category-filters { margin-left: 0; }
-      .floating-tools { right: 14px; bottom: 14px; }
+      .wrap { width: min(100% - 24px, var(--max)); }
+      .nav { align-items: flex-start; flex-direction: column; gap: 10px; min-height: 0; padding: 10px 0; }
+      .brand { gap: 9px; font-size: 14px; }
+      .logo { width: 30px; height: 30px; border-radius: 10px; }
+      .logo::after { inset: 8px; border-radius: 6px; }
+      .nav-links { justify-content: flex-start; gap: 6px; }
+      .nav-links a, .nav-links span { min-height: 32px; padding: 7px 11px; font-size: 12px; }
+      .hero { padding: 18px 0 14px; }
+      .hero-grid { gap: 12px; }
+      .hero-card { border-radius: 18px; padding: 18px 16px; }
+      .hero-card::before { width: 220px; height: 220px; right: -95px; top: -110px; }
+      .kicker { gap: 7px; margin-bottom: 10px; font-size: 10px; letter-spacing: .08em; }
+      .kicker::before { width: 22px; }
+      h1 { font-size: clamp(30px, 9.2vw, 38px); line-height: 1.02; letter-spacing: -.052em; }
+      .hero-copy { margin-top: 12px; font-size: 13px; line-height: 1.55; }
+      .hero-notice { margin-top: 10px; font-size: 11.5px; line-height: 1.48; letter-spacing: .01em; }
+      .hero-actions { gap: 7px; margin-top: 14px; }
+      .btn { min-height: 34px; padding: 0 11px; font-size: 12px; }
+      .summary-card { border-radius: 18px; padding: 14px; }
+      .label { font-size: 10px; letter-spacing: .09em; }
+      .updated { margin-top: 4px; font-size: 14px; }
+      .stats { grid-template-columns: repeat(3, 1fr); gap: 6px; margin-top: 10px; }
+      .stat { border-radius: 12px; padding: 8px 6px; text-align: center; }
+      .stat b { font-size: 22px; }
+      .stat span { margin-top: 4px; font-size: 10px; line-height: 1.2; }
+      .summary-note { padding-top: 10px; font-size: 11.5px; line-height: 1.45; }
+      .link-guide { display: none; }
+      .section { padding: 14px 0; }
+      .section-head { align-items: flex-start; flex-direction: column; gap: 8px; margin-bottom: 10px; }
+      .section-title { gap: 9px; }
+      .dot { width: 10px; height: 10px; box-shadow: 0 0 0 5px rgba(37,99,235,.08); }
+      h2 { font-size: clamp(21px, 6.3vw, 27px); }
+      .desc { margin-left: 0; font-size: 12px; line-height: 1.45; }
+      .pill { padding: 6px 10px; font-size: 11px; }
+      .category-filters { margin: -2px 0 10px 0; gap: 6px; }
+      .filter-btn { min-height: 30px; padding: 0 11px; font-size: 12px; }
+      .grid { grid-template-columns: 1fr; gap: 10px; }
+      .floating-tools { right: 12px; bottom: 12px; gap: 7px; }
+      .density-toggle, .view-toggle { min-height: 36px; padding: 0 12px; font-size: 12px; }
+      .to-top { width: 44px; height: 44px; font-size: 19px; }
+      body[data-density="comfortable"] .hero { padding-top: 28px; }
+      body[data-density="comfortable"] .hero-card { border-radius: 22px; padding: 23px 20px; }
+      body[data-density="comfortable"] h1 { font-size: clamp(34px, 10vw, 44px); }
+      body[data-density="comfortable"] .hero-copy { font-size: 14px; line-height: 1.6; }
+      body[data-density="comfortable"] .summary-card { border-radius: 22px; padding: 18px; }
+      body[data-density="comfortable"] .stat { padding: 10px 8px; }
+      body[data-density="comfortable"] .stat b { font-size: 26px; }
+      body[data-density="comfortable"] .section { padding: 18px 0; }
+      body[data-density="large"] .wrap { width: min(100% - 28px, var(--max)); }
+      body[data-density="large"] .hero { padding-top: 34px; }
+      body[data-density="large"] .hero-card { border-radius: 26px; padding: 28px 24px; }
+      body[data-density="large"] h1 { font-size: clamp(38px, 11vw, 52px); }
+      body[data-density="large"] .hero-copy { font-size: 15px; line-height: 1.68; }
+      body[data-density="large"] .hero-notice { font-size: 12.5px; line-height: 1.65; }
+      body[data-density="large"] .hero-actions { margin-top: 22px; }
+      body[data-density="large"] .btn { min-height: 40px; padding: 0 14px; font-size: 13px; }
+      body[data-density="large"] .summary-card { border-radius: 26px; padding: 22px; }
+      body[data-density="large"] .updated { font-size: 18px; }
+      body[data-density="large"] .stats { gap: 8px; margin-top: 16px; }
+      body[data-density="large"] .stat { padding: 12px 10px; }
+      body[data-density="large"] .stat b { font-size: 30px; }
+      body[data-density="large"] .stat span { font-size: 11px; }
+      body[data-density="large"] .summary-note { font-size: 13px; padding-top: 18px; }
+      body[data-density="large"] .link-guide { display: block; font-size: 11px; }
+      body[data-density="large"] .section { padding: 22px 0; }
       body[data-view-mode="list"] .grid { gap: 8px; }
       body[data-view-mode="list"] .contest-card { border-radius: 16px; padding: 12px 14px; box-shadow: 0 8px 24px rgba(15,23,42,.055); }
       body[data-view-mode="list"] .card-top { margin-bottom: 8px; }
@@ -225,7 +286,7 @@
     }
   </style>
 </head>
-<body data-view-mode="card">
+<body data-view-mode="card" data-density="comfortable">
   <a class="skip-link" href="#content">본문으로 이동</a>
   <header class="nav-shell">
     <div class="nav wrap">
@@ -298,6 +359,7 @@
   </footer>
 
   <div class="floating-tools" aria-label="보기 전환 및 이동 도구">
+    <button class="density-toggle" id="densityToggle" type="button" aria-label="보기 크기 변경">보통</button>
     <button class="view-toggle" id="viewToggle" type="button" aria-label="리스트형으로 보기">리스트형</button>
     <button class="to-top" id="toTop" type="button" aria-label="맨 위로 이동"><span aria-hidden="true">↑</span></button>
   </div>
@@ -308,7 +370,7 @@
     const nodes = {
       updatedAt: $('updatedAt'), countStart: $('countStart'), countOngoing: $('countOngoing'), countWait: $('countWait'),
       pillStart: $('pillStart'), pillOngoing: $('pillOngoing'), pillWait: $('pillWait'),
-      listStart: $('listStart'), listOngoing: $('listOngoing'), listWait: $('listWait'), toTop: $('toTop'), viewToggle: $('viewToggle'),
+      listStart: $('listStart'), listOngoing: $('listOngoing'), listWait: $('listWait'), toTop: $('toTop'), viewToggle: $('viewToggle'), densityToggle: $('densityToggle'),
       filterButtons: Array.from(document.querySelectorAll('.filter-btn'))
     };
 
@@ -343,7 +405,27 @@
         button.setAttribute('aria-pressed', String(state.filters[section] === value));
       });
     }
+    const densityModes = ['compact', 'comfortable', 'large'];
+    const densityLabels = { compact: '작게', comfortable: '보통', large: '크게' };
+    function isMobile() { return window.matchMedia('(max-width: 680px)').matches; }
     function defaultViewMode() { return window.matchMedia('(max-width: 680px)').matches ? 'list' : 'card'; }
+    function defaultDensity() { return isMobile() ? 'compact' : 'comfortable'; }
+    function savedDensity() {
+      const value = localStorage.getItem('contest-board-density');
+      return densityModes.includes(value) ? value : defaultDensity();
+    }
+    function setDensity(mode, persist = true) {
+      const safeMode = densityModes.includes(mode) ? mode : defaultDensity();
+      document.body.dataset.density = safeMode;
+      nodes.densityToggle.textContent = densityLabels[safeMode];
+      nodes.densityToggle.setAttribute('aria-label', `보기 크기: ${densityLabels[safeMode]} — 누르면 다음 크기로 변경`);
+      if (persist) localStorage.setItem('contest-board-density', safeMode);
+    }
+    function cycleDensity() {
+      const current = document.body.dataset.density || defaultDensity();
+      const next = densityModes[(densityModes.indexOf(current) + 1) % densityModes.length];
+      setDensity(next);
+    }
     function setViewMode(mode) {
       document.body.dataset.viewMode = mode;
       const nextMode = mode === 'card' ? 'list' : 'card';
@@ -394,6 +476,8 @@
       render();
     }));
     nodes.viewToggle.addEventListener('click', () => setViewMode(nodes.viewToggle.dataset.nextViewMode || 'list'));
+    nodes.densityToggle.addEventListener('click', cycleDensity);
+    setDensity(savedDensity(), false);
     setViewMode(defaultViewMode());
     nodes.toTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
     window.addEventListener('scroll', updateToTop, { passive: true });
