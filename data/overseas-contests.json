@@ -1,9 +1,107 @@
 {
-  "generated_at": "2026-05-10T16:25:41+09:00",
+  "generated_at": "2026-05-10T17:04:55+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
+  "scope": {
+    "countries": [
+      "United States",
+      "Japan",
+      "United Kingdom",
+      "Singapore",
+      "Canada",
+      "Australia"
+    ],
+    "global_online": true
+  },
   "sections": {
     "starting_today": [],
-    "ongoing": [],
-    "awaiting_results": []
+    "ongoing": [
+      {
+        "title": "Future Vision XPRIZE",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "XPRIZE, Range Media Partners, Google / 100 ZEROS",
+        "submission_start": "2026-05-06",
+        "submission_end": "2026-08-15",
+        "result_date": "미정",
+        "url": "https://futurevisionxprize.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+        "evidence": "Google 공식 블로그가 Future Vision XPRIZE를 '$3.5 million global film competition'으로 설명하고, AI 도구를 포함해 기술 낙관적 미래를 그리는 short films/trailers를 모집하며 'Submissions are open now through August 15, 2026'라고 공지함.",
+        "summary": "AI 도구 활용 가능 short film/trailer 글로벌 공모전. 대상 수상작은 장편화 지원을 받을 수 있음.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-10T17:04:55+09:00"
+      },
+      {
+        "title": "The AI Design Awards 2026",
+        "category": "AI 디자인",
+        "country": "International",
+        "organizer": "AI Design Awards",
+        "submission_start": "2026-04-30",
+        "submission_end": "2026-09-14",
+        "result_date": "미정",
+        "url": "https://designaward.ai/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://designaward.ai/",
+        "evidence": "공식 홈페이지가 'designers globally'를 초대한다고 밝히며 Image Categories와 Motion Categories를 운영한다. 일정은 First Dibs 2026-04-30, Main Deadline 2026-08-30, Last Call 2026-09-14 23:59 PT로 공지됨.",
+        "summary": "AI 이미지·모션 디자인 글로벌 공모전. 이미지/영상형 AI 디자인 작품을 접수함.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-10T17:04:55+09:00"
+      }
+    ],
+    "awaiting_results": [
+      {
+        "title": "Canvas of the Future 2026",
+        "category": "AI 이미지",
+        "country": "International",
+        "organizer": "AI for Good / ITU",
+        "submission_start": "2026-01-12",
+        "submission_end": "2026-03-29",
+        "result_date": "2026-07-07",
+        "url": "https://aiforgood.itu.int/canvas-of-the-future/",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://aiforgood.itu.int/canvas-of-the-future/",
+        "evidence": "공식 페이지가 AI-powered 또는 AI-enhanced digital image 1점을 모집하며 국제적·보편적 주제를 요구한다고 명시. 타임라인은 2026-01-12 launch, 2026-03-29 submission deadline, 2026-07-07~10 winner announcement.",
+        "summary": "교육·일의 미래를 주제로 한 AI 기반 디지털 이미지 공모전. 제출 종료 후 심사/발표 대기 단계.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-05-10T17:04:55+09:00"
+      },
+      {
+        "title": "Runway AI Festival 2026",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "Runway",
+        "submission_start": "2026-01-01",
+        "submission_end": "2026-04-27",
+        "result_date": "미정",
+        "url": "https://aif.runwayml.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://aif.runwayml.com/",
+        "evidence": "공식 페이지가 AI Festival 2026을 Film, Design, New Media, Fashion, Advertising, Gaming 분야의 생성형 창작 축제로 설명하고, 작품은 generative video를 포함한 3~15분 영화여야 하며 Submission Deadline은 2026-04-27 4:59 PM ET라고 공지함. 최종작은 virtual 및 NYC/LA gala screenings에서 소개될 예정.",
+        "summary": "생성형 비디오를 포함한 단편 영화 공모. 접수 마감 후 파이널리스트/수상 발표 대기 단계.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-05-10T17:04:55+09:00"
+      },
+      {
+        "title": "Architecture in Perspective 40 Competition",
+        "category": "AI 디자인",
+        "country": "United States",
+        "organizer": "American Society of Architectural Illustrators (ASAI)",
+        "submission_start": "2026-01-01",
+        "submission_end": "2026-05-05",
+        "result_date": "미정",
+        "url": "https://asai.org/competition/",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://asai.org/competition/",
+        "evidence": "공식 페이지가 건축 일러스트레이션 국제 공모로, 올해 주제에서 AI-assisted 출품을 허용하고 모든 출품은 AI 사용 여부를 선언해야 한다고 명시. Professional/Student competition deadline은 2026-05-05 11:59pm EST이며 selected artists will be announced on the website라고 공지함.",
+        "summary": "AI-assisted 건축/디자인 이미지 출품을 허용하는 ASAI 국제 건축 일러스트 공모. 접수 종료 후 발표 대기 단계.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-05-10T17:04:55+09:00"
+      }
+    ]
   }
 }
