@@ -63,3 +63,18 @@ def test_domestic_heading_matches_overseas_two_line_pattern():
     overseas = read(ROOT / "overseas" / "index.html")
     assert '<h1><span>국내</span><span>공모전 보드</span></h1>' in domestic
     assert '<h1><span>해외</span><span>공모전 보드</span></h1>' in overseas
+
+
+def test_mobile_list_view_has_mobile_only_compact_rules_without_changing_pc_list_rules():
+    for path in PAGES:
+        html = read(path)
+        mobile_block = html.split('@media (max-width: 680px)', 1)[1]
+        assert 'body[data-view-mode="list"] .contest-card { border-radius: 16px; padding: 12px 14px;' in mobile_block
+        assert 'body[data-view-mode="list"] .card-top { margin-bottom: 8px; }' in mobile_block
+        assert 'body[data-view-mode="list"] .contest-card h3 { font-size: 16px;' in mobile_block
+        assert 'body[data-view-mode="list"] .summary { display: none; }' in mobile_block
+        assert 'body[data-view-mode="list"] .official, body[data-view-mode="list"] .reference, body[data-view-mode="list"] .link-missing { margin-top: 6px; padding-top: 0;' in mobile_block
+
+        desktop_before_mobile = html.split('@media (max-width: 680px)', 1)[0]
+        assert 'body[data-view-mode="list"] .contest-card { min-height: 0; padding: 16px 18px; }' in desktop_before_mobile
+        assert 'body[data-view-mode="list"] .summary { display: none; }' not in desktop_before_mobile

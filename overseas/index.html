@@ -216,7 +216,14 @@
       .section-head { align-items: flex-start; flex-direction: column; }
       .desc, .category-filters { margin-left: 0; }
       .floating-tools { right: 14px; bottom: 14px; }
-      body[data-view-mode="list"] .meta { grid-template-columns: 1fr; }
+      body[data-view-mode="list"] .grid { gap: 8px; }
+      body[data-view-mode="list"] .contest-card { border-radius: 16px; padding: 12px 14px; box-shadow: 0 8px 24px rgba(15,23,42,.055); }
+      body[data-view-mode="list"] .card-top { margin-bottom: 8px; }
+      body[data-view-mode="list"] .tag { min-height: 24px; padding: 0 8px; font-size: 11px; }
+      body[data-view-mode="list"] .contest-card h3 { font-size: 16px; line-height: 1.28; }
+      body[data-view-mode="list"] .meta { grid-template-columns: 1fr; gap: 4px; margin-top: 8px; font-size: 12px; line-height: 1.35; }
+      body[data-view-mode="list"] .summary { display: none; }
+      body[data-view-mode="list"] .official, body[data-view-mode="list"] .reference, body[data-view-mode="list"] .link-missing { margin-top: 6px; padding-top: 0; font-size: 12px; }
     }
   </style>
 </head>
