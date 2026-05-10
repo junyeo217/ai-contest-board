@@ -143,6 +143,14 @@
     h2 { margin: 0; font-size: clamp(26px, 3.1vw, 39px); letter-spacing: -.06em; }
     .desc { margin: 7px 0 0 25px; color: var(--muted); line-height: 1.58; font-size: 15px; }
     .pill { flex: none; border: 1px solid var(--line); background: rgba(255,255,255,.76); color: var(--muted); border-radius: 999px; padding: 9px 13px; font-weight: 900; font-size: 13px; }
+    .category-filters { display: flex; flex-wrap: wrap; gap: 8px; margin: -4px 0 16px 25px; }
+    .filter-btn {
+      min-height: 34px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--line-strong);
+      background: rgba(255,255,255,.76); color: var(--muted); font: inherit; font-size: 13px; font-weight: 900;
+      cursor: pointer; transition: .16s ease;
+    }
+    .filter-btn[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: white; box-shadow: 0 10px 24px rgba(15,23,42,.14); }
+    .filter-btn:hover, .filter-btn:focus-visible { transform: translateY(-1px); outline: none; box-shadow: 0 10px 24px rgba(15,23,42,.11); }
     .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
     .contest-card {
       display: flex; flex-direction: column; min-height: 272px; padding: 20px; border: 1px solid var(--line); border-radius: var(--radius);
@@ -193,7 +201,7 @@
       .hero-card, .summary-card { border-radius: 26px; }
       .stats, .grid { grid-template-columns: 1fr; }
       .section-head { align-items: flex-start; flex-direction: column; }
-      .desc { margin-left: 0; }
+      .desc, .category-filters { margin-left: 0; }
     }
   </style>
 </head>
@@ -246,11 +254,21 @@
 
     <section class="section wrap" id="overseas-ongoing">
       <div class="section-head"><div><div class="section-title"><span class="dot" style="background: var(--ongoing)"></span><h2>현재 진행중인 공모전</h2></div><p class="desc">해외 공고 중 오늘 기준 접수 가능한 공모전입니다. 국가·주최·접수 조건은 원문에서 최종 확인하세요.</p></div><div class="pill" id="pillOngoing">0건</div></div>
+      <div class="category-filters" data-filter-section="ongoing" aria-label="진행중 공모전 분야 필터">
+        <button class="filter-btn" type="button" data-filter-section="ongoing" data-filter-value="all" aria-pressed="true">전체</button>
+        <button class="filter-btn" type="button" data-filter-section="ongoing" data-filter-value="image" aria-pressed="false">이미지</button>
+        <button class="filter-btn" type="button" data-filter-section="ongoing" data-filter-value="video" aria-pressed="false">영상</button>
+      </div>
       <div class="grid" id="listOngoing"></div>
     </section>
 
     <section class="section wrap" id="overseas-awaiting-results">
       <div class="section-head"><div><div class="section-title"><span class="dot" style="background: var(--wait)"></span><h2>종료 후 발표 대기 공모전</h2></div><p class="desc">해외 공고 중 접수는 끝났지만 결과 발표가 아직 확인되지 않은 공모전입니다.</p></div><div class="pill" id="pillWait">0건</div></div>
+      <div class="category-filters" data-filter-section="wait" aria-label="발표 대기 공모전 분야 필터">
+        <button class="filter-btn" type="button" data-filter-section="wait" data-filter-value="all" aria-pressed="true">전체</button>
+        <button class="filter-btn" type="button" data-filter-section="wait" data-filter-value="image" aria-pressed="false">이미지</button>
+        <button class="filter-btn" type="button" data-filter-section="wait" data-filter-value="video" aria-pressed="false">영상</button>
+      </div>
       <div class="grid" id="listWait"></div>
     </section>
   </main>
@@ -262,12 +280,13 @@
   <button class="to-top" id="toTop" type="button" aria-label="맨 위로 이동"><span aria-hidden="true">↑</span></button>
 
   <script>
-    const state = { data: null };
+    const state = { data: null, filters: { ongoing: 'all', wait: 'all' } };
     const $ = id => document.getElementById(id);
     const nodes = {
       updatedAt: $('updatedAt'), countStart: $('countStart'), countOngoing: $('countOngoing'), countWait: $('countWait'),
       pillStart: $('pillStart'), pillOngoing: $('pillOngoing'), pillWait: $('pillWait'),
-      listStart: $('listStart'), listOngoing: $('listOngoing'), listWait: $('listWait'), toTop: $('toTop')
+      listStart: $('listStart'), listOngoing: $('listOngoing'), listWait: $('listWait'), toTop: $('toTop'),
+      filterButtons: Array.from(document.querySelectorAll('.filter-btn'))
     };
 
     function escapeHtml(v) { return String(v ?? '').replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c])); }
@@ -285,6 +304,22 @@
       return d.toLocaleDateString('ko-KR', { dateStyle: 'medium' });
     }
     function tagTone(tone) { return tone === 'start' ? 'start' : tone === 'wait' ? 'wait' : 'ongoing'; }
+    function categoryBuckets(item) {
+      // 출력되는 분야 텍스트 기준: 디자인 → 이미지, 생성형 AI → 영상.
+      const text = String(item.category || 'AI 이미지, 영상').toLowerCase();
+      const buckets = new Set();
+      if (/이미지|사진|포스터|일러스트|그래픽|디자인|브랜딩|로고|캐릭터|패키지|시각/.test(text)) buckets.add('image');
+      if (/영상|비디오|영화|필름|애니메이션|숏폼|릴스|생성형\s*ai|video|film|animation|short/.test(text)) buckets.add('video');
+      return Array.from(buckets);
+    }
+    function filterByCategory(items, value) { return value === 'all' ? items : items.filter(item => categoryBuckets(item).includes(value)); }
+    function pillText(filtered, total, active) { return active === 'all' ? `${total}건` : `${filtered} / ${total}건`; }
+    function updateFilterButtons() {
+      nodes.filterButtons.forEach(button => {
+        const section = button.dataset.filterSection; const value = button.dataset.filterValue;
+        button.setAttribute('aria-pressed', String(state.filters[section] === value));
+      });
+    }
     function hasValidUrl(value) { return typeof value === 'string' && /^https?:\/\/\S+$/i.test(value.trim()); }
     function isOfficialSource(item) {
       const source = String(item.source_type || item.link_type || '').toLowerCase();
@@ -312,12 +347,21 @@
     function render() {
       const data = state.data || { sections: {} }; const s = data.sections || {};
       const starting = s.starting_today || []; const ongoing = s.ongoing || []; const waiting = s.awaiting_results || [];
+      const visibleOngoing = filterByCategory(ongoing, state.filters.ongoing);
+      const visibleWaiting = filterByCategory(waiting, state.filters.wait);
       nodes.updatedAt.textContent = formatUpdated(data.generated_at);
       nodes.countStart.textContent = (s.starting_today || []).length; nodes.countOngoing.textContent = (s.ongoing || []).length; nodes.countWait.textContent = (s.awaiting_results || []).length;
-      nodes.pillStart.textContent = `${starting.length}건`; nodes.pillOngoing.textContent = `${ongoing.length}건`; nodes.pillWait.textContent = `${waiting.length}건`;
-      renderList(nodes.listStart, starting, 'start', '오늘 시작한 공모전'); renderList(nodes.listOngoing, ongoing, 'ongoing', '현재 진행중인 공모전'); renderList(nodes.listWait, waiting, 'wait', '발표 대기 공모전');
+      nodes.pillStart.textContent = `${starting.length}건`; nodes.pillOngoing.textContent = pillText(visibleOngoing.length, ongoing.length, state.filters.ongoing); nodes.pillWait.textContent = pillText(visibleWaiting.length, waiting.length, state.filters.wait);
+      updateFilterButtons();
+      renderList(nodes.listStart, starting, 'start', '오늘 시작한 공모전'); renderList(nodes.listOngoing, visibleOngoing, 'ongoing', '현재 진행중인 공모전'); renderList(nodes.listWait, visibleWaiting, 'wait', '발표 대기 공모전');
     }
     function updateToTop() { nodes.toTop.classList.toggle('visible', window.scrollY > 420); }
+    nodes.filterButtons.forEach(button => button.addEventListener('click', () => {
+      const section = button.dataset.filterSection; const value = button.dataset.filterValue;
+      if (!section || !value) return;
+      state.filters[section] = value;
+      render();
+    }));
     nodes.toTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
     window.addEventListener('scroll', updateToTop, { passive: true });
     updateToTop();
