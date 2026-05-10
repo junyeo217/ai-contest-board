@@ -82,7 +82,8 @@ def test_hero_copy_removed_but_correction_notice_remains():
     for path in PAGES:
         html = read(path)
         assert 'class="hero-copy"' not in html
-        assert '누락 혹은 수정이 필요한 공고가 있으면 채팅방에서 @주녀를 부르시거나, <a href="https://open.kakao.com/o/sGUNzdui"' in html
+        assert '<span class="notice-full">누락 혹은 수정이 필요한 공고가 있으면 채팅방에서 @주녀를 부르시거나, </span>' in html
+        assert '<a href="https://open.kakao.com/o/sGUNzdui"' in html
 
 
 def test_summary_header_is_inline_and_stats_link_to_sections():
@@ -131,7 +132,8 @@ def test_mobile_list_view_has_mobile_only_compact_rules_without_changing_pc_list
         assert 'body[data-view-mode="list"] .card-top { margin-bottom: 8px; }' in mobile_block
         assert 'body[data-view-mode="list"] .contest-card h3 { font-size: 16px;' in mobile_block
         assert 'body[data-view-mode="list"] .summary { display: none; }' in mobile_block
-        assert 'body[data-view-mode="list"] .official, body[data-view-mode="list"] .reference, body[data-view-mode="list"] .link-missing { margin-top: 6px; padding-top: 0;' in mobile_block
+        assert 'body[data-view-mode="list"] .official, body[data-view-mode="list"] .reference { min-height: 32px;' in mobile_block
+        assert 'body[data-view-mode="list"] .link-missing { margin-top: 6px; padding-top: 0;' in mobile_block
 
         desktop_before_mobile = html.split('@media (max-width: 680px)', 1)[0]
         assert 'body[data-view-mode="list"] .contest-card { min-height: 0; padding: 16px 18px; }' in desktop_before_mobile
@@ -153,7 +155,8 @@ def test_hero_notice_has_no_leading_rule_and_keeps_link_inline():
         assert '.hero-notice::before' not in html
         assert '.hero-notice br + a' not in html
         assert '<br><a href="https://open.kakao.com/o/sGUNzdui"' not in html
-        assert '누락 혹은 수정이 필요한 공고가 있으면 채팅방에서 @주녀를 부르시거나, <a href="https://open.kakao.com/o/sGUNzdui"' in html
+        assert '<span class="notice-full">누락 혹은 수정이 필요한 공고가 있으면 채팅방에서 @주녀를 부르시거나, </span>' in html
+        assert '<span class="notice-short">누락/수정 제보는 @주녀 또는 </span>' in html
         assert '>여기</a>를 눌러주세요.' in html
 
 
@@ -190,6 +193,43 @@ def test_default_lists_are_sorted_by_earliest_submission_end():
     for path in PAGES:
         html = read(path)
         assert 'function sortBySubmissionEnd(items)' in html
-        assert 'sortBySubmissionEnd(filterByCategory(ongoing, state.filters.ongoing))' in html
-        assert 'sortBySubmissionEnd(filterByCategory(waiting, state.filters.wait))' in html
+        assert 'sortItems(filterByCategory(ongoing, state.filters.ongoing))' in html
+        assert 'sortItems(filterByCategory(waiting, state.filters.wait))' in html
         assert 'new Date(`${value}T00:00:00`).getTime()' in html
+
+
+def test_pc_sort_dropdown_sits_on_filter_row():
+    for path in PAGES:
+        html = read(path)
+        assert 'class="filter-row"' in html
+        assert '<select class="sort-select" id="sortSelect" aria-label="공모전 정렬 방식">' in html
+        assert '<option value="deadline">마감임박순</option>' in html
+        assert '<option value="latest">최신순</option>' in html
+        assert 'function sortItems(items)' in html
+        assert "state.sort === 'latest'" in html
+        assert "nodes.sortSelect.addEventListener('change'" in html
+
+
+def test_mobile_only_notice_short_text_and_link_pills_and_safe_area():
+    for path in PAGES:
+        html = read(path)
+        assert '<span class="notice-full">누락 혹은 수정이 필요한 공고가 있으면 채팅방에서 @주녀를 부르시거나, </span>' in html
+        assert '<span class="notice-short">누락/수정 제보는 @주녀 또는 </span>' in html
+        mobile_block = html.split('@media (max-width: 680px)', 1)[1]
+        assert '.notice-full { display: none; }' in mobile_block
+        assert '.notice-short { display: inline; }' in mobile_block
+        assert 'body[data-view-mode="list"] .official, body[data-view-mode="list"] .reference' in mobile_block
+        assert 'border-radius: 999px' in mobile_block
+        assert 'bottom: calc(12px + env(safe-area-inset-bottom));' in mobile_block
+
+
+def test_mobile_dday_contrast_is_strengthened_without_text_changes():
+    for path in PAGES:
+        html = read(path)
+        mobile_block = html.split('@media (max-width: 680px)', 1)[1]
+        assert 'body[data-view-mode="list"] .due-day' in mobile_block
+        assert 'body[data-view-mode="list"] .due-week' in mobile_block
+        assert 'body[data-view-mode="list"] .due-fortnight' in mobile_block
+        assert "return `D-${d}`" in html
+        assert "return '7일전'" not in html
+        assert "return '14일전'" not in html

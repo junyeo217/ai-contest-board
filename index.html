@@ -103,6 +103,7 @@
       display: block; color: var(--accent);
       font-size: 13px; font-weight: 950; letter-spacing: .1em; margin: 18px 0 0; line-height: 1.8;
     }
+    .notice-short { display: none; }
     .hero-notice a { color: inherit; text-underline-offset: 4px; }
     .hero-notice a:hover, .hero-notice a:focus-visible { color: var(--ink); outline: none; }
     h1 { margin: 0; font-size: clamp(42px, 7vw, 78px); line-height: .98; letter-spacing: -.055em; text-wrap: balance; }
@@ -157,7 +158,9 @@
     h2 { margin: 0; font-size: clamp(26px, 3.1vw, 39px); letter-spacing: -.06em; }
     .desc { margin: 7px 0 0 25px; color: var(--muted); line-height: 1.58; font-size: 15px; }
     .section-count { display: inline-flex; vertical-align: middle; margin-left: 8px; transform: translateY(-3px); color: var(--muted); background: rgba(255,255,255,.78); border: 1px solid var(--line); border-radius: 999px; padding: 5px 10px; font-size: 13px; font-weight: 950; letter-spacing: -.02em; }
-    .category-filters { display: flex; flex-wrap: wrap; gap: 8px; margin: -4px 0 16px 25px; }
+    .filter-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: -4px 0 16px 25px; }
+    .category-filters { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; }
+    .sort-select { min-height: 34px; padding: 0 34px 0 13px; border-radius: 999px; border: 1px solid var(--line-strong); background: rgba(255,255,255,.82); color: var(--ink); font: inherit; font-size: 13px; font-weight: 950; cursor: pointer; }
     .filter-btn {
       min-height: 34px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--line-strong);
       background: rgba(255,255,255,.76); color: var(--muted); font: inherit; font-size: 13px; font-weight: 900;
@@ -241,6 +244,8 @@
       .kicker::before { width: 22px; }
       h1 { font-size: clamp(30px, 9.2vw, 38px); line-height: 1.02; letter-spacing: -.052em; }
       .hero-notice { margin-top: 10px; font-size: 11.5px; line-height: 1.48; letter-spacing: .01em; }
+      .notice-full { display: none; }
+      .notice-short { display: inline; }
       .hero-actions { gap: 7px; margin-top: 14px; }
       .btn { min-height: 34px; padding: 0 11px; font-size: 12px; }
       .summary-card { border-radius: 18px; padding: 14px; }
@@ -260,10 +265,12 @@
       h2 { font-size: clamp(21px, 6.3vw, 27px); }
       .desc { margin-left: 0; font-size: 12px; line-height: 1.45; }
       .section-count { margin-left: 4px; transform: translateY(-2px); padding: 4px 8px; font-size: 11px; }
-      .category-filters { margin: -2px 0 10px 0; gap: 6px; }
+      .filter-row { align-items: stretch; flex-direction: column; gap: 8px; margin: -2px 0 10px 0; }
+      .category-filters { gap: 6px; }
+      .sort-select { width: 100%; min-height: 32px; font-size: 12px; }
       .filter-btn { min-height: 30px; padding: 0 11px; font-size: 12px; }
       .grid { grid-template-columns: 1fr; gap: 10px; }
-      .floating-tools { right: 12px; bottom: 12px; gap: 7px; }
+      .floating-tools { right: 12px; bottom: calc(12px + env(safe-area-inset-bottom)); gap: 7px; }
       .density-toggle, .view-toggle { min-height: 36px; padding: 0 12px; font-size: 12px; }
       .to-top { width: 44px; height: 44px; font-size: 19px; }
       body[data-density="comfortable"] .hero { padding-top: 28px; }
@@ -293,10 +300,16 @@
       body[data-view-mode="list"] .contest-card { border-radius: 16px; padding: 12px 14px; box-shadow: 0 8px 24px rgba(15,23,42,.055); }
       body[data-view-mode="list"] .card-top { margin-bottom: 8px; }
       body[data-view-mode="list"] .tag { min-height: 24px; padding: 0 8px; font-size: 11px; }
+      body[data-view-mode="list"] .due-day { color: #fff; background: #dc2626; border-color: #dc2626; }
+      body[data-view-mode="list"] .due-week { color: #fff; background: #ea580c; border-color: #ea580c; }
+      body[data-view-mode="list"] .due-fortnight { color: #7c2d12; background: #fed7aa; border-color: #fdba74; }
       body[data-view-mode="list"] .contest-card h3 { font-size: 16px; line-height: 1.28; }
       body[data-view-mode="list"] .meta { grid-template-columns: 1fr; gap: 4px; margin-top: 8px; font-size: 12px; line-height: 1.35; }
       body[data-view-mode="list"] .summary { display: none; }
-      body[data-view-mode="list"] .official, body[data-view-mode="list"] .reference, body[data-view-mode="list"] .link-missing { margin-top: 6px; padding-top: 0; font-size: 12px; }
+      body[data-view-mode="list"] .official, body[data-view-mode="list"] .reference { min-height: 32px; margin-top: 8px; padding: 0 12px; border-radius: 999px; border: 1px solid var(--line-strong); background: rgba(255,255,255,.9); font-size: 12px; }
+      body[data-view-mode="list"] .official { color: var(--ink); }
+      body[data-view-mode="list"] .reference { color: var(--muted); }
+      body[data-view-mode="list"] .link-missing { margin-top: 6px; padding-top: 0; font-size: 12px; }
     }
   </style>
 </head>
@@ -318,7 +331,7 @@
         <div class="hero-card">
           <div class="kicker">Korea · AI Image & Video</div>
           <h1><span>국내</span><span>공모전 보드</span></h1>
-          <p class="hero-notice">누락 혹은 수정이 필요한 공고가 있으면 채팅방에서 @주녀를 부르시거나, <a href="https://open.kakao.com/o/sGUNzdui" target="_blank" rel="noopener noreferrer">여기</a>를 눌러주세요.</p>
+          <p class="hero-notice"><span class="notice-full">누락 혹은 수정이 필요한 공고가 있으면 채팅방에서 @주녀를 부르시거나, </span><span class="notice-short">누락/수정 제보는 @주녀 또는 </span><a href="https://open.kakao.com/o/sGUNzdui" target="_blank" rel="noopener noreferrer">여기</a>를 눌러주세요.</p>
           <div class="hero-actions">
             <a class="btn primary" href="#ongoing">진행중 보기</a>
             <a class="btn" href="#awaiting-results">발표대기 보기</a>
@@ -341,20 +354,28 @@
 
     <section class="section wrap" id="ongoing">
       <div class="section-head"><div><div class="section-title"><span class="dot" style="background: var(--ongoing)"></span><h2>현재 진행중인 공모전 <span class="section-count" id="pillOngoing">0건</span></h2></div><p class="desc">오늘 기준 접수 가능한 공모전입니다. 마감일과 공식 링크를 함께 확인하세요.</p></div></div>
-      <div class="category-filters" data-filter-section="ongoing" aria-label="진행중 공모전 분야 필터">
-        <button class="filter-btn" type="button" data-filter-section="ongoing" data-filter-value="all" aria-pressed="true">전체</button>
-        <button class="filter-btn" type="button" data-filter-section="ongoing" data-filter-value="image" aria-pressed="false">이미지</button>
-        <button class="filter-btn" type="button" data-filter-section="ongoing" data-filter-value="video" aria-pressed="false">영상</button>
+      <div class="filter-row">
+        <div class="category-filters" data-filter-section="ongoing" aria-label="진행중 공모전 분야 필터">
+          <button class="filter-btn" type="button" data-filter-section="ongoing" data-filter-value="all" aria-pressed="true">전체</button>
+          <button class="filter-btn" type="button" data-filter-section="ongoing" data-filter-value="image" aria-pressed="false">이미지</button>
+          <button class="filter-btn" type="button" data-filter-section="ongoing" data-filter-value="video" aria-pressed="false">영상</button>
+        </div>
+        <select class="sort-select" id="sortSelect" aria-label="공모전 정렬 방식">
+          <option value="deadline">마감임박순</option>
+          <option value="latest">최신순</option>
+        </select>
       </div>
       <div class="grid" id="listOngoing"></div>
     </section>
 
     <section class="section wrap" id="awaiting-results">
       <div class="section-head"><div><div class="section-title"><span class="dot" style="background: var(--wait)"></span><h2>종료 후 발표 대기 공모전 <span class="section-count" id="pillWait">0건</span></h2></div><p class="desc">접수는 끝났지만 수상작·결과 발표가 아직 확인되지 않은 공모전입니다.</p></div></div>
-      <div class="category-filters" data-filter-section="wait" aria-label="발표 대기 공모전 분야 필터">
-        <button class="filter-btn" type="button" data-filter-section="wait" data-filter-value="all" aria-pressed="true">전체</button>
-        <button class="filter-btn" type="button" data-filter-section="wait" data-filter-value="image" aria-pressed="false">이미지</button>
-        <button class="filter-btn" type="button" data-filter-section="wait" data-filter-value="video" aria-pressed="false">영상</button>
+      <div class="filter-row">
+        <div class="category-filters" data-filter-section="wait" aria-label="발표 대기 공모전 분야 필터">
+          <button class="filter-btn" type="button" data-filter-section="wait" data-filter-value="all" aria-pressed="true">전체</button>
+          <button class="filter-btn" type="button" data-filter-section="wait" data-filter-value="image" aria-pressed="false">이미지</button>
+          <button class="filter-btn" type="button" data-filter-section="wait" data-filter-value="video" aria-pressed="false">영상</button>
+        </div>
       </div>
       <div class="grid" id="listWait"></div>
     </section>
@@ -371,12 +392,12 @@
   </div>
 
   <script>
-    const state = { data: null, filters: { ongoing: 'all', wait: 'all' } };
+    const state = { data: null, filters: { ongoing: 'all', wait: 'all' }, sort: 'deadline' };
     const $ = id => document.getElementById(id);
     const nodes = {
       updatedAt: $('updatedAt'), countStart: $('countStart'), countOngoing: $('countOngoing'), countWait: $('countWait'),
       pillOngoing: $('pillOngoing'), pillWait: $('pillWait'),
-      listOngoing: $('listOngoing'), listWait: $('listWait'), toTop: $('toTop'), viewToggle: $('viewToggle'), densityToggle: $('densityToggle'),
+      listOngoing: $('listOngoing'), listWait: $('listWait'), toTop: $('toTop'), viewToggle: $('viewToggle'), densityToggle: $('densityToggle'), sortSelect: $('sortSelect'),
       filterButtons: Array.from(document.querySelectorAll('.filter-btn'))
     };
 
@@ -423,6 +444,10 @@
     function sortBySubmissionEnd(items) {
       return [...items].sort((a, b) => dateValue(a.submission_end) - dateValue(b.submission_end));
     }
+    function sortByLatest(items) {
+      return [...items].sort((a, b) => dateValue(b.submission_start) - dateValue(a.submission_start));
+    }
+    function sortItems(items) { return state.sort === 'latest' ? sortByLatest(items) : sortBySubmissionEnd(items); }
     function pillText(filtered, total, active) { return active === 'all' ? `${total}건` : `${filtered} / ${total}건`; }
     function updateFilterButtons() {
       nodes.filterButtons.forEach(button => {
@@ -485,8 +510,8 @@
     function render() {
       const data = state.data || { sections: {} }; const s = data.sections || {};
       const starting = s.starting_today || []; const ongoing = s.ongoing || []; const waiting = s.awaiting_results || [];
-      const visibleOngoing = sortBySubmissionEnd(filterByCategory(ongoing, state.filters.ongoing));
-      const visibleWaiting = sortBySubmissionEnd(filterByCategory(waiting, state.filters.wait));
+      const visibleOngoing = sortItems(filterByCategory(ongoing, state.filters.ongoing));
+      const visibleWaiting = sortItems(filterByCategory(waiting, state.filters.wait));
       nodes.updatedAt.textContent = formatUpdated(data.generated_at);
       nodes.countStart.textContent = starting.length; nodes.countOngoing.textContent = ongoing.length; nodes.countWait.textContent = waiting.length;
       nodes.pillOngoing.textContent = pillText(visibleOngoing.length, ongoing.length, state.filters.ongoing); nodes.pillWait.textContent = pillText(visibleWaiting.length, waiting.length, state.filters.wait);
@@ -500,6 +525,7 @@
       state.filters[section] = value;
       render();
     }));
+    nodes.sortSelect.addEventListener('change', () => { state.sort = nodes.sortSelect.value; render(); });
     nodes.viewToggle.addEventListener('click', () => setViewMode(nodes.viewToggle.dataset.nextViewMode || 'list'));
     nodes.densityToggle.addEventListener('click', cycleDensity);
     setDensity(savedDensity(), false);
