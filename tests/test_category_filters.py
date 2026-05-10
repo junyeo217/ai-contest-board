@@ -50,8 +50,8 @@ def test_card_list_view_toggle_is_grouped_with_top_button_on_both_pages():
         assert 'function setViewMode(mode)' in html
         assert "document.body.dataset.viewMode = mode" in html
         assert 'aria-label="리스트형으로 보기"' in html
-        # Keep the floating group inside the visible content edge, not outside the max-width column.
-        assert 'right: max(18px, calc((100vw - var(--max)) / 2 + 18px))' in html
+        # Keep the floating group just outside the content card line, matching the domestic reference placement.
+        assert 'right: max(18px, calc((100vw - var(--max)) / 2 - 72px))' in html
         # The view toggle should live near the existing top button, not inside a section.
         floating = html.split('class="floating-tools"', 1)[1].split('</div>', 1)[0]
         assert 'id="viewToggle"' in floating
