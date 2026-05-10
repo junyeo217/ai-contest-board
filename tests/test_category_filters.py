@@ -87,3 +87,13 @@ def test_default_view_mode_is_card_on_pc_and_list_on_mobile():
         assert "window.matchMedia('(max-width: 680px)').matches ? 'list' : 'card'" in html
         assert "setViewMode(defaultViewMode())" in html
         assert "setViewMode(document.body.dataset.viewMode || 'card')" not in html
+
+
+def test_hero_notice_has_no_leading_rule_and_keeps_link_inline():
+    for path in PAGES:
+        html = read(path)
+        assert '.hero-notice::before' not in html
+        assert '.hero-notice br + a' not in html
+        assert '<br><a href="https://open.kakao.com/o/sGUNzdui"' not in html
+        assert '누락 혹은 수정이 필요한 공고가 있으면 채팅방에서 @주녀를 부르시거나, <a href="https://open.kakao.com/o/sGUNzdui"' in html
+        assert '>여기</a>를 눌러주세요.' in html
