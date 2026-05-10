@@ -203,7 +203,7 @@
       <a class="brand" href="#top" aria-label="AI 공모전 보드 홈"><span class="logo" aria-hidden="true"></span><span>AI Contest Board</span></a>
       <nav class="nav-links" aria-label="공고 지역 탭">
         <a href="#starting-today" aria-current="page">국내 공고</a>
-        <span aria-disabled="true">해외 공고 <small>(예정)</small></span>
+        <a href="#overseas-starting-today">해외 공고</a>
       </nav>
     </div>
   </header>
@@ -252,6 +252,21 @@
       <div class="section-head"><div><div class="section-title"><span class="dot" style="background: var(--wait)"></span><h2>종료 후 발표 대기 공모전</h2></div><p class="desc">접수는 끝났지만 수상작·결과 발표가 아직 확인되지 않은 공모전입니다.</p></div><div class="pill" id="pillWait">0건</div></div>
       <div class="grid" id="listWait"></div>
     </section>
+
+    <section class="section wrap" id="overseas-starting-today">
+      <div class="section-head"><div><div class="section-title"><span class="dot" style="background: var(--start)"></span><h2>해외 · 오늘부터 시작한 공모전</h2></div><p class="desc">해외 AI 이미지·영상 공모전 중 접수 시작일이 오늘인 신규 공모전입니다.</p></div><div class="pill" id="pillOverseasStart">0건</div></div>
+      <div class="grid" id="listOverseasStart"></div>
+    </section>
+
+    <section class="section wrap" id="overseas-ongoing">
+      <div class="section-head"><div><div class="section-title"><span class="dot" style="background: var(--ongoing)"></span><h2>해외 · 현재 진행중인 공모전</h2></div><p class="desc">해외 공고 중 오늘 기준 접수 가능한 공모전입니다. 국가·주최·접수 조건은 원문에서 최종 확인하세요.</p></div><div class="pill" id="pillOverseasOngoing">0건</div></div>
+      <div class="grid" id="listOverseasOngoing"></div>
+    </section>
+
+    <section class="section wrap" id="overseas-awaiting-results">
+      <div class="section-head"><div><div class="section-title"><span class="dot" style="background: var(--wait)"></span><h2>해외 · 종료 후 발표 대기 공모전</h2></div><p class="desc">해외 공고 중 접수는 끝났지만 결과 발표가 아직 확인되지 않은 공모전입니다.</p></div><div class="pill" id="pillOverseasWait">0건</div></div>
+      <div class="grid" id="listOverseasWait"></div>
+    </section>
   </main>
 
   <footer class="wrap">
@@ -266,7 +281,10 @@
     const nodes = {
       updatedAt: $('updatedAt'), countStart: $('countStart'), countOngoing: $('countOngoing'), countWait: $('countWait'),
       pillStart: $('pillStart'), pillOngoing: $('pillOngoing'), pillWait: $('pillWait'),
-      listStart: $('listStart'), listOngoing: $('listOngoing'), listWait: $('listWait'), toTop: $('toTop')
+      listStart: $('listStart'), listOngoing: $('listOngoing'), listWait: $('listWait'),
+      pillOverseasStart: $('pillOverseasStart'), pillOverseasOngoing: $('pillOverseasOngoing'), pillOverseasWait: $('pillOverseasWait'),
+      listOverseasStart: $('listOverseasStart'), listOverseasOngoing: $('listOverseasOngoing'), listOverseasWait: $('listOverseasWait'),
+      toTop: $('toTop')
     };
 
     function escapeHtml(v) { return String(v ?? '').replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c])); }
@@ -310,11 +328,15 @@
     function renderList(node, items, tone, label) { node.innerHTML = items.length ? items.map(i => card(i, tone)).join('') : empty(label); }
     function render() {
       const data = state.data || { sections: {} }; const s = data.sections || {};
+      const overseasSections = data.overseas_sections || data.international_sections || {};
       const starting = s.starting_today || []; const ongoing = s.ongoing || []; const waiting = s.awaiting_results || [];
+      const overseasStarting = overseasSections.starting_today || []; const overseasOngoing = overseasSections.ongoing || []; const overseasWaiting = overseasSections.awaiting_results || [];
       nodes.updatedAt.textContent = formatUpdated(data.generated_at);
       nodes.countStart.textContent = (s.starting_today || []).length; nodes.countOngoing.textContent = (s.ongoing || []).length; nodes.countWait.textContent = (s.awaiting_results || []).length;
       nodes.pillStart.textContent = `${starting.length}건`; nodes.pillOngoing.textContent = `${ongoing.length}건`; nodes.pillWait.textContent = `${waiting.length}건`;
+      nodes.pillOverseasStart.textContent = `${overseasStarting.length}건`; nodes.pillOverseasOngoing.textContent = `${overseasOngoing.length}건`; nodes.pillOverseasWait.textContent = `${overseasWaiting.length}건`;
       renderList(nodes.listStart, starting, 'start', '오늘 시작한 공모전'); renderList(nodes.listOngoing, ongoing, 'ongoing', '현재 진행중인 공모전'); renderList(nodes.listWait, waiting, 'wait', '발표 대기 공모전');
+      renderList(nodes.listOverseasStart, overseasStarting, 'start', '해외 오늘 시작한 공모전'); renderList(nodes.listOverseasOngoing, overseasOngoing, 'ongoing', '해외 현재 진행중인 공모전'); renderList(nodes.listOverseasWait, overseasWaiting, 'wait', '해외 발표 대기 공모전');
     }
     function updateToTop() { nodes.toTop.classList.toggle('visible', window.scrollY > 420); }
     nodes.toTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
