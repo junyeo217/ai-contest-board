@@ -144,3 +144,34 @@ def test_hero_notice_has_no_leading_rule_and_keeps_link_inline():
         assert '<br><a href="https://open.kakao.com/o/sGUNzdui"' not in html
         assert '누락 혹은 수정이 필요한 공고가 있으면 채팅방에서 @주녀를 부르시거나, <a href="https://open.kakao.com/o/sGUNzdui"' in html
         assert '>여기</a>를 눌러주세요.' in html
+
+
+def test_hero_section_jump_buttons_are_removed_after_first_list_moves_up():
+    for path in PAGES:
+        html = read(path)
+        assert 'class="hero-actions"' not in html
+        assert '진행중 보기' not in html
+        assert '발표대기 보기' not in html
+        assert '<a class="btn primary"' not in html
+
+
+def test_section_counts_are_inline_with_titles_not_separate_right_pills():
+    for path in PAGES:
+        html = read(path)
+        assert 'class="section-count"' in html
+        assert '<h2>현재 진행중인 공모전 <span class="section-count" id="pillOngoing">0건</span></h2>' in html
+        assert '<h2>종료 후 발표 대기 공모전 <span class="section-count" id="pillWait">0건</span></h2>' in html
+        assert 'class="pill" id="pillOngoing"' not in html
+        assert 'class="pill" id="pillWait"' not in html
+
+
+def test_sections_can_be_collapsed_and_expanded():
+    for path in PAGES:
+        html = read(path)
+        assert 'data-collapsible-section="ongoing"' in html
+        assert 'data-collapsible-section="wait"' in html
+        assert 'aria-controls="listOngoing"' in html
+        assert 'aria-controls="listWait"' in html
+        assert 'function setSectionCollapsed(section, collapsed)' in html
+        assert 'function toggleSection(section)' in html
+        assert 'hidden = collapsed' in html
