@@ -345,6 +345,7 @@
         button.setAttribute('aria-pressed', String(state.filters[section] === value));
       });
     }
+    function defaultViewMode() { return window.matchMedia('(max-width: 680px)').matches ? 'list' : 'card'; }
     function setViewMode(mode) {
       document.body.dataset.viewMode = mode;
       const nextMode = mode === 'card' ? 'list' : 'card';
@@ -395,7 +396,7 @@
       render();
     }));
     nodes.viewToggle.addEventListener('click', () => setViewMode(nodes.viewToggle.dataset.nextViewMode || 'list'));
-    setViewMode(document.body.dataset.viewMode || 'card');
+    setViewMode(defaultViewMode());
     nodes.toTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
     window.addEventListener('scroll', updateToTop, { passive: true });
     updateToTop();

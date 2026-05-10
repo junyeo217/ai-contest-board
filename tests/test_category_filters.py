@@ -78,3 +78,12 @@ def test_mobile_list_view_has_mobile_only_compact_rules_without_changing_pc_list
         desktop_before_mobile = html.split('@media (max-width: 680px)', 1)[0]
         assert 'body[data-view-mode="list"] .contest-card { min-height: 0; padding: 16px 18px; }' in desktop_before_mobile
         assert 'body[data-view-mode="list"] .summary { display: none; }' not in desktop_before_mobile
+
+
+def test_default_view_mode_is_card_on_pc_and_list_on_mobile():
+    for path in PAGES:
+        html = read(path)
+        assert 'function defaultViewMode()' in html
+        assert "window.matchMedia('(max-width: 680px)').matches ? 'list' : 'card'" in html
+        assert "setViewMode(defaultViewMode())" in html
+        assert "setViewMode(document.body.dataset.viewMode || 'card')" not in html
