@@ -50,7 +50,16 @@ def test_card_list_view_toggle_is_grouped_with_top_button_on_both_pages():
         assert 'function setViewMode(mode)' in html
         assert "document.body.dataset.viewMode = mode" in html
         assert 'aria-label="리스트형으로 보기"' in html
+        # Keep the floating group inside the visible content edge, not outside the max-width column.
+        assert 'right: max(18px, calc((100vw - var(--max)) / 2 + 18px))' in html
         # The view toggle should live near the existing top button, not inside a section.
         floating = html.split('class="floating-tools"', 1)[1].split('</div>', 1)[0]
         assert 'id="viewToggle"' in floating
         assert 'id="toTop"' in floating
+
+
+def test_domestic_heading_matches_overseas_two_line_pattern():
+    domestic = read(ROOT / "index.html")
+    overseas = read(ROOT / "overseas" / "index.html")
+    assert '<h1><span>국내</span><span>공모전 보드</span></h1>' in domestic
+    assert '<h1><span>해외</span><span>공모전 보드</span></h1>' in overseas
