@@ -61,10 +61,21 @@ def test_card_list_view_toggle_is_grouped_with_top_button_on_both_pages():
 def test_domestic_heading_matches_overseas_two_line_pattern():
     domestic = read(ROOT / "index.html")
     overseas = read(ROOT / "overseas" / "index.html")
-    assert '<h1>국내 공모전 보드</h1>' in domestic
-    assert '<h1>해외 공모전 보드</h1>' in overseas
-    assert '<h1><span>국내</span><span>공모전 보드</span></h1>' not in domestic
-    assert '<h1><span>해외</span><span>공모전 보드</span></h1>' not in overseas
+    assert '<h1><span>국내</span><span>공모전 보드</span></h1>' in domestic
+    assert '<h1><span>해외</span><span>공모전 보드</span></h1>' in overseas
+    assert '<h1>국내 공모전 보드</h1>' not in domestic
+    assert '<h1>해외 공모전 보드</h1>' not in overseas
+
+
+def test_pc_density_button_changes_desktop_title_scale():
+    for path in PAGES:
+        html = read(path)
+        desktop_before_mobile = html.split('@media (max-width: 680px)', 1)[0]
+        assert 'body[data-density="compact"] h1 { font-size: clamp(34px, 5.8vw, 64px); }' in desktop_before_mobile
+        assert 'body[data-density="comfortable"] h1 { font-size: clamp(42px, 7vw, 78px); }' in desktop_before_mobile
+        assert 'body[data-density="large"] h1 { font-size: clamp(50px, 7.8vw, 90px); }' in desktop_before_mobile
+        assert 'body[data-density="compact"] .hero-card' in desktop_before_mobile
+        assert 'body[data-density="large"] .summary-card' in desktop_before_mobile
 
 
 def test_hero_copy_removed_but_correction_notice_remains():

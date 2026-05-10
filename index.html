@@ -116,6 +116,15 @@
     }
     .btn.primary { background: var(--ink); border-color: var(--ink); color: white; }
     .btn:hover, .btn:focus-visible { transform: translateY(-1px); box-shadow: 0 14px 28px rgba(15,23,42,.13); outline: none; }
+    body[data-density="compact"] .hero-card { border-radius: 28px; padding: clamp(24px, 4vw, 46px); }
+    body[data-density="compact"] .summary-card { border-radius: 28px; padding: 22px; }
+    body[data-density="compact"] h1 { font-size: clamp(34px, 5.8vw, 64px); }
+    body[data-density="compact"] .stat b { font-size: 30px; }
+    body[data-density="comfortable"] h1 { font-size: clamp(42px, 7vw, 78px); }
+    body[data-density="large"] .hero-card { border-radius: 38px; padding: clamp(36px, 5.6vw, 66px); }
+    body[data-density="large"] .summary-card { border-radius: 38px; padding: 34px; }
+    body[data-density="large"] h1 { font-size: clamp(50px, 7.8vw, 90px); }
+    body[data-density="large"] .stat b { font-size: 42px; }
 
     .summary-card {
       border-radius: 34px; padding: 28px; background: #0f172a; color: #f8fafc; box-shadow: var(--shadow); overflow: hidden; position: relative;
@@ -308,7 +317,7 @@
       <div class="hero-grid">
         <div class="hero-card">
           <div class="kicker">Korea · AI Image & Video</div>
-          <h1>국내 공모전 보드</h1>
+          <h1><span>국내</span><span>공모전 보드</span></h1>
           <p class="hero-notice">누락 혹은 수정이 필요한 공고가 있으면 채팅방에서 @주녀를 부르시거나, <a href="https://open.kakao.com/o/sGUNzdui" target="_blank" rel="noopener noreferrer">여기</a>를 눌러주세요.</p>
           <div class="hero-actions">
             <a class="btn primary" href="#ongoing">진행중 보기</a>
