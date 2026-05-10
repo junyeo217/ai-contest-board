@@ -173,3 +173,12 @@ def test_sections_are_not_collapsible():
         assert 'function setSectionCollapsed(section, collapsed)' not in html
         assert 'function toggleSection(section)' not in html
         assert 'hidden = collapsed' not in html
+
+
+def test_default_lists_are_sorted_by_earliest_submission_end():
+    for path in PAGES:
+        html = read(path)
+        assert 'function sortBySubmissionEnd(items)' in html
+        assert 'sortBySubmissionEnd(filterByCategory(ongoing, state.filters.ongoing))' in html
+        assert 'sortBySubmissionEnd(filterByCategory(waiting, state.filters.wait))' in html
+        assert 'new Date(`${value}T00:00:00`).getTime()' in html

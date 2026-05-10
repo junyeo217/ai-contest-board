@@ -407,6 +407,13 @@
       return Array.from(buckets);
     }
     function filterByCategory(items, value) { return value === 'all' ? items : items.filter(item => categoryBuckets(item).includes(value)); }
+    function dateValue(value) {
+      if (!value || !/^\d{4}-\d{2}-\d{2}$/.test(value)) return Number.POSITIVE_INFINITY;
+      return new Date(`${value}T00:00:00`).getTime();
+    }
+    function sortBySubmissionEnd(items) {
+      return [...items].sort((a, b) => dateValue(a.submission_end) - dateValue(b.submission_end));
+    }
     function pillText(filtered, total, active) { return active === 'all' ? `${total}건` : `${filtered} / ${total}건`; }
     function updateFilterButtons() {
       nodes.filterButtons.forEach(button => {
@@ -469,8 +476,8 @@
     function render() {
       const data = state.data || { sections: {} }; const s = data.sections || {};
       const starting = s.starting_today || []; const ongoing = s.ongoing || []; const waiting = s.awaiting_results || [];
-      const visibleOngoing = filterByCategory(ongoing, state.filters.ongoing);
-      const visibleWaiting = filterByCategory(waiting, state.filters.wait);
+      const visibleOngoing = sortBySubmissionEnd(filterByCategory(ongoing, state.filters.ongoing));
+      const visibleWaiting = sortBySubmissionEnd(filterByCategory(waiting, state.filters.wait));
       nodes.updatedAt.textContent = formatUpdated(data.generated_at);
       nodes.countStart.textContent = starting.length; nodes.countOngoing.textContent = ongoing.length; nodes.countWait.textContent = waiting.length;
       nodes.pillOngoing.textContent = pillText(visibleOngoing.length, ongoing.length, state.filters.ongoing); nodes.pillWait.textContent = pillText(visibleWaiting.length, waiting.length, state.filters.wait);
