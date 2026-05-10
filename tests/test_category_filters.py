@@ -146,13 +146,13 @@ def test_hero_notice_has_no_leading_rule_and_keeps_link_inline():
         assert '>여기</a>를 눌러주세요.' in html
 
 
-def test_hero_section_jump_buttons_are_removed_after_first_list_moves_up():
+def test_hero_section_jump_buttons_are_kept_for_quick_navigation():
     for path in PAGES:
         html = read(path)
-        assert 'class="hero-actions"' not in html
-        assert '진행중 보기' not in html
-        assert '발표대기 보기' not in html
-        assert '<a class="btn primary"' not in html
+        assert 'class="hero-actions"' in html
+        assert '진행중 보기' in html
+        assert '발표대기 보기' in html
+        assert '<a class="btn primary"' in html
 
 
 def test_section_counts_are_inline_with_titles_not_separate_right_pills():
@@ -165,13 +165,11 @@ def test_section_counts_are_inline_with_titles_not_separate_right_pills():
         assert 'class="pill" id="pillWait"' not in html
 
 
-def test_sections_can_be_collapsed_and_expanded():
+def test_sections_are_not_collapsible():
     for path in PAGES:
         html = read(path)
-        assert 'data-collapsible-section="ongoing"' in html
-        assert 'data-collapsible-section="wait"' in html
-        assert 'aria-controls="listOngoing"' in html
-        assert 'aria-controls="listWait"' in html
-        assert 'function setSectionCollapsed(section, collapsed)' in html
-        assert 'function toggleSection(section)' in html
-        assert 'hidden = collapsed' in html
+        assert 'data-collapsible-section="ongoing"' not in html
+        assert 'data-collapsible-section="wait"' not in html
+        assert 'function setSectionCollapsed(section, collapsed)' not in html
+        assert 'function toggleSection(section)' not in html
+        assert 'hidden = collapsed' not in html
