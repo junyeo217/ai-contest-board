@@ -447,6 +447,35 @@
     function sortByLatest(items) {
       return [...items].sort((a, b) => dateValue(b.submission_start) - dateValue(a.submission_start));
     }
+    function todayValue() {
+      const now = new Date();
+      return new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+    }
+    function itemKey(item) {
+      return [item.title, item.submission_start, item.submission_end, item.url].map(v => String(v || '').trim()).join('|');
+    }
+    function normalizeSections(sections = {}) {
+      const all = [];
+      const seen = new Set();
+      ['starting_today', 'ongoing', 'awaiting_results'].forEach(name => {
+        (sections[name] || []).forEach(item => {
+          const key = itemKey(item);
+          if (!seen.has(key)) { seen.add(key); all.push(item); }
+        });
+      });
+      const today = todayValue();
+      const starting = [];
+      const ongoing = [];
+      const waiting = [];
+      all.forEach(item => {
+        const start = dateValue(item.submission_start);
+        const end = dateValue(item.submission_end);
+        if (start === today) starting.push(item);
+        if (Number.isFinite(end) && end < today) waiting.push(item);
+        else if (start <= today && today <= end) ongoing.push(item);
+      });
+      return { starting_today: starting, ongoing, awaiting_results: waiting };
+    }
     function sortItems(items) { return state.sort === 'latest' ? sortByLatest(items) : sortBySubmissionEnd(items); }
     function pillText(filtered, total, active) { return active === 'all' ? `${total}건` : `${filtered} / ${total}건`; }
     function updateFilterButtons() {
@@ -508,7 +537,7 @@
     function empty(label) { return `<div class="empty"><b>${escapeHtml(label)}</b> 항목이 아직 없습니다.<br>다음 자동 조사 후 업데이트됩니다.</div>`; }
     function renderList(node, items, tone, label) { node.innerHTML = items.length ? items.map(i => card(i, tone)).join('') : empty(label); }
     function render() {
-      const data = state.data || { sections: {} }; const s = data.sections || {};
+      const data = state.data || { sections: {} }; const s = normalizeSections(data.sections || {});
       const starting = s.starting_today || []; const ongoing = s.ongoing || []; const waiting = s.awaiting_results || [];
       const visibleOngoing = sortItems(filterByCategory(ongoing, state.filters.ongoing));
       const visibleWaiting = sortItems(filterByCategory(waiting, state.filters.wait));

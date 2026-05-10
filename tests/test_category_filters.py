@@ -198,6 +198,16 @@ def test_default_lists_are_sorted_by_earliest_submission_end():
         assert 'new Date(`${value}T00:00:00`).getTime()' in html
 
 
+def test_expired_ongoing_items_are_automatically_rendered_as_awaiting_results():
+    for path in PAGES:
+        html = read(path)
+        assert 'function normalizeSections(sections = {})' in html
+        assert "['starting_today', 'ongoing', 'awaiting_results'].forEach" in html
+        assert 'if (Number.isFinite(end) && end < today) waiting.push(item);' in html
+        assert 'else if (start <= today && today <= end) ongoing.push(item);' in html
+        assert 'const s = normalizeSections(data.sections || {});' in html
+
+
 def test_pc_sort_dropdown_sits_on_filter_row():
     for path in PAGES:
         html = read(path)
