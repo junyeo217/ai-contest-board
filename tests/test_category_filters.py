@@ -61,8 +61,55 @@ def test_card_list_view_toggle_is_grouped_with_top_button_on_both_pages():
 def test_domestic_heading_matches_overseas_two_line_pattern():
     domestic = read(ROOT / "index.html")
     overseas = read(ROOT / "overseas" / "index.html")
-    assert '<h1><span>국내</span><span>공모전 보드</span></h1>' in domestic
-    assert '<h1><span>해외</span><span>공모전 보드</span></h1>' in overseas
+    assert '<h1>국내 공모전 보드</h1>' in domestic
+    assert '<h1>해외 공모전 보드</h1>' in overseas
+    assert '<h1><span>국내</span><span>공모전 보드</span></h1>' not in domestic
+    assert '<h1><span>해외</span><span>공모전 보드</span></h1>' not in overseas
+
+
+def test_hero_copy_removed_but_correction_notice_remains():
+    for path in PAGES:
+        html = read(path)
+        assert 'class="hero-copy"' not in html
+        assert '누락 혹은 수정이 필요한 공고가 있으면 채팅방에서 @주녀를 부르시거나, <a href="https://open.kakao.com/o/sGUNzdui"' in html
+
+
+def test_summary_header_is_inline_and_stats_link_to_sections():
+    for path in PAGES:
+        html = read(path)
+        assert 'class="summary-head"' in html
+        assert '<div class="label">Last update</div><div class="updated" id="updatedAt">불러오는 중</div>' in html
+        assert '오늘 추가된 공고 수' in html
+        assert '오늘부터 시작' not in html
+        assert 'class="stat stat-link"' in html
+        assert 'href="#starting-today"' not in html
+        assert 'href="#overseas-starting-today"' not in html
+        assert 'aria-label="현재 진행중인 공모전으로 이동"' in html
+        assert 'aria-label="종료 후 발표 대기 공모전으로 이동"' in html
+
+
+def test_starting_today_section_removed_from_body_and_actions():
+    domestic = read(ROOT / "index.html")
+    overseas = read(ROOT / "overseas" / "index.html")
+    assert 'id="starting-today"' not in domestic
+    assert 'id="overseas-starting-today"' not in overseas
+    assert '오늘 시작 보기' not in domestic
+    assert '오늘 시작 보기' not in overseas
+    assert '오늘부터 시작한 공모전</h2>' not in domestic
+    assert '오늘부터 시작한 공모전</h2>' not in overseas
+
+
+def test_dday_visual_classes_keep_existing_text_labels():
+    for path in PAGES:
+        html = read(path)
+        assert 'function dueClass(end)' in html
+        assert 'due-day' in html
+        assert 'due-week' in html
+        assert 'due-fortnight' in html
+        assert 'due-later' in html
+        assert "return `D-${d}`" in html
+        assert "return '7일전'" not in html
+        assert "return '14일전'" not in html
 
 
 def test_mobile_list_view_has_mobile_only_compact_rules_without_changing_pc_list_rules():
