@@ -37,3 +37,20 @@ def test_multi_category_items_are_not_reduced_to_single_bucket():
         html = read(path)
         assert 'buckets.add(' in html
         assert 'return Array.from(buckets)' in html
+
+
+def test_card_list_view_toggle_is_grouped_with_top_button_on_both_pages():
+    for path in PAGES:
+        html = read(path)
+        assert 'class="floating-tools"' in html
+        assert 'id="viewToggle"' in html
+        assert 'data-view-mode="card"' in html
+        assert '카드형' in html
+        assert '리스트형' in html
+        assert 'function setViewMode(mode)' in html
+        assert "document.body.dataset.viewMode = mode" in html
+        assert 'aria-label="리스트형으로 보기"' in html
+        # The view toggle should live near the existing top button, not inside a section.
+        floating = html.split('class="floating-tools"', 1)[1].split('</div>', 1)[0]
+        assert 'id="viewToggle"' in floating
+        assert 'id="toTop"' in floating

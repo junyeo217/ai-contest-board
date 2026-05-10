@@ -177,17 +177,30 @@
     .empty { grid-column: 1 / -1; border: 1px dashed var(--line-strong); background: rgba(255,255,255,.56); border-radius: var(--radius); padding: 34px; text-align: center; color: var(--muted); line-height: 1.75; }
     .empty b { color: var(--ink); }
 
-    .to-top {
+    .floating-tools {
       position: fixed; right: max(18px, calc((100vw - var(--max)) / 2 - 72px)); bottom: 22px; z-index: 50;
-      width: 52px; height: 52px; border: 1px solid rgba(15,23,42,.12); border-radius: 999px;
-      display: grid; place-items: center; background: rgba(15,23,42,.92); color: #fff; text-decoration: none;
-      box-shadow: 0 18px 42px rgba(15,23,42,.22); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
-      font-size: 22px; font-weight: 950; opacity: 0; pointer-events: none; transform: translateY(10px);
+      display: flex; flex-direction: column; align-items: flex-end; gap: 10px;
+    }
+    .view-toggle, .to-top {
+      border: 1px solid rgba(15,23,42,.12); border-radius: 999px;
+      background: rgba(15,23,42,.92); color: #fff; box-shadow: 0 18px 42px rgba(15,23,42,.22);
+      backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); font-weight: 950; cursor: pointer;
       transition: opacity .18s ease, transform .18s ease, background .18s ease;
     }
+    .view-toggle { min-height: 44px; padding: 0 16px; font-size: 13px; }
+    .to-top {
+      width: 52px; height: 52px; display: grid; place-items: center; text-decoration: none;
+      font-size: 22px; opacity: 0; pointer-events: none; transform: translateY(10px);
+    }
     .to-top.visible { opacity: 1; pointer-events: auto; transform: translateY(0); }
-    .to-top:hover, .to-top:focus-visible { background: var(--accent); outline: none; transform: translateY(-2px); }
+    .view-toggle:hover, .view-toggle:focus-visible, .to-top:hover, .to-top:focus-visible { background: var(--accent); outline: none; transform: translateY(-2px); }
     .to-top span { transform: translateY(-1px); }
+    body[data-view-mode="list"] .grid { grid-template-columns: 1fr; gap: 10px; }
+    body[data-view-mode="list"] .contest-card { min-height: 0; padding: 16px 18px; }
+    body[data-view-mode="list"] .contest-card h3 { font-size: 18px; }
+    body[data-view-mode="list"] .meta { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px 14px; margin-top: 10px; }
+    body[data-view-mode="list"] .summary { margin-top: 10px; }
+    body[data-view-mode="list"] .official, body[data-view-mode="list"] .reference, body[data-view-mode="list"] .link-missing { margin-top: 8px; padding-top: 4px; }
 
     footer { padding: 48px 0 66px; color: var(--muted); font-size: 13px; line-height: 1.7; }
     .footer-line { border-top: 1px solid var(--line); padding-top: 22px; display: flex; justify-content: space-between; gap: 18px; flex-wrap: wrap; }
@@ -202,10 +215,12 @@
       .stats, .grid { grid-template-columns: 1fr; }
       .section-head { align-items: flex-start; flex-direction: column; }
       .desc, .category-filters { margin-left: 0; }
+      .floating-tools { right: 14px; bottom: 14px; }
+      body[data-view-mode="list"] .meta { grid-template-columns: 1fr; }
     }
   </style>
 </head>
-<body>
+<body data-view-mode="card">
   <a class="skip-link" href="#content">본문으로 이동</a>
   <header class="nav-shell">
     <div class="nav wrap">
@@ -277,7 +292,10 @@
     <div class="footer-line"><div>해외 공모전 보드</div><div>공식 페이지에서 세부 조건과 참가 가능 국가를 최종 확인하세요.</div></div>
   </footer>
 
-  <button class="to-top" id="toTop" type="button" aria-label="맨 위로 이동"><span aria-hidden="true">↑</span></button>
+  <div class="floating-tools" aria-label="보기 전환 및 이동 도구">
+    <button class="view-toggle" id="viewToggle" type="button" aria-label="리스트형으로 보기">리스트형</button>
+    <button class="to-top" id="toTop" type="button" aria-label="맨 위로 이동"><span aria-hidden="true">↑</span></button>
+  </div>
 
   <script>
     const state = { data: null, filters: { ongoing: 'all', wait: 'all' } };
@@ -285,7 +303,7 @@
     const nodes = {
       updatedAt: $('updatedAt'), countStart: $('countStart'), countOngoing: $('countOngoing'), countWait: $('countWait'),
       pillStart: $('pillStart'), pillOngoing: $('pillOngoing'), pillWait: $('pillWait'),
-      listStart: $('listStart'), listOngoing: $('listOngoing'), listWait: $('listWait'), toTop: $('toTop'),
+      listStart: $('listStart'), listOngoing: $('listOngoing'), listWait: $('listWait'), toTop: $('toTop'), viewToggle: $('viewToggle'),
       filterButtons: Array.from(document.querySelectorAll('.filter-btn'))
     };
 
@@ -319,6 +337,13 @@
         const section = button.dataset.filterSection; const value = button.dataset.filterValue;
         button.setAttribute('aria-pressed', String(state.filters[section] === value));
       });
+    }
+    function setViewMode(mode) {
+      document.body.dataset.viewMode = mode;
+      const nextMode = mode === 'card' ? 'list' : 'card';
+      nodes.viewToggle.textContent = mode === 'card' ? '리스트형' : '카드형';
+      nodes.viewToggle.setAttribute('aria-label', mode === 'card' ? '리스트형으로 보기' : '카드형으로 보기');
+      nodes.viewToggle.dataset.nextViewMode = nextMode;
     }
     function hasValidUrl(value) { return typeof value === 'string' && /^https?:\/\/\S+$/i.test(value.trim()); }
     function isOfficialSource(item) {
@@ -362,6 +387,8 @@
       state.filters[section] = value;
       render();
     }));
+    nodes.viewToggle.addEventListener('click', () => setViewMode(nodes.viewToggle.dataset.nextViewMode || 'list'));
+    setViewMode(document.body.dataset.viewMode || 'card');
     nodes.toTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
     window.addEventListener('scroll', updateToTop, { passive: true });
     updateToTop();
