@@ -1,23 +1,26 @@
 {
-  "generated_at": "2026-05-13T19:00:00+09:00",
+  "generated_at": "2026-05-14T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [],
-    "ongoing": [
+    "starting_today": [
       {
-        "title": "[STK 2026] 제1회 GenAI 활용 광고영상 공모전",
-        "category": "생성형 AI",
-        "organizer": "STK 2026 사무국",
-        "submission_start": "2026-04-22",
-        "submission_end": "2026-05-13",
-        "result_date": "본선 2026-05-18 / 시상 2026-06-12 예정",
-        "url": "https://smarttechkorea.com/Notice/?bmode=view&idx=170950791",
-        "source_type": "official_notice",
-        "evidence": "Crowlly/공식 공지 기준 GenAI 활용 광고영상, 15~60초, 16:9 또는 9:16, NC AI 및 Tacu 활용 필수 명시.",
-        "summary": "STK 슬로건 또는 자유 주제의 생성형 AI 광고 영상을 모집합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
+        "title": "개교 35주년 기념 한국기술교육대학교 AI 굿즈 디자인 공모전",
+        "category": "AI 디자인",
+        "organizer": "한국기술교육대학교",
+        "submission_start": "2026-05-14",
+        "submission_end": "2026-06-14",
+        "result_date": "미정",
+        "url": "https://www.facebook.com/koreatech91/photos/1603008168412133/",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.facebook.com/koreatech91/photos/1603008168412133/",
+        "evidence": "한국기술교육대학교 공식 SNS 게시글 기준 생성형 AI 등 디지털 도구를 활용한 AI 기반 굿즈 디자인 전반, 작품파일 이미지 및 신청서 제출 명시.",
+        "summary": "개교 35주년을 기념해 생성형 AI 등 디지털 도구로 한국기술교육대학교 굿즈 디자인을 제작하는 공모전입니다.",
+        "status": "오늘 추가",
+        "source_checked_at": "2026-05-14T19:00:00+09:00"
+      }
+    ],
+    "ongoing": [
       {
         "title": "[AI:DENTITY] 패션상품기획 및 디자인 공모전",
         "category": "AI 디자인",
@@ -297,6 +300,22 @@
         "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
       {
+        "title": "개교 35주년 기념 한국기술교육대학교 AI 굿즈 디자인 공모전",
+        "category": "AI 디자인",
+        "organizer": "한국기술교육대학교",
+        "submission_start": "2026-05-14",
+        "submission_end": "2026-06-14",
+        "result_date": "미정",
+        "url": "https://www.facebook.com/koreatech91/photos/1603008168412133/",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.facebook.com/koreatech91/photos/1603008168412133/",
+        "evidence": "한국기술교육대학교 공식 SNS 게시글 기준 생성형 AI 등 디지털 도구를 활용한 AI 기반 굿즈 디자인 전반, 작품파일 이미지 및 신청서 제출 명시.",
+        "summary": "개교 35주년을 기념해 생성형 AI 등 디지털 도구로 한국기술교육대학교 굿즈 디자인을 제작하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-14T19:00:00+09:00"
+      },
+      {
         "title": "2026년 파주시 AI 영상 공모전 '프롬프트로 만드는 파주'",
         "category": "AI 영상",
         "organizer": "파주시",
@@ -475,6 +494,20 @@
         "summary": "호국보훈 가치를 생성형 AI 영상 콘텐츠로 표현하는 서울지방보훈청 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-05-12T19:00:00+09:00"
+      },
+      {
+        "title": "[STK 2026] 제1회 GenAI 활용 광고영상 공모전",
+        "category": "생성형 AI",
+        "organizer": "STK 2026 사무국",
+        "submission_start": "2026-04-22",
+        "submission_end": "2026-05-13",
+        "result_date": "본선 2026-05-18 / 시상 2026-06-12 예정",
+        "url": "https://smarttechkorea.com/Notice/?bmode=view&idx=170950791",
+        "source_type": "official_notice",
+        "evidence": "Crowlly/공식 공지 기준 GenAI 활용 광고영상, 15~60초, 16:9 또는 9:16, NC AI 및 Tacu 활용 필수 명시.",
+        "summary": "STK 슬로건 또는 자유 주제의 생성형 AI 광고 영상을 모집합니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-05-14T19:00:00+09:00"
       }
     ]
   }
