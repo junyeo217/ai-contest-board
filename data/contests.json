@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T19:00:00+09:00",
+  "generated_at": "2026-05-18T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -15,20 +15,6 @@
         "source_type": "official_homepage",
         "evidence": "Crowlly/공식 홈페이지 기준 AI 이미지 부문, 프롬프트 이력·사용 AI 도구 제출, PNG/JPG/JPEG 명시.",
         "summary": "현재와 미래의 서울 지하철을 AI 이미지로 구현하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
-      {
-        "title": "2026년 상주시 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "상주시",
-        "submission_start": "2026-04-06",
-        "submission_end": "2026-05-20",
-        "result_date": "2026-07-02",
-        "url": "https://sangju-aicontest.imweb.me/",
-        "source_type": "official_homepage",
-        "evidence": "Crowlly/공식 페이지 기준 생성형 AI 영상 부문, 15초 이상 3분 미만, AI 활용 증빙 가능 명시.",
-        "summary": "상주의 관광·축제·특산물 매력을 생성형 AI 영상으로 담는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
@@ -63,6 +49,36 @@
         "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
       {
+        "title": "2026년 상주시 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "상주시",
+        "submission_start": "2026-04-06",
+        "submission_end": "2026-05-20",
+        "result_date": "2026-07-02",
+        "url": "https://sangju-aicontest.imweb.me/",
+        "source_type": "official_homepage",
+        "evidence": "Crowlly/공식 페이지 기준 생성형 AI 영상 부문, 15초 이상 3분 미만, AI 활용 증빙 가능 명시.",
+        "summary": "상주의 관광·축제·특산물 매력을 생성형 AI 영상으로 담는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-12T19:00:00+09:00"
+      },
+      {
+        "title": "제12회 신한 29초영화제",
+        "category": "AI 영상",
+        "organizer": "신한은행·한국경제신문 / 29초영화제사무국",
+        "submission_start": "2026-04-08",
+        "submission_end": "2026-05-21",
+        "result_date": "2026-07 초 예정",
+        "url": "https://www.all-con.co.kr/view/contest/536097",
+        "source_type": "reference_link",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.29sfilm.com/serviceCenter/notice_view.php?seq=7044",
+        "evidence": "참고 공고 기준 영화 분야 주제가 “영화 같은 AI 이야기”이며 두 분야 모두 AI기술 활용 가능, 29초 영상 규격 명시.",
+        "summary": "사람과 AI가 함께 만들어내는 이야기를 29초 영화로 제작하는 영화제입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-18T19:00:00+09:00"
+      },
+      {
         "title": "2026 BIAIF AI Campaign",
         "category": "AI 영상",
         "organizer": "부산국제AI영화제(BIAIF)·MBC C&I",
@@ -93,20 +109,6 @@
         "source_checked_at": "2026-05-13T19:00:00+09:00"
       },
       {
-        "title": "2026년 제1회 미추홀구 AI 영화제 공모전",
-        "category": "AI 영상",
-        "organizer": "미추홀구",
-        "submission_start": "2026-02-02",
-        "submission_end": "2026-05-29",
-        "result_date": "2026-09-01",
-        "url": "https://www.michuhol.go.kr/main/board/view.do?sq=300733&board_code=board_13&search=",
-        "source_type": "official_notice",
-        "evidence": "Tavily 공식 고시/링커리어 기준 AI 기술을 부분 또는 전체 활용한 3~5분 AI 영화, MP4 16:9 FHD 이상 명시.",
-        "summary": "자유 주제의 3~5분 AI 영화를 모집하는 미추홀구 AI 영화제 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
-      {
         "title": "2026 정선 여행 AI 영상 광고 공모전",
         "category": "AI 영상",
         "organizer": "정선군청·이엠케이미디어",
@@ -121,6 +123,20 @@
         "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
       {
+        "title": "2026년 제1회 미추홀구 AI 영화제 공모전",
+        "category": "AI 영상",
+        "organizer": "미추홀구",
+        "submission_start": "2026-02-02",
+        "submission_end": "2026-05-29",
+        "result_date": "2026-09-01",
+        "url": "https://www.michuhol.go.kr/main/board/view.do?sq=300733&board_code=board_13&search=",
+        "source_type": "official_notice",
+        "evidence": "Tavily 공식 고시/링커리어 기준 AI 기술을 부분 또는 전체 활용한 3~5분 AI 영화, MP4 16:9 FHD 이상 명시.",
+        "summary": "자유 주제의 3~5분 AI 영화를 모집하는 미추홀구 AI 영화제 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-12T19:00:00+09:00"
+      },
+      {
         "title": "2026 대한민국 AI 콘텐츠 페스티벌 (KAiCF)",
         "category": "AI 영상",
         "organizer": "초록뱀미디어·티엔엔터테인먼트",
@@ -131,36 +147,6 @@
         "source_type": "official_homepage",
         "evidence": "공식 Notion/Crowlly 기준 광고·드라마·뮤직비디오 AI 영상 부문, MP4 FHD 이상, 부문별 마감 명시.",
         "summary": "광고·드라마·뮤직비디오 등 AI 기반 영상 콘텐츠를 모집하는 대형 페스티벌입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
-      {
-        "title": "전국민 AI 경진대회 홍보영상 숏폼 챌린지",
-        "category": "AI 영상",
-        "organizer": "과학기술정보통신부",
-        "submission_start": "2026-05-01",
-        "submission_end": "2026-05-31",
-        "result_date": "미정",
-        "url": "https://aichallenge4all.or.kr/promotional-video",
-        "source_type": "official_homepage",
-        "evidence": "Crowlly/공식 페이지 기준 AI와 창의력으로 전국민 AI 경진대회를 홍보하는 20~60초 숏폼 영상 명시.",
-        "summary": "전국민 AI 경진대회를 홍보하는 AI 영상 관심자 대상 숏폼 챌린지입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
-      {
-        "title": "제8회 교육 공공데이터 AI활용대회",
-        "category": "AI 영상",
-        "organizer": "교육부·시도교육청·한국교육학술정보원 등",
-        "submission_start": "2026-05-01",
-        "submission_end": "2026-05-31",
-        "result_date": "미정",
-        "url": "https://www.2026edudataaicontest.com/",
-        "source_type": "official_homepage",
-        "discovery_source": "brave",
-        "discovery_url": "https://www.2026edudataaicontest.com/",
-        "evidence": "공식 FAQ 기준 초등 학생부 공모 분야에 AI 활용 소속학교 홍보영상 제작 명시, 작품 접수 2026년 5월 1일~5월 31일 확인.",
-        "summary": "교육 공공데이터와 AI를 활용하는 대회 중 초등 학생부 홍보영상 부문이 포함된 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
@@ -191,6 +177,36 @@
         "source_type": "official_notice",
         "evidence": "공식/Crowlly 기준 생성형 AI 툴 활용 내역·프롬프트·작업 과정 제출, 1분 내외 세로 숏폼 영상 명시.",
         "summary": "AI로 만나는 순천의 미래 모습을 9:16 숏폼 영상으로 제작하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-12T19:00:00+09:00"
+      },
+      {
+        "title": "전국민 AI 경진대회 홍보영상 숏폼 챌린지",
+        "category": "AI 영상",
+        "organizer": "과학기술정보통신부",
+        "submission_start": "2026-05-01",
+        "submission_end": "2026-05-31",
+        "result_date": "미정",
+        "url": "https://aichallenge4all.or.kr/promotional-video",
+        "source_type": "official_homepage",
+        "evidence": "Crowlly/공식 페이지 기준 AI와 창의력으로 전국민 AI 경진대회를 홍보하는 20~60초 숏폼 영상 명시.",
+        "summary": "전국민 AI 경진대회를 홍보하는 AI 영상 관심자 대상 숏폼 챌린지입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-12T19:00:00+09:00"
+      },
+      {
+        "title": "제8회 교육 공공데이터 AI활용대회",
+        "category": "AI 영상",
+        "organizer": "교육부·시도교육청·한국교육학술정보원 등",
+        "submission_start": "2026-05-01",
+        "submission_end": "2026-05-31",
+        "result_date": "미정",
+        "url": "https://www.2026edudataaicontest.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.2026edudataaicontest.com/",
+        "evidence": "공식 FAQ 기준 초등 학생부 공모 분야에 AI 활용 소속학교 홍보영상 제작 명시, 작품 접수 2026년 5월 1일~5월 31일 확인.",
+        "summary": "교육 공공데이터와 AI를 활용하는 대회 중 초등 학생부 홍보영상 부문이 포함된 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
@@ -267,22 +283,6 @@
         "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
       {
-        "title": "사조 AI 숏폼 공모전",
-        "category": "생성형 AI",
-        "organizer": "사조그룹",
-        "submission_start": "2026-05-04",
-        "submission_end": "2026-06-14",
-        "result_date": "2026-07-03",
-        "url": "https://www.instagram.com/p/DX5cTI7nHua/",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://linkareer.com/activity/319480",
-        "evidence": "사조그룹 공식 인스타그램/검증 공고 기준 생성형 AI를 활용해 사조 브랜드 흐름과 가치를 30초~1분 세로형 숏폼 영상으로 표현 명시.",
-        "summary": "종합식품기업 사조의 브랜드 가치를 생성형 AI 숏폼 영상으로 표현하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
-      {
         "title": "개교 35주년 기념 한국기술교육대학교 AI 굿즈 디자인 공모전",
         "category": "AI 디자인",
         "organizer": "한국기술교육대학교",
@@ -297,6 +297,22 @@
         "summary": "개교 35주년을 기념해 생성형 AI 등 디지털 도구로 한국기술교육대학교 굿즈 디자인을 제작하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-05-14T19:00:00+09:00"
+      },
+      {
+        "title": "사조 AI 숏폼 공모전",
+        "category": "생성형 AI",
+        "organizer": "사조그룹",
+        "submission_start": "2026-05-04",
+        "submission_end": "2026-06-14",
+        "result_date": "2026-07-03",
+        "url": "https://www.instagram.com/p/DX5cTI7nHua/",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://linkareer.com/activity/319480",
+        "evidence": "사조그룹 공식 인스타그램/검증 공고 기준 생성형 AI를 활용해 사조 브랜드 흐름과 가치를 30초~1분 세로형 숏폼 영상으로 표현 명시.",
+        "summary": "종합식품기업 사조의 브랜드 가치를 생성형 AI 숏폼 영상으로 표현하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
       {
         "title": "2026년 파주시 AI 영상 공모전 '프롬프트로 만드는 파주'",
@@ -507,6 +523,22 @@
         "summary": "생성형 AI를 활용해 패션 상품기획과 디자인 결과물을 개발하는 건국대 재학생 대상 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-05-16T19:00:00+09:00"
+      },
+      {
+        "title": "2026 대학생 유튜브 숏폼 광고 공모전",
+        "category": "AI 영상",
+        "organizer": "LG이노텍",
+        "submission_start": "2026-04-06",
+        "submission_end": "2026-05-17",
+        "result_date": "미정",
+        "url": "https://news.lginnotek.com/1638",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://news.lginnotek.com/1638",
+        "evidence": "LG이노텍 공식 뉴스룸 기준 공모 주제는 피지컬 AI, 15~120초 세로형 MP4 영상 제출 및 생성형 AI 활용 시 표기·프롬프트 제출 명시.",
+        "summary": "피지컬 AI를 주제로 대학(원)생이 세로형 유튜브 숏폼 광고 영상을 제작하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-05-18T19:00:00+09:00"
       }
     ]
   }
