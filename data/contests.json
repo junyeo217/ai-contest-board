@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T19:00:00+09:00",
+  "generated_at": "2026-05-19T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -15,6 +15,20 @@
         "source_type": "official_homepage",
         "evidence": "Crowlly/공식 홈페이지 기준 AI 이미지 부문, 프롬프트 이력·사용 AI 도구 제출, PNG/JPG/JPEG 명시.",
         "summary": "현재와 미래의 서울 지하철을 AI 이미지로 구현하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-12T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 상주시 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "상주시",
+        "submission_start": "2026-04-06",
+        "submission_end": "2026-05-20",
+        "result_date": "2026-07-02",
+        "url": "https://sangju-aicontest.imweb.me/",
+        "source_type": "official_homepage",
+        "evidence": "Crowlly/공식 페이지 기준 생성형 AI 영상 부문, 15초 이상 3분 미만, AI 활용 증빙 가능 명시.",
+        "summary": "상주의 관광·축제·특산물 매력을 생성형 AI 영상으로 담는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
@@ -45,20 +59,6 @@
         "discovery_url": "https://www.buyeo.go.kr/html/kr/news/news_040202.html?mode=V&mng_no=1998450",
         "evidence": "부여군 공식 고시공고에 ‘부여를 AI로 재해석’ 및 30초~3분 영상 콘텐츠, FHD 16:9/9:16 규격 명시.",
         "summary": "부여를 AI로 재해석한 자유 주제의 30초~3분 영상 콘텐츠를 모집합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
-      {
-        "title": "2026년 상주시 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "상주시",
-        "submission_start": "2026-04-06",
-        "submission_end": "2026-05-20",
-        "result_date": "2026-07-02",
-        "url": "https://sangju-aicontest.imweb.me/",
-        "source_type": "official_homepage",
-        "evidence": "Crowlly/공식 페이지 기준 생성형 AI 영상 부문, 15초 이상 3분 미만, AI 활용 증빙 가능 명시.",
-        "summary": "상주의 관광·축제·특산물 매력을 생성형 AI 영상으로 담는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
@@ -109,20 +109,6 @@
         "source_checked_at": "2026-05-13T19:00:00+09:00"
       },
       {
-        "title": "2026 정선 여행 AI 영상 광고 공모전",
-        "category": "AI 영상",
-        "organizer": "정선군청·이엠케이미디어",
-        "submission_start": "2026-05-04",
-        "submission_end": "2026-05-29",
-        "result_date": "2026-06-08",
-        "url": "https://jeongseoncontest.com/about/guide.php",
-        "source_type": "official_homepage",
-        "evidence": "공식/ Crowlly 기준 생성형 AI 기술로 60초 FHD 16:9 여행 광고 영상 제작, 유튜브 링크 제출 명시.",
-        "summary": "정선 여행의 매력을 생성형 AI 기반 60초 광고 영상으로 표현하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
-      {
         "title": "2026년 제1회 미추홀구 AI 영화제 공모전",
         "category": "AI 영상",
         "organizer": "미추홀구",
@@ -137,6 +123,20 @@
         "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
       {
+        "title": "2026 정선 여행 AI 영상 광고 공모전",
+        "category": "AI 영상",
+        "organizer": "정선군청·이엠케이미디어",
+        "submission_start": "2026-05-04",
+        "submission_end": "2026-05-29",
+        "result_date": "2026-06-08",
+        "url": "https://jeongseoncontest.com/about/guide.php",
+        "source_type": "official_homepage",
+        "evidence": "공식/ Crowlly 기준 생성형 AI 기술로 60초 FHD 16:9 여행 광고 영상 제작, 유튜브 링크 제출 명시.",
+        "summary": "정선 여행의 매력을 생성형 AI 기반 60초 광고 영상으로 표현하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-12T19:00:00+09:00"
+      },
+      {
         "title": "2026 대한민국 AI 콘텐츠 페스티벌 (KAiCF)",
         "category": "AI 영상",
         "organizer": "초록뱀미디어·티엔엔터테인먼트",
@@ -147,36 +147,6 @@
         "source_type": "official_homepage",
         "evidence": "공식 Notion/Crowlly 기준 광고·드라마·뮤직비디오 AI 영상 부문, MP4 FHD 이상, 부문별 마감 명시.",
         "summary": "광고·드라마·뮤직비디오 등 AI 기반 영상 콘텐츠를 모집하는 대형 페스티벌입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
-      {
-        "title": "2026 여주 AI 뮤직비디오 공모전",
-        "category": "생성형 AI",
-        "organizer": "여주세종문화관광재단",
-        "submission_start": "2026-05-04",
-        "submission_end": "2026-05-31",
-        "result_date": "2026-06 중 예정",
-        "url": "https://www.yjcf.or.kr/brd/board/200/L/menu/341?brdType=R&bbIdx=2440",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.yjcf.or.kr/brd/board/200/L/menu/341?brdType=R&bbIdx=2440",
-        "evidence": "공식 첨부 공고에 지정 AI 음원 활용, AI 기술 활용 필수, FHD 이상 가로형 뮤직비디오 제출 및 생성형 AI 기술 사용 보고서 명시.",
-        "summary": "여주의 역사·문화·자연·관광자원을 지정 AI 음원 기반 뮤직비디오로 제작하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
-      {
-        "title": "2026년 순천시 인공지능(AI) 숏폼 영상 공모전",
-        "category": "생성형 AI",
-        "organizer": "순천시",
-        "submission_start": "2026-05-07",
-        "submission_end": "2026-05-31",
-        "result_date": "미정",
-        "url": "https://www.suncheon.go.kr/kr/news/0004/0005/0003/?eminwonMode=VIEW&seq=42177",
-        "source_type": "official_notice",
-        "evidence": "공식/Crowlly 기준 생성형 AI 툴 활용 내역·프롬프트·작업 과정 제출, 1분 내외 세로 숏폼 영상 명시.",
-        "summary": "AI로 만나는 순천의 미래 모습을 9:16 숏폼 영상으로 제작하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
@@ -207,6 +177,36 @@
         "discovery_url": "https://www.2026edudataaicontest.com/",
         "evidence": "공식 FAQ 기준 초등 학생부 공모 분야에 AI 활용 소속학교 홍보영상 제작 명시, 작품 접수 2026년 5월 1일~5월 31일 확인.",
         "summary": "교육 공공데이터와 AI를 활용하는 대회 중 초등 학생부 홍보영상 부문이 포함된 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-12T19:00:00+09:00"
+      },
+      {
+        "title": "2026 여주 AI 뮤직비디오 공모전",
+        "category": "생성형 AI",
+        "organizer": "여주세종문화관광재단",
+        "submission_start": "2026-05-04",
+        "submission_end": "2026-05-31",
+        "result_date": "2026-06 중 예정",
+        "url": "https://www.yjcf.or.kr/brd/board/200/L/menu/341?brdType=R&bbIdx=2440",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.yjcf.or.kr/brd/board/200/L/menu/341?brdType=R&bbIdx=2440",
+        "evidence": "공식 첨부 공고에 지정 AI 음원 활용, AI 기술 활용 필수, FHD 이상 가로형 뮤직비디오 제출 및 생성형 AI 기술 사용 보고서 명시.",
+        "summary": "여주의 역사·문화·자연·관광자원을 지정 AI 음원 기반 뮤직비디오로 제작하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-12T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 순천시 인공지능(AI) 숏폼 영상 공모전",
+        "category": "생성형 AI",
+        "organizer": "순천시",
+        "submission_start": "2026-05-07",
+        "submission_end": "2026-05-31",
+        "result_date": "미정",
+        "url": "https://www.suncheon.go.kr/kr/news/0004/0005/0003/?eminwonMode=VIEW&seq=42177",
+        "source_type": "official_notice",
+        "evidence": "공식/Crowlly 기준 생성형 AI 툴 활용 내역·프롬프트·작업 과정 제출, 1분 내외 세로 숏폼 영상 명시.",
+        "summary": "AI로 만나는 순천의 미래 모습을 9:16 숏폼 영상으로 제작하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
@@ -255,6 +255,22 @@
         "source_checked_at": "2026-05-16T19:00:00+09:00"
       },
       {
+        "title": "2026 새만금 인공지능(AI) 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "새만금개발청",
+        "submission_start": "2026-05-18",
+        "submission_end": "2026-06-07",
+        "result_date": "미정",
+        "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156762175&pWise=mSub&pWiseSub=C7",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://m.korea.kr/news/pressReleaseView.do?newsId=156762175&pWise=mSub&pWiseSub=C7",
+        "evidence": "정책브리핑/새만금개발청 보도자료 기준 생성형 AI 기술로 새만금 미래도시 비전을 표현하는 영상 공모, 60초 세로형 숏폼 또는 최대 3분 롱폼, FHD MP4 제출 명시.",
+        "summary": "새만금의 미래 첨단산업 도시 비전을 생성형 AI 영상으로 표현하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-19T19:00:00+09:00"
+      },
+      {
         "title": "Y아티스트 레이블 AI 영상 공모전",
         "category": "생성형 AI",
         "organizer": "KT Y",
@@ -283,22 +299,6 @@
         "source_checked_at": "2026-05-12T19:00:00+09:00"
       },
       {
-        "title": "개교 35주년 기념 한국기술교육대학교 AI 굿즈 디자인 공모전",
-        "category": "AI 디자인",
-        "organizer": "한국기술교육대학교",
-        "submission_start": "2026-05-14",
-        "submission_end": "2026-06-14",
-        "result_date": "미정",
-        "url": "https://www.facebook.com/koreatech91/photos/1603008168412133/",
-        "source_type": "reference_link",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.facebook.com/koreatech91/photos/1603008168412133/",
-        "evidence": "한국기술교육대학교 공식 SNS 게시글 기준 생성형 AI 등 디지털 도구를 활용한 AI 기반 굿즈 디자인 전반, 작품파일 이미지 및 신청서 제출 명시.",
-        "summary": "개교 35주년을 기념해 생성형 AI 등 디지털 도구로 한국기술교육대학교 굿즈 디자인을 제작하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-14T19:00:00+09:00"
-      },
-      {
         "title": "사조 AI 숏폼 공모전",
         "category": "생성형 AI",
         "organizer": "사조그룹",
@@ -313,6 +313,22 @@
         "summary": "종합식품기업 사조의 브랜드 가치를 생성형 AI 숏폼 영상으로 표현하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-05-12T19:00:00+09:00"
+      },
+      {
+        "title": "개교 35주년 기념 한국기술교육대학교 AI 굿즈 디자인 공모전",
+        "category": "AI 디자인",
+        "organizer": "한국기술교육대학교",
+        "submission_start": "2026-05-14",
+        "submission_end": "2026-06-14",
+        "result_date": "미정",
+        "url": "https://www.facebook.com/koreatech91/photos/1603008168412133/",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.facebook.com/koreatech91/photos/1603008168412133/",
+        "evidence": "한국기술교육대학교 공식 SNS 게시글 기준 생성형 AI 등 디지털 도구를 활용한 AI 기반 굿즈 디자인 전반, 작품파일 이미지 및 신청서 제출 명시.",
+        "summary": "개교 35주년을 기념해 생성형 AI 등 디지털 도구로 한국기술교육대학교 굿즈 디자인을 제작하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-05-14T19:00:00+09:00"
       },
       {
         "title": "2026년 파주시 AI 영상 공모전 '프롬프트로 만드는 파주'",
