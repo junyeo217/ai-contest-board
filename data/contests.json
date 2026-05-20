@@ -1,23 +1,9 @@
 {
-  "generated_at": "2026-05-19T19:00:00+09:00",
+  "generated_at": "2026-05-20T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "2026 서울교통공사 사진·AI 이미지 공모전",
-        "category": "AI 이미지",
-        "organizer": "서울교통공사",
-        "submission_start": "2026-04-20",
-        "submission_end": "2026-05-19",
-        "result_date": "2026-06-30 예정",
-        "url": "https://www.xn--2026-eh4ps17dmkkijlp1c15flyjij2a.kr/",
-        "source_type": "official_homepage",
-        "evidence": "Crowlly/공식 홈페이지 기준 AI 이미지 부문, 프롬프트 이력·사용 AI 도구 제출, PNG/JPG/JPEG 명시.",
-        "summary": "현재와 미래의 서울 지하철을 AI 이미지로 구현하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
       {
         "title": "2026년 상주시 AI 영상 공모전",
         "category": "AI 영상",
@@ -555,6 +541,20 @@
         "summary": "피지컬 AI를 주제로 대학(원)생이 세로형 유튜브 숏폼 광고 영상을 제작하는 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-05-18T19:00:00+09:00"
+      },
+      {
+        "title": "2026 서울교통공사 사진·AI 이미지 공모전",
+        "category": "AI 이미지",
+        "organizer": "서울교통공사",
+        "submission_start": "2026-04-20",
+        "submission_end": "2026-05-19",
+        "result_date": "2026-06-30 예정",
+        "url": "https://www.xn--2026-eh4ps17dmkkijlp1c15flyjij2a.kr/",
+        "source_type": "official_homepage",
+        "evidence": "Crowlly/공식 홈페이지 기준 AI 이미지 부문, 프롬프트 이력·사용 AI 도구 제출, PNG/JPG/JPEG 명시.",
+        "summary": "현재와 미래의 서울 지하철을 AI 이미지로 구현하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-05-20T19:00:00+09:00"
       }
     ]
   }
