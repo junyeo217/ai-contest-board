@@ -1,39 +1,26 @@
 {
-  "generated_at": "2026-05-25T19:00:00+09:00",
+  "generated_at": "2026-05-26T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [],
-    "ongoing": [
+    "starting_today": [
       {
-        "title": "2026 BIAIF AI Campaign",
+        "title": "2026년 제6회 과학영상콘텐츠 공모전",
         "category": "AI 영상",
-        "organizer": "부산국제AI영화제(BIAIF)·MBC C&I",
-        "submission_start": "2026-05-01",
-        "submission_end": "2026-05-25",
-        "result_date": "선정 후 약 1개월 뒤 상영",
-        "url": "https://biaif.my.canva.site/ai-campaign",
-        "source_type": "official_homepage",
-        "evidence": "Crowlly/공식 페이지 기준 월간 AI 영상 캠페인, 30초 이하 mp4, 생성형 AI 기술 제작 고지 문구 명시.",
-        "summary": "월별 주제에 맞는 AI 영상을 모집해 공공 대형 LED에 상영하는 캠페인입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
-      {
-        "title": "개교 30주년 기념 AI 디지털 아트 경진대회",
-        "category": "AI 이미지",
-        "organizer": "김포대학교",
-        "submission_start": "2026-05-12",
-        "submission_end": "2026-05-25",
-        "result_date": "미정",
-        "url": "https://ukp.ac.kr/%ed%99%8d%eb%b3%b4%ec%84%bc%ed%84%b0/%eb%8c%80%ed%95%99%ec%86%8c%ec%8b%9d/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad?mod=document&uid=20758",
-        "source_type": "official_notice",
-        "discovery_source": "brave",
-        "discovery_url": "https://ukp.ac.kr/%ed%99%8d%eb%b3%b4%ec%84%bc%ed%84%b0/%eb%8c%80%ed%95%99%ec%86%8c%ec%8b%9d/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad?mod=document&uid=20758",
-        "evidence": "김포대학교 공식 공지 기준 생성형 AI를 활용해 캠퍼스 라이프, 캐릭터 또는 2056년 미래의 대학 모습을 제작하며 작품 이미지와 작업기술서 제출 명시.",
-        "summary": "김포대학교 개교 30주년을 기념해 생성형 AI로 대학의 현재와 미래를 표현하는 디지털 아트 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-13T19:00:00+09:00"
-      },
+        "organizer": "국립대구과학관",
+        "submission_start": "2026-05-26",
+        "submission_end": "2026-07-31",
+        "result_date": "2026-08-18 예정",
+        "url": "https://thinkyou.co.kr/contest/63518",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.etnews.com/20260526000035",
+        "evidence": "Tavily/참고 공고 기준 공모전 대주제가 인공지능(AI)이며 출품작은 애니메이션, 단편영화, 브이로그 등 1~3분 영상 형식으로 제출 명시.",
+        "summary": "전국 초·중·고·대학생을 대상으로 인공지능(AI)을 주제로 한 과학영상 콘텐츠를 모집하는 공모전입니다.",
+        "source_checked_at": "2026-05-26T19:00:00+09:00",
+        "status": "오늘 추가"
+      }
+    ],
+    "ongoing": [
       {
         "title": "2026년 제1회 미추홀구 AI 영화제 공모전",
         "category": "AI 영상",
@@ -361,6 +348,22 @@
         "summary": "생물다양성을 주제로 세밀화와 생성형 AI 이미지를 모집하는 전 국민 대상 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-05-23T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 제6회 과학영상콘텐츠 공모전",
+        "category": "AI 영상",
+        "organizer": "국립대구과학관",
+        "submission_start": "2026-05-26",
+        "submission_end": "2026-07-31",
+        "result_date": "2026-08-18 예정",
+        "url": "https://thinkyou.co.kr/contest/63518",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.etnews.com/20260526000035",
+        "evidence": "Tavily/참고 공고 기준 공모전 대주제가 인공지능(AI)이며 출품작은 애니메이션, 단편영화, 브이로그 등 1~3분 영상 형식으로 제출 명시.",
+        "summary": "전국 초·중·고·대학생을 대상으로 인공지능(AI)을 주제로 한 과학영상 콘텐츠를 모집하는 공모전입니다.",
+        "source_checked_at": "2026-05-26T19:00:00+09:00",
+        "status": "진행중"
       }
     ],
     "awaiting_results": [
@@ -603,6 +606,36 @@
         "summary": "사람과 AI가 함께 만들어내는 이야기를 29초 영화로 제작하는 영화제입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-05-22T19:00:00+09:00"
+      },
+      {
+        "title": "2026 BIAIF AI Campaign",
+        "category": "AI 영상",
+        "organizer": "부산국제AI영화제(BIAIF)·MBC C&I",
+        "submission_start": "2026-05-01",
+        "submission_end": "2026-05-25",
+        "result_date": "선정 후 약 1개월 뒤 상영",
+        "url": "https://biaif.my.canva.site/ai-campaign",
+        "source_type": "official_homepage",
+        "evidence": "Crowlly/공식 페이지 기준 월간 AI 영상 캠페인, 30초 이하 mp4, 생성형 AI 기술 제작 고지 문구 명시.",
+        "summary": "월별 주제에 맞는 AI 영상을 모집해 공공 대형 LED에 상영하는 캠페인입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-05-26T19:00:00+09:00"
+      },
+      {
+        "title": "개교 30주년 기념 AI 디지털 아트 경진대회",
+        "category": "AI 이미지",
+        "organizer": "김포대학교",
+        "submission_start": "2026-05-12",
+        "submission_end": "2026-05-25",
+        "result_date": "미정",
+        "url": "https://ukp.ac.kr/%ed%99%8d%eb%b3%b4%ec%84%bc%ed%84%b0/%eb%8c%80%ed%95%99%ec%86%8c%ec%8b%9d/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad?mod=document&uid=20758",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://ukp.ac.kr/%ed%99%8d%eb%b3%b4%ec%84%bc%ed%84%b0/%eb%8c%80%ed%95%99%ec%86%8c%ec%8b%9d/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad?mod=document&uid=20758",
+        "evidence": "김포대학교 공식 공지 기준 생성형 AI를 활용해 캠퍼스 라이프, 캐릭터 또는 2056년 미래의 대학 모습을 제작하며 작품 이미지와 작업기술서 제출 명시.",
+        "summary": "김포대학교 개교 30주년을 기념해 생성형 AI로 대학의 현재와 미래를 표현하는 디지털 아트 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-05-26T19:00:00+09:00"
       }
     ]
   }
