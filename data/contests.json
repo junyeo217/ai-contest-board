@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-05-29T19:39:00+09:00",
+  "generated_at": "2026-05-30T19:01:54+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "2026 정선 여행 AI 영상 광고 공모전",
-        "category": "AI 영상",
-        "organizer": "정선군청·이엠케이미디어",
-        "submission_start": "2026-05-04",
-        "submission_end": "2026-05-29",
-        "result_date": "2026-06-08",
-        "url": "https://jeongseoncontest.com/about/guide.php",
-        "source_type": "official_homepage",
-        "evidence": "공식/ Crowlly 기준 생성형 AI 기술로 60초 FHD 16:9 여행 광고 영상 제작, 유튜브 링크 제출 명시.",
-        "summary": "정선 여행의 매력을 생성형 AI 기반 60초 광고 영상으로 표현하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
-      {
-        "title": "2026년 제1회 미추홀구 AI 영화제 공모전",
-        "category": "AI 영상",
-        "organizer": "미추홀구",
-        "submission_start": "2026-02-02",
-        "submission_end": "2026-05-29",
-        "result_date": "2026-09-01",
-        "url": "https://www.michuhol.go.kr/main/board/view.do?sq=300733&board_code=board_13&search=",
-        "source_type": "official_notice",
-        "evidence": "Tavily 공식 고시/링커리어 기준 AI 기술을 부분 또는 전체 활용한 3~5분 AI 영화, MP4 16:9 FHD 이상 명시.",
-        "summary": "자유 주제의 3~5분 AI 영화를 모집하는 미추홀구 AI 영화제 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
       {
         "title": "2026 대한민국 AI 콘텐츠 페스티벌 (KAiCF)",
         "category": "AI 영상",
@@ -683,6 +655,34 @@
         "summary": "웅진식품 신제품 생차 브랜드 메시지를 AI 숏필름으로 표현하는 공모전입니다.",
         "source_checked_at": "2026-05-29T19:39:00+09:00",
         "status": "발표 대기"
+      },
+      {
+        "title": "2026 정선 여행 AI 영상 광고 공모전",
+        "category": "AI 영상",
+        "organizer": "정선군청·이엠케이미디어",
+        "submission_start": "2026-05-04",
+        "submission_end": "2026-05-29",
+        "result_date": "2026-06-08",
+        "url": "https://jeongseoncontest.com/about/guide.php",
+        "source_type": "official_homepage",
+        "evidence": "공식/ Crowlly 기준 생성형 AI 기술로 60초 FHD 16:9 여행 광고 영상 제작, 유튜브 링크 제출 명시.",
+        "summary": "정선 여행의 매력을 생성형 AI 기반 60초 광고 영상으로 표현하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-05-30T19:01:54+09:00"
+      },
+      {
+        "title": "2026년 제1회 미추홀구 AI 영화제 공모전",
+        "category": "AI 영상",
+        "organizer": "미추홀구",
+        "submission_start": "2026-02-02",
+        "submission_end": "2026-05-29",
+        "result_date": "2026-09-01",
+        "url": "https://www.michuhol.go.kr/main/board/view.do?sq=300733&board_code=board_13&search=",
+        "source_type": "official_notice",
+        "evidence": "Tavily 공식 고시/링커리어 기준 AI 기술을 부분 또는 전체 활용한 3~5분 AI 영화, MP4 16:9 FHD 이상 명시.",
+        "summary": "자유 주제의 3~5분 AI 영화를 모집하는 미추홀구 AI 영화제 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-05-30T19:01:54+09:00"
       }
     ]
   }
