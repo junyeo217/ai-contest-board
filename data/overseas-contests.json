@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T07:00:00+09:00",
+  "generated_at": "2026-06-01T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -35,25 +35,26 @@
     "platform_scope_mode": "always_on"
   },
   "sections": {
-    "starting_today": [],
-    "ongoing": [
+    "starting_today": [
       {
-        "title": "iFilm First 30 in May",
+        "title": "We Are Human Festival Paris 2026 – Film & AI International Open Call",
         "category": "AI 영상",
-        "country": "United States",
-        "organizer": "iFilm / Troy Zam, LLC",
-        "submission_start": "2026-05-01",
-        "submission_end": "2026-05-31",
-        "result_date": "2026-06-14",
-        "url": "https://www.ifilm.com/contest-rules",
+        "country": "International",
+        "organizer": "We Are Human Festival Paris",
+        "submission_start": "2026-06-01",
+        "submission_end": "2026-09-30",
+        "result_date": "2026-11-24",
+        "url": "https://wearehuman.foundation/en/call-for-films",
         "source_type": "official_notice",
         "discovery_source": "tavily",
-        "discovery_url": "https://www.ifilm.com/contest-rules",
-        "evidence": "공식 iFilm First 30 in May Contest Rules가 2026-05-01 12:01 AM PST부터 2026-05-31 11:59 PM PST 또는 첫 30개 유효 출품 도달 전까지 AI-generated short film을 접수한다고 명시함. 미국 합법 거주자 18세 이상 대상이며 제출은 iFilm submit 페이지로 진행되고, 수상자는 첫 30개 출품 또는 2026-06-14 중 늦은 시점 이후 14일 내 이메일 통보 예정이라고 공지함.",
-        "summary": "미국 거주자를 대상으로 5월 중 AI 생성 단편영화 첫 30개 제출작을 받는 iFilm 스킬 기반 공모.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-31T07:00:00+09:00"
-      },
+        "discovery_url": "https://wearehuman.foundation/en/call-for-films",
+        "evidence": "공식 Call for Films AI 2026 페이지가 filmmakers, visual artists, studios, independent creators and collectives from around the world 대상 국제 오픈콜로 안내하며, artificial intelligence, audiovisual creation and human rights의 관계를 다루는 작품을 2026-06-01부터 2026-09-30까지 접수한다고 명시함. 선정작은 2026-11-24 Paris Forum des images에서 상영 후 partner cities에 소개 예정임.",
+        "summary": "AI와 인권을 주제로 한 인간/AI 하이브리드 영상 작품을 모집하는 국제 오픈콜. 9월 30일까지 무료 접수.",
+        "status": "오늘 시작",
+        "source_checked_at": "2026-06-01T07:00:00+09:00"
+      }
+    ],
+    "ongoing": [
       {
         "title": "Reply AI Film Festival 2026",
         "category": "AI 영상",
@@ -276,6 +277,23 @@
         "summary": "Luma AI를 사용한 글로벌 광고 영상 창작 공모. 접수 종료 후 21개 파이널리스트가 Cannes Lions 결과를 기다리는 단계.",
         "status": "발표 대기",
         "source_checked_at": "2026-05-28T07:00:00+09:00"
+      },
+      {
+        "title": "iFilm First 30 in May",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "iFilm / Troy Zam, LLC",
+        "submission_start": "2026-05-01",
+        "submission_end": "2026-05-31",
+        "result_date": "2026-06-14",
+        "url": "https://www.ifilm.com/contest-rules",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.ifilm.com/contest-rules",
+        "evidence": "공식 iFilm First 30 in May Contest Rules가 2026-05-01 12:01 AM PST부터 2026-05-31 11:59 PM PST 또는 첫 30개 유효 출품 도달 전까지 AI-generated short film을 접수한다고 명시함. 미국 합법 거주자 18세 이상 대상이며 수상자는 첫 30개 출품 또는 2026-06-14 중 늦은 시점 이후 14일 내 이메일 통보 예정이라, 2026-06-01 서울 기준 접수 종료 후 발표 대기로 분류함.",
+        "summary": "미국 거주자를 대상으로 5월 중 AI 생성 단편영화 첫 30개 제출작을 받는 iFilm 스킬 기반 공모.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-01T07:00:00+09:00"
       },
       {
         "title": "Canvas of the Future 2026",
