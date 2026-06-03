@@ -1,23 +1,9 @@
 {
-  "generated_at": "2026-06-02T19:00:00+09:00",
+  "generated_at": "2026-06-03T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "올리디아 AI 29역숏폼왕",
-        "category": "AI 영상",
-        "organizer": "올리디아·한국경제신문",
-        "submission_start": "2026-04-28",
-        "submission_end": "2026-06-02",
-        "result_date": "2026-06 중 예정",
-        "url": "https://olidia.29sking.com/",
-        "source_type": "official_homepage",
-        "evidence": "Crowlly/공식 페이지 기준 AI 100% 또는 하이브리드 세로형 숏폼 영상, 1분 이내, 9:16 명시.",
-        "summary": "올리디아를 주제로 AI 세로형 숏폼 영상을 모집하는 29초영화제 계열 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
       {
         "title": "무진장 성공 기원 AI 광고제",
         "category": "AI 영상",
@@ -747,6 +733,20 @@
         "summary": "건설안전 주제를 생성형 AI 영상 또는 이미지 포스터로 제작하는 대국민 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-02T19:00:00+09:00"
+      },
+      {
+        "title": "올리디아 AI 29역숏폼왕",
+        "category": "AI 영상",
+        "organizer": "올리디아·한국경제신문",
+        "submission_start": "2026-04-28",
+        "submission_end": "2026-06-02",
+        "result_date": "2026-06 중 예정",
+        "url": "https://olidia.29sking.com/",
+        "source_type": "official_homepage",
+        "evidence": "Crowlly/공식 페이지 기준 AI 100% 또는 하이브리드 세로형 숏폼 영상, 1분 이내, 9:16 명시.",
+        "summary": "올리디아를 주제로 AI 세로형 숏폼 영상을 모집하는 29초영화제 계열 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-03T19:00:00+09:00"
       }
     ]
   }
