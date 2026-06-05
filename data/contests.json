@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-06-04T19:00:00+09:00",
+  "generated_at": "2026-06-05T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [
+    "starting_today": [],
+    "ongoing": [
       {
         "title": "제4회 퀴즈노스 AI 영상 광고 공모전",
         "category": "AI 영상",
@@ -16,11 +17,9 @@
         "discovery_url": "https://linkareer.com/activity/325800",
         "evidence": "참고 공고의 챌린지 개요와 제출 안내에 AI 영상 광고, OYE 업로드, AI 기술 활용도 평가 기준 명시",
         "summary": "퀴즈노스 브랜드 에셋을 활용해 AI 영상 광고를 제작·업로드하는 챌린지입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-06-04T19:00:00+09:00"
-      }
-    ],
-    "ongoing": [
+        "status": "진행중",
+        "source_checked_at": "2026-06-05T19:00:00+09:00"
+      },
       {
         "title": "무진장 성공 기원 AI 광고제",
         "category": "AI 영상",
