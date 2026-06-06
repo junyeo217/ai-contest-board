@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T19:00:00+09:00",
+  "generated_at": "2026-06-06T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -19,22 +19,6 @@
         "summary": "퀴즈노스 브랜드 에셋을 활용해 AI 영상 광고를 제작·업로드하는 챌린지입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-05T19:00:00+09:00"
-      },
-      {
-        "title": "무진장 성공 기원 AI 광고제",
-        "category": "AI 영상",
-        "organizer": "무신사",
-        "submission_start": "2026-05-15",
-        "submission_end": "2026-06-05",
-        "result_date": "2026-06-24 이후 예정",
-        "url": "https://www.the-pr.co.kr/news/articleView.html?idxno=61336",
-        "source_type": "reference_link",
-        "discovery_source": "brave",
-        "discovery_url": "https://www.the-pr.co.kr/news/articleView.html?idxno=61336",
-        "evidence": "참고 기사 기준 생성형 AI를 활용해 무신사 제공 키비주얼 이미지를 포함한 5~30초 AI 영상 콘텐츠 제작 및 앱 내 접수 명시.",
-        "summary": "무진장 여름 블랙프라이데이 흥행을 주제로 생성형 AI 숏폼 광고 영상을 제작하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-16T19:00:00+09:00"
       },
       {
         "title": "2026 새만금 인공지능(AI) 영상 공모전",
@@ -811,6 +795,22 @@
         "summary": "올리디아를 주제로 AI 세로형 숏폼 영상을 모집하는 29초영화제 계열 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-03T19:00:00+09:00"
+      },
+      {
+        "title": "무진장 성공 기원 AI 광고제",
+        "category": "AI 영상",
+        "organizer": "무신사",
+        "submission_start": "2026-05-15",
+        "submission_end": "2026-06-05",
+        "result_date": "2026-06-24 이후 예정",
+        "url": "https://www.the-pr.co.kr/news/articleView.html?idxno=61336",
+        "source_type": "reference_link",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.the-pr.co.kr/news/articleView.html?idxno=61336",
+        "evidence": "참고 기사 기준 생성형 AI를 활용해 무신사 제공 키비주얼 이미지를 포함한 5~30초 AI 영상 콘텐츠 제작 및 앱 내 접수 명시. 접수 마감일 2026-06-05 경과로 발표대기 전환.",
+        "summary": "무진장 여름 블랙프라이데이 흥행을 주제로 생성형 AI 숏폼 광고 영상을 제작한 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-06T19:00:00+09:00"
       }
     ]
   }
