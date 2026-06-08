@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T07:00:00+09:00",
+  "generated_at": "2026-06-09T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -72,6 +72,23 @@
         "source_checked_at": "2026-06-07T07:00:00+09:00"
       },
       {
+        "title": "AI International Film Festival – August 2026 Hollywood Edition",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "AI International Film Festival",
+        "submission_start": "2026-05-24",
+        "submission_end": "2026-06-21",
+        "result_date": "2026-06-26",
+        "url": "https://filmfreeway.com/AIinternationalFilmFestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "brave",
+        "discovery_url": "https://filmfreeway.com/AIinternationalFilmFestival",
+        "evidence": "FilmFreeway 공식 제출 페이지 검색 본문에서 AI International Film Festival의 2026년 8월 8일 Hollywood 행사 일정과 Opening Date 2026-05-24, Earlybird Deadline 2026-05-31, Regular Deadline 2026-06-21, Notification Date 2026-06-26이 확인됨. 해당 페이지는 AI Films, Hybrid AI Films 등 AI 영화 상영·공모 성격을 안내함.",
+        "summary": "할리우드에서 열리는 AI International Film Festival 8월 에디션. AI 및 하이브리드 AI 영화 작품을 6월 21일까지 접수.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-04T07:00:00+09:00"
+      },
+      {
         "title": "Kling AI Final Bell Creative Challenge",
         "category": "AI 영상",
         "country": "Global",
@@ -89,21 +106,21 @@
         "source_checked_at": "2026-06-08T07:00:00+09:00"
       },
       {
-        "title": "AI International Film Festival – August 2026 Hollywood Edition",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "AI International Film Festival",
-        "submission_start": "2026-05-24",
-        "submission_end": "2026-06-21",
-        "result_date": "2026-06-26",
-        "url": "https://filmfreeway.com/AIinternationalFilmFestival",
-        "source_type": "official_apply_page",
-        "discovery_source": "brave",
-        "discovery_url": "https://filmfreeway.com/AIinternationalFilmFestival",
-        "evidence": "FilmFreeway 공식 제출 페이지 검색 본문에서 AI International Film Festival의 2026년 8월 8일 Hollywood 행사 일정과 Opening Date 2026-05-24, Earlybird Deadline 2026-05-31, Regular Deadline 2026-06-21, Notification Date 2026-06-26이 확인됨. 해당 페이지는 AI Films, Hybrid AI Films 등 AI 영화 상영·공모 성격을 안내함.",
-        "summary": "할리우드에서 열리는 AI International Film Festival 8월 에디션. AI 및 하이브리드 AI 영화 작품을 6월 21일까지 접수.",
+        "title": "AI Futures Challenge 2026",
+        "category": "AI 콘텐츠",
+        "country": "Online",
+        "organizer": "Existential Hope",
+        "submission_start": "2026-05-04",
+        "submission_end": "2026-06-30",
+        "result_date": "2026-07-15",
+        "url": "https://worlds.existentialhope.com/#AIFutures",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.existentialhope.com/",
+        "evidence": "Existential Hope 공식 사이트가 $10,000 AI Futures Challenge 2026을 안내하며, AI가 긍정적으로 작동한 미래 세계를 구축하는 창작 과제와 2026-06-30 제출 마감을 명시함. ArtInfoLand 참고 페이지는 국제/온라인 참여, AI-assisted creative futures·AI-generated visuals·short video optional 제출 요건과 mid-July winner announcement를 보강 확인함.",
+        "summary": "AI가 잘 작동한 미래를 세계관·스토리·선택적 이미지/영상 미디어로 설계해 제출하는 온라인 국제 창작 챌린지.",
         "status": "진행중",
-        "source_checked_at": "2026-06-04T07:00:00+09:00"
+        "source_checked_at": "2026-06-09T07:00:00+09:00"
       },
       {
         "title": "AAIFF 2026 – Astana AI Film Festival",
