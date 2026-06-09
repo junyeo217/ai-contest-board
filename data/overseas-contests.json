@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T07:00:00+09:00",
+  "generated_at": "2026-06-10T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -121,6 +121,23 @@
         "summary": "AI가 잘 작동한 미래를 세계관·스토리·선택적 이미지/영상 미디어로 설계해 제출하는 온라인 국제 창작 챌린지.",
         "status": "진행중",
         "source_checked_at": "2026-06-09T07:00:00+09:00"
+      },
+      {
+        "title": "PARKOUR TOP OF JAPAN YOKOSUKA 2026 AI Creative Award",
+        "category": "AI 영상",
+        "country": "Japan",
+        "organizer": "Tokyo Gymnastics Association Parkour Committee / Euclid Solutions / Yokosuka City",
+        "submission_start": "2026-05-21",
+        "submission_end": "2026-07-21",
+        "result_date": "2026-09-15",
+        "url": "https://euclidsolutions.co.jp/contents/menu/170136",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://prtimes.jp/main/html/rd/p/000000581.000128894.html",
+        "evidence": "공식 페이지와 Yokosuka City PR TIMES 보도자료가 PARKOUR TOP OF JAPAN YOKOSUKA 2026의 PR 영상을 생성AI 기술로 제작해 모집한다고 안내함. 공식 페이지에서 2026-07-21 17:00 필착 마감, 45초 이내 16:9 영상, YouTube URL 제출 요건을 확인함. PR TIMES 보도자료는 Yokosuka City 연계 및 일반 참여 가능 콘테스트 성격을 보강함.",
+        "summary": "요코스카 파쿠르 대회 홍보를 위해 제공 소재를 바탕으로 생성AI 기술을 활용한 45초 이내 PR 영상을 모집하는 일본 AI 영상 공모전.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-10T07:00:00+09:00"
       },
       {
         "title": "AAIFF 2026 – Astana AI Film Festival",
