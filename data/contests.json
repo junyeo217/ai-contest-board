@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T19:00:00+09:00",
+  "generated_at": "2026-06-11T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -81,6 +81,22 @@
         "summary": "국유재산 바로 알기와 나라ON 사업 소개를 주제로 AI 활용 영상 또는 이미지 홍보 콘텐츠를 모집하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-05-28T19:00:00+09:00"
+      },
+      {
+        "title": "강릉 디지털 관광 캐릭터 프렌즈 AI 활용 공모전",
+        "category": "AI 디자인",
+        "organizer": "강릉관광개발공사·한국교육방송공사(EBS)",
+        "submission_start": "2026-06-05",
+        "submission_end": "2026-06-21",
+        "result_date": "미정",
+        "url": "https://kspnews.com/2685477",
+        "source_type": "reference_link",
+        "discovery_source": "brave",
+        "discovery_url": "https://kspnews.com/2685477",
+        "evidence": "참고 보도 기준 강릉 디지털 관광 캐릭터를 AI 기술로 발굴하며 캐릭터 디자인, 기획안, 강릉 문화·관광 자원 스토리 콘텐츠 제안을 요구한다고 명시.",
+        "summary": "강릉 관광을 대표할 신규 디지털 캐릭터를 AI 활용 디자인과 스토리 콘텐츠로 제안하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-11T19:00:00+09:00"
       },
       {
         "title": "2026 K-포럼 AI AD CREATION CHALLENGE",
@@ -235,6 +251,22 @@
         "summary": "대구 남구의 현재와 미래 발전상을 생성형 AI 기반 홍보 영상으로 표현하는 전국민 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-05-22T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 AI · 미디어콘텐츠공모전 'Signal_A'",
+        "category": "AI 영상",
+        "organizer": "시립서대문청소년센터",
+        "submission_start": "2026-06-04",
+        "submission_end": "2026-07-02",
+        "result_date": "2026-07-15 예정",
+        "url": "https://linkareer.com/activity/326481",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://linkareer.com/activity/326481",
+        "evidence": "링커리어 인증 공고 본문 기준 AI 활용 영상 부문은 생성형 AI 도구를 활용해 30초~3분 MP4 영상을 제작하며 사용 AI 도구명과 프롬프트 기재를 요구한다고 명시.",
+        "summary": "AI로 바뀐 우리의 일상을 주제로 청소년 대상 생성형 AI 활용 영상을 모집하는 미디어콘텐츠 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-11T19:00:00+09:00"
       },
       {
         "title": "제4회 퀴즈노스 AI 영상 광고 공모전",
@@ -475,22 +507,6 @@
         "source_checked_at": "2026-05-10T21:12:00+09:00"
       },
       {
-        "title": "2026년 AI 가상의류 디자인 공모전",
-        "category": "AI 디자인",
-        "organizer": "서울패션허브",
-        "submission_start": "2026-03-30",
-        "submission_end": "2026-05-10",
-        "result_date": "2026-06-10 예정",
-        "url": "https://linkareer.com/activity/312985",
-        "source_type": "reference_link",
-        "discovery_source": "tavily",
-        "discovery_url": "https://linkareer.com/activity/312985",
-        "evidence": "링커리어/서울패션허브 공고 본문 기준 생성형 AI를 활용한 서울 모티브 가상의류 디자인 출품, 시제품 제작 및 버추얼 패션쇼 연계 명시.",
-        "summary": "서울의 장소·일상·문화 모티브를 생성형 AI 기반 가상의류 디자인으로 표현하는 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-05-11T19:00:00+09:00"
-      },
-      {
         "title": "송파구 AI로 만드는 기후대응 숏폼 영상공모전",
         "category": "생성형 AI",
         "organizer": "송파구청 맑은환경과",
@@ -655,6 +671,22 @@
         "summary": "부여를 AI로 재해석한 자유 주제의 30초~3분 영상 콘텐츠를 모집합니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-05-21T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 AI 가상의류 디자인 공모전",
+        "category": "AI 디자인",
+        "organizer": "서울패션허브",
+        "submission_start": "2026-05-11",
+        "submission_end": "2026-05-20",
+        "result_date": "발표 미확인",
+        "url": "https://www.sungshin.ac.kr/cloth/12108/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY2xvdGglMkYzNDkyJTJGMTU1NDg5JTJGYXJ0Y2xWaWV3LmRvJTNG",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.sungshin.ac.kr/cloth/12108/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY2xvdGglMkYzNDkyJTJGMTU1NDg5JTJGYXJ0Y2xWaWV3LmRvJTNG",
+        "evidence": "서울패션허브 홍보 협조 공지 기준 생성형 AI 기반 패션디자인 공모전이며 가상의류 디자인, 시제품 제작, 버추얼 패션쇼 영상 제작 연계와 접수기간 2026년 5월 11일~5월 20일 24:00를 명시.",
+        "summary": "서울의 장소·일상·문화 모티브를 생성형 AI 기반 가상의류 디자인으로 표현하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-11T19:00:00+09:00"
       },
       {
         "title": "제12회 신한 29초영화제",
