@@ -1,8 +1,41 @@
 {
-  "generated_at": "2026-06-11T19:00:00+09:00",
+  "generated_at": "2026-06-12T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [],
+    "starting_today": [
+      {
+        "title": "AI 안전문화 확산 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "고용노동부 경기지방고용노동청·안전보건공단 경기광역본부",
+        "submission_start": "2026-06-12",
+        "submission_end": "2026-06-26",
+        "result_date": "미정",
+        "url": "https://www.moel.go.kr/local/gyeonggi/news/reportexplan/view.do?bbs_seq=20260600609",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.moel.go.kr/local/gyeonggi/news/reportexplan/view.do?bbs_seq=20260600609",
+        "evidence": "고용노동부 경기지방고용노동청 공식 보도자료 제목 및 참고 기사 기준 AI 안전문화 확산 영상 공모전, 2026년 6월 12일~6월 26일 진행 명시.",
+        "summary": "사업장 안전문화 확산과 산업재해 예방 메시지를 AI 영상으로 표현하는 공모전입니다.",
+        "status": "오늘 추가",
+        "source_checked_at": "2026-06-12T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 경상북도개발공사 AI 활용 디지털 콘텐츠 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "경상북도개발공사",
+        "submission_start": "2026-06-12",
+        "submission_end": "2026-07-19",
+        "result_date": "미정",
+        "url": "https://www.gbdc.co.kr/boardview/boardview.do?seqId=0000003726&BBS_ID=7a9f9b50-c906-46f9-82df-8892a989ff45&IPDS_IDX=eabda310-b13d-4644-a57f-e1ef8d6762d5&BBS_TYPE=L&COLM1=&COLM1_CD=&SEARCH_CONTITION=CPDS_SUBJECT_CONTENT&SEARCH_KEYWORD=&CURRENT_PAGE=1",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.gbdc.co.kr/boardview/boardview.do?seqId=0000003726&BBS_ID=7a9f9b50-c906-46f9-82df-8892a989ff45&IPDS_IDX=eabda310-b13d-4644-a57f-e1ef8d6762d5&BBS_TYPE=L&COLM1=&COLM1_CD=&SEARCH_CONTITION=CPDS_SUBJECT_CONTENT&SEARCH_KEYWORD=&CURRENT_PAGE=1",
+        "evidence": "경상북도개발공사 공식 공지 기준 공모분야에 영상형 콘텐츠와 이미지형 콘텐츠, 생성형 AI 기술 활용 조건 명시.",
+        "summary": "경상북도개발공사의 사업·분양 홍보를 주제로 생성형 AI 기반 영상형·이미지형 디지털 콘텐츠를 모집하는 공모전입니다.",
+        "status": "오늘 추가",
+        "source_checked_at": "2026-06-12T19:00:00+09:00"
+      }
+    ],
     "ongoing": [
       {
         "title": "제7회 기상청 달콤기후 공모전",
@@ -347,6 +380,22 @@
         "summary": "전국 초·중·고교 청소년이 AI·디지털 역기능 예방 캠페인을 영상, 카드뉴스·만화, 포스터로 표현하는 창작 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-08T19:00:00+09:00"
+      },
+      {
+        "title": "2026 충남 지역특화 AI음원·뮤직비디오 공모전",
+        "category": "AI 영상",
+        "organizer": "충남콘텐츠진흥원·충남음악창작소",
+        "submission_start": "2026-06-08",
+        "submission_end": "2026-07-22",
+        "result_date": "2026-08 중 예정",
+        "url": "https://www.chungnam.go.kr/cnportal/media/article/view.do?articleNo=MD0003408118&menuNo=500181",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.chungnam.go.kr/cnportal/media/article/view.do?articleNo=MD0003408118&menuNo=500181",
+        "evidence": "충청남도 공식 도정뉴스 기준 AI 기술을 활용한 창작 음원과 뮤직비디오 제작, 2026년 7월 22일까지 모집 및 8월 중 발표 명시.",
+        "summary": "충남 지역 특색과 문화를 반영한 AI 음원과 뮤직비디오를 함께 제작해 출품하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-12T19:00:00+09:00"
       },
       {
         "title": "2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
