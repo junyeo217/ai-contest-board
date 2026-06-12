@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T07:00:00+09:00",
+  "generated_at": "2026-06-13T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -138,6 +138,23 @@
         "summary": "요코스카 파쿠르 대회 홍보를 위해 제공 소재를 바탕으로 생성AI 기술을 활용한 45초 이내 PR 영상을 모집하는 일본 AI 영상 공모전.",
         "status": "진행중",
         "source_checked_at": "2026-06-12T07:00:00+09:00"
+      },
+      {
+        "title": "Shortest AI Film Competition by LTX Studio 2026",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "Forward Festival / LTX Studio",
+        "submission_start": "2026-05-28",
+        "submission_end": "2026-08-10",
+        "result_date": "2026-08-14",
+        "url": "https://www.forward-festival.com/page/ai-shortest-film-competition-by-ltx",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.forward-festival.com/page/ai-shortest-film-competition-by-ltx",
+        "evidence": "Forward Festival 공식 페이지가 LTX Studio와 함께 Shortest AI Film Competition을 운영하며, LTX로 제작한 60초 이하 AI 단편 영화를 모집하고 Forward Festival Berlin에서 상영한다고 안내함. 공식 약관에서 Contest Period가 2026-05-28~2026-06-28로 확인되고, Forward Festival 공식 Instagram 공지 및 LTX Studio 연계 페이지에서 제출 마감이 2026-08-10으로 연장되었으며 2026-08-14 수상자 연락, 2026-08-28 베를린 상영 일정을 확인함.",
+        "summary": "LTX Studio로 제작한 60초 이하 AI 단편 영화를 모집하는 Forward Festival 연계 국제 AI 영상 공모전.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-13T07:00:00+09:00"
       },
       {
         "title": "AAIFF 2026 – Astana AI Film Festival",
