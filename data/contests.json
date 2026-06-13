@@ -1,56 +1,9 @@
 {
-  "generated_at": "2026-06-12T19:00:00+09:00",
+  "generated_at": "2026-06-13T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [
-      {
-        "title": "AI 안전문화 확산 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "고용노동부 경기지방고용노동청·안전보건공단 경기광역본부",
-        "submission_start": "2026-06-12",
-        "submission_end": "2026-06-26",
-        "result_date": "미정",
-        "url": "https://www.moel.go.kr/local/gyeonggi/news/reportexplan/view.do?bbs_seq=20260600609",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.moel.go.kr/local/gyeonggi/news/reportexplan/view.do?bbs_seq=20260600609",
-        "evidence": "고용노동부 경기지방고용노동청 공식 보도자료 제목 및 참고 기사 기준 AI 안전문화 확산 영상 공모전, 2026년 6월 12일~6월 26일 진행 명시.",
-        "summary": "사업장 안전문화 확산과 산업재해 예방 메시지를 AI 영상으로 표현하는 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-06-12T19:00:00+09:00"
-      },
-      {
-        "title": "2026년 경상북도개발공사 AI 활용 디지털 콘텐츠 공모전",
-        "category": "AI 이미지·영상",
-        "organizer": "경상북도개발공사",
-        "submission_start": "2026-06-12",
-        "submission_end": "2026-07-19",
-        "result_date": "미정",
-        "url": "https://www.gbdc.co.kr/boardview/boardview.do?seqId=0000003726&BBS_ID=7a9f9b50-c906-46f9-82df-8892a989ff45&IPDS_IDX=eabda310-b13d-4644-a57f-e1ef8d6762d5&BBS_TYPE=L&COLM1=&COLM1_CD=&SEARCH_CONTITION=CPDS_SUBJECT_CONTENT&SEARCH_KEYWORD=&CURRENT_PAGE=1",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.gbdc.co.kr/boardview/boardview.do?seqId=0000003726&BBS_ID=7a9f9b50-c906-46f9-82df-8892a989ff45&IPDS_IDX=eabda310-b13d-4644-a57f-e1ef8d6762d5&BBS_TYPE=L&COLM1=&COLM1_CD=&SEARCH_CONTITION=CPDS_SUBJECT_CONTENT&SEARCH_KEYWORD=&CURRENT_PAGE=1",
-        "evidence": "경상북도개발공사 공식 공지 기준 공모분야에 영상형 콘텐츠와 이미지형 콘텐츠, 생성형 AI 기술 활용 조건 명시.",
-        "summary": "경상북도개발공사의 사업·분양 홍보를 주제로 생성형 AI 기반 영상형·이미지형 디지털 콘텐츠를 모집하는 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-06-12T19:00:00+09:00"
-      }
-    ],
+    "starting_today": [],
     "ongoing": [
-      {
-        "title": "제7회 기상청 달콤기후 공모전",
-        "category": "AI 영상",
-        "organizer": "기상청",
-        "submission_start": "2026-04-23",
-        "submission_end": "2026-06-12",
-        "result_date": "2026-07-22",
-        "url": "https://www.climate.go.kr/home/bbs/view.php?code=11&bname=notice&vcode=7138&cpage=1&vNum=105&skind=&sword=&category1=&category2=",
-        "source_type": "official_notice",
-        "evidence": "Crowlly/공식 공지 기준 영상 부문은 생성형 AI 숏폼, 디자인·4행시는 AI 활용 불가로 구분 명시.",
-        "summary": "기후변화과학 주제를 생성형 AI 숏폼 영상 등으로 표현하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
       {
         "title": "사조 AI 숏폼 공모전",
         "category": "생성형 AI",
@@ -176,6 +129,22 @@
         "summary": "중진공의 청렴 문화를 주제로 생성형 AI 기반 숏폼 영상을 모집하는 전 국민 공모전입니다.",
         "source_checked_at": "2026-05-27T19:00:00+09:00",
         "status": "진행중"
+      },
+      {
+        "title": "AI 안전문화 확산 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "고용노동부 경기지방고용노동청·안전보건공단 경기광역본부",
+        "submission_start": "2026-06-12",
+        "submission_end": "2026-06-26",
+        "result_date": "미정",
+        "url": "https://www.moel.go.kr/local/gyeonggi/news/reportexplan/view.do?bbs_seq=20260600609",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.moel.go.kr/local/gyeonggi/news/reportexplan/view.do?bbs_seq=20260600609",
+        "evidence": "고용노동부 경기지방고용노동청 공식 보도자료 제목 및 참고 기사 기준 AI 안전문화 확산 영상 공모전, 2026년 6월 12일~6월 26일 진행 명시.",
+        "summary": "사업장 안전문화 확산과 산업재해 예방 메시지를 AI 영상으로 표현하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-13T19:00:00+09:00"
       },
       {
         "title": "2026 경북 국제 AI·메타버스 영상 공모전",
@@ -348,6 +317,22 @@
         "summary": "생성형 AI 기반 영화·영상 콘텐츠를 모집하는 경기콘텐츠진흥원 주관 어워즈입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-02T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 경상북도개발공사 AI 활용 디지털 콘텐츠 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "경상북도개발공사",
+        "submission_start": "2026-06-12",
+        "submission_end": "2026-07-19",
+        "result_date": "미정",
+        "url": "https://www.gbdc.co.kr/boardview/boardview.do?seqId=0000003726&BBS_ID=7a9f9b50-c906-46f9-82df-8892a989ff45&IPDS_IDX=eabda310-b13d-4644-a57f-e1ef8d6762d5&BBS_TYPE=L&COLM1=&COLM1_CD=&SEARCH_CONTITION=CPDS_SUBJECT_CONTENT&SEARCH_KEYWORD=&CURRENT_PAGE=1",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.gbdc.co.kr/boardview/boardview.do?seqId=0000003726&BBS_ID=7a9f9b50-c906-46f9-82df-8892a989ff45&IPDS_IDX=eabda310-b13d-4644-a57f-e1ef8d6762d5&BBS_TYPE=L&COLM1=&COLM1_CD=&SEARCH_CONTITION=CPDS_SUBJECT_CONTENT&SEARCH_KEYWORD=&CURRENT_PAGE=1",
+        "evidence": "경상북도개발공사 공식 공지 기준 공모분야에 영상형 콘텐츠와 이미지형 콘텐츠, 생성형 AI 기술 활용 조건 명시.",
+        "summary": "경상북도개발공사의 사업·분양 홍보를 주제로 생성형 AI 기반 영상형·이미지형 디지털 콘텐츠를 모집하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-13T19:00:00+09:00"
       },
       {
         "title": "제1회 코리아 숏드라마 어워즈",
@@ -678,20 +663,6 @@
         "source_checked_at": "2026-05-20T19:00:00+09:00"
       },
       {
-        "title": "2026년 상주시 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "상주시",
-        "submission_start": "2026-04-06",
-        "submission_end": "2026-05-20",
-        "result_date": "2026-07-02",
-        "url": "https://sangju-aicontest.imweb.me/",
-        "source_type": "official_homepage",
-        "evidence": "Crowlly/공식 페이지 기준 생성형 AI 영상 부문, 15초 이상 3분 미만, AI 활용 증빙 가능 명시.",
-        "summary": "상주의 관광·축제·특산물 매력을 생성형 AI 영상으로 담는 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-05-21T19:00:00+09:00"
-      },
-      {
         "title": "2026 국토교통기술대전 AI 영상 공모전",
         "category": "AI 영상",
         "organizer": "국토교통과학기술진흥원",
@@ -718,6 +689,20 @@
         "discovery_url": "https://www.buyeo.go.kr/html/kr/news/news_040202.html?mode=V&mng_no=1998450",
         "evidence": "부여군 공식 고시공고에 ‘부여를 AI로 재해석’ 및 30초~3분 영상 콘텐츠, FHD 16:9/9:16 규격 명시.",
         "summary": "부여를 AI로 재해석한 자유 주제의 30초~3분 영상 콘텐츠를 모집합니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-05-21T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 상주시 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "상주시",
+        "submission_start": "2026-04-06",
+        "submission_end": "2026-05-20",
+        "result_date": "2026-07-02",
+        "url": "https://sangju-aicontest.imweb.me/",
+        "source_type": "official_homepage",
+        "evidence": "Crowlly/공식 페이지 기준 생성형 AI 영상 부문, 15초 이상 3분 미만, AI 활용 증빙 가능 명시.",
+        "summary": "상주의 관광·축제·특산물 매력을 생성형 AI 영상으로 담는 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-05-21T19:00:00+09:00"
       },
@@ -800,20 +785,6 @@
         "status": "발표 대기"
       },
       {
-        "title": "2026년 제1회 미추홀구 AI 영화제 공모전",
-        "category": "AI 영상",
-        "organizer": "미추홀구",
-        "submission_start": "2026-02-02",
-        "submission_end": "2026-05-29",
-        "result_date": "2026-09-01",
-        "url": "https://www.michuhol.go.kr/main/board/view.do?sq=300733&board_code=board_13&search=",
-        "source_type": "official_notice",
-        "evidence": "Tavily 공식 고시/링커리어 기준 AI 기술을 부분 또는 전체 활용한 3~5분 AI 영화, MP4 16:9 FHD 이상 명시.",
-        "summary": "자유 주제의 3~5분 AI 영화를 모집하는 미추홀구 AI 영화제 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-05-30T19:01:54+09:00"
-      },
-      {
         "title": "2026 정선 여행 AI 영상 광고 공모전",
         "category": "AI 영상",
         "organizer": "정선군청·이엠케이미디어",
@@ -828,6 +799,20 @@
         "source_checked_at": "2026-05-30T19:01:54+09:00"
       },
       {
+        "title": "2026년 제1회 미추홀구 AI 영화제 공모전",
+        "category": "AI 영상",
+        "organizer": "미추홀구",
+        "submission_start": "2026-02-02",
+        "submission_end": "2026-05-29",
+        "result_date": "2026-09-01",
+        "url": "https://www.michuhol.go.kr/main/board/view.do?sq=300733&board_code=board_13&search=",
+        "source_type": "official_notice",
+        "evidence": "Tavily 공식 고시/링커리어 기준 AI 기술을 부분 또는 전체 활용한 3~5분 AI 영화, MP4 16:9 FHD 이상 명시.",
+        "summary": "자유 주제의 3~5분 AI 영화를 모집하는 미추홀구 AI 영화제 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-05-30T19:01:54+09:00"
+      },
+      {
         "title": "2026 대한민국 AI 콘텐츠 페스티벌 (KAiCF)",
         "category": "AI 영상",
         "organizer": "초록뱀미디어·티엔엔터테인먼트",
@@ -838,36 +823,6 @@
         "source_type": "official_homepage",
         "evidence": "공식 Notion/Crowlly 기준 광고·드라마·뮤직비디오 AI 영상 부문, MP4 FHD 이상, 부문별 마감 명시.",
         "summary": "광고·드라마·뮤직비디오 등 AI 기반 영상 콘텐츠를 모집하는 대형 페스티벌입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-01T19:00:00+09:00"
-      },
-      {
-        "title": "전국민 AI 경진대회 홍보영상 숏폼 챌린지",
-        "category": "AI 영상",
-        "organizer": "과학기술정보통신부",
-        "submission_start": "2026-05-01",
-        "submission_end": "2026-05-31",
-        "result_date": "미정",
-        "url": "https://aichallenge4all.or.kr/promotional-video",
-        "source_type": "official_homepage",
-        "evidence": "Crowlly/공식 페이지 기준 AI와 창의력으로 전국민 AI 경진대회를 홍보하는 20~60초 숏폼 영상 명시.",
-        "summary": "전국민 AI 경진대회를 홍보하는 AI 영상 관심자 대상 숏폼 챌린지입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-01T19:00:00+09:00"
-      },
-      {
-        "title": "제8회 교육 공공데이터 AI활용대회",
-        "category": "AI 영상",
-        "organizer": "교육부·시도교육청·한국교육학술정보원 등",
-        "submission_start": "2026-05-01",
-        "submission_end": "2026-05-31",
-        "result_date": "미정",
-        "url": "https://www.2026edudataaicontest.com/",
-        "source_type": "official_homepage",
-        "discovery_source": "brave",
-        "discovery_url": "https://www.2026edudataaicontest.com/",
-        "evidence": "공식 FAQ 기준 초등 학생부 공모 분야에 AI 활용 소속학교 홍보영상 제작 명시, 작품 접수 2026년 5월 1일~5월 31일 확인.",
-        "summary": "교육 공공데이터와 AI를 활용하는 대회 중 초등 학생부 홍보영상 부문이 포함된 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-01T19:00:00+09:00"
       },
@@ -898,6 +853,36 @@
         "source_type": "official_notice",
         "evidence": "공식/Crowlly 기준 생성형 AI 툴 활용 내역·프롬프트·작업 과정 제출, 1분 내외 세로 숏폼 영상 명시.",
         "summary": "AI로 만나는 순천의 미래 모습을 9:16 숏폼 영상으로 제작하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-01T19:00:00+09:00"
+      },
+      {
+        "title": "전국민 AI 경진대회 홍보영상 숏폼 챌린지",
+        "category": "AI 영상",
+        "organizer": "과학기술정보통신부",
+        "submission_start": "2026-05-01",
+        "submission_end": "2026-05-31",
+        "result_date": "미정",
+        "url": "https://aichallenge4all.or.kr/promotional-video",
+        "source_type": "official_homepage",
+        "evidence": "Crowlly/공식 페이지 기준 AI와 창의력으로 전국민 AI 경진대회를 홍보하는 20~60초 숏폼 영상 명시.",
+        "summary": "전국민 AI 경진대회를 홍보하는 AI 영상 관심자 대상 숏폼 챌린지입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-01T19:00:00+09:00"
+      },
+      {
+        "title": "제8회 교육 공공데이터 AI활용대회",
+        "category": "AI 영상",
+        "organizer": "교육부·시도교육청·한국교육학술정보원 등",
+        "submission_start": "2026-05-01",
+        "submission_end": "2026-05-31",
+        "result_date": "미정",
+        "url": "https://www.2026edudataaicontest.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.2026edudataaicontest.com/",
+        "evidence": "공식 FAQ 기준 초등 학생부 공모 분야에 AI 활용 소속학교 홍보영상 제작 명시, 작품 접수 2026년 5월 1일~5월 31일 확인.",
+        "summary": "교육 공공데이터와 AI를 활용하는 대회 중 초등 학생부 홍보영상 부문이 포함된 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-01T19:00:00+09:00"
       },
@@ -974,6 +959,20 @@
         "summary": "KT Y 브랜드와 함께 성장할 생성형 AI 영상 크리에이터를 모집합니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-09T19:00:00+09:00"
+      },
+      {
+        "title": "제7회 기상청 달콤기후 공모전",
+        "category": "AI 영상",
+        "organizer": "기상청",
+        "submission_start": "2026-04-23",
+        "submission_end": "2026-06-12",
+        "result_date": "2026-07-22",
+        "url": "https://www.climate.go.kr/home/bbs/view.php?code=11&bname=notice&vcode=7138&cpage=1&vNum=105&skind=&sword=&category1=&category2=",
+        "source_type": "official_notice",
+        "evidence": "Crowlly/공식 공지 기준 영상 부문은 생성형 AI 숏폼, 디자인·4행시는 AI 활용 불가로 구분 명시.",
+        "summary": "기후변화과학 주제를 생성형 AI 숏폼 영상 등으로 표현하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-13T19:00:00+09:00"
       }
     ]
   }
