@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T19:00:00+09:00",
+  "generated_at": "2026-06-14T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -351,6 +351,22 @@
         "source_checked_at": "2026-06-04T19:00:00+09:00"
       },
       {
+        "title": "“물·에너지·인공지능(AI)” 청소년 짧은 영상(숏폼) 공모전",
+        "category": "AI 영상",
+        "organizer": "기후에너지환경부·대구광역시·K-water·한국환경공단·한국수력원자력 / 한국물포럼",
+        "submission_start": "2026-06-10",
+        "submission_end": "2026-07-19",
+        "result_date": "2026-09 행사 현장 투표 및 심사 예정",
+        "url": "https://www.kiww.org/board/board_basic_news_type01/board_detail.asp?scrID=0000000219&pageNum=4&subNum=1&ssubNum=1&bd_num=00000002192026000002",
+        "source_type": "official_notice",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://www.kiww.org/",
+        "evidence": "공식 공지의 주요내용에 물과 에너지·AI를 연계한 생각과 아이디어를 30~60초 짧은 영상(숏폼)으로 표현, AI 활용 제작 가능 명시.",
+        "summary": "물·에너지·AI를 주제로 9~18세 청소년이 30~60초 숏폼 영상을 제작해 제출하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-14T19:00:00+09:00"
+      },
+      {
         "title": "2026 바른 AI·디지털 생활 창작 공모전",
         "category": "AI 이미지·영상",
         "organizer": "LG헬로비전 / 시청자미디어재단 / 한국지능정보사회진흥원",
@@ -509,6 +525,22 @@
         "summary": "안전한 AI와 디지털윤리를 주제로 포스터, 카드뉴스, 웹툰, 영상 등 창작콘텐츠를 모집합니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-02T19:00:00+09:00"
+      },
+      {
+        "title": "2026 대한민국 환경사랑공모전 AI 일러스트레이션 부문",
+        "category": "AI 이미지",
+        "organizer": "한국환경공단",
+        "submission_start": "2026-06-08",
+        "submission_end": "2026-08-03",
+        "result_date": "2026-09 중 예정",
+        "url": "https://xn--289a5d925ap8c64jnzlpiz.kr/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave/tavily",
+        "discovery_url": "https://xn--289a5d925ap8c64jnzlpiz.kr/",
+        "evidence": "공식 홈페이지 공모요강에 일러스트레이션 AI부, 환경보전 메시지가 담긴 창작 이미지 접수 명시.",
+        "summary": "환경보전 메시지를 담은 창작 이미지를 접수하는 대한민국 환경사랑공모전의 AI 일러스트레이션 부문입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-14T19:00:00+09:00"
       }
     ],
     "awaiting_results": [
@@ -783,20 +815,6 @@
         "summary": "웅진식품 신제품 생차 브랜드 메시지를 AI 숏필름으로 표현하는 공모전입니다.",
         "source_checked_at": "2026-05-29T19:39:00+09:00",
         "status": "발표 대기"
-      },
-      {
-        "title": "2026 정선 여행 AI 영상 광고 공모전",
-        "category": "AI 영상",
-        "organizer": "정선군청·이엠케이미디어",
-        "submission_start": "2026-05-04",
-        "submission_end": "2026-05-29",
-        "result_date": "2026-06-08",
-        "url": "https://jeongseoncontest.com/about/guide.php",
-        "source_type": "official_homepage",
-        "evidence": "공식/ Crowlly 기준 생성형 AI 기술로 60초 FHD 16:9 여행 광고 영상 제작, 유튜브 링크 제출 명시.",
-        "summary": "정선 여행의 매력을 생성형 AI 기반 60초 광고 영상으로 표현하는 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-05-30T19:01:54+09:00"
       },
       {
         "title": "2026년 제1회 미추홀구 AI 영화제 공모전",
