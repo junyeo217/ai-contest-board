@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T07:00:00+09:00",
+  "generated_at": "2026-06-16T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -499,23 +499,6 @@
         "source_checked_at": "2026-06-12T07:00:00+09:00"
       },
       {
-        "title": "iFilm First 30 in May",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "iFilm / Troy Zam, LLC",
-        "submission_start": "2026-05-01",
-        "submission_end": "2026-05-31",
-        "result_date": "2026-06-14",
-        "url": "https://www.ifilm.com/contest-rules",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.ifilm.com/contest-rules",
-        "evidence": "공식 iFilm First 30 in May Contest Rules가 2026-05-01 12:01 AM PST부터 2026-05-31 11:59 PM PST 또는 첫 30개 유효 출품 도달 전까지 AI-generated short film을 접수한다고 명시함. 미국 합법 거주자 18세 이상 대상이며 수상자는 첫 30개 출품 또는 2026-06-14 중 늦은 시점 이후 14일 내 이메일 통보 예정이라, 2026-06-01 서울 기준 접수 종료 후 발표 대기로 분류함.",
-        "summary": "미국 거주자를 대상으로 5월 중 AI 생성 단편영화 첫 30개 제출작을 받는 iFilm 스킬 기반 공모.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-15T07:00:00+09:00"
-      },
-      {
         "title": "Reply AI Film Festival 2026",
         "category": "AI 영상",
         "country": "International",
@@ -548,6 +531,23 @@
         "summary": "도쿄 무사시노 지역의 미래를 주제로 AI를 활용한 영상 작품을 모집하는 일본 AI 영상 공모전.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-15T07:00:00+09:00"
+      },
+      {
+        "title": "Picsart Happy Horse Awards",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Picsart / Alibaba Cloud",
+        "submission_start": "2026-05-26",
+        "submission_end": "2026-06-14",
+        "result_date": "2026-07-03",
+        "url": "https://picsart.com/happy-horse-awards/",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://picsart.com/happy-horse-official-rules/",
+        "evidence": "Picsart 공식 Happy Horse Awards 규칙 페이지가 2026-05-26 10:30 GMT+8부터 2026-06-14 23:59 PST까지의 Submission Period, 글로벌 참가 가능 조건, Picsart 플랫폼과 Alibaba Happy Horse 1.0 모델로 만든 15초~5분 세로 AI 영상 제출 요건, 2026-06-15~2026-07-02 심사 및 2026-07-03 전후 수상자 발표 일정을 명시함.",
+        "summary": "Picsart와 Alibaba Cloud가 Happy Horse 1.0 모델을 활용한 글로벌 AI 숏폼 영상 작품을 모집한 공식 플랫폼 콘테스트.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-16T07:00:00+09:00"
       }
     ]
   }
