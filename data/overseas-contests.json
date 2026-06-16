@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T07:00:00+09:00",
+  "generated_at": "2026-06-17T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -145,16 +145,16 @@
         "country": "International",
         "organizer": "Forward Festival / LTX Studio",
         "submission_start": "2026-05-28",
-        "submission_end": "2026-08-10",
-        "result_date": "2026-08-14",
+        "submission_end": "2026-06-28",
+        "result_date": "2026-08-27",
         "url": "https://www.forward-festival.com/page/ai-shortest-film-competition-by-ltx",
         "source_type": "official_notice",
         "discovery_source": "tavily",
         "discovery_url": "https://www.forward-festival.com/page/ai-shortest-film-competition-by-ltx",
-        "evidence": "Forward Festival 공식 페이지가 LTX Studio와 함께 Shortest AI Film Competition을 운영하며, LTX로 제작한 60초 이하 AI 단편 영화를 모집하고 Forward Festival Berlin에서 상영한다고 안내함. 공식 약관에서 Contest Period가 2026-05-28~2026-06-28로 확인되고, Forward Festival 공식 Instagram 공지 및 LTX Studio 연계 페이지에서 제출 마감이 2026-08-10으로 연장되었으며 2026-08-14 수상자 연락, 2026-08-28 베를린 상영 일정을 확인함.",
+        "evidence": "Forward Festival 공식 페이지가 LTX Studio와 함께 Shortest AI Film Competition을 운영하며, LTX로 제작한 60초 이하 AI 단편 영화를 모집하고 Forward Festival Berlin에서 상영한다고 안내함. 공식 페이지에서 누구나 어디서든 제출 가능하며, 접수는 2026-06-28까지이고 우수작은 2026-08-27~2026-08-28 Forward Festival Berlin의 Shortest AI Film Festival에서 상영된다고 확인함.",
         "summary": "LTX Studio로 제작한 60초 이하 AI 단편 영화를 모집하는 Forward Festival 연계 국제 AI 영상 공모전.",
         "status": "진행중",
-        "source_checked_at": "2026-06-13T07:00:00+09:00"
+        "source_checked_at": "2026-06-17T07:00:00+09:00"
       },
       {
         "title": "Future Vision XPRIZE",
