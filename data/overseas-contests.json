@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T07:00:00+09:00",
+  "generated_at": "2026-06-18T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -38,23 +38,6 @@
     "starting_today": [],
     "ongoing": [
       {
-        "title": "Kling AI Anniversary II Creation Showreel Contest",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "Kling AI",
-        "submission_start": "2026-06-03",
-        "submission_end": "2026-06-17",
-        "result_date": "미정",
-        "url": "https://kling.ai/app/activity-zone?id=886046617420963861&ac=2",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://kling.ai/app/activity-zone?id=886046617420963861&ac=2",
-        "evidence": "Kling AI 공식 Events 페이지와 공식 X 공지가 Anniversary II Creation Showreel Contest를 안내하며, Kling AI로 만든 Anniversary Memories 또는 Creation Showreel 제출을 요구하고 접수 기간을 2026-06-03~2026-06-17 Pacific Time으로 명시함.",
-        "summary": "Kling AI 2주년을 기념해 Kling AI로 제작한 쇼릴/기념 영상을 모집하는 공식 플랫폼 콘테스트.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-12T07:00:00+09:00"
-      },
-      {
         "title": "AI International Film Festival – August 2026 Hollywood Edition",
         "category": "AI 영상",
         "country": "United States",
@@ -87,6 +70,23 @@
         "summary": "Kling AI 공식 이벤트 영역에서 진행되는 글로벌 AI 영상 창작 챌린지. 6월 25일까지 접수하고 7월 23일 수상자를 발표할 예정.",
         "status": "진행중",
         "source_checked_at": "2026-06-12T07:00:00+09:00"
+      },
+      {
+        "title": "Shortest AI Film Competition by LTX Studio 2026",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "Forward Festival / LTX Studio",
+        "submission_start": "2026-05-28",
+        "submission_end": "2026-06-28",
+        "result_date": "2026-08-27",
+        "url": "https://www.forward-festival.com/page/ai-shortest-film-competition-by-ltx",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.forward-festival.com/page/ai-shortest-film-competition-by-ltx",
+        "evidence": "Forward Festival 공식 페이지가 LTX Studio와 함께 Shortest AI Film Competition을 운영하며, LTX로 제작한 60초 이하 AI 단편 영화를 모집하고 Forward Festival Berlin에서 상영한다고 안내함. 공식 페이지에서 누구나 어디서든 제출 가능하며, 접수는 2026-06-28까지이고 우수작은 2026-08-27~2026-08-28 Forward Festival Berlin의 Shortest AI Film Festival에서 상영된다고 확인함.",
+        "summary": "LTX Studio로 제작한 60초 이하 AI 단편 영화를 모집하는 Forward Festival 연계 국제 AI 영상 공모전.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-17T07:00:00+09:00"
       },
       {
         "title": "AI Futures Challenge 2026",
@@ -140,21 +140,21 @@
         "source_checked_at": "2026-06-15T07:00:00+09:00"
       },
       {
-        "title": "Shortest AI Film Competition by LTX Studio 2026",
+        "title": "AAIFF 2026 – Astana AI Film Festival",
         "category": "AI 영상",
         "country": "International",
-        "organizer": "Forward Festival / LTX Studio",
-        "submission_start": "2026-05-28",
-        "submission_end": "2026-06-28",
-        "result_date": "2026-08-27",
-        "url": "https://www.forward-festival.com/page/ai-shortest-film-competition-by-ltx",
-        "source_type": "official_notice",
+        "organizer": "Astana AI Film Festival",
+        "submission_start": "2026-05-24",
+        "submission_end": "2026-08-15",
+        "result_date": "2026-09-15",
+        "url": "https://aaiff.ai/",
+        "source_type": "official_homepage",
         "discovery_source": "tavily",
-        "discovery_url": "https://www.forward-festival.com/page/ai-shortest-film-competition-by-ltx",
-        "evidence": "Forward Festival 공식 페이지가 LTX Studio와 함께 Shortest AI Film Competition을 운영하며, LTX로 제작한 60초 이하 AI 단편 영화를 모집하고 Forward Festival Berlin에서 상영한다고 안내함. 공식 페이지에서 누구나 어디서든 제출 가능하며, 접수는 2026-06-28까지이고 우수작은 2026-08-27~2026-08-28 Forward Festival Berlin의 Shortest AI Film Festival에서 상영된다고 확인함.",
-        "summary": "LTX Studio로 제작한 60초 이하 AI 단편 영화를 모집하는 Forward Festival 연계 국제 AI 영상 공모전.",
+        "discovery_url": "https://www.gov.kz/memleket/entities/mfa-seoul/press/news/details/1229303?lang=en",
+        "evidence": "공식 AAIFF 홈페이지가 Astana AI Film Festival을 AI로 제작된 영화 전용 국제 영화제로 설명하고, Open call 2026-05-24~2026-08-15 및 Astana 개최 일정을 표시함. Tavily로 확인한 정부 공지 역시 전 세계 창작자 대상 국제 AI 영화 공모이며 2026-08-15까지 제출 가능하다고 안내함.",
+        "summary": "AI로 제작된 영화를 모집하는 아스타나 국제 AI 영화제. 8월 15일까지 무료 접수.",
         "status": "진행중",
-        "source_checked_at": "2026-06-17T07:00:00+09:00"
+        "source_checked_at": "2026-06-12T07:00:00+09:00"
       },
       {
         "title": "Future Vision XPRIZE",
@@ -170,23 +170,6 @@
         "discovery_url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
         "evidence": "공식 홈페이지가 creators anywhere on Earth 대상 $3.5M+ sci-fi film competition으로 설명하고, 3분 이하 SF 트레일러를 모집한다고 명시. 2026-05-19 재확인 시 일정은 Launch Date 2026-03-09, Final submission deadline 2026-08-15, Finals 2026-09-25로 공지됨.",
         "summary": "기술 낙관적 미래를 그리는 3분 이하 SF 트레일러 글로벌 공모전. AI 영상 도구 활용 가능.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-12T07:00:00+09:00"
-      },
-      {
-        "title": "AAIFF 2026 – Astana AI Film Festival",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "Astana AI Film Festival",
-        "submission_start": "2026-05-24",
-        "submission_end": "2026-08-15",
-        "result_date": "2026-09-15",
-        "url": "https://aaiff.ai/",
-        "source_type": "official_homepage",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.gov.kz/memleket/entities/mfa-seoul/press/news/details/1229303?lang=en",
-        "evidence": "공식 AAIFF 홈페이지가 Astana AI Film Festival을 AI로 제작된 영화 전용 국제 영화제로 설명하고, Open call 2026-05-24~2026-08-15 및 Astana 개최 일정을 표시함. Tavily로 확인한 정부 공지 역시 전 세계 창작자 대상 국제 AI 영화 공모이며 2026-08-15까지 제출 가능하다고 안내함.",
-        "summary": "AI로 제작된 영화를 모집하는 아스타나 국제 AI 영화제. 8월 15일까지 무료 접수.",
         "status": "진행중",
         "source_checked_at": "2026-06-12T07:00:00+09:00"
       },
@@ -548,6 +531,23 @@
         "summary": "Picsart와 Alibaba Cloud가 Happy Horse 1.0 모델을 활용한 글로벌 AI 숏폼 영상 작품을 모집한 공식 플랫폼 콘테스트.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-16T07:00:00+09:00"
+      },
+      {
+        "title": "Kling AI Anniversary II Creation Showreel Contest",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Kling AI",
+        "submission_start": "2026-06-03",
+        "submission_end": "2026-06-17",
+        "result_date": "미정",
+        "url": "https://kling.ai/app/activity-zone?id=886046617420963861&ac=2",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://kling.ai/app/activity-zone?id=886046617420963861&ac=2",
+        "evidence": "Kling AI 공식 Events 페이지와 공식 X 공지가 Anniversary II Creation Showreel Contest를 안내하며, Kling AI로 만든 Anniversary Memories 또는 Creation Showreel 제출을 요구하고 접수 기간을 2026-06-03~2026-06-17 Pacific Time으로 명시함. 2026-06-18 확인 기준 접수 마감일이 지나 결과 발표 전으로 분류함.",
+        "summary": "Kling AI 2주년을 기념해 Kling AI로 제작한 쇼릴/기념 영상을 모집하는 공식 플랫폼 콘테스트.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-18T07:00:00+09:00"
       }
     ]
   }
