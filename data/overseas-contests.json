@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T07:00:00+09:00",
+  "generated_at": "2026-06-20T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -548,6 +548,23 @@
         "summary": "Kling AI 2주년을 기념해 Kling AI로 제작한 쇼릴/기념 영상을 모집하는 공식 플랫폼 콘테스트.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-18T07:00:00+09:00"
+      },
+      {
+        "title": "Reply AI Music Contest 2026",
+        "category": "AI 콘텐츠",
+        "country": "International",
+        "organizer": "Reply / Reply AI Studios",
+        "submission_start": "2026-05-10",
+        "submission_end": "2026-06-02",
+        "result_date": "2026-07-03",
+        "url": "https://challenges.reply.com/challenges/creative/ai-music-contest/home/",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://challenges.reply.com/challenges/creative/ai-music-contest/home/",
+        "evidence": "Reply Challenges 공식 페이지가 Reply AI Music Contest를 AI 기반 음악 라이브 퍼포먼스 공모로 안내하며, AI가 음악·비주얼·사운드·시각효과 등을 생성할 수 있고 제출물은 AI로 생성 또는 보강된 1~10분 퍼포먼스여야 한다고 명시함. 공식 페이지에서 Call for Submissions 마감이 2026-06-02로 연장됐고, 선정자는 2026-07-03~2026-07-05 Turin Kappa FuturFestival 무대에서 라이브 퍼포먼스를 진행한다고 확인됨.",
+        "summary": "AI로 생성 또는 보강한 라이브 퍼포먼스를 모집한 Reply 공식 국제 창작 공모. 접수 종료 후 7월 Kappa FuturFestival 무대 선정/발표 대기 단계.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-20T07:00:00+09:00"
       }
     ]
   }
