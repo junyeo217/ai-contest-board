@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T19:00:00+09:00",
+  "generated_at": "2026-06-19T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -543,6 +543,22 @@
         "source_checked_at": "2026-06-18T19:00:00+09:00"
       },
       {
+        "title": "한솔그룹 대학생 AI숏폼 공모전",
+        "category": "AI 영상",
+        "organizer": "한솔그룹",
+        "submission_start": "2026-06-17",
+        "submission_end": "2026-08-02",
+        "result_date": "2026-09-09 예정",
+        "url": "https://www.aicontesthansol.com",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://gcontest.co.kr/front/m/comp/view/34794",
+        "evidence": "공식 페이지 기준 일상 속 한솔의 기술·솔루션·브랜드 가치를 AI 기반 영상 콘텐츠로 표현하는 대학생 AI 숏폼 공모전, 생성형 AI 활용 및 프롬프트 제출 명시.",
+        "summary": "한솔그룹의 제품·기술·솔루션을 생성형 AI 숏폼 영상으로 표현하는 대학생 대상 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-19T19:00:00+09:00"
+      },
+      {
         "title": "2026 대한민국 환경사랑공모전 AI 일러스트레이션 부문",
         "category": "AI 이미지",
         "organizer": "한국환경공단",
@@ -589,6 +605,22 @@
         "summary": "제주 물과 미래 이야기를 주제로 생성형 AI 기술을 활용한 55~60초 가로형 영상을 모집합니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-04T19:00:00+09:00"
+      },
+      {
+        "title": "2026 한국마사회 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "한국마사회",
+        "submission_start": "2026-06-15",
+        "submission_end": "2026-08-15",
+        "result_date": "2026-10 예정",
+        "url": "https://filmfreeway.com/KRAAIFILMCONTEST2026",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://linkareer.com/activity/329518",
+        "evidence": "참고 공고 및 보도 기준 과거·현재·미래를 잇는 말 이야기를 주제로 생성형 AI를 활용한 AI Film과 30초 Short-form 영상 출품, FilmFreeway 제출 명시.",
+        "summary": "말 문화와 인간의 이야기를 생성형 AI 단편영화 또는 숏폼 영상으로 제작해 출품하는 한국마사회 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-19T19:00:00+09:00"
       },
       {
         "title": "제21회 생물다양성 세밀화 및 인공지능(AI) 이미지 공모전",
