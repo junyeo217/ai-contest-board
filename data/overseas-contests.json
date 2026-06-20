@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T07:00:00+09:00",
+  "generated_at": "2026-06-21T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -155,6 +155,23 @@
         "summary": "AI로 제작된 영화를 모집하는 아스타나 국제 AI 영화제. 8월 15일까지 무료 접수.",
         "status": "진행중",
         "source_checked_at": "2026-06-12T07:00:00+09:00"
+      },
+      {
+        "title": "CapCut CRE[AI]TE 2026 AI Festival",
+        "category": "AI 이미지·영상",
+        "country": "Global",
+        "organizer": "CapCut",
+        "submission_start": "2026-06-10",
+        "submission_end": "2026-08-10",
+        "result_date": "2026-09-01",
+        "url": "https://capcut.creaite26.com/",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.instagram.com/reel/DZaNSALJJJ4",
+        "evidence": "CapCut CRE[AI]TE 공식 이벤트 페이지의 메타데이터와 본문에서 CapCut's AI Festival, Film/Series/Creative/Commercial 트랙, 2026-06-10~2026-08-10 접수, CapCut Video Studio 활용, 2026년 9월 수상자 발표 및 $200K 규모 시상 정보를 확인함. CapCut 공식 Instagram 공지도 전 세계 크리에이터 대상 CapCut Video Studio 원작 공모와 2026-08-10까지 접수를 안내함.",
+        "summary": "CapCut Video Studio를 활용한 Film, Series, Creative, Commercial 트랙의 글로벌 AI 창작 페스티벌. 8월 10일까지 접수.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-21T07:00:00+09:00"
       },
       {
         "title": "Future Vision XPRIZE",
@@ -403,15 +420,15 @@
         "organizer": "Runway",
         "submission_start": "2026-01-28",
         "submission_end": "2026-04-27",
-        "result_date": "2026-06-18",
+        "result_date": "미정",
         "url": "https://aif.runwayml.com/",
         "source_type": "official_platform",
         "discovery_source": "brave",
         "discovery_url": "https://aif.runwayml.com/",
-        "evidence": "Official AIF 2026 page lists New York on June 11 and Los Angeles on June 18, with finalists showcased virtually and at gala screenings; submissions are closed and winners are selected by jurors.",
-        "summary": "Runway AI Festival 2026은 접수 종료 후 뉴욕/LA 쇼케이스 및 심사 결과 발표를 추적 중입니다.",
+        "evidence": "Official AIF 2026 page lists New York on June 11, Los Angeles on June 18, and Tokyo on July 30, with finalists showcased virtually and at gala screenings; submissions are closed and winners are selected by jurors. 2026-06-21 재확인 시 공식 페이지는 2026 finalist 목록과 시상 구조를 표시하지만 최종 수상자 발표일은 별도로 확정 표시하지 않아 result_date를 미정으로 보정함.",
+        "summary": "Runway AI Festival 2026은 접수 종료 후 뉴욕/LA/Tokyo 쇼케이스 및 심사 결과 발표를 추적 중입니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-06-12T07:00:00+09:00"
+        "source_checked_at": "2026-06-21T07:00:00+09:00"
       },
       {
         "title": "Architecture in Perspective 40 Competition",
