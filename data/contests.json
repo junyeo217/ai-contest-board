@@ -1,41 +1,9 @@
 {
-  "generated_at": "2026-06-19T19:00:00+09:00",
+  "generated_at": "2026-06-20T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "2026 K-포럼 PLAY 백제 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "K포럼·백제세계유산센터",
-        "submission_start": "2026-05-18",
-        "submission_end": "2026-06-19",
-        "result_date": "2026-07-02 예정",
-        "url": "https://www.facebook.com/unescobaekje/posts/-2026-k-%ED%8F%AC%EB%9F%BC-play-%EB%B0%B1%EC%A0%9C-ai-%EC%98%81%EC%83%81-%EA%B3%B5%EB%AA%A8%EC%A0%84%EB%B0%B1%EC%A0%9C%EC%97%AD%EC%82%AC%EC%9C%A0%EC%A0%81%EC%A7%80%EA%B5%AC%EC%9D%98-%EB%AC%B8%ED%99%94%EC%9C%A0%EC%82%B0%EC%9D%84-%EC%86%8C%EC%9E%AC%EB%A1%9C%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B0%B1%EC%A0%9C-%EC%84%B8%EA%B3%84%EA%B4%80%EC%9D%84-%EB%8B%B4%EC%9D%80-ai-%EC%98%81%EC%83%81-%EA%B3%B5%EB%AA%A8%EC%A0%84%EC%9D%B4-%EC%A7%84%ED%96%89%EB%90%A9%EB%8B%88%EB%8B%A4%EB%B0%B1%EC%A0%9C/1431800015653634",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://isplus.com/article/view/isp202605180174",
-        "evidence": "백제세계유산센터 공식 SNS/참고 공고 기준 백제역사유적지구 문화유산을 소재로 한 AI 영상 공모전, 유튜브·틱톡 등 동영상 사이트 업로드 후 제출 명시.",
-        "summary": "백제 세계유산과 유적을 생성형 AI 영상으로 재해석하는 K-포럼 연계 공모전입니다.",
-        "source_checked_at": "2026-05-27T19:00:00+09:00",
-        "status": "진행중"
-      },
-      {
-        "title": "AI 활용 국유재산 홍보 콘텐츠 공모전",
-        "category": "AI 이미지·영상",
-        "organizer": "한국자산관리공사",
-        "submission_start": "2026-05-26",
-        "submission_end": "2026-06-19",
-        "result_date": "2026-08 초 예정",
-        "url": "https://www.kamco.or.kr/portal/bbs/view.do?mId=0701010000&ptIdx=380&bIdx=27486",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.kamco.or.kr/portal/bbs/view.do?mId=0701010000&ptIdx=380&bIdx=27486",
-        "evidence": "한국자산관리공사 공식 공지 첨부 공모 요강 및 참고 공고 기준 AI 활용 영상(쇼츠·릴스 등 15초~1분)과 이미지(SNS 배너·카드뉴스 등) 콘텐츠 분야 명시.",
-        "summary": "국유재산 바로 알기와 나라ON 사업 소개를 주제로 AI 활용 영상 또는 이미지 홍보 콘텐츠를 모집하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-28T19:00:00+09:00"
-      },
       {
         "title": "강릉 디지털 관광 캐릭터 프렌즈 AI 활용 공모전",
         "category": "AI 디자인",
@@ -639,6 +607,22 @@
         "source_checked_at": "2026-05-23T19:00:00+09:00"
       },
       {
+        "title": "2026 평화 통일미래 콘텐츠 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "통일부",
+        "submission_start": "2026-06-15",
+        "submission_end": "2026-09-06",
+        "result_date": "2026-10-27 예정",
+        "url": "https://unikcontest.kr/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://unikorea.go.kr/web/unikorea/bbs/bbs_0000000000000004/59505",
+        "evidence": "통일부 공식 공고와 공모전 공식 홈페이지 기준 AI 활용 분야에 숏폼 영상, 웹툰·컷툰, 디자인 부문이 있고 접수 기간 2026.6.15~9.6 명시.",
+        "summary": "평화와 통일미래를 주제로 생성형 AI를 활용한 숏폼 영상, 웹툰·컷툰, 디자인 작품을 모집하는 국민 참여형 콘텐츠 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-20T19:00:00+09:00"
+      },
+      {
         "title": "2026년 디지털윤리 창작콘텐츠 공모전",
         "category": "AI 이미지·영상",
         "organizer": "방송미디어통신위원회·한국지능정보사회진흥원",
@@ -1151,6 +1135,38 @@
         "summary": "종합식품기업 사조의 브랜드 가치를 생성형 AI 숏폼 영상으로 표현하는 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-15T19:00:00+09:00"
+      },
+      {
+        "title": "2026 K-포럼 PLAY 백제 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "K포럼·백제세계유산센터",
+        "submission_start": "2026-05-18",
+        "submission_end": "2026-06-19",
+        "result_date": "2026-07-02 예정",
+        "url": "https://www.facebook.com/unescobaekje/posts/-2026-k-%ED%8F%AC%EB%9F%BC-play-%EB%B0%B1%EC%A0%9C-ai-%EC%98%81%EC%83%81-%EA%B3%B5%EB%AA%A8%EC%A0%84%EB%B0%B1%EC%A0%9C%EC%97%AD%EC%82%AC%EC%9C%A0%EC%A0%81%EC%A7%80%EA%B5%AC%EC%9D%98-%EB%AC%B8%ED%99%94%EC%9C%A0%EC%82%B0%EC%9D%84-%EC%86%8C%EC%9E%AC%EB%A1%9C%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B0%B1%EC%A0%9C-%EC%84%B8%EA%B3%84%EA%B4%80%EC%9D%84-%EB%8B%B4%EC%9D%80-ai-%EC%98%81%EC%83%81-%EA%B3%B5%EB%AA%A8%EC%A0%84%EC%9D%B4-%EC%A7%84%ED%96%89%EB%90%A9%EB%8B%88%EB%8B%A4%EB%B0%B1%EC%A0%9C/1431800015653634",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://isplus.com/article/view/isp202605180174",
+        "evidence": "백제세계유산센터 공식 SNS/참고 공고 기준 백제역사유적지구 문화유산을 소재로 한 AI 영상 공모전, 유튜브·틱톡 등 동영상 사이트 업로드 후 제출 명시.",
+        "summary": "백제 세계유산과 유적을 생성형 AI 영상으로 재해석하는 K-포럼 연계 공모전입니다.",
+        "source_checked_at": "2026-06-20T19:00:00+09:00",
+        "status": "발표 대기"
+      },
+      {
+        "title": "AI 활용 국유재산 홍보 콘텐츠 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "한국자산관리공사",
+        "submission_start": "2026-05-26",
+        "submission_end": "2026-06-19",
+        "result_date": "2026-08 초 예정",
+        "url": "https://www.kamco.or.kr/portal/bbs/view.do?mId=0701010000&ptIdx=380&bIdx=27486",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.kamco.or.kr/portal/bbs/view.do?mId=0701010000&ptIdx=380&bIdx=27486",
+        "evidence": "한국자산관리공사 공식 공지 첨부 공모 요강 및 참고 공고 기준 AI 활용 영상(쇼츠·릴스 등 15초~1분)과 이미지(SNS 배너·카드뉴스 등) 콘텐츠 분야 명시.",
+        "summary": "국유재산 바로 알기와 나라ON 사업 소개를 주제로 AI 활용 영상 또는 이미지 홍보 콘텐츠를 모집하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-20T19:00:00+09:00"
       }
     ]
   }
