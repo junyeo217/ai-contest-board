@@ -1,25 +1,42 @@
 {
-  "generated_at": "2026-06-21T19:00:00+09:00",
+  "generated_at": "2026-06-22T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [],
-    "ongoing": [
+    "starting_today": [
       {
-        "title": "강릉 디지털 관광 캐릭터 프렌즈 AI 활용 공모전",
-        "category": "AI 디자인",
-        "organizer": "강릉관광개발공사·한국교육방송공사(EBS)",
-        "submission_start": "2026-06-05",
-        "submission_end": "2026-06-21",
+        "title": "제4회 LG 영상공모전",
+        "category": "AI 영상",
+        "organizer": "구미상공회의소·LG",
+        "submission_start": "2026-06-22",
+        "submission_end": "2026-08-21",
         "result_date": "미정",
-        "url": "https://kspnews.com/2685477",
-        "source_type": "reference_link",
+        "url": "https://gumiucc.com/",
+        "source_type": "official_homepage",
         "discovery_source": "brave",
-        "discovery_url": "https://kspnews.com/2685477",
-        "evidence": "참고 보도 기준 강릉 디지털 관광 캐릭터를 AI 기술로 발굴하며 캐릭터 디자인, 기획안, 강릉 문화·관광 자원 스토리 콘텐츠 제안을 요구한다고 명시.",
-        "summary": "강릉 관광을 대표할 신규 디지털 캐릭터를 AI 활용 디자인과 스토리 콘텐츠로 제안하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-11T19:00:00+09:00"
+        "discovery_url": "https://www.gmilbo.net/news/article.html?no=80617",
+        "evidence": "공식 누리집에 제4회 LG 영상공모전, 접수기간 2026.06.22~2026.08.21 및 AI 뮤직비디오 부문이 명시되어 있습니다.",
+        "summary": "LG와 구미 관련 영상 콘텐츠와 AI 뮤직비디오 부문을 접수하는 영상 공모전입니다.",
+        "status": "오늘 추가",
+        "source_checked_at": "2026-06-22T19:00:00+09:00"
       },
+      {
+        "title": "제5회 Galaxy 사진공모전",
+        "category": "AI 이미지",
+        "organizer": "구미상공회의소·삼성전자",
+        "submission_start": "2026-06-22",
+        "submission_end": "2026-08-21",
+        "result_date": "미정",
+        "url": "https://gumiphoto.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.gmilbo.net/news/article.html?no=80617",
+        "evidence": "공식 누리집에 제5회 Galaxy 사진공모전, 접수기간 2026.06.22~2026.08.21 및 특별부문 Galaxy AI가 명시되어 있습니다.",
+        "summary": "갤럭시로 촬영한 사진과 Galaxy AI를 활용한 특별부문 작품을 접수하는 사진 공모전입니다.",
+        "status": "오늘 추가",
+        "source_checked_at": "2026-06-22T19:00:00+09:00"
+      }
+    ],
+    "ongoing": [
       {
         "title": "2026 K-포럼 AI AD CREATION CHALLENGE",
         "category": "AI 영상",
@@ -1167,6 +1184,22 @@
         "summary": "국유재산 바로 알기와 나라ON 사업 소개를 주제로 AI 활용 영상 또는 이미지 홍보 콘텐츠를 모집하는 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-20T19:00:00+09:00"
+      },
+      {
+        "title": "강릉 디지털 관광 캐릭터 프렌즈 AI 활용 공모전",
+        "category": "AI 디자인",
+        "organizer": "강릉관광개발공사·한국교육방송공사(EBS)",
+        "submission_start": "2026-06-05",
+        "submission_end": "2026-06-21",
+        "result_date": "미정",
+        "url": "https://kspnews.com/2685477",
+        "source_type": "reference_link",
+        "discovery_source": "brave",
+        "discovery_url": "https://kspnews.com/2685477",
+        "evidence": "참고 보도 기준 강릉 디지털 관광 캐릭터를 AI 기술로 발굴하며 캐릭터 디자인, 기획안, 강릉 문화·관광 자원 스토리 콘텐츠 제안을 요구한다고 명시.",
+        "summary": "강릉 관광을 대표할 신규 디지털 캐릭터를 AI 활용 디자인과 스토리 콘텐츠로 제안하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-22T19:00:00+09:00"
       }
     ]
   }
