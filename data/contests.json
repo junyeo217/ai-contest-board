@@ -1,58 +1,26 @@
 {
-  "generated_at": "2026-06-22T19:00:00+09:00",
+  "generated_at": "2026-06-23T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [
       {
-        "title": "제4회 LG 영상공모전",
+        "title": "2026 원주만두축제 AI 영상 공모전",
         "category": "AI 영상",
-        "organizer": "구미상공회의소·LG",
-        "submission_start": "2026-06-22",
-        "submission_end": "2026-08-21",
+        "organizer": "원주문화재단",
+        "submission_start": "2026-06-23",
+        "submission_end": "2026-07-23",
         "result_date": "미정",
-        "url": "https://gumiucc.com/",
-        "source_type": "official_homepage",
-        "discovery_source": "brave",
-        "discovery_url": "https://www.gmilbo.net/news/article.html?no=80617",
-        "evidence": "공식 누리집에 제4회 LG 영상공모전, 접수기간 2026.06.22~2026.08.21 및 AI 뮤직비디오 부문이 명시되어 있습니다.",
-        "summary": "LG와 구미 관련 영상 콘텐츠와 AI 뮤직비디오 부문을 접수하는 영상 공모전입니다.",
+        "url": "https://www.youtube.com/watch?v=wit2GV-jmiY",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.sportsseoul.com/news/read/1618274",
+        "evidence": "원주문화재단 공식 YouTube 영상 제목과 언론 공지에서 2026 원주만두축제 AI 영상 공모전, 생성형 AI 활용 영상 콘텐츠, 접수 마감 2026년 7월 23일 18시가 확인됩니다.",
+        "summary": "생성형 AI 기술로 2026 원주만두축제를 홍보하는 영상 콘텐츠를 제작해 응모하는 공모전입니다.",
         "status": "오늘 추가",
-        "source_checked_at": "2026-06-22T19:00:00+09:00"
-      },
-      {
-        "title": "제5회 Galaxy 사진공모전",
-        "category": "AI 이미지",
-        "organizer": "구미상공회의소·삼성전자",
-        "submission_start": "2026-06-22",
-        "submission_end": "2026-08-21",
-        "result_date": "미정",
-        "url": "https://gumiphoto.com/",
-        "source_type": "official_homepage",
-        "discovery_source": "brave",
-        "discovery_url": "https://www.gmilbo.net/news/article.html?no=80617",
-        "evidence": "공식 누리집에 제5회 Galaxy 사진공모전, 접수기간 2026.06.22~2026.08.21 및 특별부문 Galaxy AI가 명시되어 있습니다.",
-        "summary": "갤럭시로 촬영한 사진과 Galaxy AI를 활용한 특별부문 작품을 접수하는 사진 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-06-22T19:00:00+09:00"
+        "source_checked_at": "2026-06-23T19:00:00+09:00"
       }
     ],
     "ongoing": [
-      {
-        "title": "2026 K-포럼 AI AD CREATION CHALLENGE",
-        "category": "AI 영상",
-        "organizer": "2026 K포럼 / 아캐인 VIVID",
-        "submission_start": "2026-06-08",
-        "submission_end": "2026-06-22",
-        "result_date": "2026-06-29 예정",
-        "url": "https://www.instagram.com/p/DY_-qV0E155",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.instagram.com/reel/DZJNpAgBkVb",
-        "evidence": "VIVID 공식 SNS 및 참고 보도 기준 황찬성·노라조 IP를 활용해 주최 측 제시 브랜드의 AI 광고 영상을 제작하는 챌린지, 접수 2026년 6월 8일~6월 22일 명시.",
-        "summary": "황찬성·노라조를 AI 광고 모델로 활용해 브랜드 광고 영상을 제작하는 2026 K포럼 연계 AI 광고 영상 챌린지입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-09T19:00:00+09:00"
-      },
       {
         "title": "2026년 파주시 AI 영상 공모전 '프롬프트로 만드는 파주'",
         "category": "AI 영상",
@@ -606,6 +574,38 @@
         "summary": "말 문화와 인간의 이야기를 생성형 AI 단편영화 또는 숏폼 영상으로 제작해 출품하는 한국마사회 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-19T19:00:00+09:00"
+      },
+      {
+        "title": "제4회 LG 영상공모전",
+        "category": "AI 영상",
+        "organizer": "구미상공회의소·LG",
+        "submission_start": "2026-06-22",
+        "submission_end": "2026-08-21",
+        "result_date": "미정",
+        "url": "https://gumiucc.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.gmilbo.net/news/article.html?no=80617",
+        "evidence": "공식 누리집에 제4회 LG 영상공모전, 접수기간 2026.06.22~2026.08.21 및 AI 뮤직비디오 부문이 명시되어 있습니다.",
+        "summary": "LG와 구미 관련 영상 콘텐츠와 AI 뮤직비디오 부문을 접수하는 영상 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-23T19:00:00+09:00"
+      },
+      {
+        "title": "제5회 Galaxy 사진공모전",
+        "category": "AI 이미지",
+        "organizer": "구미상공회의소·삼성전자",
+        "submission_start": "2026-06-22",
+        "submission_end": "2026-08-21",
+        "result_date": "미정",
+        "url": "https://gumiphoto.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.gmilbo.net/news/article.html?no=80617",
+        "evidence": "공식 누리집에 제5회 Galaxy 사진공모전, 접수기간 2026.06.22~2026.08.21 및 특별부문 Galaxy AI가 명시되어 있습니다.",
+        "summary": "갤럭시로 촬영한 사진과 Galaxy AI를 활용한 특별부문 작품을 접수하는 사진 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-23T19:00:00+09:00"
       },
       {
         "title": "제21회 생물다양성 세밀화 및 인공지능(AI) 이미지 공모전",
@@ -1200,6 +1200,22 @@
         "summary": "강릉 관광을 대표할 신규 디지털 캐릭터를 AI 활용 디자인과 스토리 콘텐츠로 제안하는 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-22T19:00:00+09:00"
+      },
+      {
+        "title": "2026 K-포럼 AI AD CREATION CHALLENGE",
+        "category": "AI 영상",
+        "organizer": "2026 K포럼 / 아캐인 VIVID",
+        "submission_start": "2026-06-08",
+        "submission_end": "2026-06-22",
+        "result_date": "2026-06-29 예정",
+        "url": "https://www.instagram.com/p/DY_-qV0E155",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.instagram.com/reel/DZJNpAgBkVb",
+        "evidence": "VIVID 공식 SNS 및 참고 보도 기준 황찬성·노라조 IP를 활용해 주최 측 제시 브랜드의 AI 광고 영상을 제작하는 챌린지, 접수 2026년 6월 8일~6월 22일 명시.",
+        "summary": "황찬성·노라조를 AI 광고 모델로 활용해 브랜드 광고 영상을 제작하는 2026 K포럼 연계 AI 광고 영상 챌린지입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-23T19:00:00+09:00"
       }
     ]
   }
