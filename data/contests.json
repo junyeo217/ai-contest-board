@@ -1,25 +1,8 @@
 {
-  "generated_at": "2026-06-23T19:00:00+09:00",
+  "generated_at": "2026-06-24T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [
-      {
-        "title": "2026 원주만두축제 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "원주문화재단",
-        "submission_start": "2026-06-23",
-        "submission_end": "2026-07-23",
-        "result_date": "미정",
-        "url": "https://www.youtube.com/watch?v=wit2GV-jmiY",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.sportsseoul.com/news/read/1618274",
-        "evidence": "원주문화재단 공식 YouTube 영상 제목과 언론 공지에서 2026 원주만두축제 AI 영상 공모전, 생성형 AI 활용 영상 콘텐츠, 접수 마감 2026년 7월 23일 18시가 확인됩니다.",
-        "summary": "생성형 AI 기술로 2026 원주만두축제를 홍보하는 영상 콘텐츠를 제작해 응모하는 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-06-23T19:00:00+09:00"
-      }
-    ],
+    "starting_today": [],
     "ongoing": [
       {
         "title": "2026년 파주시 AI 영상 공모전 '프롬프트로 만드는 파주'",
@@ -382,6 +365,22 @@
         "summary": "충남 지역 특색과 문화를 반영한 AI 음원과 뮤직비디오를 함께 제작해 출품하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-12T19:00:00+09:00"
+      },
+      {
+        "title": "2026 원주만두축제 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "원주문화재단",
+        "submission_start": "2026-06-23",
+        "submission_end": "2026-07-23",
+        "result_date": "미정",
+        "url": "https://www.youtube.com/watch?v=wit2GV-jmiY",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.sportsseoul.com/news/read/1618274",
+        "evidence": "원주문화재단 공식 YouTube 영상 제목과 언론 공지에서 2026 원주만두축제 AI 영상 공모전, 생성형 AI 활용 영상 콘텐츠, 접수 마감 2026년 7월 23일 18시가 확인됩니다.",
+        "summary": "생성형 AI 기술로 2026 원주만두축제를 홍보하는 영상 콘텐츠를 제작해 응모하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-24T19:00:00+09:00"
       },
       {
         "title": "[U+ x YouTube] 유쓰 AI 쇼츠 페스티벌",
