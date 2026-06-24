@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T07:00:00+09:00",
+  "generated_at": "2026-06-25T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,23 +37,6 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "TikTok Effect House AI Effect Challenge – Meme AI Sub-Challenge",
-        "category": "생성형 AI",
-        "country": "Global",
-        "organizer": "TikTok Effect House",
-        "submission_start": "2026-06-03",
-        "submission_end": "2026-06-24",
-        "result_date": "미정",
-        "url": "https://effecthouse.tiktok.com/latest/ai-effect-challenge",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://effecthouse.tiktok.com/latest/ai-effect-challenge",
-        "evidence": "TikTok Effect House 공식 AI Effect Challenge 페이지가 AI Editor를 사용해 AI-powered effects를 제작·제출하는 챌린지라고 안내함. Active challenges 항목에서 Meme AI Sub-Challenge 접수 기간이 2026-06-03~2026-06-24로 확인되고, 제출은 Effect House의 Publish Effect form에서 Challenge를 선택해 진행한다고 공지함.",
-        "summary": "TikTok Effect House의 AI Editor 기반 효과 제작 챌린지. 현재 Meme AI Sub-Challenge를 6월 24일까지 접수 중.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
-      },
       {
         "title": "Kling AI Final Bell Creative Challenge",
         "category": "AI 영상",
@@ -138,6 +121,23 @@
         "summary": "전 세계 전문 크리에이터와 에이전시의 AI 기반 시각 스토리텔링, 디자인, 이미지, 영상 작업을 대상으로 하는 Graphis 공모전.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "Adobe MAX 2026 Creativity Awards",
+        "category": "AI 디자인",
+        "country": "International",
+        "organizer": "Adobe",
+        "submission_start": "2026-06-09",
+        "submission_end": "2026-07-31",
+        "result_date": "2026-11-10",
+        "url": "https://max.adobe.com/creativity-awards/",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://blog.adobe.com/en/publish/2026/06/18/adobe-max-2026-creativity-awards-here-are-categories-and-how-to-submit",
+        "evidence": "Adobe MAX Creativity Awards 공식 페이지와 Adobe 공식 블로그에서 2026년 접수가 2026-06-09에 열리고 2026-07-31 23:59 PT에 마감된다고 확인함. Design, Image Making, Motion, Photography, Video 카테고리로 Adobe 도구 기반 창작 프로젝트를 접수하며, FAQ에서 eligible countries 거주자만 참가 가능하다고 안내함.",
+        "summary": "Adobe MAX 2026에서 Design, Image Making, Motion, Video 등 Adobe 도구 기반 창작 프로젝트를 시상하는 국제 공모. 7월 31일까지 접수.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-25T07:00:00+09:00"
       },
       {
         "title": "CapCut CRE[AI]TE 2026 AI Festival",
@@ -599,6 +599,23 @@
         "summary": "생성AI 이미지로 미래형 패션 컬렉션을 제안하는 국제 참가 가능 일본 AI 패션 디자인 공모. 접수 종료 후 발표 대기 단계.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "TikTok Effect House AI Effect Challenge – Meme AI Sub-Challenge",
+        "category": "생성형 AI",
+        "country": "Global",
+        "organizer": "TikTok Effect House",
+        "submission_start": "2026-06-03",
+        "submission_end": "2026-06-24",
+        "result_date": "미정",
+        "url": "https://effecthouse.tiktok.com/latest/ai-effect-challenge",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://effecthouse.tiktok.com/latest/ai-effect-challenge",
+        "evidence": "TikTok Effect House 공식 AI Effect Challenge 페이지가 AI Editor를 사용해 AI-powered effects를 제작·제출하는 챌린지라고 안내함. Active challenges 항목에서 Meme AI Sub-Challenge 접수 기간이 2026-06-03~2026-06-24로 확인되고, 제출은 Effect House의 Publish Effect form에서 Challenge를 선택해 진행한다고 공지함.",
+        "summary": "TikTok Effect House의 AI Editor 기반 효과 제작 챌린지. 6월 24일 접수가 종료되어 결과 발표를 대기 중.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-25T07:00:00+09:00"
       }
     ]
   }
