@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T19:00:00+09:00",
+  "generated_at": "2026-06-25T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -223,22 +223,6 @@
         "source_checked_at": "2026-06-15T19:00:00+09:00"
       },
       {
-        "title": "2026 대한민국 미래 철도 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "국가철도공단",
-        "submission_start": "2026-06-15",
-        "submission_end": "2026-07-10",
-        "result_date": "2026-08 중 예정",
-        "url": "https://www.kr.or.kr/boardCnts/fileDown.do?fileSeq=cc6fac1e566ff6c239b0c657cddec5e0",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.wevity.com/index_university.php?c=find&s=_university&cidx=19&gbn=viewok&gp=4&ix=108158",
-        "evidence": "국가철도공단 공고 및 참고 공고 기준 생성형 AI로 만든 60초 이내 가로형 영상 제출 명시.",
-        "summary": "2050 대한민국 미래 철도를 주제로 생성형 AI 영상 작품을 모집하는 국가철도공단 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-16T19:00:00+09:00"
-      },
-      {
         "title": "타임라이더 1주년 기념 경주월드 AI 숏폼 공모전",
         "category": "AI 영상",
         "organizer": "경주월드",
@@ -253,6 +237,22 @@
         "summary": "경주월드 타임라이더와 경주월드 자유 주제를 생성형 AI 숏폼 영상으로 표현하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-18T19:00:00+09:00"
+      },
+      {
+        "title": "2026 대한민국 미래 철도 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "국가철도공단",
+        "submission_start": "2026-06-15",
+        "submission_end": "2026-07-10",
+        "result_date": "2026-08 중 예정",
+        "url": "https://www.kr.or.kr/boardCnts/fileDown.do?fileSeq=cc6fac1e566ff6c239b0c657cddec5e0",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.wevity.com/index_university.php?c=find&s=_university&cidx=19&gbn=viewok&gp=4&ix=108158",
+        "evidence": "국가철도공단 공고 및 참고 공고 기준 생성형 AI로 만든 60초 이내 가로형 영상 제출 명시.",
+        "summary": "2050 대한민국 미래 철도를 주제로 생성형 AI 영상 작품을 모집하는 국가철도공단 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-16T19:00:00+09:00"
       },
       {
         "title": "2026 대한민국 AI 콘텐츠 어워즈",
@@ -285,6 +285,22 @@
         "summary": "URBAN BREAK와 TOYCON SEOUL을 생성형 AI 숏폼 영상으로 재해석해 전시와 시상을 연계하는 챌린지입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-18T19:00:00+09:00"
+      },
+      {
+        "title": "2026 제주 글로벌 AI 필름 공모전",
+        "category": "AI 영상",
+        "organizer": "제주특별자치도·제주콘텐츠진흥원",
+        "submission_start": "2026-06-15",
+        "submission_end": "2026-07-13",
+        "result_date": "2026-08 중 예정",
+        "url": "https://www.jjaiff.kr/",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=320002",
+        "evidence": "제주콘텐츠진흥원/참고 기사 기준 전체 분량의 90% 이상을 생성형 AI 기술로 제작한 30초~5분 AI 영상 콘텐츠, 접수 2026년 6월 15일~7월 13일 명시.",
+        "summary": "제주 고유 문화와 스토리 자산을 생성형 AI 영상으로 재해석하는 글로벌 AI 필름 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-25T19:00:00+09:00"
       },
       {
         "title": "“물·에너지·인공지능(AI)” 청소년 짧은 영상(숏폼) 공모전",
@@ -383,20 +399,36 @@
         "source_checked_at": "2026-06-24T19:00:00+09:00"
       },
       {
-        "title": "[U+ x YouTube] 유쓰 AI 쇼츠 페스티벌",
+        "title": "2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
         "category": "AI 영상",
-        "organizer": "LG유플러스 / YouTube",
-        "submission_start": "2026-06-08",
+        "organizer": "국립아시아문화전당(ACC)",
+        "submission_start": "2026-05-18",
         "submission_end": "2026-07-31",
-        "result_date": "2026-08-14",
-        "url": "https://www.lguplus.com/uth",
-        "source_type": "official_homepage",
+        "result_date": "미정",
+        "url": "https://www.acc.go.kr/main/event.do?PID=0302&action=Read&bnkey=EM_0000009562",
+        "source_type": "official_notice",
         "discovery_source": "tavily",
-        "discovery_url": "https://linkareer.com/activity/326635",
-        "evidence": "LG유플러스 공식 유쓰 페이지 기준 유쓰 AI 쇼츠 페스티벌, 생성형 AI를 활용한 일반·아트 부문 AI 쇼츠 영상 제작, 작품 접수 2026년 6월 8일~7월 31일 명시.",
-        "summary": "LG유플러스와 유튜브가 주최하는 생성형 AI 쇼츠 영상 공모전입니다.",
+        "discovery_url": "https://www.acc.go.kr/main/event.do?PID=0302&action=Read&bnkey=EM_0000009562",
+        "evidence": "국립아시아문화전당 공식 공고 기준 영상 분야에 일반 영상과 AI 활용 영상(일반+AI 복합영상 포함), 30초~3분 FHD 영상 규격 명시.",
+        "summary": "민주·인권·평화와 5·18민주화운동 가치를 AI 활용 영상 등으로 표현하는 콘텐츠 공모전입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-06-09T19:00:00+09:00"
+        "source_checked_at": "2026-05-21T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 제6회 과학영상콘텐츠 공모전",
+        "category": "AI 영상",
+        "organizer": "국립대구과학관",
+        "submission_start": "2026-05-26",
+        "submission_end": "2026-07-31",
+        "result_date": "2026-08-18 예정",
+        "url": "https://thinkyou.co.kr/contest/63518",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.etnews.com/20260526000035",
+        "evidence": "Tavily/참고 공고 기준 공모전 대주제가 인공지능(AI)이며 출품작은 애니메이션, 단편영화, 브이로그 등 1~3분 영상 형식으로 제출 명시.",
+        "summary": "전국 초·중·고·대학생을 대상으로 인공지능(AI)을 주제로 한 과학영상 콘텐츠를 모집하는 공모전입니다.",
+        "source_checked_at": "2026-05-26T19:00:00+09:00",
+        "status": "진행중"
       },
       {
         "title": "「상상이 현실이 되는 경남여행」 2026 경남 관광 AI 홍보 영상 공모전",
@@ -431,22 +463,6 @@
         "source_checked_at": "2026-06-02T19:00:00+09:00"
       },
       {
-        "title": "2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
-        "category": "AI 영상",
-        "organizer": "국립아시아문화전당(ACC)",
-        "submission_start": "2026-05-18",
-        "submission_end": "2026-07-31",
-        "result_date": "미정",
-        "url": "https://www.acc.go.kr/main/event.do?PID=0302&action=Read&bnkey=EM_0000009562",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.acc.go.kr/main/event.do?PID=0302&action=Read&bnkey=EM_0000009562",
-        "evidence": "국립아시아문화전당 공식 공고 기준 영상 분야에 일반 영상과 AI 활용 영상(일반+AI 복합영상 포함), 30초~3분 FHD 영상 규격 명시.",
-        "summary": "민주·인권·평화와 5·18민주화운동 가치를 AI 활용 영상 등으로 표현하는 콘텐츠 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-21T19:00:00+09:00"
-      },
-      {
         "title": "2026년 겨레얼살리기 홍보영상 공모전",
         "category": "AI 영상",
         "organizer": "사단법인 겨레얼살리기국민운동본부",
@@ -463,20 +479,36 @@
         "source_checked_at": "2026-06-15T19:00:00+09:00"
       },
       {
-        "title": "2026년 제6회 과학영상콘텐츠 공모전",
+        "title": "VD 전공 현실고증 AI 숏폼 공모전",
         "category": "AI 영상",
-        "organizer": "국립대구과학관",
-        "submission_start": "2026-05-26",
+        "organizer": "VisionDesign",
+        "submission_start": "2026-06-04",
         "submission_end": "2026-07-31",
-        "result_date": "2026-08-18 예정",
-        "url": "https://thinkyou.co.kr/contest/63518",
+        "result_date": "미정",
+        "url": "https://linkareer.com/activity/327152",
         "source_type": "reference_link",
         "discovery_source": "tavily",
-        "discovery_url": "https://www.etnews.com/20260526000035",
-        "evidence": "Tavily/참고 공고 기준 공모전 대주제가 인공지능(AI)이며 출품작은 애니메이션, 단편영화, 브이로그 등 1~3분 영상 형식으로 제출 명시.",
-        "summary": "전국 초·중·고·대학생을 대상으로 인공지능(AI)을 주제로 한 과학영상 콘텐츠를 모집하는 공모전입니다.",
-        "source_checked_at": "2026-05-26T19:00:00+09:00",
-        "status": "진행중"
+        "discovery_url": "https://linkareer.com/activity/327152",
+        "evidence": "링커리어 참고 공고 기준 AI 도구로 30초 내외 숏폼 영상을 제작하며, 영상 전체 생성 또는 일부 AI 도구 활용 모두 인정한다고 명시.",
+        "summary": "전공의 현실을 30초 내외 AI 숏폼 영상으로 표현하는 대학(원)생 대상 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-25T19:00:00+09:00"
+      },
+      {
+        "title": "[U+ x YouTube] 유쓰 AI 쇼츠 페스티벌",
+        "category": "AI 영상",
+        "organizer": "LG유플러스 / YouTube",
+        "submission_start": "2026-06-08",
+        "submission_end": "2026-07-31",
+        "result_date": "2026-08-14",
+        "url": "https://www.lguplus.com/uth",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://linkareer.com/activity/326635",
+        "evidence": "LG유플러스 공식 유쓰 페이지 기준 유쓰 AI 쇼츠 페스티벌, 생성형 AI를 활용한 일반·아트 부문 AI 쇼츠 영상 제작, 작품 접수 2026년 6월 8일~7월 31일 명시.",
+        "summary": "LG유플러스와 유튜브가 주최하는 생성형 AI 쇼츠 영상 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-09T19:00:00+09:00"
       },
       {
         "title": "2026년 K-푸드 대학생 홍보 콘텐츠 공모전",
@@ -527,22 +559,6 @@
         "source_checked_at": "2026-06-14T19:00:00+09:00"
       },
       {
-        "title": "성북구도시관리공단 대표 AI 캐릭터 공모전",
-        "category": "AI 디자인",
-        "organizer": "성북구도시관리공단",
-        "submission_start": "2026-06-15",
-        "submission_end": "2026-08-14",
-        "result_date": "미정",
-        "url": "https://www.instagram.com/p/DZldfN4E8YF",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.instagram.com/p/DZldfN4E8YF",
-        "evidence": "성북구도시관리공단 공식 SNS 검색 스니펫 기준 대표 AI 캐릭터 공모전, 2026년 6월 15일~8월 14일 접수 및 캐릭터 공모 명시.",
-        "summary": "성북구도시관리공단을 대표할 AI 캐릭터를 모집하는 디자인 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-16T19:00:00+09:00"
-      },
-      {
         "title": "제5회 그린 이니셔티브 60초 영화제 삼다수 with AI 부문",
         "category": "AI 영상",
         "organizer": "제주MBC / 그린이니셔티브 60초 영화제 사무국",
@@ -557,6 +573,22 @@
         "summary": "제주 물과 미래 이야기를 주제로 생성형 AI 기술을 활용한 55~60초 가로형 영상을 모집합니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-04T19:00:00+09:00"
+      },
+      {
+        "title": "성북구도시관리공단 대표 AI 캐릭터 공모전",
+        "category": "AI 디자인",
+        "organizer": "성북구도시관리공단",
+        "submission_start": "2026-06-15",
+        "submission_end": "2026-08-14",
+        "result_date": "미정",
+        "url": "https://www.instagram.com/p/DZldfN4E8YF",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.instagram.com/p/DZldfN4E8YF",
+        "evidence": "성북구도시관리공단 공식 SNS 검색 스니펫 기준 대표 AI 캐릭터 공모전, 2026년 6월 15일~8월 14일 접수 및 캐릭터 공모 명시.",
+        "summary": "성북구도시관리공단을 대표할 AI 캐릭터를 모집하는 디자인 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-16T19:00:00+09:00"
       },
       {
         "title": "2026 한국마사회 AI 영상 공모전",
