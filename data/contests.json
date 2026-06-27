@@ -1,55 +1,9 @@
 {
-  "generated_at": "2026-06-26T19:00:00+09:00",
+  "generated_at": "2026-06-27T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "2026년 파주시 AI 영상 공모전 '프롬프트로 만드는 파주'",
-        "category": "AI 영상",
-        "organizer": "파주시",
-        "submission_start": "2026-04-29",
-        "submission_end": "2026-06-26",
-        "result_date": "미정",
-        "url": "https://blog.naver.com/paju_si/224262454677",
-        "source_type": "reference_link",
-        "evidence": "파주시 파주시 공식 블로그(참고 링크)/Crowlly 기준 생성형 AI를 활용한 1분 이내 16:9 FHD 영상, AI 영상 제작 도구 1개 이상 활용 필수 명시.",
-        "summary": "파주의 정책·관광·문화·축제를 생성형 AI 영상으로 재해석하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-12T19:00:00+09:00"
-      },
-      {
-        "title": "청렴한 중진공 AI+ 숏폼 공모전",
-        "category": "AI 영상",
-        "organizer": "중소벤처기업진흥공단",
-        "submission_start": "2026-05-26",
-        "submission_end": "2026-06-26",
-        "result_date": "미정",
-        "url": "https://www.instagram.com/p/DYySbFhiWFu/",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.yna.co.kr/amp/view/AKR20260525017800030",
-        "evidence": "중소벤처기업진흥공단 공식 SNS/보도 기준 생성형 AI 기술을 활용한 60초 숏폼 영상 공모, 접수 2026년 5월 26일부터 6월 26일까지 명시.",
-        "summary": "중진공의 청렴 문화를 주제로 생성형 AI 기반 숏폼 영상을 모집하는 전 국민 공모전입니다.",
-        "source_checked_at": "2026-05-27T19:00:00+09:00",
-        "status": "진행중"
-      },
-      {
-        "title": "AI 안전문화 확산 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "고용노동부 경기지방고용노동청·안전보건공단 경기광역본부",
-        "submission_start": "2026-06-12",
-        "submission_end": "2026-06-26",
-        "result_date": "미정",
-        "url": "https://www.moel.go.kr/local/gyeonggi/news/reportexplan/view.do?bbs_seq=20260600609",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.moel.go.kr/local/gyeonggi/news/reportexplan/view.do?bbs_seq=20260600609",
-        "evidence": "고용노동부 경기지방고용노동청 공식 보도자료 제목 및 참고 기사 기준 AI 안전문화 확산 영상 공모전, 2026년 6월 12일~6월 26일 진행 명시.",
-        "summary": "사업장 안전문화 확산과 산업재해 예방 메시지를 AI 영상으로 표현하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-13T19:00:00+09:00"
-      },
       {
         "title": "2026 경북 국제 AI·메타버스 영상 공모전",
         "category": "AI 영상",
@@ -1261,6 +1215,52 @@
         "summary": "황찬성·노라조를 AI 광고 모델로 활용해 브랜드 광고 영상을 제작하는 2026 K포럼 연계 AI 광고 영상 챌린지입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-23T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 파주시 AI 영상 공모전 '프롬프트로 만드는 파주'",
+        "category": "AI 영상",
+        "organizer": "파주시",
+        "submission_start": "2026-04-29",
+        "submission_end": "2026-06-26",
+        "result_date": "미정",
+        "url": "https://blog.naver.com/paju_si/224262454677",
+        "source_type": "reference_link",
+        "evidence": "파주시 파주시 공식 블로그(참고 링크)/Crowlly 기준 생성형 AI를 활용한 1분 이내 16:9 FHD 영상, AI 영상 제작 도구 1개 이상 활용 필수 명시.",
+        "summary": "파주의 정책·관광·문화·축제를 생성형 AI 영상으로 재해석하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-27T19:00:00+09:00"
+      },
+      {
+        "title": "청렴한 중진공 AI+ 숏폼 공모전",
+        "category": "AI 영상",
+        "organizer": "중소벤처기업진흥공단",
+        "submission_start": "2026-05-26",
+        "submission_end": "2026-06-26",
+        "result_date": "미정",
+        "url": "https://www.instagram.com/p/DYySbFhiWFu/",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.yna.co.kr/amp/view/AKR20260525017800030",
+        "evidence": "중소벤처기업진흥공단 공식 SNS/보도 기준 생성형 AI 기술을 활용한 60초 숏폼 영상 공모, 접수 2026년 5월 26일부터 6월 26일까지 명시.",
+        "summary": "중진공의 청렴 문화를 주제로 생성형 AI 기반 숏폼 영상을 모집하는 전 국민 공모전입니다.",
+        "source_checked_at": "2026-06-27T19:00:00+09:00",
+        "status": "발표 대기"
+      },
+      {
+        "title": "AI 안전문화 확산 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "고용노동부 경기지방고용노동청·안전보건공단 경기광역본부",
+        "submission_start": "2026-06-12",
+        "submission_end": "2026-06-26",
+        "result_date": "미정",
+        "url": "https://www.moel.go.kr/local/gyeonggi/news/reportexplan/view.do?bbs_seq=20260600609",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.moel.go.kr/local/gyeonggi/news/reportexplan/view.do?bbs_seq=20260600609",
+        "evidence": "고용노동부 경기지방고용노동청 공식 보도자료 제목 및 참고 기사 기준 AI 안전문화 확산 영상 공모전, 2026년 6월 12일~6월 26일 진행 명시.",
+        "summary": "사업장 안전문화 확산과 산업재해 예방 메시지를 AI 영상으로 표현하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-27T19:00:00+09:00"
       }
     ]
   }
