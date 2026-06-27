@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T07:00:00+09:00",
+  "generated_at": "2026-06-28T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -140,6 +140,40 @@
         "source_checked_at": "2026-06-25T07:00:00+09:00"
       },
       {
+        "title": "Artiver AI Art Awards 2026",
+        "category": "AI 이미지·영상",
+        "country": "United States",
+        "organizer": "Artiver",
+        "submission_start": "2026-06-02",
+        "submission_end": "2026-07-31",
+        "result_date": "2026-09-15",
+        "url": "https://filmfreeway.com/ArtiverAIArtAwards",
+        "source_type": "official_apply_page",
+        "discovery_source": "manual",
+        "discovery_url": "https://filmfreeway.com/ArtiverAIArtAwards",
+        "evidence": "FilmFreeway 공식 접수 페이지가 Artiver AI Art Awards 2026을 AI-powered creativity 국제 공모로 소개하며 Film & Video, Image & Visual Art, Spatial & Architecture, Interactive Media 분야를 모집한다고 명시함. 접수 일정은 2026-06-02 Opening Date, 2026-07-31 Regular Deadline, 2026-09-15 Notification Date, 2026-10-15~16 Event Date로 확인됨. 참가 자격은 전 세계 18세 이상 창작자, 팀, 스튜디오로 안내됨.",
+        "summary": "AI 기반 영상, 이미지, 비주얼 아트, 인터랙티브 미디어를 모집하는 뉴욕 기반 국제 AI 아트 어워드.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-28T07:00:00+09:00"
+      },
+      {
+        "title": "The Seattle AI Film Festival 2026",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "Seattle AI Film Festival",
+        "submission_start": "2026-01-15",
+        "submission_end": "2026-08-01",
+        "result_date": "2026-08-08",
+        "url": "https://filmfreeway.com/SeattleAIFilmFestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "manual",
+        "discovery_url": "https://filmfreeway.com/SeattleAIFilmFestival",
+        "evidence": "FilmFreeway 공식 접수 페이지가 The Seattle AI Film Festival을 Artificial Intelligence로 구현한 시각 스토리텔링 영화제로 설명하고, AI가 창작 파이프라인에 의미 있게 포함되어야 하며 사용 도구와 워크플로를 제출해야 한다고 안내함. 일정은 2026-01-15 Opening Date, 2026-06-01 Earlybird Deadline, 2026-07-10 Regular Deadline, 2026-08-01 Late Deadline, 2026-08-08 Notification Date, 2026-08-29~30 Event Date로 확인됨.",
+        "summary": "AI 기반 서사·논픽션·실험 영상과 AI 애니메이션 등을 모집하는 미국 시애틀 AI 영화제.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-28T07:00:00+09:00"
+      },
+      {
         "title": "CapCut CRE[AI]TE 2026 AI Festival",
         "category": "AI 이미지·영상",
         "country": "Global",
@@ -189,6 +223,23 @@
         "summary": "기술 낙관적 미래를 그리는 3분 이하 SF 트레일러 글로벌 공모전. AI 영상 도구 활용 가능.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "BLACK AI FEST 2026 – International A.I Film Academy Festival & Awards",
+        "category": "AI 영상",
+        "country": "United Kingdom",
+        "organizer": "Mighty Jot Ltd / BLACK AI FEST",
+        "submission_start": "2025-10-12",
+        "submission_end": "2026-08-16",
+        "result_date": "2026-08-31",
+        "url": "https://filmfreeway.com/aifilmacademyfestivalandawards",
+        "source_type": "official_apply_page",
+        "discovery_source": "manual",
+        "discovery_url": "https://filmfreeway.com/aifilmacademyfestivalandawards",
+        "evidence": "FilmFreeway 공식 접수 페이지가 BLACKAIFEST 2026을 International AI Film Academy Festival & Awards로 소개하며 AI Film Trailer, AI Short Film, AI Feature Film, AI Animation, AI Adverts, AI Documentary, AI Music Video 등 AI 영상·애니메이션·광고 부문을 운영한다고 명시함. 일정은 2025-10-12 Opening Date, 2026-07-15 Late Deadline, 2026-08-16 Extended Deadline, 2026-08-31 Notification Date, 2026-10-17~18 Event Date이며 장소는 BFI Southbank, London으로 표시됨.",
+        "summary": "런던에서 열리는 국제 AI 영화 아카데미 페스티벌. AI 단편·장편·애니메이션·광고·뮤직비디오 부문을 8월 16일까지 접수.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-28T07:00:00+09:00"
       },
       {
         "title": "WAIFF LA USA 2026",
@@ -310,6 +361,23 @@
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
+        "title": "DAIFF 2026 – Disrupt AI Film Festival",
+        "category": "AI 영상",
+        "country": "Australia",
+        "organizer": "Disrupt AI Film Festival",
+        "submission_start": "2026-06-15",
+        "submission_end": "2026-10-16",
+        "result_date": "2026-11-06",
+        "url": "https://filmfreeway.com/DAIFF",
+        "source_type": "official_apply_page",
+        "discovery_source": "manual",
+        "discovery_url": "https://filmfreeway.com/DAIFF",
+        "evidence": "FilmFreeway 공식 접수 페이지가 DISRUPT AI Film Festival을 Australia’s first dedicated Gen AI film festival로 설명하고, Gen AI 도구가 영화의 핵심 창작 요소를 형성해야 한다고 안내함. 참가자는 Australian-based applicant로 제한되며, 일정은 2026-06-15 Opening Date, 2026-10-16 Submissions Close, 2026-11-06 Notification Date, 2026-11-18 Melbourne Event Date로 확인됨.",
+        "summary": "호주 기반 창작자를 대상으로 생성AI 영화 단편·장편·학생 작품을 모집하는 DAIFF 2026.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-28T07:00:00+09:00"
+      },
+      {
         "title": "GENERATE 2026 AI Art Competition",
         "category": "AI 이미지",
         "country": "United States",
@@ -359,6 +427,23 @@
         "summary": "‘Visions in Motion’을 주제로 AI 생성 이미지를 모집하는 전 세계 대상 AI 아트 공모전.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "Ai Film Festival 2026",
+        "category": "AI 영상",
+        "country": "Australia",
+        "organizer": "Ai Film Festival",
+        "submission_start": "2026-04-16",
+        "submission_end": "2027-01-21",
+        "result_date": "2027-02-18",
+        "url": "https://filmfreeway.com/AifilmFestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "manual",
+        "discovery_url": "https://filmfreeway.com/AifilmFestival",
+        "evidence": "FilmFreeway 공식 접수 페이지가 Best Ai Short Film 부문을 운영하며 각 장면에 AI Generated Shots를 사용한 1~10분 오리지널 스크립트 기반 영상을 요구한다고 명시함. 일정은 2026-04-16 Opening Date, 2026-07-16 July Deadline, 2026-08-20 August Deadline, 2026-12-17 December Deadline, 2027-01-21 Final Deadline, 2027-02-18 Notification Date, 2027-03-18~19 Event Date로 확인됨. 장소는 Helensburgh, New South Wales, Australia로 표시됨.",
+        "summary": "AI Generated Shots를 사용한 단편 영상을 모집하는 호주 기반 AI 영화제. 최종 마감은 2027년 1월 21일.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-28T07:00:00+09:00"
       },
       {
         "title": "A' Generative, Algorithmic, Parametric and AI-Assisted Design Award 2027",
