@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T07:00:00+09:00",
+  "generated_at": "2026-06-29T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -38,23 +38,6 @@
     "starting_today": [],
     "ongoing": [
       {
-        "title": "Shortest AI Film Competition by LTX Studio 2026",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "Forward Festival / LTX Studio",
-        "submission_start": "2026-05-28",
-        "submission_end": "2026-06-28",
-        "result_date": "2026-08-27",
-        "url": "https://www.forward-festival.com/page/ai-shortest-film-competition-by-ltx",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.forward-festival.com/page/ai-shortest-film-competition-by-ltx",
-        "evidence": "Forward Festival 공식 페이지가 LTX Studio와 함께 Shortest AI Film Competition을 운영하며, LTX로 제작한 60초 이하 AI 단편 영화를 모집하고 Forward Festival Berlin에서 상영한다고 안내함. 공식 페이지에서 누구나 어디서든 제출 가능하며, 접수는 2026-06-28까지이고 우수작은 2026-08-27~2026-08-28 Forward Festival Berlin의 Shortest AI Film Festival에서 상영된다고 확인함.",
-        "summary": "LTX Studio로 제작한 60초 이하 AI 단편 영화를 모집하는 Forward Festival 연계 국제 AI 영상 공모전.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
-      },
-      {
         "title": "AI Futures Challenge 2026",
         "category": "AI 콘텐츠",
         "country": "Online",
@@ -70,6 +53,23 @@
         "summary": "AI가 잘 작동한 미래를 세계관·스토리·선택적 이미지/영상 미디어로 설계해 제출하는 온라인 국제 창작 챌린지.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "HKAIIFF 2026 – Hong Kong AI International Film Festival",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "Hong Kong AI International Film Festival Association",
+        "submission_start": "2026-04-01",
+        "submission_end": "2026-07-10",
+        "result_date": "2026-07-17",
+        "url": "https://www.hkaiiff.org/en",
+        "source_type": "official_notice",
+        "discovery_source": "manual",
+        "discovery_url": "https://www.hkaiiff.org/en",
+        "evidence": "HKAIIFF 공식 사이트가 Hong Kong AI International Film Festival 2026을 AI-native cinema 국제 영화제로 소개하고, 51%+ AI participation required 기준과 Generative Cinema, Interactive Narratives & World-building, Procedural & Emergent Systems, Digital Beings & Synthetic Performance 부문을 명시함. Submission timeline은 Early Bird 2026-04-01~04-30, Standard 2026-05-01~06-30, Final Call 2026-07-01~07-10이며, 전 세계 영화 제작자에게 열려 있다고 안내함.",
+        "summary": "AI 참여 51% 이상을 요구하는 홍콩 기반 국제 AI-native 영화제. 7월 10일까지 Final Call 접수.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-29T07:00:00+09:00"
       },
       {
         "title": "AI International Film Festival 2026 – September Hollywood Edition",
@@ -429,6 +429,23 @@
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
+        "title": "AI for the Future Festival 2026",
+        "category": "AI 이미지·영상",
+        "country": "Online",
+        "organizer": "AI for the Future Festival / Lisa Russell",
+        "submission_start": "2025-12-07",
+        "submission_end": "2026-11-30",
+        "result_date": "2026-12-15",
+        "url": "https://filmfreeway.com/AIfortheFutureFest",
+        "source_type": "official_apply_page",
+        "discovery_source": "manual",
+        "discovery_url": "https://filmfreeway.com/AIfortheFutureFest",
+        "evidence": "FilmFreeway 공식 접수 페이지가 AI for the Future Festival 2026을 Online Festival / Awards Event로 표시하고, AI filmmakers, AI visual artists + animators, AI-powered music video creators, creative technologists 등을 모집한다고 안내함. 규정은 AI tools in writing, image creation, sound, performance, editing, or worldbuilding을 창작 과정에 포함한 작품을 접수 대상으로 설명하며, 2026년 접수 마감 단계는 2026-06-30, 2026-08-31, 2026-09-30, 2026-10-31, 2026-11-30으로 표시됨.",
+        "summary": "AI 영상, 비주얼 아트, 애니메이션, AI 기반 음악 영상과 실험적 스토리텔링을 접수하는 온라인 국제 페스티벌.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-29T07:00:00+09:00"
+      },
+      {
         "title": "Ai Film Festival 2026",
         "category": "AI 영상",
         "country": "Australia",
@@ -482,23 +499,6 @@
         "source_checked_at": "2026-06-27T07:00:00+09:00"
       },
       {
-        "title": "Reply AI Music Contest 2026",
-        "category": "AI 콘텐츠",
-        "country": "International",
-        "organizer": "Reply / Reply AI Studios",
-        "submission_start": "2026-05-10",
-        "submission_end": "2026-06-02",
-        "result_date": "2026-07-03",
-        "url": "https://challenges.reply.com/challenges/creative/ai-music-contest/home/",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://challenges.reply.com/challenges/creative/ai-music-contest/home/",
-        "evidence": "Reply Challenges 공식 페이지가 Reply AI Music Contest를 AI 기반 음악 라이브 퍼포먼스 공모로 안내하며, AI가 음악·비주얼·사운드·시각효과 등을 생성할 수 있고 제출물은 AI로 생성 또는 보강된 1~10분 퍼포먼스여야 한다고 명시함. 공식 페이지에서 Call for Submissions 마감이 2026-06-02로 연장됐고, 선정자는 2026-07-03~2026-07-05 Turin Kappa FuturFestival 무대에서 라이브 퍼포먼스를 진행한다고 확인됨.",
-        "summary": "AI로 생성 또는 보강한 라이브 퍼포먼스를 모집한 Reply 공식 국제 창작 공모. 접수 종료 후 7월 Kappa FuturFestival 무대 선정/발표 대기 단계.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
-      },
-      {
         "title": "Picsart Happy Horse Awards",
         "category": "AI 영상",
         "country": "Global",
@@ -516,19 +516,19 @@
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
-        "title": "Canvas of the Future 2026",
-        "category": "AI 이미지",
+        "title": "Reply AI Music Contest 2026",
+        "category": "AI 콘텐츠",
         "country": "International",
-        "organizer": "AI for Good / ITU",
-        "submission_start": "2026-01-12",
-        "submission_end": "2026-03-29",
-        "result_date": "2026-07-07",
-        "url": "https://aiforgood.itu.int/canvas-of-the-future/",
+        "organizer": "Reply / Reply AI Studios",
+        "submission_start": "2026-05-10",
+        "submission_end": "2026-06-02",
+        "result_date": "2026-07-03",
+        "url": "https://challenges.reply.com/challenges/creative/ai-music-contest/home/",
         "source_type": "official_notice",
-        "discovery_source": "brave",
-        "discovery_url": "https://aiforgood.itu.int/canvas-of-the-future/",
-        "evidence": "공식 페이지가 AI-powered 또는 AI-enhanced digital image 1점을 모집하며 국제적·보편적 주제를 요구한다고 명시. 타임라인은 2026-01-12 launch, 2026-03-29 submission deadline, 2026-03-30~05-01 evaluation, 2026-07-07~10 winner announcement로 공지됨.",
-        "summary": "교육·일의 미래를 주제로 한 AI 기반 디지털 이미지 공모전. 제출 종료 후 심사/발표 대기 단계.",
+        "discovery_source": "tavily",
+        "discovery_url": "https://challenges.reply.com/challenges/creative/ai-music-contest/home/",
+        "evidence": "Reply Challenges 공식 페이지가 Reply AI Music Contest를 AI 기반 음악 라이브 퍼포먼스 공모로 안내하며, AI가 음악·비주얼·사운드·시각효과 등을 생성할 수 있고 제출물은 AI로 생성 또는 보강된 1~10분 퍼포먼스여야 한다고 명시함. 공식 페이지에서 Call for Submissions 마감이 2026-06-02로 연장됐고, 선정자는 2026-07-03~2026-07-05 Turin Kappa FuturFestival 무대에서 라이브 퍼포먼스를 진행한다고 확인됨.",
+        "summary": "AI로 생성 또는 보강한 라이브 퍼포먼스를 모집한 Reply 공식 국제 창작 공모. 접수 종료 후 7월 Kappa FuturFestival 무대 선정/발표 대기 단계.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
@@ -546,6 +546,23 @@
         "discovery_url": "https://aiforgood.itu.int/ai-for-good-film-festival/",
         "evidence": "공식 AI for Good Film Festival 페이지가 AI가 영화 제작 가능성을 확장하고 긍정적 사회적 영향을 다루는 국제 영화 공모전이라고 설명하며, AI scriptwriting, storyboarding, image creation, digital effects 등을 활용한 1~10분 영화를 모집한다고 명시함. 접수 기간은 2026-01-15~2026-05-15 23:59 CEST, shortlist 2026-05-24, judging 2026-05-25~31, finalists announcement 2026-06-01, AI for Good Global Summit screening/awards 2026-07-07~10으로 공지되어 발표 대기 항목으로 분류함.",
         "summary": "AI for Good Global Summit과 연계된 국제 AI 영화 공모전. 접수 종료 후 제네바 상영·시상 발표 대기 단계.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "Canvas of the Future 2026",
+        "category": "AI 이미지",
+        "country": "International",
+        "organizer": "AI for Good / ITU",
+        "submission_start": "2026-01-12",
+        "submission_end": "2026-03-29",
+        "result_date": "2026-07-07",
+        "url": "https://aiforgood.itu.int/canvas-of-the-future/",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://aiforgood.itu.int/canvas-of-the-future/",
+        "evidence": "공식 페이지가 AI-powered 또는 AI-enhanced digital image 1점을 모집하며 국제적·보편적 주제를 요구한다고 명시. 타임라인은 2026-01-12 launch, 2026-03-29 submission deadline, 2026-03-30~05-01 evaluation, 2026-07-07~10 winner announcement로 공지됨.",
+        "summary": "교육·일의 미래를 주제로 한 AI 기반 디지털 이미지 공모전. 제출 종료 후 심사/발표 대기 단계.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
@@ -601,6 +618,23 @@
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
+        "title": "Shortest AI Film Competition by LTX Studio 2026",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "Forward Festival / LTX Studio",
+        "submission_start": "2026-05-28",
+        "submission_end": "2026-06-28",
+        "result_date": "2026-08-27",
+        "url": "https://www.forward-festival.com/page/ai-shortest-film-competition-by-ltx",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.forward-festival.com/page/ai-shortest-film-competition-by-ltx",
+        "evidence": "Forward Festival 공식 페이지가 LTX Studio와 함께 Shortest AI Film Competition을 운영하며, LTX로 제작한 60초 이하 AI 단편 영화를 모집하고 Forward Festival Berlin에서 상영한다고 안내함. 공식 페이지에서 누구나 어디서든 제출 가능하며, 접수는 2026-06-28까지이고 우수작은 2026-08-27~2026-08-28 Forward Festival Berlin의 Shortest AI Film Festival에서 상영된다고 확인함.",
+        "summary": "LTX Studio로 제작한 60초 이하 AI 단편 영화를 모집하는 Forward Festival 연계 국제 AI 영상 공모전.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-29T07:00:00+09:00"
+      },
+      {
         "title": "Reply AI Film Festival 2026",
         "category": "AI 영상",
         "country": "International",
@@ -614,23 +648,6 @@
         "discovery_url": "https://challenges.reply.com/challenges/creative/aifilmfestival/home/",
         "evidence": "Reply Challenges 공식 페이지가 AI 영상 제작 공모, 전 세계 18세 이상 참가, Venice 2026 프리미어/수상 발표를 안내하고, Call for Submissions가 기존 2026-06-01에서 2026-06-02로 연장됐다고 명시함.",
         "summary": "AI를 활용한 단편 영화를 모집하는 국제 AI 영화제. 6월 2일까지 접수 후 9월 베니스 프리미어에서 발표.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
-      },
-      {
-        "title": "Higgsfield Seedance 2.0 Contest",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "Higgsfield",
-        "submission_start": "2026-04-07",
-        "submission_end": "2026-04-14",
-        "result_date": "미정",
-        "url": "https://higgsfield.ai/contests/higgsfield-seedance-2-contest",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://higgsfield.ai/contests/higgsfield-seedance-2-contest",
-        "evidence": "공식 Higgsfield contest 페이지가 Seedance 2.0 on Higgsfield AI를 사용해 15초~5분 영상을 제작하는 $50,000 prize pool 콘테스트라고 안내하고, schema.org Event 데이터에서 2026-04-07T12:00:00Z~2026-04-14T12:00:00Z 일정을 확인함. 페이지 상태는 Ended 및 Winners are being selected로 표시되어 접수 종료 후 발표 대기로 분류함.",
-        "summary": "Higgsfield AI에서 Seedance 2.0을 활용한 고품질 AI 영상 콘테스트. 접수 종료 후 수상자 선정 중.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
@@ -652,19 +669,19 @@
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
-        "title": "TOKYO AI Fashion Week 2026 Contest",
-        "category": "AI 디자인",
-        "country": "International",
-        "organizer": "OpenFashion",
-        "submission_start": "2026-04-03",
-        "submission_end": "2026-05-27",
+        "title": "Higgsfield Seedance 2.0 Contest",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Higgsfield",
+        "submission_start": "2026-04-07",
+        "submission_end": "2026-04-14",
         "result_date": "미정",
-        "url": "https://tokyoaifashionweek.com/pages/contest-2026",
-        "source_type": "official_notice",
+        "url": "https://higgsfield.ai/contests/higgsfield-seedance-2-contest",
+        "source_type": "official_platform",
         "discovery_source": "tavily",
-        "discovery_url": "https://prtimes.jp/main/html/rd/p/000000197.000012284.html",
-        "evidence": "공식 TOKYO AI Fashion Week 2026 모집요강이 Future Utility를 주제로 생성AI를 활용해 만든 아이템 이미지 5점의 패션 컬렉션을 모집한다고 안내함. 작품 모집기간은 2026-04-03~2026-05-27 23:59 JST로 종료됐고, 일본 국내외 누구나 응모 가능하며 우수작은 2026년 7월 공식 사이트 등에서 발표 예정이라고 공지함.",
-        "summary": "생성AI 이미지로 미래형 패션 컬렉션을 제안하는 국제 참가 가능 일본 AI 패션 디자인 공모. 접수 종료 후 발표 대기 단계.",
+        "discovery_url": "https://higgsfield.ai/contests/higgsfield-seedance-2-contest",
+        "evidence": "공식 Higgsfield contest 페이지가 Seedance 2.0 on Higgsfield AI를 사용해 15초~5분 영상을 제작하는 $50,000 prize pool 콘테스트라고 안내하고, schema.org Event 데이터에서 2026-04-07T12:00:00Z~2026-04-14T12:00:00Z 일정을 확인함. 페이지 상태는 Ended 및 Winners are being selected로 표시되어 접수 종료 후 발표 대기로 분류함.",
+        "summary": "Higgsfield AI에서 Seedance 2.0을 활용한 고품질 AI 영상 콘테스트. 접수 종료 후 수상자 선정 중.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
@@ -701,6 +718,23 @@
         "summary": "TikTok Effect House의 AI Editor 기반 효과 제작 챌린지. 6월 24일 접수가 종료되어 결과 발표를 대기 중.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-25T07:00:00+09:00"
+      },
+      {
+        "title": "TOKYO AI Fashion Week 2026 Contest",
+        "category": "AI 디자인",
+        "country": "International",
+        "organizer": "OpenFashion",
+        "submission_start": "2026-04-03",
+        "submission_end": "2026-05-27",
+        "result_date": "미정",
+        "url": "https://tokyoaifashionweek.com/pages/contest-2026",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://prtimes.jp/main/html/rd/p/000000197.000012284.html",
+        "evidence": "공식 TOKYO AI Fashion Week 2026 모집요강이 Future Utility를 주제로 생성AI를 활용해 만든 아이템 이미지 5점의 패션 컬렉션을 모집한다고 안내함. 작품 모집기간은 2026-04-03~2026-05-27 23:59 JST로 종료됐고, 일본 국내외 누구나 응모 가능하며 우수작은 2026년 7월 공식 사이트 등에서 발표 예정이라고 공지함.",
+        "summary": "생성AI 이미지로 미래형 패션 컬렉션을 제안하는 국제 참가 가능 일본 AI 패션 디자인 공모. 접수 종료 후 발표 대기 단계.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-23T07:00:00+09:00"
       }
     ]
   }
