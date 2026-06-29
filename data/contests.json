@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T19:00:00+09:00",
+  "generated_at": "2026-06-29T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -511,6 +511,22 @@
         "summary": "환경보전 메시지를 담은 창작 이미지를 접수하는 대한민국 환경사랑공모전의 AI 일러스트레이션 부문입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-14T19:00:00+09:00"
+      },
+      {
+        "title": "K-Heritage Media Art Shinsegae Square Awards",
+        "category": "AI 영상",
+        "organizer": "신세계스퀘어 / 국가유산청",
+        "submission_start": "2026-06-15",
+        "submission_end": "2026-08-07",
+        "result_date": "미정",
+        "url": "https://contest.vido.gallery/contests/ssq-2026",
+        "source_type": "official_platform",
+        "discovery_source": "brave/crowlly_auxiliary",
+        "discovery_url": "https://crowlly.xyz/competitions/shinsegae-square-awards-2026",
+        "evidence": "공식 홈페이지와 VIDO 접수 페이지 기준 국가유산청 디지털 데이터를 활용한 30~90초 미디어아트 및 MP4 영상 제출, AI 기반 콘텐츠 제작 관심자 참가 가능 문구 확인.",
+        "summary": "세종대왕과 K-Heritage를 소재로 신세계스퀘어 미디어파사드 송출용 미디어아트 영상을 제작하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-29T19:00:00+09:00"
       },
       {
         "title": "제5회 그린 이니셔티브 60초 영화제 삼다수 with AI 부문",
