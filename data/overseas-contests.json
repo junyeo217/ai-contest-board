@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T07:00:00+09:00",
+  "generated_at": "2026-07-03T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -361,6 +361,23 @@
         "source_checked_at": "2026-06-28T07:00:00+09:00"
       },
       {
+        "title": "TCCP GENERATE 2026 – AI Art Contest",
+        "category": "AI 이미지",
+        "country": "United States",
+        "organizer": "Technology Council of Central Pennsylvania (TCCP)",
+        "submission_start": "2026-04-26",
+        "submission_end": "2026-10-30",
+        "result_date": "미정",
+        "url": "https://www.tccp.org/generate2026",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.tccp.org/generate2026",
+        "evidence": "TCCP 공식 GENERATE 2026 페이지가 AI Art Contest로서 artists, designers, and AI enthusiasts에게 artificial intelligence tools를 사용한 시각 작품을 모집한다고 안내함. 공식 페이지에서 The Human Side of Technology 주제, public voting과 TCCP 심사, 제출 마감 Friday 10/30/2026 11:59pm 및 Jotform 제출 경로를 확인함.",
+        "summary": "Central Pennsylvania 기술 단체 TCCP가 주최하는 AI 아트 공모전. 'The Human Side of Technology'를 주제로 AI 도구 기반 시각 작품을 10월 30일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-03T07:00:00+09:00"
+      },
+      {
         "title": "AI Creativity Awards 2026",
         "category": "AI 이미지·영상",
         "country": "International",
@@ -505,15 +522,15 @@
         "organizer": "Reply / Reply AI Studios",
         "submission_start": "2026-05-10",
         "submission_end": "2026-06-02",
-        "result_date": "2026-07-03",
+        "result_date": "2026-07-04",
         "url": "https://challenges.reply.com/challenges/creative/ai-music-contest/home/",
         "source_type": "official_notice",
         "discovery_source": "tavily",
         "discovery_url": "https://challenges.reply.com/challenges/creative/ai-music-contest/home/",
-        "evidence": "Reply Challenges 공식 페이지가 Reply AI Music Contest를 AI 기반 음악 라이브 퍼포먼스 공모로 안내하며, AI가 음악·비주얼·사운드·시각효과 등을 생성할 수 있고 제출물은 AI로 생성 또는 보강된 1~10분 퍼포먼스여야 한다고 명시함. 공식 페이지에서 Call for Submissions 마감이 2026-06-02로 연장됐고, 선정자는 2026-07-03~2026-07-05 Turin Kappa FuturFestival 무대에서 라이브 퍼포먼스를 진행한다고 확인됨.",
-        "summary": "AI로 생성 또는 보강한 라이브 퍼포먼스를 모집한 Reply 공식 국제 창작 공모. 접수 종료 후 7월 Kappa FuturFestival 무대 선정/발표 대기 단계.",
+        "evidence": "Reply Challenges 공식 페이지가 Reply AI Music Contest를 AI 기반 음악 라이브 퍼포먼스 공모로 안내하며, AI가 음악·비주얼·사운드·시각효과 등을 생성할 수 있고 제출물은 AI로 생성 또는 보강된 1~10분 퍼포먼스여야 한다고 명시함. 공식 페이지에서 Call for Submissions 마감이 2026-06-02로 연장됐고, 선정자는 2026-07-03~2026-07-05 Turin Kappa FuturFestival 무대에서 라이브 퍼포먼스를 진행한다고 확인됨. 2026-07-03 재확인 시 Reply in UK 공식 공지는 winners announced on Saturday, 4 July라고 안내해 결과일을 보정함.",
+        "summary": "AI로 생성 또는 보강한 라이브 퍼포먼스를 모집한 Reply 공식 국제 창작 공모. 접수 종료 후 7월 4일 Kappa FuturFestival 발표 대기 단계.",
         "status": "발표 대기",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
+        "source_checked_at": "2026-07-03T07:00:00+09:00"
       },
       {
         "title": "AI for Good Film Festival 2026",
