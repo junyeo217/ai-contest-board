@@ -1,74 +1,9 @@
 {
-  "generated_at": "2026-07-01T19:00:00+09:00",
+  "generated_at": "2026-07-02T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [
-      {
-        "title": "2026년 K-AI 콘텐츠 공모전",
-        "category": "AI 이미지·영상",
-        "organizer": "KT그룹희망나눔재단",
-        "submission_start": "2026-07-01",
-        "submission_end": "2026-07-15",
-        "result_date": "2026-08 초 예정",
-        "url": "https://www.blaybus.com/redirect/activity/919/explore",
-        "source_type": "official_platform",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://www.etnews.com/20260617000047",
-        "evidence": "Tavily의 Blaybus 공모전 페이지 색인과 전자신문 보도 기준 콘텐츠 부문에서 생성형 AI 이미지(중·고등부)와 생성형 AI 영상(대학·일반부) 제출, 접수 2026년 7월 1일~7월 15일 명시.",
-        "summary": "안전하고 올바른 AI 사용과 AI와 공존하는 미래 사회를 주제로 생성형 AI 이미지와 영상을 모집하는 전 국민 대상 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-07-01T19:00:00+09:00"
-      },
-      {
-        "title": "올리비아로렌 AI 여름 화보 공모전",
-        "category": "AI 이미지·영상",
-        "organizer": "OVLR / 올리비아로렌",
-        "submission_start": "2026-07-01",
-        "submission_end": "2026-07-15",
-        "result_date": "2026-07-30 예정",
-        "url": "https://www.ktnews.com/news/articleView.html?idxno=146894",
-        "source_type": "reference_link",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://fashionbiz.co.kr/article/227518",
-        "evidence": "한국섬유신문/패션비즈 참고 기사 기준 올리비아로렌 제품을 소재로 생성형 AI 이미지 또는 15~60초 숏폼 영상 제작, AI 이미지·AI 영상 2개 부문, 접수 2026년 7월 1일~15일 명시.",
-        "summary": "올리비아로렌 여름 제품을 소재로 생성형 AI 화보 이미지나 숏폼 영상을 제작해 개인 SNS와 온라인 접수 폼으로 제출하는 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-07-01T19:00:00+09:00"
-      },
-      {
-        "title": "제1회 자유기업원 AI콘텐츠 공모전",
-        "category": "AI 이미지·영상",
-        "organizer": "자유기업원",
-        "submission_start": "2026-07-01",
-        "submission_end": "2026-07-31",
-        "result_date": "2026-08-14 예정",
-        "url": "https://www.cfe.org/20260601_29097",
-        "source_type": "official_notice",
-        "discovery_source": "brave/tavily",
-        "discovery_url": "https://www.cfe.org/20260601_29097",
-        "evidence": "자유기업원 공식 공고 기준 모든 콘텐츠는 AI 툴을 활용해야 하며 웹툰 PNG 10장 내외 또는 30초~1분 내외 MP4 애니메이션 제출, 응모기간 2026년 7월 1일~7월 31일 명시.",
-        "summary": "자유주의와 시장경제의 가치를 AI 웹툰 또는 AI 애니메이션으로 표현하는 전 국민 대상 콘텐츠 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-07-01T19:00:00+09:00"
-      }
-    ],
+    "starting_today": [],
     "ongoing": [
-      {
-        "title": "2026 대구 남구 홍보 AI 영상 공모전 「남구 아이(AI)가」",
-        "category": "AI 영상",
-        "organizer": "대구광역시 남구",
-        "submission_start": "2026-05-21",
-        "submission_end": "2026-07-01",
-        "result_date": "2026-08 예정",
-        "url": "https://www.facebook.com/dreamnamgu/photos/1433345122153267/",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://news.nate.com/view/20260521n12711?mid=n0100",
-        "evidence": "대구 남구 공식 SNS/보도 기사 기준 생성형 AI 기술을 활용해 남구의 현재와 미래 발전상을 담은 1분 내외 FHD급 mp4 영상을 제출한다고 명시.",
-        "summary": "대구 남구의 현재와 미래 발전상을 생성형 AI 기반 홍보 영상으로 표현하는 전국민 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-22T19:00:00+09:00"
-      },
       {
         "title": "2026년 AI · 미디어콘텐츠공모전 'Signal_A'",
         "category": "AI 영상",
@@ -626,8 +561,8 @@
         "discovery_url": "https://www.etnews.com/20260617000047",
         "evidence": "Tavily의 Blaybus 공모전 페이지 색인과 전자신문 보도 기준 콘텐츠 부문에서 생성형 AI 이미지(중·고등부)와 생성형 AI 영상(대학·일반부) 제출, 접수 2026년 7월 1일~7월 15일 명시.",
         "summary": "안전하고 올바른 AI 사용과 AI와 공존하는 미래 사회를 주제로 생성형 AI 이미지와 영상을 모집하는 전 국민 대상 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-07-01T19:00:00+09:00"
+        "status": "진행중",
+        "source_checked_at": "2026-07-02T19:00:00+09:00"
       },
       {
         "title": "올리비아로렌 AI 여름 화보 공모전",
@@ -642,8 +577,8 @@
         "discovery_url": "https://fashionbiz.co.kr/article/227518",
         "evidence": "한국섬유신문/패션비즈 참고 기사 기준 올리비아로렌 제품을 소재로 생성형 AI 이미지 또는 15~60초 숏폼 영상 제작, AI 이미지·AI 영상 2개 부문, 접수 2026년 7월 1일~15일 명시.",
         "summary": "올리비아로렌 여름 제품을 소재로 생성형 AI 화보 이미지나 숏폼 영상을 제작해 개인 SNS와 온라인 접수 폼으로 제출하는 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-07-01T19:00:00+09:00"
+        "status": "진행중",
+        "source_checked_at": "2026-07-02T19:00:00+09:00"
       },
       {
         "title": "제1회 자유기업원 AI콘텐츠 공모전",
@@ -658,8 +593,8 @@
         "discovery_url": "https://www.cfe.org/20260601_29097",
         "evidence": "자유기업원 공식 공고 기준 모든 콘텐츠는 AI 툴을 활용해야 하며 웹툰 PNG 10장 내외 또는 30초~1분 내외 MP4 애니메이션 제출, 응모기간 2026년 7월 1일~7월 31일 명시.",
         "summary": "자유주의와 시장경제의 가치를 AI 웹툰 또는 AI 애니메이션으로 표현하는 전 국민 대상 콘텐츠 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-07-01T19:00:00+09:00"
+        "status": "진행중",
+        "source_checked_at": "2026-07-02T19:00:00+09:00"
       }
     ],
     "awaiting_results": [
@@ -1374,6 +1309,22 @@
         "summary": "생성형 AI로 기능성 소재 기반 패션·텍스타일·생활 아이템 디자인을 제안하는 국민 공모입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-07-01T19:00:00+09:00"
+      },
+      {
+        "title": "2026 대구 남구 홍보 AI 영상 공모전 「남구 아이(AI)가」",
+        "category": "AI 영상",
+        "organizer": "대구광역시 남구",
+        "submission_start": "2026-05-21",
+        "submission_end": "2026-07-01",
+        "result_date": "2026-08 예정",
+        "url": "https://www.facebook.com/dreamnamgu/photos/1433345122153267/",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://news.nate.com/view/20260521n12711?mid=n0100",
+        "evidence": "대구 남구 공식 SNS/보도 기사 기준 생성형 AI 기술을 활용해 남구의 현재와 미래 발전상을 담은 1분 내외 FHD급 mp4 영상을 제출한다고 명시.",
+        "summary": "대구 남구의 현재와 미래 발전상을 생성형 AI 기반 홍보 영상으로 표현하는 전국민 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-07-02T19:00:00+09:00"
       }
     ]
   }
