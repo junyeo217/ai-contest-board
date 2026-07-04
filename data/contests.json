@@ -1,42 +1,9 @@
 {
-  "generated_at": "2026-07-03T19:00:00+09:00",
+  "generated_at": "2026-07-04T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [
-      {
-        "title": "아이허브 AI 공모전",
-        "category": "AI 영상",
-        "organizer": "아이허브 / 아우스월드와이드",
-        "submission_start": "2026-07-03",
-        "submission_end": "2026-08-03",
-        "result_date": "2026-09-01 예정",
-        "url": "https://inspiring-marigold-bbf5a9.netlify.app/",
-        "source_type": "official_homepage",
-        "discovery_source": "tavily",
-        "discovery_url": "https://linkareer.com/activity/332919",
-        "evidence": "공식 공모 페이지 기준 생성형 AI로 아이허브 브랜드와 제품을 표현하는 AI 광고 영상, 15초 세로형 영상 또는 40초 가로형 영상, 접수 2026.07.03~08.03 명시.",
-        "summary": "아이허브 브랜드와 캘리포니아 골드 뉴트리션 제품을 주제로 생성형 AI 광고 영상을 제작하는 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-07-03T19:00:00+09:00"
-      }
-    ],
+    "starting_today": [],
     "ongoing": [
-      {
-        "title": "제4회 퀴즈노스 AI 영상 광고 공모전",
-        "category": "AI 영상",
-        "organizer": "에코네스트에이아이 주식회사 / OYE",
-        "submission_start": "2026-06-04",
-        "submission_end": "2026-07-03",
-        "result_date": "2026-07-07 예정",
-        "url": "https://linkareer.com/activity/325800",
-        "source_type": "reference_link",
-        "discovery_source": "tavily",
-        "discovery_url": "https://linkareer.com/activity/325800",
-        "evidence": "참고 공고의 챌린지 개요와 제출 안내에 AI 영상 광고, OYE 업로드, AI 기술 활용도 평가 기준 명시",
-        "summary": "퀴즈노스 브랜드 에셋을 활용해 AI 영상 광고를 제작·업로드하는 챌린지입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-05T19:00:00+09:00"
-      },
       {
         "title": "2026 화학창의콘텐츠 공모전",
         "category": "AI 영상",
@@ -278,6 +245,22 @@
         "source_checked_at": "2026-06-24T19:00:00+09:00"
       },
       {
+        "title": "XCONDA 60 Awards Vol.1",
+        "category": "AI 영상",
+        "organizer": "XCONDA",
+        "submission_start": "2026-06-26",
+        "submission_end": "2026-07-26",
+        "result_date": "2026-08-03 예정",
+        "url": "https://onoffmix.com/event/345071",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://onoffmix.com/event/345071",
+        "evidence": "온오프믹스 행사 페이지와 XCONDA 공식 SNS 색인 기준 15~60초 AI 숏폼 영상, 접수 2026.06.26~07.26 23:59, 수상자 발표 2026.08.03 명시.",
+        "summary": "XCONDA 워크플로우를 활용한 15~60초 AI 숏폼 영상을 모집하는 AI 영상 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-04T19:00:00+09:00"
+      },
+      {
         "title": "2026 한국전기안전공사 AI영상공모전",
         "category": "AI 영상",
         "organizer": "한국전기안전공사",
@@ -454,6 +437,22 @@
         "source_checked_at": "2026-07-02T19:00:00+09:00"
       },
       {
+        "title": "제4회 지구하다 페스티벌 그림·AI 영상 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "교보생명보험㈜ / 한국환경보전원",
+        "submission_start": "2026-07-03",
+        "submission_end": "2026-07-31",
+        "result_date": "2026-09-11 예정",
+        "url": "https://www.keep.go.kr/front/bbs/1/view.html?searchType=&searchKeyword=&pageNumber=1&orderField=FIXORDER+ASC%2CGRP+DESC%2CORD&rowPerPage=10&pstid=1504&tabType=1&mkey=",
+        "source_type": "official_notice",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://www.keep.go.kr/front/bbs/1/view.html?searchType=&searchKeyword=&pageNumber=1&orderField=FIXORDER+ASC%2CGRP+DESC%2CORD&rowPerPage=10&pstid=1504&tabType=1&mkey=",
+        "evidence": "국가환경교육센터 공식 공지 기준 공모분야에 그림과 AI 영상 2개 분야, 공모기간 2026.07.03~07.31, 심사발표 2026.09.11 예정 명시.",
+        "summary": "생활 속 기후행동 사례를 주제로 그림과 AI 영상을 모집하는 한국환경보전원·교보생명보험 주최 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-04T19:00:00+09:00"
+      },
+      {
         "title": "한솔그룹 대학생 AI숏폼 공모전",
         "category": "AI 영상",
         "organizer": "한솔그룹",
@@ -484,6 +483,22 @@
         "summary": "환경보전 메시지를 담은 창작 이미지를 접수하는 대한민국 환경사랑공모전의 AI 일러스트레이션 부문입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-14T19:00:00+09:00"
+      },
+      {
+        "title": "아이허브 AI 공모전",
+        "category": "AI 영상",
+        "organizer": "아이허브 / 아우스월드와이드",
+        "submission_start": "2026-07-03",
+        "submission_end": "2026-08-03",
+        "result_date": "2026-09-01 예정",
+        "url": "https://inspiring-marigold-bbf5a9.netlify.app/",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://linkareer.com/activity/332919",
+        "evidence": "공식 공모 페이지 기준 생성형 AI로 아이허브 브랜드와 제품을 표현하는 AI 광고 영상, 15초 세로형 영상 또는 40초 가로형 영상, 접수 2026.07.03~08.03 명시.",
+        "summary": "아이허브 브랜드와 캘리포니아 골드 뉴트리션 제품을 주제로 생성형 AI 광고 영상을 제작하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-04T19:00:00+09:00"
       },
       {
         "title": "K-Heritage Media Art Shinsegae Square Awards",
@@ -798,20 +813,6 @@
         "source_checked_at": "2026-05-20T19:00:00+09:00"
       },
       {
-        "title": "2026년 상주시 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "상주시",
-        "submission_start": "2026-04-06",
-        "submission_end": "2026-05-20",
-        "result_date": "2026-07-02",
-        "url": "https://sangju-aicontest.imweb.me/",
-        "source_type": "official_homepage",
-        "evidence": "Crowlly/공식 페이지 기준 생성형 AI 영상 부문, 15초 이상 3분 미만, AI 활용 증빙 가능 명시.",
-        "summary": "상주의 관광·축제·특산물 매력을 생성형 AI 영상으로 담는 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-05-21T19:00:00+09:00"
-      },
-      {
         "title": "2026 국토교통기술대전 AI 영상 공모전",
         "category": "AI 영상",
         "organizer": "국토교통과학기술진흥원",
@@ -838,6 +839,20 @@
         "discovery_url": "https://www.buyeo.go.kr/html/kr/news/news_040202.html?mode=V&mng_no=1998450",
         "evidence": "부여군 공식 고시공고에 ‘부여를 AI로 재해석’ 및 30초~3분 영상 콘텐츠, FHD 16:9/9:16 규격 명시.",
         "summary": "부여를 AI로 재해석한 자유 주제의 30초~3분 영상 콘텐츠를 모집합니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-05-21T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 상주시 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "상주시",
+        "submission_start": "2026-04-06",
+        "submission_end": "2026-05-20",
+        "result_date": "2026-07-02",
+        "url": "https://sangju-aicontest.imweb.me/",
+        "source_type": "official_homepage",
+        "evidence": "Crowlly/공식 페이지 기준 생성형 AI 영상 부문, 15초 이상 3분 미만, AI 활용 증빙 가능 명시.",
+        "summary": "상주의 관광·축제·특산물 매력을 생성형 AI 영상으로 담는 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-05-21T19:00:00+09:00"
       },
@@ -948,36 +963,6 @@
         "source_checked_at": "2026-06-01T19:00:00+09:00"
       },
       {
-        "title": "전국민 AI 경진대회 홍보영상 숏폼 챌린지",
-        "category": "AI 영상",
-        "organizer": "과학기술정보통신부",
-        "submission_start": "2026-05-01",
-        "submission_end": "2026-05-31",
-        "result_date": "미정",
-        "url": "https://aichallenge4all.or.kr/promotional-video",
-        "source_type": "official_homepage",
-        "evidence": "Crowlly/공식 페이지 기준 AI와 창의력으로 전국민 AI 경진대회를 홍보하는 20~60초 숏폼 영상 명시.",
-        "summary": "전국민 AI 경진대회를 홍보하는 AI 영상 관심자 대상 숏폼 챌린지입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-01T19:00:00+09:00"
-      },
-      {
-        "title": "제8회 교육 공공데이터 AI활용대회",
-        "category": "AI 영상",
-        "organizer": "교육부·시도교육청·한국교육학술정보원 등",
-        "submission_start": "2026-05-01",
-        "submission_end": "2026-05-31",
-        "result_date": "미정",
-        "url": "https://www.2026edudataaicontest.com/",
-        "source_type": "official_homepage",
-        "discovery_source": "brave",
-        "discovery_url": "https://www.2026edudataaicontest.com/",
-        "evidence": "공식 FAQ 기준 초등 학생부 공모 분야에 AI 활용 소속학교 홍보영상 제작 명시, 작품 접수 2026년 5월 1일~5월 31일 확인.",
-        "summary": "교육 공공데이터와 AI를 활용하는 대회 중 초등 학생부 홍보영상 부문이 포함된 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-01T19:00:00+09:00"
-      },
-      {
         "title": "2026 여주 AI 뮤직비디오 공모전",
         "category": "생성형 AI",
         "organizer": "여주세종문화관광재단",
@@ -1004,6 +989,36 @@
         "source_type": "official_notice",
         "evidence": "공식/Crowlly 기준 생성형 AI 툴 활용 내역·프롬프트·작업 과정 제출, 1분 내외 세로 숏폼 영상 명시.",
         "summary": "AI로 만나는 순천의 미래 모습을 9:16 숏폼 영상으로 제작하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-01T19:00:00+09:00"
+      },
+      {
+        "title": "전국민 AI 경진대회 홍보영상 숏폼 챌린지",
+        "category": "AI 영상",
+        "organizer": "과학기술정보통신부",
+        "submission_start": "2026-05-01",
+        "submission_end": "2026-05-31",
+        "result_date": "미정",
+        "url": "https://aichallenge4all.or.kr/promotional-video",
+        "source_type": "official_homepage",
+        "evidence": "Crowlly/공식 페이지 기준 AI와 창의력으로 전국민 AI 경진대회를 홍보하는 20~60초 숏폼 영상 명시.",
+        "summary": "전국민 AI 경진대회를 홍보하는 AI 영상 관심자 대상 숏폼 챌린지입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-01T19:00:00+09:00"
+      },
+      {
+        "title": "제8회 교육 공공데이터 AI활용대회",
+        "category": "AI 영상",
+        "organizer": "교육부·시도교육청·한국교육학술정보원 등",
+        "submission_start": "2026-05-01",
+        "submission_end": "2026-05-31",
+        "result_date": "미정",
+        "url": "https://www.2026edudataaicontest.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.2026edudataaicontest.com/",
+        "evidence": "공식 FAQ 기준 초등 학생부 공모 분야에 AI 활용 소속학교 홍보영상 제작 명시, 작품 접수 2026년 5월 1일~5월 31일 확인.",
+        "summary": "교육 공공데이터와 AI를 활용하는 대회 중 초등 학생부 홍보영상 부문이 포함된 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-01T19:00:00+09:00"
       },
@@ -1112,22 +1127,6 @@
         "source_checked_at": "2026-06-13T19:00:00+09:00"
       },
       {
-        "title": "사조 AI 숏폼 공모전",
-        "category": "생성형 AI",
-        "organizer": "사조그룹",
-        "submission_start": "2026-05-04",
-        "submission_end": "2026-06-14",
-        "result_date": "2026-07-03",
-        "url": "https://www.instagram.com/p/DX5cTI7nHua/",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://linkareer.com/activity/319480",
-        "evidence": "사조그룹 공식 인스타그램/검증 공고 기준 생성형 AI를 활용해 사조 브랜드 흐름과 가치를 30초~1분 세로형 숏폼 영상으로 표현 명시.",
-        "summary": "종합식품기업 사조의 브랜드 가치를 생성형 AI 숏폼 영상으로 표현하는 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-15T19:00:00+09:00"
-      },
-      {
         "title": "개교 35주년 기념 한국기술교육대학교 AI 굿즈 디자인 공모전",
         "category": "AI 디자인",
         "organizer": "한국기술교육대학교",
@@ -1144,18 +1143,20 @@
         "source_checked_at": "2026-06-15T19:00:00+09:00"
       },
       {
-        "title": "대한의사협회 제43차 종합학술대회 AI 영상공모전",
-        "category": "AI 영상",
-        "organizer": "대한의사협회",
-        "submission_start": "2026-05-11",
-        "submission_end": "2026-06-19",
-        "result_date": "2026년 7월 초 / 개별 안내",
-        "url": "https://www.kmacongress2026.org/html/?pmode=video",
-        "source_type": "official_homepage",
-        "evidence": "공식 학술대회 페이지에 생성형 AI를 활용한 AI 영상 공모전, 30~45초 세로형 MP4 영상 제출 명시.",
-        "summary": "의사의 진심이 담긴 이야기를 생성형 AI 영상으로 표현하는 공모전입니다.",
+        "title": "사조 AI 숏폼 공모전",
+        "category": "생성형 AI",
+        "organizer": "사조그룹",
+        "submission_start": "2026-05-04",
+        "submission_end": "2026-06-14",
+        "result_date": "2026-07-03",
+        "url": "https://www.instagram.com/p/DX5cTI7nHua/",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://linkareer.com/activity/319480",
+        "evidence": "사조그룹 공식 인스타그램/검증 공고 기준 생성형 AI를 활용해 사조 브랜드 흐름과 가치를 30초~1분 세로형 숏폼 영상으로 표현 명시.",
+        "summary": "종합식품기업 사조의 브랜드 가치를 생성형 AI 숏폼 영상으로 표현하는 공모전입니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-06-26T19:00:00+09:00"
+        "source_checked_at": "2026-06-15T19:00:00+09:00"
       },
       {
         "title": "2026 K-포럼 PLAY 백제 AI 영상 공모전",
@@ -1172,6 +1173,20 @@
         "summary": "백제 세계유산과 유적을 생성형 AI 영상으로 재해석하는 K-포럼 연계 공모전입니다.",
         "source_checked_at": "2026-06-20T19:00:00+09:00",
         "status": "발표 대기"
+      },
+      {
+        "title": "대한의사협회 제43차 종합학술대회 AI 영상공모전",
+        "category": "AI 영상",
+        "organizer": "대한의사협회",
+        "submission_start": "2026-05-11",
+        "submission_end": "2026-06-19",
+        "result_date": "2026년 7월 초 / 개별 안내",
+        "url": "https://www.kmacongress2026.org/html/?pmode=video",
+        "source_type": "official_homepage",
+        "evidence": "공식 학술대회 페이지에 생성형 AI를 활용한 AI 영상 공모전, 30~45초 세로형 MP4 영상 제출 명시.",
+        "summary": "의사의 진심이 담긴 이야기를 생성형 AI 영상으로 표현하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-26T19:00:00+09:00"
       },
       {
         "title": "AI 활용 국유재산 홍보 콘텐츠 공모전",
@@ -1390,6 +1405,22 @@
         "summary": "AI로 바뀐 우리의 일상을 주제로 청소년 대상 생성형 AI 활용 영상을 모집하는 미디어콘텐츠 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-07-03T19:00:00+09:00"
+      },
+      {
+        "title": "제4회 퀴즈노스 AI 영상 광고 공모전",
+        "category": "AI 영상",
+        "organizer": "에코네스트에이아이 주식회사 / OYE",
+        "submission_start": "2026-06-04",
+        "submission_end": "2026-07-03",
+        "result_date": "2026-07-07 예정",
+        "url": "https://linkareer.com/activity/325800",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://linkareer.com/activity/325800",
+        "evidence": "참고 공고의 챌린지 개요와 제출 안내에 AI 영상 광고, OYE 업로드, AI 기술 활용도 평가 기준 명시",
+        "summary": "퀴즈노스 브랜드 에셋을 활용해 AI 영상 광고를 제작·업로드하는 챌린지입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-07-04T19:00:00+09:00"
       }
     ]
   }
