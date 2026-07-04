@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T07:00:00+09:00",
+  "generated_at": "2026-07-05T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -514,6 +514,23 @@
         "summary": "Higgsfield AI에서 Seedance 2.0을 활용한 고품질 AI 영상 콘테스트. 접수 종료 후 수상자 선정 중.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "Runway AIF 2026 – AI Festival",
+        "category": "AI 이미지·영상",
+        "country": "International",
+        "organizer": "Runway",
+        "submission_start": "2026-01-28",
+        "submission_end": "2026-04-27",
+        "result_date": "2026-07-30",
+        "url": "https://aif.runwayml.com/",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://aif.runwayml.com/",
+        "evidence": "Runway 공식 AIF 2026 페이지가 Film, Design, New Media, Fashion, Advertising, Gaming 등 AI 활용 창작 부문을 소개하고, Submission Criteria와 Submission Deadline: April 27th at 4:59 PM ET를 명시함. Runway 공식 LinkedIn/Instagram 공지는 2026년 AIF 접수가 열렸고 AI를 활용한 Film, Design, New Media, Fashion, Advertising, Gaming 작품을 받는다고 안내함. 공식 페이지는 Tokyo – TOKYO NODE HALL 일정을 2026-07-30으로 표시해 발표/상영 확인 대상으로 분류함.",
+        "summary": "Runway의 2026 AI Festival. 영화, 디자인, 뉴미디어, 패션, 광고, 게임 등 AI 활용 창작물을 접수한 공식 플랫폼 페스티벌로, 7월 30일 Tokyo 쇼케이스/발표 확인 대상입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-07-05T07:00:00+09:00"
       },
       {
         "title": "Architecture in Perspective 40 Competition",
