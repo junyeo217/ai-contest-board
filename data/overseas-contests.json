@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T07:00:00+09:00",
+  "generated_at": "2026-07-06T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -55,6 +55,40 @@
         "source_checked_at": "2026-06-29T07:00:00+09:00"
       },
       {
+        "title": "Korea AI Content Awards 2026",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "Gyeonggi Content Agency / Korea AI Content Awards",
+        "submission_start": "2026-06-01",
+        "submission_end": "2026-07-12",
+        "result_date": "미정",
+        "url": "https://filmfreeway.com/KAICA",
+        "source_type": "official_apply_page",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.gcon.or.kr/gcon/cmmn/file/fileDown.do?menuNo=200061&atchFileId=36c742910fac4b90a8a62753462de303&fileSn=3&dscsnSrnm=11172",
+        "evidence": "FilmFreeway 접수 페이지와 Gyeonggi Content Agency 공고 PDF가 2026 Korea AI Content Awards를 생성형 AI를 활용한 콘텐츠·AI 영화 공모로 안내함. 접수 기간은 2026-06-01~2026-07-12 23:59 KST이며, PDF는 만 18세 이상 창작자 대상·국적 제한 없음을 명시함.",
+        "summary": "생성형 AI를 활용한 AI 영화·콘텐츠 공모전. 국적 제한 없이 7월 12일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-06T07:00:00+09:00"
+      },
+      {
+        "title": "2026 Jeju Global AI Film Contest",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "Jeju Content Agency / Jeju Special Self-Governing Province",
+        "submission_start": "2026-06-15",
+        "submission_end": "2026-07-13",
+        "result_date": "2026-08-31",
+        "url": "https://filmfreeway.com/2026JejuGlobalAIFilmContest",
+        "source_type": "official_apply_page",
+        "discovery_source": "tavily",
+        "discovery_url": "https://filmfreeway.com/2026JejuGlobalAIFilmContest",
+        "evidence": "FilmFreeway 공식 접수 페이지가 Jeju Global AI Film Competition을 2026 Jeju International AI Film Festival 공식 사전 행사로 소개하고, 전 세계 AI-generated audiovisual works 발굴을 목표로 한다고 안내함. Opening Date 2026-06-15, Regular Deadline 2026-07-13, Notification Date 2026-08-31, Event Date 2026-09-15~17로 확인됨.",
+        "summary": "제주국제AI영화제 공식 사전 행사로 열리는 글로벌 AI 영상 공모전. 7월 13일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-06T07:00:00+09:00"
+      },
+      {
         "title": "AI International Film Festival 2026 – September Hollywood Edition",
         "category": "AI 영상",
         "country": "United States",
@@ -87,6 +121,23 @@
         "summary": "요코스카 파쿠르 대회 홍보를 위해 제공 소재를 바탕으로 생성AI 기술을 활용한 45초 이내 PR 영상을 모집하는 일본 AI 영상 공모전.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "K-CULTURE AI International Film Festival 2026",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "Korea AI Film Festival Association (KAIFA)",
+        "submission_start": "2026-06-01",
+        "submission_end": "2026-07-25",
+        "result_date": "2026-08-10",
+        "url": "https://www.kcaif.net",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://filmfreeway.com/kcaif",
+        "evidence": "KCAIF 공식 사이트와 FilmFreeway 접수 페이지가 AI Narrative Film, AI Documentary, AI Music Video, AI Experimental 등 AI 창작 영화 부문을 모집하고, 세계 창작자를 연결하는 global platform 성격을 명시함. 공식 사이트는 Regular Deadline 2026-06-30, Late Deadline 2026-07-25, Notification Date 2026-08-10, Event Date 2026-09-06을 게시함.",
+        "summary": "K-컬처와 AI 시네마를 주제로 한 국제 AI 영화제. 7월 25일까지 Late Deadline 접수 중입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-06T07:00:00+09:00"
       },
       {
         "title": "Graphis AI Creative Awards 2026",
