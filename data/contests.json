@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T19:00:00+09:00",
+  "generated_at": "2026-07-06T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -437,6 +437,22 @@
         "source_checked_at": "2026-07-02T19:00:00+09:00"
       },
       {
+        "title": "노사발전재단 AI 활용 캐릭터 공모전",
+        "category": "AI 디자인",
+        "organizer": "노사발전재단",
+        "submission_start": "2026-07-01",
+        "submission_end": "2026-07-31",
+        "result_date": "2026-08-31 예정",
+        "url": "https://sotong.go.kr/front/epilogue/epilogueNewViewPage.do?menu_id=527&bbs_id=97951f1674ef4b1393e9c15ae0681293&pagetype=bbs&search_result=&search_result_cnddt=&epilogue_bgnde=&epilogue_endde=&date_range=all&epilogue_bgnde_cnddt=&epilogue_endde_cnddt=&date_range_cnddt=all&search_title_contents=&search_insttNm=&search_wrk_sj=&miv_pageNo=1&preDate=&endDate=",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.instagram.com/p/DaOsmxIjQ4R",
+        "evidence": "소통24 공식 공고 기준 재단 대표 캐릭터 디자인 및 명칭을 공모하고, 대표 이미지와 AI 활용 내역 제출, 접수 2026.07.01~2026.07.31 18:00 명시.",
+        "summary": "노사발전재단의 정체성을 담은 AI 활용 대표 캐릭터 디자인과 네이밍을 모집하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-06T19:00:00+09:00"
+      },
+      {
         "title": "제4회 지구하다 페스티벌 그림·AI 영상 공모전",
         "category": "AI 이미지·영상",
         "organizer": "교보생명보험㈜ / 한국환경보전원",
@@ -515,6 +531,22 @@
         "summary": "세종대왕과 K-Heritage를 소재로 신세계스퀘어 미디어파사드 송출용 미디어아트 영상을 제작하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-29T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 지진안전 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "행정안전부",
+        "submission_start": "2026-07-06",
+        "submission_end": "2026-08-09",
+        "result_date": "2026-10 예정",
+        "url": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=127521",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=127521",
+        "evidence": "행정안전부 공식 보도자료 기준 지진·지진해일·화산 재난 행동요령을 생성형 AI로 제작한 숏폼 영상으로 표현, 접수 2026.07.06~2026.08.09 명시.",
+        "summary": "지진·지진해일·화산 재난 행동요령을 생성형 AI 숏폼 영상으로 알리는 행정안전부 공모전입니다.",
+        "status": "오늘 추가",
+        "source_checked_at": "2026-07-06T19:00:00+09:00"
       },
       {
         "title": "제5회 그린 이니셔티브 60초 영화제 삼다수 with AI 부문",
