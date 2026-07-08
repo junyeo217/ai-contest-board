@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T07:00:00+09:00",
+  "generated_at": "2026-07-09T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -223,6 +223,23 @@
         "summary": "CapCut Video Studio를 활용한 Film, Series, Creative, Commercial 트랙의 글로벌 AI 창작 페스티벌. 8월 10일까지 접수.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "Red Rocks AI Film Festival 2026",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "Red Rocks AI Film Festival / Prestwick Productions",
+        "submission_start": "2026-01-02",
+        "submission_end": "2026-08-10",
+        "result_date": "2026-09-03",
+        "url": "https://filmfreeway.com/RedRocksAIFilmFestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "tavily",
+        "discovery_url": "https://filmfreeway.com/RedRocksAIFilmFestival",
+        "evidence": "FilmFreeway 공식 접수 페이지가 Red Rocks AI Film Festival 2026을 Southern Utah에서 열리는 AI filmmaking 영화제로 안내하고, AI-generated original works만 접수한다고 명시함. Dates & Deadlines는 Opening Date 2026-01-02, Late Deadline 2026-07-06, Extended Deadline 2026-08-10, Notification Date 2026-09-03, Event Date 2026-09-24로 확인됨. Best AI Film, Best AI Short Film, Best AI Ad, Best AI Animation 등 AI 영상 카테고리를 운영함.",
+        "summary": "미국 유타에서 열리는 AI 생성 영화제. AI 영화, 단편, 광고, 애니메이션 등 부문을 8월 10일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-09T07:00:00+09:00"
       },
       {
         "title": "Reel Futures: Student AI Film Shorts Competition 2026",
