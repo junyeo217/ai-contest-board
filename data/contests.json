@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-07-07T19:00:00+09:00",
+  "generated_at": "2026-07-08T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [],
+    "starting_today": [
+      {
+        "title": "움직이는 한국화 : 에이아이 미디어아트 공모전",
+        "category": "AI 영상",
+        "organizer": "CJ CGV·이지위드",
+        "submission_start": "2026-07-08",
+        "submission_end": "2026-08-14",
+        "result_date": "미정",
+        "url": "https://cjnews.cj.net/cgv-ai-%EB%AF%B8%EB%94%94%EC%96%B4%EC%95%84%ED%8A%B8-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EA%B0%9C%EC%B5%9C/",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://cjnews.cj.net/cgv-ai-%EB%AF%B8%EB%94%94%EC%96%B4%EC%95%84%ED%8A%B8-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EA%B0%9C%EC%B5%9C/",
+        "evidence": "CJ 뉴스룸 공식 공지 기준 전통예술 소재 한국화를 AI 기술로 재해석한 미디어아트 영상 제작 기획안과 스토리보드 제출, 2026년 8월 14일까지 접수 명시.",
+        "summary": "전통예술을 소재로 한 한국화를 AI 기술로 재해석하는 미디어아트 공모전입니다.",
+        "status": "오늘 추가",
+        "source_checked_at": "2026-07-08T19:00:00+09:00"
+      }
+    ],
     "ongoing": [
       {
         "title": "타임라이더 1주년 기념 경주월드 AI 숏폼 공모전",
@@ -387,6 +404,22 @@
         "summary": "K-푸드의 매력과 글로벌 확산 메시지를 생성형 AI 숏폼 영상으로 제작하는 대학생 대상 홍보 콘텐츠 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-18T19:00:00+09:00"
+      },
+      {
+        "title": "국립생태원과 함께하는 AI 생태 이야기 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "국립생태원",
+        "submission_start": "2026-07-01",
+        "submission_end": "2026-07-31",
+        "result_date": "미정",
+        "url": "https://www.contestkorea.com/sub/view.php?Txt_gbn=1&Txt_bcode=031210001&str_no=202607020055",
+        "source_type": "reference_link",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://www.youtube.com/post/Ugkx4MeLTg4UmcYG-JeQQbZOG9zGkprbhM64",
+        "evidence": "콘테스트코리아 참고 공고와 국립생태원 공식 SNS 색인 기준 국립생태원 캐릭터를 활용한 생성형 AI 자유 영상, 30초~1분 세로형 숏폼, 접수 2026.07.01~2026.07.31 명시.",
+        "summary": "생태와 자연을 주제로 국립생태원 캐릭터를 활용한 생성형 AI 숏폼 영상을 모집하는 공모전입니다.",
+        "status": "오늘 추가",
+        "source_checked_at": "2026-07-08T19:00:00+09:00"
       },
       {
         "title": "노사발전재단 AI 활용 캐릭터 공모전",
