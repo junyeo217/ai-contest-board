@@ -1,25 +1,8 @@
 {
-  "generated_at": "2026-07-08T19:00:00+09:00",
+  "generated_at": "2026-07-09T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [
-      {
-        "title": "움직이는 한국화 : 에이아이 미디어아트 공모전",
-        "category": "AI 영상",
-        "organizer": "CJ CGV·이지위드",
-        "submission_start": "2026-07-08",
-        "submission_end": "2026-08-14",
-        "result_date": "미정",
-        "url": "https://cjnews.cj.net/cgv-ai-%EB%AF%B8%EB%94%94%EC%96%B4%EC%95%84%ED%8A%B8-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EA%B0%9C%EC%B5%9C/",
-        "source_type": "official_notice",
-        "discovery_source": "brave",
-        "discovery_url": "https://cjnews.cj.net/cgv-ai-%EB%AF%B8%EB%94%94%EC%96%B4%EC%95%84%ED%8A%B8-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EA%B0%9C%EC%B5%9C/",
-        "evidence": "CJ 뉴스룸 공식 공지 기준 전통예술 소재 한국화를 AI 기술로 재해석한 미디어아트 영상 제작 기획안과 스토리보드 제출, 2026년 8월 14일까지 접수 명시.",
-        "summary": "전통예술을 소재로 한 한국화를 AI 기술로 재해석하는 미디어아트 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-07-08T19:00:00+09:00"
-      }
-    ],
+    "starting_today": [],
     "ongoing": [
       {
         "title": "타임라이더 1주년 기념 경주월드 AI 숏폼 공모전",
@@ -418,7 +401,7 @@
         "discovery_url": "https://www.youtube.com/post/Ugkx4MeLTg4UmcYG-JeQQbZOG9zGkprbhM64",
         "evidence": "콘테스트코리아 참고 공고와 국립생태원 공식 SNS 색인 기준 국립생태원 캐릭터를 활용한 생성형 AI 자유 영상, 30초~1분 세로형 숏폼, 접수 2026.07.01~2026.07.31 명시.",
         "summary": "생태와 자연을 주제로 국립생태원 캐릭터를 활용한 생성형 AI 숏폼 영상을 모집하는 공모전입니다.",
-        "status": "오늘 추가",
+        "status": "진행중",
         "source_checked_at": "2026-07-08T19:00:00+09:00"
       },
       {
@@ -562,7 +545,7 @@
         "discovery_url": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=127521",
         "evidence": "행정안전부 공식 보도자료 기준 지진·지진해일·화산 재난 행동요령을 생성형 AI로 제작한 숏폼 영상으로 표현, 접수 2026.07.06~2026.08.09 명시.",
         "summary": "지진·지진해일·화산 재난 행동요령을 생성형 AI 숏폼 영상으로 알리는 행정안전부 공모전입니다.",
-        "status": "오늘 추가",
+        "status": "진행중",
         "source_checked_at": "2026-07-06T19:00:00+09:00"
       },
       {
@@ -596,6 +579,22 @@
         "summary": "성북구도시관리공단을 대표할 AI 캐릭터를 모집하는 디자인 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-16T19:00:00+09:00"
+      },
+      {
+        "title": "움직이는 한국화 : 에이아이 미디어아트 공모전",
+        "category": "AI 영상",
+        "organizer": "CJ CGV·이지위드",
+        "submission_start": "2026-07-08",
+        "submission_end": "2026-08-14",
+        "result_date": "미정",
+        "url": "https://cjnews.cj.net/cgv-ai-%EB%AF%B8%EB%94%94%EC%96%B4%EC%95%84%ED%8A%B8-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EA%B0%9C%EC%B5%9C/",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://cjnews.cj.net/cgv-ai-%EB%AF%B8%EB%94%94%EC%96%B4%EC%95%84%ED%8A%B8-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EA%B0%9C%EC%B5%9C/",
+        "evidence": "CJ 뉴스룸 공식 공지 기준 전통예술 소재 한국화를 AI 기술로 재해석한 미디어아트 영상 제작 기획안과 스토리보드 제출, 2026년 8월 14일까지 접수 명시.",
+        "summary": "전통예술을 소재로 한 한국화를 AI 기술로 재해석하는 미디어아트 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-09T19:00:00+09:00"
       },
       {
         "title": "2026 한국마사회 AI 영상 공모전",
