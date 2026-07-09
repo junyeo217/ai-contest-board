@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T07:00:00+09:00",
+  "generated_at": "2026-07-10T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -618,23 +618,6 @@
         "source_checked_at": "2026-06-27T07:00:00+09:00"
       },
       {
-        "title": "Canvas of the Future 2026",
-        "category": "AI 이미지",
-        "country": "International",
-        "organizer": "AI for Good / ITU",
-        "submission_start": "2026-01-12",
-        "submission_end": "2026-03-29",
-        "result_date": "2026-07-07",
-        "url": "https://aiforgood.itu.int/canvas-of-the-future/",
-        "source_type": "official_notice",
-        "discovery_source": "brave",
-        "discovery_url": "https://aiforgood.itu.int/canvas-of-the-future/",
-        "evidence": "공식 페이지가 AI-powered 또는 AI-enhanced digital image 1점을 모집하며 국제적·보편적 주제를 요구한다고 명시. 타임라인은 2026-01-12 launch, 2026-03-29 submission deadline, 2026-03-30~05-01 evaluation, 2026-07-07~10 winner announcement로 공지됨.",
-        "summary": "교육·일의 미래를 주제로 한 AI 기반 디지털 이미지 공모전. 제출 종료 후 심사/발표 대기 단계.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
-      },
-      {
         "title": "Higgsfield Seedance 2.0 Contest",
         "category": "AI 영상",
         "country": "Global",
@@ -692,15 +675,15 @@
         "organizer": "AI for Good / ITU",
         "submission_start": "2026-01-15",
         "submission_end": "2026-05-15",
-        "result_date": "2026-07-07",
+        "result_date": "2026-07-09",
         "url": "https://aiforgood.itu.int/ai-for-good-film-festival/",
         "source_type": "official_notice",
         "discovery_source": "tavily",
         "discovery_url": "https://aiforgood.itu.int/ai-for-good-film-festival/",
-        "evidence": "공식 AI for Good Film Festival 페이지가 AI가 영화 제작 가능성을 확장하고 긍정적 사회적 영향을 다루는 국제 영화 공모전이라고 설명하며, AI scriptwriting, storyboarding, image creation, digital effects 등을 활용한 1~10분 영화를 모집한다고 명시함. 접수 기간은 2026-01-15~2026-05-15 23:59 CEST, shortlist 2026-05-24, judging 2026-05-25~31, finalists announcement 2026-06-01, AI for Good Global Summit screening/awards 2026-07-07~10으로 공지되어 발표 대기 항목으로 분류함.",
-        "summary": "AI for Good Global Summit과 연계된 국제 AI 영화 공모전. 접수 종료 후 제네바 상영·시상 발표 대기 단계.",
+        "evidence": "공식 AI for Good Film Festival 페이지가 AI scriptwriting, storyboarding, image creation, digital effects 등을 활용한 1~10분 영화를 모집한다고 명시함. 접수 기간은 2026-01-15~2026-05-15 23:59 CEST, finalist screening 및 award ceremony는 AI for Good Global Summit 프로그램의 2026-07-09 행사로 확인되어 발표 대기 항목으로 유지함.",
+        "summary": "AI for Good Global Summit과 연계된 국제 AI 영화 공모전. 접수 종료 후 제네바 상영·시상 결과 확인 대기 단계.",
         "status": "발표 대기",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
+        "source_checked_at": "2026-07-10T07:00:00+09:00"
       },
       {
         "title": "PixVerse AI Film Awards",
@@ -709,15 +692,15 @@
         "organizer": "PixVerse / AI for Good Global Summit",
         "submission_start": "2026-04-23",
         "submission_end": "2026-05-15",
-        "result_date": "2026-07-07",
+        "result_date": "2026-07-09",
         "url": "https://pixverse.ai/en/blog/pixverse-partners-un-ai-for-good-global-summit-2026",
         "source_type": "official_platform",
         "discovery_source": "brave",
         "discovery_url": "https://pixverse.ai/en/blog/pixverse-partners-un-ai-for-good-global-summit-2026",
-        "evidence": "PixVerse 공식 블로그가 UN AI for Good Global Summit 2026 및 AI for Good Film Festival 연계를 공지하고, creators worldwide 대상 AI video works 제출 및 PixVerse 후원 creator awards를 안내함. 2026-05-19 재확인 시 공식 블로그에서 1~10분 영상, PixVerse 모델 50% 이상, submission deadline 2026-05-15, 2026-07-07~10 Geneva awards ceremony가 확인되어 발표 대기 단계로 분류함.",
-        "summary": "PixVerse 모델을 50% 이상 활용한 1~10분 AI 영상 글로벌 공모. 접수 종료 후 AI for Good Global Summit 발표 대기 단계.",
+        "evidence": "PixVerse 공식 블로그가 UN AI for Good Global Summit 2026 및 AI for Good Film Festival 연계를 공지하고, creators worldwide 대상 AI video works 제출 및 PixVerse 후원 creator awards를 안내함. AI for Good Film Festival 공식 일정의 finalist screening 및 award ceremony가 2026-07-09 행사로 확인되어 발표 대기 항목으로 유지함.",
+        "summary": "PixVerse 모델을 활용한 AI for Good Film Festival 연계 글로벌 AI 영상 공모. 접수 종료 후 시상 결과 확인 대기 단계.",
         "status": "발표 대기",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
+        "source_checked_at": "2026-07-10T07:00:00+09:00"
       },
       {
         "title": "TOKYO AI Fashion Week 2026 Contest",
