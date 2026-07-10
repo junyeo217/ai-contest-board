@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T19:00:00+09:00",
+  "generated_at": "2026-07-10T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -117,6 +117,22 @@
         "source_checked_at": "2026-07-02T19:00:00+09:00"
       },
       {
+        "title": "제1회 글그림 AI 영상공모전",
+        "category": "AI 영상",
+        "organizer": "문도에이아이",
+        "submission_start": "2026-07-01",
+        "submission_end": "2026-07-15",
+        "result_date": "2026-07-20 예정",
+        "url": "https://contest.moondo.ai/",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.designdb.com/index.html?act=view&bbsno=68513&keyword=&menuno=700&page=1&siteno=15&ztag=rO0ABXQAPjxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNTczIiBza2luPSJiYnNfZXhoaWJpdGlvbl8yMDE5Ij48L2NhbGw+",
+        "evidence": "디자인DB 참고 공고와 MoonDoor 공식 페이지 기준 MoonDoor 자체 이미지·영상 모델 또는 다른 제작 도구로 만든 1분 내외 숏폼 영상 URL 제출, 접수 2026.07.01~07.15 명시.",
+        "summary": "상상한 이야기를 AI 기반 1분 내외 숏폼 영상으로 제작해 제출하는 MoonDoor 주최 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-10T19:00:00+09:00"
+      },
+      {
         "title": "“물·에너지·인공지능(AI)” 청소년 짧은 영상(숏폼) 공모전",
         "category": "AI 영상",
         "organizer": "기후에너지환경부·대구광역시·K-water·한국환경공단·한국수력원자력 / 한국물포럼",
@@ -213,6 +229,22 @@
         "source_checked_at": "2026-06-24T19:00:00+09:00"
       },
       {
+        "title": "층간소음 예방 2642(이웃사이) AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "한국환경보전원",
+        "submission_start": "2026-06-15",
+        "submission_end": "2026-07-24",
+        "result_date": "미정",
+        "url": "https://www.noisedu.com/board/bbs_view.php?bbs=notify&idx=2065",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.noisedu.com/board/bbs_view.php?bbs=notify&idx=2065",
+        "evidence": "층간소음 예방교육 공식 공지 기준 층간소음 예방 2642(이웃사이) AI 영상 공모전, 공모기간 2026.06.15~07.24, 60초 이내 세로형 AI 영상 제출 명시.",
+        "summary": "층간소음 예방과 배려 문화를 주제로 60초 이내 세로형 AI 영상을 모집하는 한국환경보전원 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-10T19:00:00+09:00"
+      },
+      {
         "title": "XCONDA 60 Awards Vol.1",
         "category": "AI 영상",
         "organizer": "XCONDA",
@@ -259,6 +291,22 @@
         "summary": "비렉스 침대와 안마의자 제품군의 매력을 생성형 AI 영상광고·숏폼으로 표현하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-07T19:00:00+09:00"
+      },
+      {
+        "title": "2026 CHAI 대학생 AI 광고 공모전",
+        "category": "AI 콘텐츠",
+        "organizer": "차이커뮤니케이션",
+        "submission_start": "2026-07-08",
+        "submission_end": "2026-07-30",
+        "result_date": "2026-09 중 예정",
+        "url": "https://aichallenge.artistchai.co.kr/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://aichallenge.artistchai.co.kr/",
+        "evidence": "공식 공모전 페이지 기준 실제 브랜드 과제를 AI로 해결하는 광고 캠페인 아이디어와 크리에이티브를 제안하며, 필수 제출물로 캠페인 제안서와 AI 활용 기술서, 영상이 있을 경우 영상 URL 제출을 명시.",
+        "summary": "대학생이 실제 브랜드 과제를 AI 활용 광고 캠페인 아이디어와 크리에이티브로 제안하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-10T19:00:00+09:00"
       },
       {
         "title": "2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전",
@@ -515,6 +563,22 @@
         "summary": "아이허브 브랜드와 캘리포니아 골드 뉴트리션 제품을 주제로 생성형 AI 광고 영상을 제작하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-04T19:00:00+09:00"
+      },
+      {
+        "title": "통일미래 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "재단법인 통일과나눔",
+        "submission_start": "2026-07-07",
+        "submission_end": "2026-08-06",
+        "result_date": "2026-08 중 개별 통보 예정",
+        "url": "https://linkareer.com/activity/333847",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.instagram.com/p/Dahr_7RAZnQ/",
+        "evidence": "링커리어 인증 공고 기준 AI 생성 기술로 만든 16:9 가로형 30~60초 영상물 제출, 신청서 2026.07.07~07.31 및 작품 원본 2026.07.07~08.06 제출 명시.",
+        "summary": "통일 한국의 미래를 상상해 AI 생성 영상으로 표현하는 재단법인 통일과나눔 주최 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-10T19:00:00+09:00"
       },
       {
         "title": "K-Heritage Media Art Shinsegae Square Awards",
