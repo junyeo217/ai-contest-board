@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T19:00:00+09:00",
+  "generated_at": "2026-07-12T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -941,20 +941,6 @@
         "source_checked_at": "2026-05-20T19:00:00+09:00"
       },
       {
-        "title": "2026년 상주시 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "상주시",
-        "submission_start": "2026-04-06",
-        "submission_end": "2026-05-20",
-        "result_date": "2026-07-02",
-        "url": "https://sangju-aicontest.imweb.me/",
-        "source_type": "official_homepage",
-        "evidence": "Crowlly/공식 페이지 기준 생성형 AI 영상 부문, 15초 이상 3분 미만, AI 활용 증빙 가능 명시.",
-        "summary": "상주의 관광·축제·특산물 매력을 생성형 AI 영상으로 담는 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-05-21T19:00:00+09:00"
-      },
-      {
         "title": "2026 국토교통기술대전 AI 영상 공모전",
         "category": "AI 영상",
         "organizer": "국토교통과학기술진흥원",
@@ -1211,20 +1197,6 @@
         "source_checked_at": "2026-06-08T19:00:00+09:00"
       },
       {
-        "title": "Y아티스트 레이블 AI 영상 공모전",
-        "category": "생성형 AI",
-        "organizer": "KT Y",
-        "submission_start": "2026-05-07",
-        "submission_end": "2026-06-08",
-        "result_date": "2026-07-06",
-        "url": "https://www.yspotlight.co.kr/artist/ai_contest",
-        "source_type": "official_homepage",
-        "evidence": "KT Y 공식 페이지 기준 AI 영상 공모전, Y덤/Y브랜드 소개 영상, AI 제작 문구 삽입 요건 명시.",
-        "summary": "KT Y 브랜드와 함께 성장할 생성형 AI 영상 크리에이터를 모집합니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-09T19:00:00+09:00"
-      },
-      {
         "title": "제3회 AI 통일 아트 챌린지 : 우리가 연결될 때",
         "category": "AI 이미지",
         "organizer": "통일부·모라비안앤코",
@@ -1435,22 +1407,6 @@
         "source_type": "official_notice",
         "evidence": "DDP/서울시 공식 기준 AI 플랫폼 활용 영상, 3~5분 FHD, K-컬처·연말 축제 영상 콘텐츠 명시.",
         "summary": "AI로 구현한 K-컬처·연말 축제 영상 작품을 모집합니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-01T19:00:00+09:00"
-      },
-      {
-        "title": "우리카드 AI 숏폼 공모전",
-        "category": "AI 영상",
-        "organizer": "우리카드 / 애니모비",
-        "submission_start": "2026-05-18",
-        "submission_end": "2026-06-30",
-        "result_date": "2026-07-10",
-        "url": "https://www.allcontest.co.kr/wooricard/2026_super/main/",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.allcontest.co.kr/wooricard/2026_super/list",
-        "evidence": "공모전 공식 플랫폼 기준 우리카드 WEASY 캐릭터를 활용한 아이돌 콘셉트 기반 30초 내외 AI 숏폼 영상, 접수 2026년 5월 18일~6월 30일 명시.",
-        "summary": "우리카드가 직접 만든 AI 아이돌 모델 WEASY를 활용해 30초 내외 AI 숏폼 영상을 제작하는 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-07-01T19:00:00+09:00"
       },
