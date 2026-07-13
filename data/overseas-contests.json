@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T07:00:00+09:00",
+  "generated_at": "2026-07-14T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,40 +37,6 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "Korea AI Content Awards 2026",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "Gyeonggi Content Agency / Korea AI Content Awards",
-        "submission_start": "2026-06-01",
-        "submission_end": "2026-07-12",
-        "result_date": "미정",
-        "url": "https://filmfreeway.com/KAICA",
-        "source_type": "official_apply_page",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.gcon.or.kr/gcon/cmmn/file/fileDown.do?menuNo=200061&atchFileId=36c742910fac4b90a8a62753462de303&fileSn=3&dscsnSrnm=11172",
-        "evidence": "FilmFreeway 접수 페이지와 Gyeonggi Content Agency 공고 PDF가 2026 Korea AI Content Awards를 생성형 AI를 활용한 콘텐츠·AI 영화 공모로 안내함. 접수 기간은 2026-06-01~2026-07-12 23:59 KST이며, PDF는 만 18세 이상 창작자 대상·국적 제한 없음을 명시함.",
-        "summary": "생성형 AI를 활용한 AI 영화·콘텐츠 공모전. 국적 제한 없이 7월 12일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-06T07:00:00+09:00"
-      },
-      {
-        "title": "2026 Jeju Global AI Film Contest",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "Jeju Content Agency / Jeju Special Self-Governing Province",
-        "submission_start": "2026-06-15",
-        "submission_end": "2026-07-13",
-        "result_date": "2026-08-31",
-        "url": "https://filmfreeway.com/2026JejuGlobalAIFilmContest",
-        "source_type": "official_apply_page",
-        "discovery_source": "tavily",
-        "discovery_url": "https://filmfreeway.com/2026JejuGlobalAIFilmContest",
-        "evidence": "FilmFreeway 공식 접수 페이지가 Jeju Global AI Film Competition을 2026 Jeju International AI Film Festival 공식 사전 행사로 소개하고, 전 세계 AI-generated audiovisual works 발굴을 목표로 한다고 안내함. Opening Date 2026-06-15, Regular Deadline 2026-07-13, Notification Date 2026-08-31, Event Date 2026-09-15~17로 확인됨.",
-        "summary": "제주국제AI영화제 공식 사전 행사로 열리는 글로벌 AI 영상 공모전. 7월 13일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-06T07:00:00+09:00"
-      },
       {
         "title": "AI International Film Festival 2026 – September Hollywood Edition",
         "category": "AI 영상",
@@ -618,40 +584,6 @@
     ],
     "awaiting_results": [
       {
-        "title": "Luma Dream Brief",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "Luma AI / DE-YAN",
-        "submission_start": "2026-02-01",
-        "submission_end": "2026-03-22",
-        "result_date": "2026-07-01",
-        "url": "https://lumalabs.ai/news/luma-dreambrief-submission-finalists",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://lumalabs.ai/news/luma-dream-brief",
-        "evidence": "Luma 공식 뉴스룸이 The Luma Dream Brief를 Luma AI로 제작한 광고/상업 영상 글로벌 창작 공모로 설명하고, 2026-03-22까지 제출받았다고 공지함. 2026-04-09 공식 후속 공지에서 21개 finalist submissions를 Cannes Lions 2026에 출품한다고 밝혔으며, 공식 contest rules는 Featured Submissions/Winners 명단 요청 기준일을 2026-07-01로 안내해 결과 확인일을 보정함.",
-        "summary": "Luma AI를 사용한 글로벌 광고 영상 창작 공모. 접수 종료 후 21개 파이널리스트의 Cannes Lions 연계 결과 확인을 2026-07-01까지 추적합니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-27T07:00:00+09:00"
-      },
-      {
-        "title": "PixVerse AI Film Awards",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "PixVerse / AI for Good Global Summit",
-        "submission_start": "2026-04-23",
-        "submission_end": "2026-05-15",
-        "result_date": "2026-07-09",
-        "url": "https://pixverse.ai/en/blog/pixverse-partners-un-ai-for-good-global-summit-2026",
-        "source_type": "official_platform",
-        "discovery_source": "brave",
-        "discovery_url": "https://pixverse.ai/en/blog/pixverse-partners-un-ai-for-good-global-summit-2026",
-        "evidence": "PixVerse 공식 블로그가 UN AI for Good Global Summit 2026 및 AI for Good Film Festival 연계를 공지하고, creators worldwide 대상 AI video works 제출 및 PixVerse 후원 creator awards를 안내함. AI for Good Film Festival 공식 일정의 finalist screening 및 award ceremony가 2026-07-09 행사로 확인되어 발표 대기 항목으로 유지함.",
-        "summary": "PixVerse 모델을 활용한 AI for Good Film Festival 연계 글로벌 AI 영상 공모. 접수 종료 후 시상 결과 확인 대기 단계.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-10T07:00:00+09:00"
-      },
-      {
         "title": "AI Futures Challenge 2026",
         "category": "AI 콘텐츠",
         "country": "Online",
@@ -871,6 +803,40 @@
         "summary": "생성AI 이미지로 미래형 패션 컬렉션을 제안하는 국제 참가 가능 일본 AI 패션 디자인 공모. 접수 종료 후 발표 대기 단계.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "Korea AI Content Awards 2026",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "Gyeonggi Content Agency / Korea AI Content Awards",
+        "submission_start": "2026-06-01",
+        "submission_end": "2026-07-12",
+        "result_date": "미정",
+        "url": "https://filmfreeway.com/KAICA",
+        "source_type": "official_apply_page",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.gcon.or.kr/gcon/cmmn/file/fileDown.do?menuNo=200061&atchFileId=36c742910fac4b90a8a62753462de303&fileSn=3&dscsnSrnm=11172",
+        "evidence": "FilmFreeway 접수 페이지와 Gyeonggi Content Agency 공고 PDF가 2026 Korea AI Content Awards를 생성형 AI를 활용한 콘텐츠·AI 영화 공모로 안내함. 접수 기간은 2026-06-01~2026-07-12 23:59 KST이며, PDF는 만 18세 이상 창작자 대상·국적 제한 없음을 명시함.",
+        "summary": "생성형 AI를 활용한 AI 영화·콘텐츠 공모전. 국적 제한 없이 접수되었으며, 접수 마감 후 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-07-14T07:00:00+09:00"
+      },
+      {
+        "title": "2026 Jeju Global AI Film Contest",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "Jeju Content Agency / Jeju Special Self-Governing Province",
+        "submission_start": "2026-06-15",
+        "submission_end": "2026-07-13",
+        "result_date": "2026-08-31",
+        "url": "https://filmfreeway.com/2026JejuGlobalAIFilmContest",
+        "source_type": "official_apply_page",
+        "discovery_source": "tavily",
+        "discovery_url": "https://filmfreeway.com/2026JejuGlobalAIFilmContest",
+        "evidence": "FilmFreeway 공식 접수 페이지가 Jeju Global AI Film Competition을 2026 Jeju International AI Film Festival 공식 사전 행사로 소개하고, 전 세계 AI-generated audiovisual works 발굴을 목표로 한다고 안내함. Opening Date 2026-06-15, Regular Deadline 2026-07-13, Notification Date 2026-08-31, Event Date 2026-09-15~17로 확인됨.",
+        "summary": "제주국제AI영화제 공식 사전 행사로 열리는 글로벌 AI 영상 공모전. 접수 마감 후 8월 31일 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-07-14T07:00:00+09:00"
       }
     ]
   }
