@@ -109,7 +109,11 @@ def test_brand_byline_footer_notice_and_updated_timestamp_format_are_present():
         assert '.brand-title { color: var(--ink); font-size: 18px;' in html
         assert '.brand-subtitle { color: var(--soft); font-size: 11px;' in html
         assert 'class="hero-byline"' not in html
-        assert 'Sources belong to each organizer · © 2026' in html
+        assert '<div class="footer-line">Sources belong to each organizer · © 2026</div>' in html
+        assert '.footer-line { border-top: 1px solid var(--line); padding-top: 22px; text-align: center; }' in html
+        footer = html.split('<footer class="wrap">', 1)[1].split('</footer>', 1)[0]
+        assert '공식 페이지에서 세부 조건' not in footer
+        assert '공모전 보드</div>' not in footer
         assert 'timeZone: \'Asia/Seoul\'' in html
         assert 'hour: \'2-digit\', minute: \'2-digit\', hour12: false' in html
         assert 'return `${parts.year}.${parts.month}.${parts.day} ${parts.hour}:${parts.minute}`;' in html
