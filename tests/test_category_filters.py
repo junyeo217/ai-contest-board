@@ -71,9 +71,9 @@ def test_pc_density_button_changes_desktop_title_scale():
     for path in PAGES:
         html = read(path)
         desktop_before_mobile = html.split('@media (max-width: 680px)', 1)[0]
-        assert 'body[data-density="compact"] h1 { font-size: clamp(38px, 6.2vw, 70px); }' in desktop_before_mobile
-        assert 'body[data-density="comfortable"] h1 { font-size: clamp(48px, 7.4vw, 86px); }' in desktop_before_mobile
-        assert 'body[data-density="large"] h1 { font-size: clamp(56px, 8.2vw, 98px); }' in desktop_before_mobile
+        assert 'body[data-density="compact"] h1 { font-size: clamp(34px, 5.8vw, 64px); }' in desktop_before_mobile
+        assert 'body[data-density="comfortable"] h1 { font-size: clamp(42px, 7vw, 78px); }' in desktop_before_mobile
+        assert 'body[data-density="large"] h1 { font-size: clamp(50px, 7.8vw, 90px); }' in desktop_before_mobile
         assert 'body[data-density="compact"] .hero-card' in desktop_before_mobile
         assert 'body[data-density="large"] .summary-card' in desktop_before_mobile
 
@@ -101,11 +101,15 @@ def test_summary_header_is_inline_and_stats_link_to_sections():
         assert 'aria-label="종료 후 발표 대기 공모전으로 이동"' in html
 
 
-def test_hero_byline_and_updated_timestamp_format_are_present():
+def test_brand_byline_footer_notice_and_updated_timestamp_format_are_present():
     for path in PAGES:
         html = read(path)
-        assert '<p class="hero-byline">Curated by @주녀 · Updated daily</p>' in html
-        assert '.hero-byline { margin: 12px 0 0; color: var(--soft);' in html
+        assert '<span class="brand-title">AI Contest Board</span>' in html
+        assert '<span class="brand-subtitle">Curated by @주녀 · Updated daily</span>' in html
+        assert '.brand-title { color: var(--ink); font-size: 18px;' in html
+        assert '.brand-subtitle { color: var(--soft); font-size: 11px;' in html
+        assert 'class="hero-byline"' not in html
+        assert 'Sources belong to each organizer · © 2026' in html
         assert 'timeZone: \'Asia/Seoul\'' in html
         assert 'hour: \'2-digit\', minute: \'2-digit\', hour12: false' in html
         assert 'return `${parts.year}.${parts.month}.${parts.day} ${parts.hour}:${parts.minute}`;' in html
