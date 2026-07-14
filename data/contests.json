@@ -1,58 +1,9 @@
 {
-  "generated_at": "2026-07-13T19:00:00+09:00",
+  "generated_at": "2026-07-14T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [
-      {
-        "title": "2026년 철강 AI 영상광고 공모전",
-        "category": "AI 영상",
-        "organizer": "한국철강협회 / 철강홍보위원회",
-        "submission_start": "2026-07-13",
-        "submission_end": "2026-08-09",
-        "result_date": "미정",
-        "url": "https://kosa.or.kr/news/news_view_2011.jsp?index=10764&page=&category=&keyword=",
-        "source_type": "official_notice",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://kosa.or.kr/news/news_view_2011.jsp?index=10764&page=&category=&keyword=",
-        "evidence": "한국철강협회 공식 공모요강 기준 생성형 AI를 활용하여 제작한 30초 이내 광고 영상, 2026.07.13~08.09 접수 명시.",
-        "summary": "철강의 가치와 미래를 주제로 생성형 AI 기반 30초 이내 광고 영상을 모집하는 한국철강협회 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-07-13T19:00:00+09:00"
-      },
-      {
-        "title": "창작드라마 AI 트레일러 공모전",
-        "category": "AI 영상",
-        "organizer": "서울드라마어워즈조직위원회",
-        "submission_start": "2026-07-13",
-        "submission_end": "2026-08-31",
-        "result_date": "한국드라마 70주년 기념행사 당일 시상 예정",
-        "url": "http://www.seouldrama.org/bbs/board.php?bo_table=notice&wr_id=193&page=12",
-        "source_type": "official_notice",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "http://www.seouldrama.org/bbs/board.php?bo_table=notice&wr_id=193&page=12",
-        "evidence": "서울드라마어워즈 공식 공지 기준 생성형 AI를 활용한 1~3분 AI 드라마 트레일러와 기획안 제출, 2026.07.13~08.31 접수 명시.",
-        "summary": "한국드라마 70주년을 기념해 생성형 AI로 창작 드라마 트레일러를 제작해 제출하는 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-07-13T19:00:00+09:00"
-      }
-    ],
+    "starting_today": [],
     "ongoing": [
-      {
-        "title": "2026 제주 글로벌 AI 필름 공모전",
-        "category": "AI 영상",
-        "organizer": "제주특별자치도·제주콘텐츠진흥원",
-        "submission_start": "2026-06-15",
-        "submission_end": "2026-07-13",
-        "result_date": "2026-08 중 예정",
-        "url": "https://www.jjaiff.kr/",
-        "source_type": "official_homepage",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=320002",
-        "evidence": "제주콘텐츠진흥원/참고 기사 기준 전체 분량의 90% 이상을 생성형 AI 기술로 제작한 30초~5분 AI 영상 콘텐츠, 접수 2026년 6월 15일~7월 13일 명시.",
-        "summary": "제주 고유 문화와 스토리 자산을 생성형 AI 영상으로 재해석하는 글로벌 AI 필름 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-25T19:00:00+09:00"
-      },
       {
         "title": "2026년 K-AI 콘텐츠 공모전",
         "category": "AI 이미지·영상",
@@ -196,6 +147,22 @@
         "summary": "충남 지역 특색과 문화를 반영한 AI 음원과 뮤직비디오를 함께 제작해 출품하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-12T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 대한민국 AI 콘텐츠 어워즈 [백남준 특별상]",
+        "category": "AI 영상",
+        "organizer": "경기도 / 경기콘텐츠진흥원",
+        "submission_start": "2026-06-01",
+        "submission_end": "2026-07-22",
+        "result_date": "2026-09-15 예정",
+        "url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11173&menuNo=200061&pageIndex=",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11173&menuNo=200061&pageIndex=",
+        "evidence": "공식 공고의 사업목적에 생성형 AI를 활용한 영상(영화) 작품 공모, 출품 조건에 영상 이미지 생성 등 AI 활용 영역 명시",
+        "summary": "고 백남준 작가 서거 20주기를 맞아 생성형 AI 활용 영상 작품을 공모하는 특별상 부문입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-14T19:00:00+09:00"
       },
       {
         "title": "2026 원주만두축제 AI 영상 공모전",
@@ -486,6 +453,22 @@
         "source_checked_at": "2026-07-04T19:00:00+09:00"
       },
       {
+        "title": "한반도 평화교류 정책 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "남북교류협력지원협회",
+        "submission_start": "2026-07-13",
+        "submission_end": "2026-07-31",
+        "result_date": "2026-09-21 예정",
+        "url": "https://sonosa.or.kr/index.html?menuno=13&bbsno=402&boardno=692&ztag=rO0ABXQAOTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNjkyIiBza2luPSJkYnNvbnNhX25vcm1hbCI%2BPC9jYWxsPg%3D%3D&siteno=1&act=view",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://sonosa.or.kr/index.html?menuno=13&bbsno=402&boardno=692&ztag=rO0ABXQAOTxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNjkyIiBza2luPSJkYnNvbnNhX25vcm1hbCI%2BPC9jYWxsPg%3D%3D&siteno=1&act=view",
+        "evidence": "공식 공지에 한반도 평화교류 정책 아이디어를 AI 영상으로 표현하는 공모전으로 명시됨",
+        "summary": "한반도 평화교류 정책 아이디어를 AI 영상으로 표현하는 대학(원)생 대상 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-14T19:00:00+09:00"
+      },
+      {
         "title": "VD 전공 현실고증 AI 숏폼 공모전",
         "category": "AI 영상",
         "organizer": "VisionDesign",
@@ -598,6 +581,22 @@
         "source_checked_at": "2026-07-06T19:00:00+09:00"
       },
       {
+        "title": "2026년 철강 AI 영상광고 공모전",
+        "category": "AI 영상",
+        "organizer": "한국철강협회 / 철강홍보위원회",
+        "submission_start": "2026-07-13",
+        "submission_end": "2026-08-09",
+        "result_date": "미정",
+        "url": "https://kosa.or.kr/news/news_view_2011.jsp?index=10764&page=&category=&keyword=",
+        "source_type": "official_notice",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://kosa.or.kr/news/news_view_2011.jsp?index=10764&page=&category=&keyword=",
+        "evidence": "한국철강협회 공식 공모요강 기준 생성형 AI를 활용하여 제작한 30초 이내 광고 영상, 2026.07.13~08.09 접수 명시.",
+        "summary": "철강의 가치와 미래를 주제로 생성형 AI 기반 30초 이내 광고 영상을 모집하는 한국철강협회 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-14T19:00:00+09:00"
+      },
+      {
         "title": "성북구도시관리공단 대표 AI 캐릭터 공모전",
         "category": "AI 디자인",
         "organizer": "성북구도시관리공단",
@@ -678,6 +677,22 @@
         "source_checked_at": "2026-07-07T19:00:00+09:00"
       },
       {
+        "title": "제2회 매일유업 대학생 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "매일유업",
+        "submission_start": "2026-07-13",
+        "submission_end": "2026-08-17",
+        "result_date": "2026-08-31 예정",
+        "url": "https://ai-challenge-maeil.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.foodicon.co.kr/news/articleView.html?idxno=34503",
+        "evidence": "공모 주제가 매일유업 제품을 활용한 30초 이내 AI 숏폼 영상 제작으로 확인됨",
+        "summary": "매일유업 제품을 주제로 생성형 AI를 활용한 30초 이내 숏폼 영상을 제작하는 대학생 대상 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-14T19:00:00+09:00"
+      },
+      {
         "title": "제4회 LG 영상공모전",
         "category": "AI 영상",
         "organizer": "구미상공회의소·LG",
@@ -708,6 +723,22 @@
         "summary": "갤럭시로 촬영한 사진과 Galaxy AI를 활용한 특별부문 작품을 접수하는 사진 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T19:00:00+09:00"
+      },
+      {
+        "title": "AIBB 1주년 기념 AI 공모전",
+        "category": "AI 디자인",
+        "organizer": "프롬프트타운 / BBIA x AIBB",
+        "submission_start": "2026-07-13",
+        "submission_end": "2026-08-21",
+        "result_date": "2026-09-10 예정",
+        "url": "https://www.momo365.net/Support?cd=contest&ViewType=detail&seq=174346",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.momo365.net/Support?cd=contest&ViewType=detail&seq=174346",
+        "evidence": "참고 공고에 AI 공모전, 콜라보 제품 시안·연출컷·생일 파티 포스터 등 디자인 제출물 명시",
+        "summary": "BBIA x AIBB 1주년을 주제로 제품 시안, 연출컷, 포스터 등 AI 기반 디자인 산출물을 제출하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-14T19:00:00+09:00"
       },
       {
         "title": "제21회 생물다양성 세밀화 및 인공지능(AI) 이미지 공모전",
@@ -756,6 +787,22 @@
         "summary": "관악의 미래를 주제로 생성형 AI를 활용한 30~60초 숏폼 영상 콘텐츠를 모집하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-07T19:00:00+09:00"
+      },
+      {
+        "title": "창작드라마 AI 트레일러 공모전",
+        "category": "AI 영상",
+        "organizer": "서울드라마어워즈조직위원회",
+        "submission_start": "2026-07-13",
+        "submission_end": "2026-08-31",
+        "result_date": "한국드라마 70주년 기념행사 당일 시상 예정",
+        "url": "http://www.seouldrama.org/bbs/board.php?bo_table=notice&wr_id=193&page=12",
+        "source_type": "official_notice",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "http://www.seouldrama.org/bbs/board.php?bo_table=notice&wr_id=193&page=12",
+        "evidence": "서울드라마어워즈 공식 공지 기준 생성형 AI를 활용한 1~3분 AI 드라마 트레일러와 기획안 제출, 2026.07.13~08.31 접수 명시.",
+        "summary": "한국드라마 70주년을 기념해 생성형 AI로 창작 드라마 트레일러를 제작해 제출하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-14T19:00:00+09:00"
       },
       {
         "title": "2026 평화 통일미래 콘텐츠 공모전",
@@ -1586,6 +1633,22 @@
         "summary": "URBAN BREAK와 TOYCON SEOUL을 생성형 AI 숏폼 영상으로 재해석해 전시와 시상을 연계하는 챌린지입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-06-18T19:00:00+09:00"
+      },
+      {
+        "title": "2026 제주 글로벌 AI 필름 공모전",
+        "category": "AI 영상",
+        "organizer": "제주특별자치도·제주콘텐츠진흥원",
+        "submission_start": "2026-06-15",
+        "submission_end": "2026-07-13",
+        "result_date": "2026-08 중 예정",
+        "url": "https://www.jjaiff.kr/",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=320002",
+        "evidence": "제주콘텐츠진흥원/참고 기사 기준 전체 분량의 90% 이상을 생성형 AI 기술로 제작한 30초~5분 AI 영상 콘텐츠, 접수 2026년 6월 15일~7월 13일 명시.",
+        "summary": "제주 고유 문화와 스토리 자산을 생성형 AI 영상으로 재해석하는 글로벌 AI 필름 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-06-25T19:00:00+09:00"
       }
     ]
   }
