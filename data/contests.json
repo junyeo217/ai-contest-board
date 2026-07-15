@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T19:00:00+09:00",
+  "generated_at": "2026-07-15T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -531,6 +531,22 @@
         "summary": "아이허브 브랜드와 캘리포니아 골드 뉴트리션 제품을 주제로 생성형 AI 광고 영상을 제작하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-04T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 AI,미디어콘텐츠 공모전 'Signal_A'",
+        "category": "AI 영상",
+        "organizer": "서울특별시, 시립서대문청소년센터",
+        "submission_start": "2026-07-03",
+        "submission_end": "2026-08-05",
+        "result_date": "2026-08-12 예정",
+        "url": "https://linkareer.com/activity/333089",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://linkareer.com/activity/333089",
+        "evidence": "링커리어 공고 본문에 AI 활용 영상 부문, 30초 이상 1920x1080 16:9 MP4 제출, 접수기간 2026.07.03~2026.08.05, 결과 발표 2026.08.12 명시.",
+        "summary": "AI로 바뀐 일상 주제 가산점이 있는 청소년 대상 AI 활용 영상·순수 영상 미디어콘텐츠 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-15T19:00:00+09:00"
       },
       {
         "title": "통일미래 AI 영상 공모전",
@@ -1521,22 +1537,6 @@
         "summary": "대구 남구의 현재와 미래 발전상을 생성형 AI 기반 홍보 영상으로 표현하는 전국민 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-07-02T19:00:00+09:00"
-      },
-      {
-        "title": "2026년 AI · 미디어콘텐츠공모전 'Signal_A'",
-        "category": "AI 영상",
-        "organizer": "시립서대문청소년센터",
-        "submission_start": "2026-06-04",
-        "submission_end": "2026-07-02",
-        "result_date": "2026-07-15 예정",
-        "url": "https://linkareer.com/activity/326481",
-        "source_type": "reference_link",
-        "discovery_source": "tavily",
-        "discovery_url": "https://linkareer.com/activity/326481",
-        "evidence": "링커리어 인증 공고 본문 기준 AI 활용 영상 부문은 생성형 AI 도구를 활용해 30초~3분 MP4 영상을 제작하며 사용 AI 도구명과 프롬프트 기재를 요구한다고 명시.",
-        "summary": "AI로 바뀐 우리의 일상을 주제로 청소년 대상 생성형 AI 활용 영상을 모집하는 미디어콘텐츠 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-03T19:00:00+09:00"
       },
       {
         "title": "제4회 퀴즈노스 AI 영상 광고 공모전",
