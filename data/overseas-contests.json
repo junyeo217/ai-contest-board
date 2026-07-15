@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T07:00:00+09:00",
+  "generated_at": "2026-07-16T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -155,6 +155,23 @@
         "summary": "AI 기반 서사·논픽션·실험 영상과 AI 애니메이션 등을 모집하는 미국 시애틀 AI 영화제.",
         "status": "진행중",
         "source_checked_at": "2026-06-28T07:00:00+09:00"
+      },
+      {
+        "title": "NeurIPS 2026 Creative AI Track",
+        "category": "생성형 AI",
+        "country": "International",
+        "organizer": "NeurIPS",
+        "submission_start": "2026-06-30",
+        "submission_end": "2026-08-03",
+        "result_date": "2026-09-18",
+        "url": "https://neurips.cc/Conferences/2026/CallForCreativeAI",
+        "source_type": "official_notice",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://neurips.cc/Conferences/2026/CallForCreativeAI",
+        "evidence": "NeurIPS 2026 공식 Creative AI Track 공지가 AI/ML을 활용한 creative work와 artworks를 모집한다고 안내하며, visual art, music, performing art, film, design, architecture, installations 등 창작 분야를 포함한다고 명시함. 공식 일정은 Submission Portal Opens 2026-06-30, Submission Deadline 2026-08-03 Anywhere on Earth, Decision 2026-09-18, Final Camera-Ready 2026-10-23으로 확인됨.",
+        "summary": "NeurIPS 2026 Creative AI Track의 연구·아트워크 공모. AI/ML 기반 시각예술, 영화, 디자인, 설치 등 창작 작업을 8월 3일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-16T07:00:00+09:00"
       },
       {
         "title": "2026 National AI-Generated Content (AIGC) Video Challenge",
