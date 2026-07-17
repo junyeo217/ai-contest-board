@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T19:00:00+09:00",
+  "generated_at": "2026-07-17T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -517,6 +517,22 @@
         "source_checked_at": "2026-07-10T19:00:00+09:00"
       },
       {
+        "title": "2026 사천 에어쇼와 함께하는 90초 우주항공 AI 영화제",
+        "category": "AI 영상",
+        "organizer": "사천에어쇼 추진위원회/사천시",
+        "submission_start": "2026-07-01",
+        "submission_end": "2026-08-06",
+        "result_date": "2026-08 중 예정",
+        "url": "https://eventworld.co.kr/sacheon_aeroAI_90",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.wevity.com/index_university.php?c=find&s=_university&mode=ing&gbn=view&gp=4&ix=109016",
+        "evidence": "공식/참고 공고에 15초 이상 90초 이내 16:9 AI 영상 콘텐츠 출품 명시",
+        "summary": "우주항공 분야와 사천의 미래가치를 90초 이내 AI 영화 영상으로 표현하는 공모전",
+        "status": "진행중",
+        "source_checked_at": "2026-07-17T19:00:00+09:00"
+      },
+      {
         "title": "K-Heritage Media Art Shinsegae Square Awards",
         "category": "AI 영상",
         "organizer": "신세계스퀘어 / 국가유산청",
@@ -787,6 +803,22 @@
         "summary": "평화와 통일미래를 주제로 생성형 AI를 활용한 숏폼 영상, 웹툰·컷툰, 디자인 작품을 모집하는 국민 참여형 콘텐츠 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-20T19:00:00+09:00"
+      },
+      {
+        "title": "2026 충남 인물열전 AI 콘텐츠 어워즈",
+        "category": "AI 영상",
+        "organizer": "충청남도/충남문화관광재단",
+        "submission_start": "2026-07-10",
+        "submission_end": "2026-09-10",
+        "result_date": "미정",
+        "url": "https://www.cnctf.or.kr/site/board/index.php?fn=view&no=2026071015334376345&table_nm=tbl_culture",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.allforyoung.com/posts/84639",
+        "evidence": "충남 역사·문화 인물을 소재로 생성형 AI를 활용한 영상 콘텐츠 제작 공모 명시",
+        "summary": "충남의 역사·문화 인물을 소재로 생성형 AI 영상 콘텐츠를 제작하는 어워즈",
+        "status": "진행중",
+        "source_checked_at": "2026-07-17T19:00:00+09:00"
       },
       {
         "title": "2026 충북 AI광고제",
