@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T07:00:00+09:00",
+  "generated_at": "2026-07-19T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -229,17 +229,17 @@
         "category": "AI 영상",
         "country": "International",
         "organizer": "Forward Festival / LTX Studio",
-        "submission_start": "2026-05-28",
+        "submission_start": "2026-07-14",
         "submission_end": "2026-08-10",
         "result_date": "2026-08-27",
-        "url": "https://www.forward-festival.com/page/ai-shortest-film-competition-by-ltx",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.instagram.com/p/DMvLOeHvZa6",
-        "evidence": "Forward Festival 공식 페이지가 LTX Studio와 함께 Shortest AI Film Competition을 운영하며, LTX로 제작한 60초 이하 AI 단편 영화를 모집하고 Forward Festival Berlin에서 상영한다고 안내함. 공식 페이지에서 누구나 어디서든 제출 가능하며, 접수는 2026-06-28까지이고 우수작은 2026-08-27~2026-08-28 Forward Festival Berlin의 Shortest AI Film Festival에서 상영된다고 확인함. Forward Festival 공식 페이지는 LTX 기반 AI 단편 공모와 베를린 상영을 안내하며, Forward Festival 공식 Instagram 공지는 submission deadline이 2026-08-10까지 연장되었다고 안내함.",
-        "summary": "LTX Studio와 Forward Festival이 진행하는 60초 이하 AI 단편 공모전. 공식 소셜 공지 기준 8월 10일까지 연장 접수 중입니다.",
+        "url": "https://ltx.io/studio/beyond-the-prompt",
+        "source_type": "official_platform",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://ltx.io/studio/beyond-the-prompt",
+        "evidence": "LTX Studio 공식 Beyond the Prompt 페이지가 LTX Studio로 100% 생성한 short-form film 공모를 안내하며, 일정은 2026-07-14 11:59 EST submissions open, 2026-08-10 11:59 EST submissions close, 2026-08-14 winners contacted, 2026-08-28 Forward Festival Berlin 상영으로 확인됨. Forward Festival 공식 페이지와 공식 Instagram은 Shortest AI Film Competition by LTX의 Forward Festival Berlin 상영 및 2026-08-10 연장 마감을 보강 확인함.",
+        "summary": "LTX Studio로 100% 생성한 60초 이하 AI 단편 영화를 제출하는 국제 공모. 8월 10일까지 접수하고 수상작은 Forward Festival Berlin에서 상영됩니다.",
         "status": "진행중",
-        "source_checked_at": "2026-07-11T07:00:00+09:00"
+        "source_checked_at": "2026-07-19T07:00:00+09:00"
       },
       {
         "title": "Red Rocks AI Film Festival 2026",
