@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T07:00:00+09:00",
+  "generated_at": "2026-07-20T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -106,23 +106,6 @@
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
-        "title": "Runway Another Big Ad Contest Vol. II",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "Runway AI, Inc.",
-        "submission_start": "2026-07-01",
-        "submission_end": "2026-07-31",
-        "result_date": "미정",
-        "url": "https://runwayml.com/big-ad-contest-vol-2",
-        "source_type": "official_platform",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://runwayml.com/big-ad-contest/terms",
-        "evidence": "Runway 공식 이벤트 페이지가 Another Big Ad Contest For Products That Do Not Exist Volume II를 2026-07-31까지 진행되는 Runway 기반 15~30초 spec ad 영상 공모로 안내함. 공식 규정은 Runway AI, Inc.가 주최하며 Contest Period가 2026-07-01 10:00 ET부터 2026-07-31 23:59:59 ET까지이고, 참가자는 Runway 유료 계정으로 Runway 도구를 사용해 원본 광고 영상을 제작·공개 게시 후 제출해야 한다고 명시함. Eligibility는 금지·제외 지역을 제외한 지역 거주자에게 열려 있어 국제 참가 가능 조건을 충족함.",
-        "summary": "Runway로 15~30초 AI 생성 spec ad를 제작해 제출하는 국제 광고 영상 콘테스트. 최대 10만 달러 규모의 상금을 내걸고 7월 31일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-18T07:00:00+09:00"
-      },
-      {
         "title": "Adobe MAX 2026 Creativity Awards",
         "category": "AI 디자인",
         "country": "International",
@@ -157,6 +140,23 @@
         "source_checked_at": "2026-06-28T07:00:00+09:00"
       },
       {
+        "title": "Runway Another Big Ad Contest Vol. II",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "Runway AI, Inc.",
+        "submission_start": "2026-07-01",
+        "submission_end": "2026-07-31",
+        "result_date": "미정",
+        "url": "https://runwayml.com/big-ad-contest-vol-2",
+        "source_type": "official_platform",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://runwayml.com/big-ad-contest/terms",
+        "evidence": "Runway 공식 이벤트 페이지가 Another Big Ad Contest For Products That Do Not Exist Volume II를 2026-07-31까지 진행되는 Runway 기반 15~30초 spec ad 영상 공모로 안내함. 공식 규정은 Runway AI, Inc.가 주최하며 Contest Period가 2026-07-01 10:00 ET부터 2026-07-31 23:59:59 ET까지이고, 참가자는 Runway 유료 계정으로 Runway 도구를 사용해 원본 광고 영상을 제작·공개 게시 후 제출해야 한다고 명시함. Eligibility는 금지·제외 지역을 제외한 지역 거주자에게 열려 있어 국제 참가 가능 조건을 충족함.",
+        "summary": "Runway로 15~30초 AI 생성 spec ad를 제작해 제출하는 국제 광고 영상 콘테스트. 최대 10만 달러 규모의 상금을 내걸고 7월 31일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-18T07:00:00+09:00"
+      },
+      {
         "title": "The Seattle AI Film Festival 2026",
         "category": "AI 영상",
         "country": "United States",
@@ -172,23 +172,6 @@
         "summary": "AI 기반 서사·논픽션·실험 영상과 AI 애니메이션 등을 모집하는 미국 시애틀 AI 영화제.",
         "status": "진행중",
         "source_checked_at": "2026-06-28T07:00:00+09:00"
-      },
-      {
-        "title": "NeurIPS 2026 Creative AI Track",
-        "category": "생성형 AI",
-        "country": "International",
-        "organizer": "NeurIPS",
-        "submission_start": "2026-06-30",
-        "submission_end": "2026-08-03",
-        "result_date": "2026-09-18",
-        "url": "https://neurips.cc/Conferences/2026/CallForCreativeAI",
-        "source_type": "official_notice",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://neurips.cc/Conferences/2026/CallForCreativeAI",
-        "evidence": "NeurIPS 2026 공식 Creative AI Track 공지가 AI/ML을 활용한 creative work와 artworks를 모집한다고 안내하며, visual art, music, performing art, film, design, architecture, installations 등 창작 분야를 포함한다고 명시함. 공식 일정은 Submission Portal Opens 2026-06-30, Submission Deadline 2026-08-03 Anywhere on Earth, Decision 2026-09-18, Final Camera-Ready 2026-10-23으로 확인됨.",
-        "summary": "NeurIPS 2026 Creative AI Track의 연구·아트워크 공모. AI/ML 기반 시각예술, 영화, 디자인, 설치 등 창작 작업을 8월 3일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-16T07:00:00+09:00"
       },
       {
         "title": "2026 National AI-Generated Content (AIGC) Video Challenge",
@@ -208,6 +191,40 @@
         "source_checked_at": "2026-07-12T07:00:00+09:00"
       },
       {
+        "title": "NeurIPS 2026 Creative AI Track",
+        "category": "생성형 AI",
+        "country": "International",
+        "organizer": "NeurIPS",
+        "submission_start": "2026-06-30",
+        "submission_end": "2026-08-03",
+        "result_date": "2026-09-18",
+        "url": "https://neurips.cc/Conferences/2026/CallForCreativeAI",
+        "source_type": "official_notice",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://neurips.cc/Conferences/2026/CallForCreativeAI",
+        "evidence": "NeurIPS 2026 공식 Creative AI Track 공지가 AI/ML을 활용한 creative work와 artworks를 모집한다고 안내하며, visual art, music, performing art, film, design, architecture, installations 등 창작 분야를 포함한다고 명시함. 공식 일정은 Submission Portal Opens 2026-06-30, Submission Deadline 2026-08-03 Anywhere on Earth, Decision 2026-09-18, Final Camera-Ready 2026-10-23으로 확인됨.",
+        "summary": "NeurIPS 2026 Creative AI Track의 연구·아트워크 공모. AI/ML 기반 시각예술, 영화, 디자인, 설치 등 창작 작업을 8월 3일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-16T07:00:00+09:00"
+      },
+      {
+        "title": "Kling AI Uncanny Aesthetics Contest",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Kling AI",
+        "submission_start": "2026-07-08",
+        "submission_end": "2026-08-04",
+        "result_date": "미정",
+        "url": "https://kling.ai/app/activity-zone?id=903727936003113056&ac=2&r=201&rid=315471618653521",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://kling.ai/app/activity-zone?id=903727936003113056&ac=2&r=201&rid=315471618653521",
+        "evidence": "Kling AI 공식 activity-zone 검색 본문에서 Uncanny Aesthetics Contest가 확인되며 Event Duration 2026-07-08 03:00:00~2026-08-04 및 Submission: July 8, 2026 - August 4, 2026로 표시됨. 제출 콘텐츠는 primarily generated using Kling AI 조건으로 안내되어 공식 플랫폼 AI 창작 챌린지 기준을 충족함.",
+        "summary": "Kling AI로 제작한 언캐니/초현실 미학 계열 AI 창작물을 제출하는 글로벌 공식 플랫폼 콘테스트. 8월 4일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-20T07:00:00+09:00"
+      },
+      {
         "title": "CapCut CRE[AI]TE 2026 AI Festival",
         "category": "AI 이미지·영상",
         "country": "Global",
@@ -225,23 +242,6 @@
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
-        "title": "Shortest AI Film Competition by LTX Studio 2026",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "Forward Festival / LTX Studio",
-        "submission_start": "2026-07-14",
-        "submission_end": "2026-08-10",
-        "result_date": "2026-08-27",
-        "url": "https://ltx.io/studio/beyond-the-prompt",
-        "source_type": "official_platform",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://ltx.io/studio/beyond-the-prompt",
-        "evidence": "LTX Studio 공식 Beyond the Prompt 페이지가 LTX Studio로 100% 생성한 short-form film 공모를 안내하며, 일정은 2026-07-14 11:59 EST submissions open, 2026-08-10 11:59 EST submissions close, 2026-08-14 winners contacted, 2026-08-28 Forward Festival Berlin 상영으로 확인됨. Forward Festival 공식 페이지와 공식 Instagram은 Shortest AI Film Competition by LTX의 Forward Festival Berlin 상영 및 2026-08-10 연장 마감을 보강 확인함.",
-        "summary": "LTX Studio로 100% 생성한 60초 이하 AI 단편 영화를 제출하는 국제 공모. 8월 10일까지 접수하고 수상작은 Forward Festival Berlin에서 상영됩니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-19T07:00:00+09:00"
-      },
-      {
         "title": "Red Rocks AI Film Festival 2026",
         "category": "AI 영상",
         "country": "United States",
@@ -257,6 +257,23 @@
         "summary": "미국 유타에서 열리는 AI 생성 영화제. AI 영화, 단편, 광고, 애니메이션 등 부문을 8월 10일까지 접수합니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-09T07:00:00+09:00"
+      },
+      {
+        "title": "Shortest AI Film Competition by LTX Studio 2026",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "Forward Festival / LTX Studio",
+        "submission_start": "2026-07-14",
+        "submission_end": "2026-08-10",
+        "result_date": "2026-08-27",
+        "url": "https://ltx.io/studio/beyond-the-prompt",
+        "source_type": "official_platform",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://ltx.io/studio/beyond-the-prompt",
+        "evidence": "LTX Studio 공식 Beyond the Prompt 페이지가 LTX Studio로 100% 생성한 short-form film 공모를 안내하며, 일정은 2026-07-14 11:59 EST submissions open, 2026-08-10 11:59 EST submissions close, 2026-08-14 winners contacted, 2026-08-28 Forward Festival Berlin 상영으로 확인됨. Forward Festival 공식 페이지와 공식 Instagram은 Shortest AI Film Competition by LTX의 Forward Festival Berlin 상영 및 2026-08-10 연장 마감을 보강 확인함.",
+        "summary": "LTX Studio로 100% 생성한 60초 이하 AI 단편 영화를 제출하는 국제 공모. 8월 10일까지 접수하고 수상작은 Forward Festival Berlin에서 상영됩니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-19T07:00:00+09:00"
       },
       {
         "title": "Reel Futures: Student AI Film Shorts Competition 2026",
@@ -344,19 +361,19 @@
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
-        "title": "Sparknify Human vs. AI Film Festival 2026",
+        "title": "AI Media Award 2026",
         "category": "AI 영상",
         "country": "International",
-        "organizer": "Sparknify",
-        "submission_start": "2026-05-01",
+        "organizer": "SSIA Smile Swiss Influence Award / AI Media Agency",
+        "submission_start": "2026-03-28",
         "submission_end": "2026-08-31",
-        "result_date": "미정",
-        "url": "https://www.sparknify.com/human-vs-ai-film-festival",
-        "source_type": "official_notice",
-        "discovery_source": "brave",
-        "discovery_url": "https://www.sparknify.com/human-vs-ai-film-festival",
-        "evidence": "공식 Sparknify Human vs. AI Film Festival 2026 페이지/검색 본문이 Human-made와 AI-generated 두 부문을 운영하는 영화제로 설명하고, AI-generated 부문은 전통 제작과 구분된 AI 생성 제작 방식을 요구함. 2026-05-22 재확인 시 early bird 이후 regular entry가 열려 있고 final submissions close on 2026-08-31로 공지되어 현재 접수 중으로 분류함.",
-        "summary": "인간 제작 영화와 AI 생성 영화를 나란히 평가하는 국제 영화제. AI-generated 부문은 8월 31일까지 접수.",
+        "result_date": "2026-10-27",
+        "url": "https://ai-media-award.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://ai-media-award.com/",
+        "evidence": "공식 AI Media Award 2026 홈페이지에서 submission now open, 프로젝트 제출 마감 2026-08-31, 최종 쇼케이스 및 시상식 2026-10-27 취리히 일정을 확인함. 전 세계 개인·전문 에이전시·미디어 제작사가 참가 가능하며, AI 기술이 기획·디자인·제작에 핵심 역할을 한 5분 이하 audiovisual short format을 대상으로 함.",
+        "summary": "AI가 핵심적으로 쓰인 5분 이하 광고·미디어·브랜드 영상 등 AI 기반 숏폼 영상 작품을 접수하는 국제 어워드.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
@@ -378,19 +395,19 @@
         "source_checked_at": "2026-07-08T07:00:00+09:00"
       },
       {
-        "title": "AI Media Award 2026",
+        "title": "Sparknify Human vs. AI Film Festival 2026",
         "category": "AI 영상",
         "country": "International",
-        "organizer": "SSIA Smile Swiss Influence Award / AI Media Agency",
-        "submission_start": "2026-03-28",
+        "organizer": "Sparknify",
+        "submission_start": "2026-05-01",
         "submission_end": "2026-08-31",
-        "result_date": "2026-10-27",
-        "url": "https://ai-media-award.com/",
-        "source_type": "official_homepage",
-        "discovery_source": "tavily",
-        "discovery_url": "https://ai-media-award.com/",
-        "evidence": "공식 AI Media Award 2026 홈페이지에서 submission now open, 프로젝트 제출 마감 2026-08-31, 최종 쇼케이스 및 시상식 2026-10-27 취리히 일정을 확인함. 전 세계 개인·전문 에이전시·미디어 제작사가 참가 가능하며, AI 기술이 기획·디자인·제작에 핵심 역할을 한 5분 이하 audiovisual short format을 대상으로 함.",
-        "summary": "AI가 핵심적으로 쓰인 5분 이하 광고·미디어·브랜드 영상 등 AI 기반 숏폼 영상 작품을 접수하는 국제 어워드.",
+        "result_date": "미정",
+        "url": "https://www.sparknify.com/human-vs-ai-film-festival",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.sparknify.com/human-vs-ai-film-festival",
+        "evidence": "공식 Sparknify Human vs. AI Film Festival 2026 페이지/검색 본문이 Human-made와 AI-generated 두 부문을 운영하는 영화제로 설명하고, AI-generated 부문은 전통 제작과 구분된 AI 생성 제작 방식을 요구함. 2026-05-22 재확인 시 early bird 이후 regular entry가 열려 있고 final submissions close on 2026-08-31로 공지되어 현재 접수 중으로 분류함.",
+        "summary": "인간 제작 영화와 AI 생성 영화를 나란히 평가하는 국제 영화제. AI-generated 부문은 8월 31일까지 접수.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
@@ -446,23 +463,6 @@
         "source_checked_at": "2026-07-08T07:00:00+09:00"
       },
       {
-        "title": "We Are Human Festival Paris 2026 – Film & AI International Open Call",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "We Are Human Festival Paris",
-        "submission_start": "2026-06-01",
-        "submission_end": "2026-09-30",
-        "result_date": "2026-11-24",
-        "url": "https://wearehuman.foundation/en/call-for-films",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://wearehuman.foundation/en/call-for-films",
-        "evidence": "공식 Call for Films 페이지와 schema.org Event가 국제 오픈콜, AI/시청각 창작·인권 주제, 접수 2026-06-01~2026-09-30, 온라인 제출을 명시.",
-        "summary": "AI와 인권을 주제로 한 인간/AI 하이브리드 영상 작품을 모집하는 국제 오픈콜. 9월 30일까지 무료 접수.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
-      },
-      {
         "title": "WAIFF LA USA 2026",
         "category": "AI 영상",
         "country": "United States",
@@ -478,6 +478,23 @@
         "summary": "World AI Film Festival의 미국 LA 에디션. AI 사용 제작 파이프라인을 공개하는 영화·영상 작품을 9월 30일까지 접수합니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-08T07:00:00+09:00"
+      },
+      {
+        "title": "We Are Human Festival Paris 2026 – Film & AI International Open Call",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "We Are Human Festival Paris",
+        "submission_start": "2026-06-01",
+        "submission_end": "2026-09-30",
+        "result_date": "2026-11-24",
+        "url": "https://wearehuman.foundation/en/call-for-films",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://wearehuman.foundation/en/call-for-films",
+        "evidence": "공식 Call for Films 페이지와 schema.org Event가 국제 오픈콜, AI/시청각 창작·인권 주제, 접수 2026-06-01~2026-09-30, 온라인 제출을 명시.",
+        "summary": "AI와 인권을 주제로 한 인간/AI 하이브리드 영상 작품을 모집하는 국제 오픈콜. 9월 30일까지 무료 접수.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
         "title": "DAIFF 2026 – Disrupt AI Film Festival",
@@ -531,23 +548,6 @@
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
-        "title": "AI ZONE International AI Film Festival 2026",
-        "category": "AI 영상",
-        "country": "Online",
-        "organizer": "AI Zone",
-        "submission_start": "2026-06-19",
-        "submission_end": "2026-11-30",
-        "result_date": "2027-01-15",
-        "url": "https://ai-zone.net/festival/",
-        "source_type": "official_notice",
-        "discovery_source": "brave",
-        "discovery_url": "https://ai-zone.net/festival/",
-        "evidence": "AI ZONE 공식 페스티벌 페이지가 AI ZONE International AI Film Festival 2026을 AI-generated and AI-assisted cinematic works 대상의 global online festival로 소개함. 공식 페이지에서 Submissions Open 2026-06-19, Submission Deadline 2026-11-30, Notifications 2026-12-15, Awards Announcement 2027-01-15, Event Format Online Event 및 FilmFreeway 제출 경로를 확인함.",
-        "summary": "AI 생성·AI 보조 영화, 애니메이션, 실험 영상 등을 모집하는 글로벌 온라인 AI 영화제. 11월 30일까지 접수.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-30T07:00:00+09:00"
-      },
-      {
         "title": "AI Art Championship 2026",
         "category": "AI 이미지",
         "country": "Global",
@@ -580,6 +580,23 @@
         "summary": "AI 영상, 비주얼 아트, 애니메이션, AI 기반 음악 영상과 실험적 스토리텔링을 접수하는 온라인 국제 페스티벌.",
         "status": "진행중",
         "source_checked_at": "2026-06-29T07:00:00+09:00"
+      },
+      {
+        "title": "AI ZONE International AI Film Festival 2026",
+        "category": "AI 영상",
+        "country": "Online",
+        "organizer": "AI Zone",
+        "submission_start": "2026-06-19",
+        "submission_end": "2026-11-30",
+        "result_date": "2027-01-15",
+        "url": "https://ai-zone.net/festival/",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://ai-zone.net/festival/",
+        "evidence": "AI ZONE 공식 페스티벌 페이지가 AI ZONE International AI Film Festival 2026을 AI-generated and AI-assisted cinematic works 대상의 global online festival로 소개함. 공식 페이지에서 Submissions Open 2026-06-19, Submission Deadline 2026-11-30, Notifications 2026-12-15, Awards Announcement 2027-01-15, Event Format Online Event 및 FilmFreeway 제출 경로를 확인함.",
+        "summary": "AI 생성·AI 보조 영화, 애니메이션, 실험 영상 등을 모집하는 글로벌 온라인 AI 영화제. 11월 30일까지 접수.",
+        "status": "진행중",
+        "source_checked_at": "2026-06-30T07:00:00+09:00"
       },
       {
         "title": "Ai Film Festival 2026",
@@ -703,23 +720,6 @@
         "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
-        "title": "Picsart Happy Horse Awards",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "Picsart / Alibaba Cloud",
-        "submission_start": "2026-05-26",
-        "submission_end": "2026-06-14",
-        "result_date": "미정",
-        "url": "https://picsart.com/happy-horse-awards/",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://picsart.com/happy-horse-official-rules/",
-        "evidence": "Picsart 공식 Happy Horse Awards 규칙 페이지가 2026-05-26 10:30 GMT+8부터 2026-06-14 23:59 PST까지의 Submission Period, 글로벌 참가 가능 조건, Picsart 플랫폼과 Alibaba Happy Horse 1.0 모델로 만든 15초~5분 세로 AI 영상 제출 요건, 2026-06-15~2026-07-02 심사 및 2026-07-03 전후 수상자 발표 일정을 명시함. 2026-07-04 재확인 시 공개 수상자 페이지가 확인되지 않아 결과일은 미정으로 보정함.",
-        "summary": "Picsart와 Alibaba Cloud가 Happy Horse 1.0 모델을 활용한 글로벌 AI 숏폼 영상 작품을 모집한 공식 플랫폼 콘테스트.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-04T07:00:00+09:00"
-      },
-      {
         "title": "2026 Movinpic AI Video Contest",
         "category": "AI 영상",
         "country": "Japan",
@@ -743,15 +743,15 @@
         "organizer": "Kling AI",
         "submission_start": "2026-06-03",
         "submission_end": "2026-06-17",
-        "result_date": "미정",
+        "result_date": "2026-07-01",
         "url": "https://kling.ai/app/activity-zone?id=886046617420963861&ac=2",
         "source_type": "official_platform",
         "discovery_source": "tavily",
         "discovery_url": "https://kling.ai/app/activity-zone?id=886046617420963861&ac=2",
-        "evidence": "Kling AI 공식 Events 페이지와 공식 X 공지가 Anniversary II Creation Showreel Contest를 안내하며, Kling AI로 만든 Anniversary Memories 또는 Creation Showreel 제출을 요구하고 접수 기간을 2026-06-03~2026-06-17 Pacific Time으로 명시함. 2026-06-18 확인 기준 접수 마감일이 지나 결과 발표 전으로 분류함.",
+        "evidence": "Kling AI 공식 Events 페이지와 공식 X/YouTube 공지가 Anniversary II Creation Showreel Contest를 안내하며, Kling AI로 만든 Anniversary Memories 또는 Creation Showreel 제출을 요구하고 접수 기간을 2026-06-03~2026-06-17 Pacific Time으로 명시함. 2026-07-20 재확인 시 공식 검색 본문에서 Winners Announcement: July 1, 2026이 확인되나 공개 수상자 상세 페이지는 확인되지 않아 발표 대기 추적을 유지함.",
         "summary": "Kling AI 2주년을 기념해 Kling AI로 제작한 쇼릴/기념 영상을 모집하는 공식 플랫폼 콘테스트.",
         "status": "발표 대기",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
+        "source_checked_at": "2026-07-20T07:00:00+09:00"
       },
       {
         "title": "TikTok Effect House AI Effect Challenge – Meme AI Sub-Challenge",
@@ -788,6 +788,23 @@
         "source_checked_at": "2026-06-26T07:00:00+09:00"
       },
       {
+        "title": "AI Futures Challenge 2026",
+        "category": "AI 콘텐츠",
+        "country": "Online",
+        "organizer": "Existential Hope",
+        "submission_start": "2026-05-04",
+        "submission_end": "2026-06-30",
+        "result_date": "미정",
+        "url": "https://worlds.existentialhope.com/#AIFutures",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.existentialhope.com/",
+        "evidence": "Existential Hope 공식 사이트가 $10,000 AI Futures Challenge 2026을 안내하며, AI가 긍정적으로 작동한 미래 세계를 구축하는 창작 과제와 2026-06-30 제출 마감을 명시함. FUTX/ArtInfoLand 참고 페이지는 국제/온라인 참여, 창작 세계관 제출, winners announced in mid-July 2026을 보강 확인함. 2026-07-20 재확인 시 공식 수상자 공개 페이지가 확인되지 않아 결과일은 미정으로 보정하고 발표 대기를 유지함.",
+        "summary": "AI가 잘 작동한 미래를 세계관·스토리·선택적 이미지/영상 미디어로 설계해 제출하는 온라인 국제 창작 챌린지. 접수 종료 후 7월 중순 발표 대기 상태.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-07-20T07:00:00+09:00"
+      },
+      {
         "title": "AI Media Festival 2026",
         "category": "AI 이미지·영상",
         "country": "United States",
@@ -803,23 +820,6 @@
         "summary": "Los Angeles에서 열리는 AI 영화·뮤직비디오·디지털 아트·애니메이션 중심 미디어 페스티벌. 6월 30일 접수 마감 후 10월 행사/시상 확인 대상입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-07-04T07:00:00+09:00"
-      },
-      {
-        "title": "AI Futures Challenge 2026",
-        "category": "AI 콘텐츠",
-        "country": "Online",
-        "organizer": "Existential Hope",
-        "submission_start": "2026-05-04",
-        "submission_end": "2026-06-30",
-        "result_date": "2026-07-15",
-        "url": "https://worlds.existentialhope.com/#AIFutures",
-        "source_type": "official_homepage",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.existentialhope.com/",
-        "evidence": "Existential Hope 공식 사이트가 $10,000 AI Futures Challenge 2026을 안내하며, AI가 긍정적으로 작동한 미래 세계를 구축하는 창작 과제와 2026-06-30 제출 마감을 명시함. Futur/io·ArtInfoLand 참고 페이지는 국제/온라인 참여, 창작 세계관 제출, winners announced in mid-July 2026을 보강 확인함.",
-        "summary": "AI가 잘 작동한 미래를 세계관·스토리·선택적 이미지/영상 미디어로 설계해 제출하는 온라인 국제 창작 챌린지. 접수 종료 후 7월 중순 발표 대기 상태.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-02T07:00:00+09:00"
       },
       {
         "title": "HKAIIFF 2026 – Hong Kong AI International Film Festival",
