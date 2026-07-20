@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T07:00:00+09:00",
+  "generated_at": "2026-07-21T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -87,6 +87,23 @@
         "summary": "K-컬처와 AI 시네마를 주제로 한 국제 AI 영화제. 7월 25일까지 Late Deadline 접수 중입니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-06T07:00:00+09:00"
+      },
+      {
+        "title": "Kling AI Stadium Cheer Challenge",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Kling AI",
+        "submission_start": "2026-06-12",
+        "submission_end": "2026-07-26",
+        "result_date": "미정",
+        "url": "https://kling.ai/app/activity-zone?id=894402033980153949&from=home&ac=2",
+        "source_type": "official_platform",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://kling.ai/app/activity-zone?id=894402033980153949&from=home&ac=2",
+        "evidence": "Kling AI 공식 activity-zone 검색 본문에서 Stadium Cheer Challenge가 확인되며 Event Duration 2026-06-12 06:30:00 시작 및 Submission: June 12, 2026 - July 26, 2026로 표시됨. 제출 콘텐츠는 primarily generated using Kling AI 조건으로 안내되어 공식 플랫폼 AI 영상 창작 챌린지 기준을 충족함.",
+        "summary": "Kling AI로 제작한 경기장 응원/치어 계열 AI 영상을 제출하는 글로벌 공식 플랫폼 챌린지. 7월 26일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-21T07:00:00+09:00"
       },
       {
         "title": "Graphis AI Creative Awards 2026",
