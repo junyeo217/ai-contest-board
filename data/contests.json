@@ -1,25 +1,9 @@
 {
-  "generated_at": "2026-07-23T19:00:00+09:00",
+  "generated_at": "2026-07-24T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "2026 원주만두축제 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "원주문화재단",
-        "submission_start": "2026-06-23",
-        "submission_end": "2026-07-23",
-        "result_date": "미정",
-        "url": "https://www.youtube.com/watch?v=wit2GV-jmiY",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.sportsseoul.com/news/read/1618274",
-        "evidence": "원주문화재단 공식 YouTube 영상 제목과 언론 공지에서 2026 원주만두축제 AI 영상 공모전, 생성형 AI 활용 영상 콘텐츠, 접수 마감 2026년 7월 23일 18시가 확인됩니다.",
-        "summary": "생성형 AI 기술로 2026 원주만두축제를 홍보하는 영상 콘텐츠를 제작해 응모하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-24T19:00:00+09:00"
-      },
       {
         "title": "층간소음 예방 2642(이웃사이) AI 영상 공모전",
         "category": "AI 영상",
@@ -803,6 +787,22 @@
         "summary": "안전한 AI와 디지털윤리를 주제로 포스터, 카드뉴스, 웹툰, 영상 등 창작콘텐츠를 모집합니다.",
         "status": "진행중",
         "source_checked_at": "2026-06-02T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 안전한 개인정보 보호 사례 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "교육부·한국교육학술정보원",
+        "submission_start": "2026-07-21",
+        "submission_end": "2026-09-18",
+        "result_date": "2026-11 예정",
+        "url": "https://www.newspim.com/news/view/20260720000119",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.newspim.com/news/view/20260720000119",
+        "evidence": "참고 기사 본문에 공모 분야로 포스터·웹툰 포함 그림, 동영상·숏폼 포함 영상, AI 도구 활용 콘텐츠 명시.",
+        "summary": "AI 시대 개인정보 보호를 주제로 그림·영상·AI 활용 콘텐츠를 모집하는 학생 대상 공모전.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-24T19:00:00+09:00"
       }
     ],
     "awaiting_results": [
@@ -1745,6 +1745,22 @@
         "summary": "고 백남준 작가 서거 20주기를 맞아 생성형 AI 활용 영상 작품을 공모하는 특별상 부문입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-07-23T19:00:00+09:00"
+      },
+      {
+        "title": "2026 원주만두축제 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "원주문화재단",
+        "submission_start": "2026-06-23",
+        "submission_end": "2026-07-23",
+        "result_date": "발표 미확인",
+        "url": "https://www.youtube.com/watch?v=wit2GV-jmiY",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.sportsseoul.com/news/read/1618274",
+        "evidence": "원주문화재단 공식 YouTube 영상 제목과 언론 공지에서 2026 원주만두축제 AI 영상 공모전, 생성형 AI 활용 영상 콘텐츠, 접수 마감 2026년 7월 23일 18시가 확인됩니다.",
+        "summary": "생성형 AI 기술로 2026 원주만두축제를 홍보하는 영상 콘텐츠를 제작해 응모하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-07-24T19:00:00+09:00"
       }
     ]
   }
