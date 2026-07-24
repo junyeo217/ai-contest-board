@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T07:00:00+09:00",
+  "generated_at": "2026-07-25T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -635,57 +635,6 @@
     ],
     "awaiting_results": [
       {
-        "title": "Kling AI Anniversary II Creation Showreel Contest",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "Kling AI",
-        "submission_start": "2026-06-03",
-        "submission_end": "2026-06-17",
-        "result_date": "2026-07-01",
-        "url": "https://kling.ai/app/activity-zone?id=886046617420963861&ac=2",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://kling.ai/app/activity-zone?id=886046617420963861&ac=2",
-        "evidence": "Kling AI 공식 Events 페이지와 공식 X/YouTube 공지가 Anniversary II Creation Showreel Contest를 안내하며, Kling AI로 만든 Anniversary Memories 또는 Creation Showreel 제출을 요구하고 접수 기간을 2026-06-03~2026-06-17 Pacific Time으로 명시함. 2026-07-20 재확인 시 공식 검색 본문에서 Winners Announcement: July 1, 2026이 확인되나 공개 수상자 상세 페이지는 확인되지 않아 발표 대기 추적을 유지함.",
-        "summary": "Kling AI 2주년을 기념해 Kling AI로 제작한 쇼릴/기념 영상을 모집하는 공식 플랫폼 콘테스트.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-20T07:00:00+09:00"
-      },
-      {
-        "title": "Kling AI Final Bell Creative Challenge",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "Kling AI",
-        "submission_start": "2026-05-28",
-        "submission_end": "2026-06-25",
-        "result_date": "2026-07-23",
-        "url": "https://kling.ai/app/activity-zone?id=888940958678261762&ac=2",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://kling.ai/app/activity-zone?id=888940958678261762&ac=2",
-        "evidence": "Kling AI 공식 Events 페이지 검색 본문에서 해당 activity-zone 항목의 접수 기간이 2026-05-28~2026-06-25, Winners Announcement가 2026-07-23으로 확인됨. 2026-06-26 기준 접수 마감일이 지나 발표 대기 상태로 전환함.",
-        "summary": "Kling AI 공식 이벤트 영역에서 진행된 글로벌 AI 영상 창작 챌린지. 6월 25일 접수가 마감되어 7월 23일 수상자 발표를 기다리는 상태.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-26T07:00:00+09:00"
-      },
-      {
-        "title": "HKAIIFF 2026 – Hong Kong AI International Film Festival",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "Hong Kong AI International Film Festival Association",
-        "submission_start": "2026-04-01",
-        "submission_end": "2026-07-10",
-        "result_date": "2026-07-23",
-        "url": "https://www.hkaiiff.org/en",
-        "source_type": "official_notice",
-        "discovery_source": "manual",
-        "discovery_url": "https://www.hkaiiff.org/en",
-        "evidence": "HKAIIFF 공식 사이트가 Hong Kong AI International Film Festival 2026을 AI-native cinema 국제 영화제로 소개하고, 51%+ AI participation required 기준과 Generative Cinema, Interactive Narratives & World-building, Procedural & Emergent Systems, Digital Beings & Synthetic Performance 부문을 명시함. Submission timeline은 Early Bird 2026-04-01~04-30, Standard 2026-05-01~06-30, Final Call 2026-07-01~07-10이며, 전 세계 영화 제작자에게 열려 있다고 안내함. 2026-07-17 재확인 기준 공식 사이트는 페스티벌 일정을 2026-07-17~07-23으로 표시하므로, 단일 발표일로 보던 2026-07-17을 행사 종료일 기준 2026-07-23으로 보정하고 발표 대기 상태를 유지함.",
-        "summary": "AI 참여 51% 이상을 요구하는 홍콩 기반 국제 AI-native 영화제. 접수 종료 후 7월 17~23일 행사 및 결과 발표 대기 상태.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-17T07:00:00+09:00"
-      },
-      {
         "title": "2026 Movinpic AI Video Contest",
         "category": "AI 영상",
         "country": "Japan",
@@ -907,5 +856,17 @@
         "source_checked_at": "2026-07-14T07:00:00+09:00"
       }
     ]
-  }
+  },
+  "change_notes": [
+    {
+      "date": "2026-07-25",
+      "type": "cleanup",
+      "summary": "발표 예정일이 2026-07-25 이전인 발표대기 항목 3건을 관리 대상에서 제외",
+      "items": [
+        "Kling AI Anniversary II Creation Showreel Contest",
+        "Kling AI Final Bell Creative Challenge",
+        "HKAIIFF 2026 – Hong Kong AI International Film Festival"
+      ]
+    }
+  ]
 }
