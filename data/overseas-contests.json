@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T07:00:00+09:00",
+  "generated_at": "2026-07-28T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -53,6 +53,23 @@
         "summary": "전 세계 전문 크리에이터와 에이전시의 AI 기반 시각 스토리텔링, 디자인, 이미지, 영상 작업을 대상으로 하는 Graphis 공모전.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "AI International Film Festival 2026 – October Hollywood Edition",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "AI International Film Festival",
+        "submission_start": "2026-07-24",
+        "submission_end": "2026-08-21",
+        "result_date": "2026-08-27",
+        "url": "https://filmfreeway.com/AIinternationalFilmFestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "manual",
+        "discovery_url": "https://filmfreeway.com/AIinternationalFilmFestival",
+        "evidence": "FilmFreeway 공식 접수 페이지가 2026-07-24 Opening Date, 2026-07-31 Earlybird Deadline, 2026-08-21 Regular Deadline, 2026-08-27 Notification Date, 2026-10-10 Event Date를 표시함. Best AI Film, Best AI Feature Film, Best AI Short Film, Best AI Vertical Short, Best AI Animation Short, Best Hybrid AI Short Film 등 AI 제작·AI 주제 영상 부문을 모집함.",
+        "summary": "AI International Film Festival의 2026년 10월 Hollywood 접수 사이클. AI 제작·AI 주제 영화와 영상 부문을 8월 21일까지 모집합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-28T07:00:00+09:00"
       },
       {
         "title": "Adobe MAX 2026 Creativity Awards",
@@ -325,6 +342,23 @@
         "summary": "애리조나 피닉스에서 열리는 AI 영화·아트 페스티벌. AI 영상·뮤직비디오·실험 영상 등을 8월 22일까지 접수.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "Higgsfield Adathon 2026",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Higgsfield",
+        "submission_start": "2026-07-27",
+        "submission_end": "2026-08-24",
+        "result_date": "2026-09-09",
+        "url": "https://higgsfield.ai/contests/adathon",
+        "source_type": "official_platform",
+        "discovery_source": "manual",
+        "discovery_url": "https://higgsfield.ai/contests/adathon",
+        "evidence": "Higgsfield 공식 Contests/Adathon 페이지가 The Adathon을 Jul 27–Aug 24 활성 콘테스트로 표시하고, 공식 규칙에서 2026-07-27 09:00 ET 시작 및 2026-08-24 23:59 ET 종료를 명시함. 제출물은 실제 브랜드용 30~60초 광고 영상이며 최소 51%가 AI-generated visuals이고 모든 AI 영상·이미지·음성 콘텐츠는 Higgsfield 플랫폼에서 제작해야 한다고 안내함. 참가 대상은 제재 지역 등을 제외한 전 세계 전문 팀.",
+        "summary": "Higgsfield와 Adweek가 진행하는 글로벌 AI 광고 영상 콘테스트. Higgsfield에서 제작한 30~60초 광고 영상을 8월 24일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-28T07:00:00+09:00"
       },
       {
         "title": "AI Media Award 2026",
@@ -669,23 +703,6 @@
         "source_checked_at": "2026-07-27T07:00:00+09:00"
       },
       {
-        "title": "AI International Film Festival 2026 – September Hollywood Edition",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "AI International Film Festival",
-        "submission_start": "2026-06-24",
-        "submission_end": "2026-07-21",
-        "result_date": "2026-07-27",
-        "url": "https://filmfreeway.com/AIinternationalFilmFestival",
-        "source_type": "official_apply_page",
-        "discovery_source": "brave",
-        "discovery_url": "https://filmfreeway.com/AIinternationalFilmFestival",
-        "evidence": "FilmFreeway 공식 접수 페이지가 2026-06-24 Opening Date, 2026-06-30 Earlybird Deadline, 2026-07-21 Regular Deadline, 2026-07-27 Notification Date, 2026-09-12 Event Date를 표시함. AI Film, AI Short Film, AI Vertical Short, AI Animation Short, Hybrid AI Short Film 등 AI 제작/주제 영화 부문을 모집하며 venue는 Los Angeles, California로 표시됨.",
-        "summary": "AI International Film Festival의 2026년 9월 Hollywood 접수 사이클. AI 제작·AI 주제 영화와 영상 부문을 모집합니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-22T07:00:00+09:00"
-      },
-      {
         "title": "Runway AIF 2026 – AI Festival",
         "category": "AI 이미지·영상",
         "country": "International",
@@ -917,6 +934,14 @@
         "Kling AI Anniversary II Creation Showreel Contest",
         "Kling AI Final Bell Creative Challenge",
         "HKAIIFF 2026 – Hong Kong AI International Film Festival"
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "type": "cleanup",
+      "summary": "발표 예정일이 2026-07-27인 발표대기 항목 1건을 관리 대상에서 제외",
+      "items": [
+        "AI International Film Festival 2026 – September Hollywood Edition"
       ]
     }
   ]
