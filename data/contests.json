@@ -1,41 +1,9 @@
 {
-  "generated_at": "2026-07-26T19:00:00+09:00",
+  "generated_at": "2026-07-27T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "2026 한국전기안전공사 AI영상공모전",
-        "category": "AI 영상",
-        "organizer": "한국전기안전공사",
-        "submission_start": "2026-07-01",
-        "submission_end": "2026-07-26",
-        "result_date": "2026-08-05 예정",
-        "url": "https://www.facebook.com/kescomiri/posts/-ai%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%A0%84%EA%B8%B0%EC%95%88%EC%A0%84-%EC%9D%B4%EC%95%BC%EA%B8%B02026-%ED%95%9C%EA%B5%AD%EC%A0%84%EA%B8%B0%EC%95%88%EC%A0%84%EA%B3%B5%EC%82%AC-ai-%EC%98%81%EC%83%81-%EA%B3%B5%EB%AA%A8%EC%A0%84%EC%9D%B4-%EC%8B%9C%EC%9E%91%EB%90%A9%EB%8B%88%EB%8B%A4%EC%83%9D%EC%84%B1%ED%98%95-ai%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4%EC%A0%84%EA%B8%B0%EC%95%88%EC%A0%84%EC%9D%84-%EC%A3%BC%EC%A0%9C%EB%A1%9C-%ED%95%9C-%EC%98%81%EC%83%81%EC%9D%84-%EC%A0%9C%EC%9E%91%ED%95%B4-%EC%A3%BC%EC%84%B8/1434152095420080",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.code-c.kr/post/contest/542283?page=1&sortname=cl_order&sortorder=asc&t=1&ct=&sc=&tg=",
-        "evidence": "한국전기안전공사 공식 SNS와 참고 공고 기준 생성형 AI를 활용해 전기안전을 주제로 한 영상 제작, 공모기간 2026.07.01~07.26 23:59 명시.",
-        "summary": "전기안전을 주제로 생성형 AI 영상 콘텐츠를 제작해 제출하는 한국전기안전공사 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-03T19:00:00+09:00"
-      },
-      {
-        "title": "XCONDA 60 Awards Vol.1",
-        "category": "AI 영상",
-        "organizer": "XCONDA",
-        "submission_start": "2026-06-26",
-        "submission_end": "2026-07-26",
-        "result_date": "2026-08-03 예정",
-        "url": "https://onoffmix.com/event/345071",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://onoffmix.com/event/345071",
-        "evidence": "온오프믹스 행사 페이지와 XCONDA 공식 SNS 색인 기준 15~60초 AI 숏폼 영상, 접수 2026.06.26~07.26 23:59, 수상자 발표 2026.08.03 명시.",
-        "summary": "XCONDA 워크플로우를 활용한 15~60초 AI 숏폼 영상을 모집하는 AI 영상 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-04T19:00:00+09:00"
-      },
       {
         "title": "2026 호텔JCS여수 웨딩홀 AI 영상 공모전",
         "category": "AI 영상",
@@ -483,6 +451,22 @@
         "summary": "철강의 가치와 미래를 주제로 생성형 AI 기반 30초 이내 광고 영상을 모집하는 한국철강협회 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-22T19:00:00+09:00"
+      },
+      {
+        "title": "2026 디앤에이모터스 AI 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "디앤에이모터스",
+        "submission_start": "2026-07-20",
+        "submission_end": "2026-08-10",
+        "result_date": "미정",
+        "url": "https://www.kmnews.net/NEWS/?bmode=view&idx=172470339",
+        "source_type": "reference_link",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.kmnews.net/NEWS/?bmode=view&idx=172470339",
+        "evidence": "한국이륜차신문 참고 기사 기준 2026 디앤에이모터스 AI 공모전, 생성형 AI를 활용한 루미 AI 이미지 또는 AI 영상 제작, 접수 2026.07.20~08.10 명시.",
+        "summary": "신규 스쿠터 루미의 라이프스타일과 브랜드 세계관을 생성형 AI 이미지 또는 영상으로 표현하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-27T19:00:00+09:00"
       },
       {
         "title": "성북구도시관리공단 대표 AI 캐릭터 공모전",
@@ -1793,6 +1777,38 @@
         "summary": "층간소음 예방과 배려 문화를 주제로 60초 이내 세로형 AI 영상을 모집하는 한국환경보전원 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-07-25T19:00:00+09:00"
+      },
+      {
+        "title": "2026 한국전기안전공사 AI영상공모전",
+        "category": "AI 영상",
+        "organizer": "한국전기안전공사",
+        "submission_start": "2026-07-01",
+        "submission_end": "2026-07-26",
+        "result_date": "2026-08-05 예정",
+        "url": "https://www.facebook.com/kescomiri/posts/-ai%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%A0%84%EA%B8%B0%EC%95%88%EC%A0%84-%EC%9D%B4%EC%95%BC%EA%B8%B02026-%ED%95%9C%EA%B5%AD%EC%A0%84%EA%B8%B0%EC%95%88%EC%A0%84%EA%B3%B5%EC%82%AC-ai-%EC%98%81%EC%83%81-%EA%B3%B5%EB%AA%A8%EC%A0%84%EC%9D%B4-%EC%8B%9C%EC%9E%91%EB%90%A9%EB%8B%88%EB%8B%A4%EC%83%9D%EC%84%B1%ED%98%95-ai%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4%EC%A0%84%EA%B8%B0%EC%95%88%EC%A0%84%EC%9D%84-%EC%A3%BC%EC%A0%9C%EB%A1%9C-%ED%95%9C-%EC%98%81%EC%83%81%EC%9D%84-%EC%A0%9C%EC%9E%91%ED%95%B4-%EC%A3%BC%EC%84%B8/1434152095420080",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.code-c.kr/post/contest/542283?page=1&sortname=cl_order&sortorder=asc&t=1&ct=&sc=&tg=",
+        "evidence": "한국전기안전공사 공식 SNS와 참고 공고 기준 생성형 AI를 활용해 전기안전을 주제로 한 영상 제작, 공모기간 2026.07.01~07.26 23:59 명시.",
+        "summary": "전기안전을 주제로 생성형 AI 영상 콘텐츠를 제작해 제출하는 한국전기안전공사 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-07-27T19:00:00+09:00"
+      },
+      {
+        "title": "XCONDA 60 Awards Vol.1",
+        "category": "AI 영상",
+        "organizer": "XCONDA",
+        "submission_start": "2026-06-26",
+        "submission_end": "2026-07-26",
+        "result_date": "2026-08-03 예정",
+        "url": "https://onoffmix.com/event/345071",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://onoffmix.com/event/345071",
+        "evidence": "온오프믹스 행사 페이지와 XCONDA 공식 SNS 색인 기준 15~60초 AI 숏폼 영상, 접수 2026.06.26~07.26 23:59, 수상자 발표 2026.08.03 명시.",
+        "summary": "XCONDA 워크플로우를 활용한 15~60초 AI 숏폼 영상을 모집하는 AI 영상 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-07-27T19:00:00+09:00"
       }
     ]
   }
