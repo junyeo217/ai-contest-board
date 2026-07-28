@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:00:00+09:00",
+  "generated_at": "2026-07-28T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -659,6 +659,22 @@
         "summary": "한글의 아름다움과 문화다양성 가치를 생성형 AI 이미지와 AI 숏폼 영상으로 표현하는 창작 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-22T19:00:00+09:00"
+      },
+      {
+        "title": "에이즈 및 성매개감염병 제대로, 제로로 숏폼 영상 콘텐츠 공모전",
+        "category": "AI 영상",
+        "organizer": "질병관리청",
+        "submission_start": "2026-07-27",
+        "submission_end": "2026-08-30",
+        "result_date": "2026-11-04 예정",
+        "url": "https://www.kdca.go.kr/bbs/kdca/42/311949/artclView.do?layout=unknown",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.kdca.go.kr/bbs/kdca/42/311949/artclView.do?layout=unknown",
+        "evidence": "질병관리청 공식 보도자료 기준 공모 분야가 짧은영상(숏폼) 콘텐츠이며 생성형 인공지능 도구 기반의 AI 활용 영상 분야를 별도 운영한다고 명시.",
+        "summary": "에이즈 및 성매개감염병 예방과 인식 개선 메시지를 생성형 AI 활용 숏폼 영상으로 제작하는 청년층 대상 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-28T19:00:00+09:00"
       },
       {
         "title": "2026 미디어센터관악 생성형 AI 영상 콘텐츠 공모전 〈GAIFF〉",
