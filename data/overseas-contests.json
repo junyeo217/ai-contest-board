@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T07:00:00+09:00",
+  "generated_at": "2026-07-29T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,57 +37,6 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "Graphis AI Creative Awards 2026",
-        "category": "AI 이미지·영상",
-        "country": "International",
-        "organizer": "Graphis Inc.",
-        "submission_start": "2026-02-10",
-        "submission_end": "2026-07-28",
-        "result_date": "미정",
-        "url": "https://graphis.com/competition/ai-awards/info",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://graphis.com/competition/ai-awards/info",
-        "evidence": "Graphis 공식 AI Creative Awards 페이지에서 creative professionals and agencies worldwide 대상, AI-generated images와 visual storytelling, 디자이너와 AI의 협업을 기리는 공모전이라고 설명함. 공식 마감은 Early Bird 2026-04-07, Regular 2026-07-28, Final 2026-10-27이며 보드에는 현재 노출 중인 정규 마감을 기준으로 추적함.",
-        "summary": "전 세계 전문 크리에이터와 에이전시의 AI 기반 시각 스토리텔링, 디자인, 이미지, 영상 작업을 대상으로 하는 Graphis 공모전.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
-      },
-      {
-        "title": "AI International Film Festival 2026 – October Hollywood Edition",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "AI International Film Festival",
-        "submission_start": "2026-07-24",
-        "submission_end": "2026-08-21",
-        "result_date": "2026-08-27",
-        "url": "https://filmfreeway.com/AIinternationalFilmFestival",
-        "source_type": "official_apply_page",
-        "discovery_source": "manual",
-        "discovery_url": "https://filmfreeway.com/AIinternationalFilmFestival",
-        "evidence": "FilmFreeway 공식 접수 페이지가 2026-07-24 Opening Date, 2026-07-31 Earlybird Deadline, 2026-08-21 Regular Deadline, 2026-08-27 Notification Date, 2026-10-10 Event Date를 표시함. Best AI Film, Best AI Feature Film, Best AI Short Film, Best AI Vertical Short, Best AI Animation Short, Best Hybrid AI Short Film 등 AI 제작·AI 주제 영상 부문을 모집함.",
-        "summary": "AI International Film Festival의 2026년 10월 Hollywood 접수 사이클. AI 제작·AI 주제 영화와 영상 부문을 8월 21일까지 모집합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-28T07:00:00+09:00"
-      },
-      {
-        "title": "Adobe MAX 2026 Creativity Awards",
-        "category": "AI 디자인",
-        "country": "International",
-        "organizer": "Adobe",
-        "submission_start": "2026-06-09",
-        "submission_end": "2026-08-24",
-        "result_date": "2026-11-10",
-        "url": "https://max.adobe.com/creativity-awards/",
-        "source_type": "official_notice",
-        "discovery_source": "brave",
-        "discovery_url": "https://blog.adobe.com/en/publish/2026/06/18/adobe-max-2026-creativity-awards-here-are-categories-and-how-to-submit",
-        "evidence": "Adobe MAX Creativity Awards 공식 페이지에서 2026년 접수가 2026-06-09에 열리고 2026-08-24 23:59 PT에 마감된다고 확인함. Design, Image Making, Motion, Photography, Video 카테고리로 Adobe 도구 기반 창작 프로젝트를 접수하며, 공식 페이지는 honorees의 MAX 패스·항공·숙박 및 Adobe 플랫폼 공유 혜택을 안내함.",
-        "summary": "Adobe MAX 2026에서 Design, Image Making, Motion, Video 등 Adobe 도구 기반 창작 프로젝트를 시상하는 국제 공모. 공식 페이지 기준 8월 24일까지 접수.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-27T07:00:00+09:00"
-      },
       {
         "title": "Artiver AI Art Awards 2026",
         "category": "AI 이미지·영상",
@@ -189,6 +138,23 @@
         "summary": "Kling AI로 제작한 언캐니/초현실 미학 계열 AI 창작물을 제출하는 글로벌 공식 플랫폼 콘테스트. 8월 4일까지 접수합니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-20T07:00:00+09:00"
+      },
+      {
+        "title": "01 A.I. | New Media | Experimental | Digital Arts Film Festival 2026",
+        "category": "AI 영상",
+        "country": "United Kingdom",
+        "organizer": "01 A.I. | New Media | Experimental | Digital Arts Film Festival",
+        "submission_start": "2025-08-02",
+        "submission_end": "2026-08-06",
+        "result_date": "2026-09-24",
+        "url": "https://filmfreeway.com/01NFTNewMediaExpDigitalArtsFest",
+        "source_type": "official_apply_page",
+        "discovery_source": "brave/manual",
+        "discovery_url": "https://filmfreeway.com/01NFTNewMediaExpDigitalArtsFest",
+        "evidence": "FilmFreeway 공식 접수 페이지가 United Kingdom 소재 영화제로 A.I. | AI | Artificial Intelligence Film 부문을 운영하며, 해당 부문은 창작에 Artificial Intelligence를 주로 사용하는 단편 영화라고 설명함. 일정은 2025-08-02 Opening Date, 2026-08-06 Final Deadline, 2026-09-24 Notification Date, 2027-01-15 Event Date로 확인됨.",
+        "summary": "영국 기반 01 A.I. 영화제의 AI 단편 및 뉴미디어·디지털 아트 공모. AI를 주로 활용한 단편영화를 8월 6일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-29T07:00:00+09:00"
       },
       {
         "title": "CapCut CRE[AI]TE 2026 AI Festival",
@@ -327,6 +293,23 @@
         "source_checked_at": "2026-06-28T07:00:00+09:00"
       },
       {
+        "title": "AI International Film Festival 2026 – October Hollywood Edition",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "AI International Film Festival",
+        "submission_start": "2026-07-24",
+        "submission_end": "2026-08-21",
+        "result_date": "2026-08-27",
+        "url": "https://filmfreeway.com/AIinternationalFilmFestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "manual",
+        "discovery_url": "https://filmfreeway.com/AIinternationalFilmFestival",
+        "evidence": "FilmFreeway 공식 접수 페이지가 2026-07-24 Opening Date, 2026-07-31 Earlybird Deadline, 2026-08-21 Regular Deadline, 2026-08-27 Notification Date, 2026-10-10 Event Date를 표시함. Best AI Film, Best AI Feature Film, Best AI Short Film, Best AI Vertical Short, Best AI Animation Short, Best Hybrid AI Short Film 등 AI 제작·AI 주제 영상 부문을 모집함.",
+        "summary": "AI International Film Festival의 2026년 10월 Hollywood 접수 사이클. AI 제작·AI 주제 영화와 영상 부문을 8월 21일까지 모집합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-28T07:00:00+09:00"
+      },
+      {
         "title": "AI Film 3 - AI Film and Art Festival | Arizona | Year III",
         "category": "AI 영상",
         "country": "United States",
@@ -342,6 +325,23 @@
         "summary": "애리조나 피닉스에서 열리는 AI 영화·아트 페스티벌. AI 영상·뮤직비디오·실험 영상 등을 8월 22일까지 접수.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "Adobe MAX 2026 Creativity Awards",
+        "category": "AI 디자인",
+        "country": "International",
+        "organizer": "Adobe",
+        "submission_start": "2026-06-09",
+        "submission_end": "2026-08-24",
+        "result_date": "2026-11-10",
+        "url": "https://max.adobe.com/creativity-awards/",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://blog.adobe.com/en/publish/2026/06/18/adobe-max-2026-creativity-awards-here-are-categories-and-how-to-submit",
+        "evidence": "Adobe MAX Creativity Awards 공식 페이지에서 2026년 접수가 2026-06-09에 열리고 2026-08-24 23:59 PT에 마감된다고 확인함. Design, Image Making, Motion, Photography, Video 카테고리로 Adobe 도구 기반 창작 프로젝트를 접수하며, 공식 페이지는 honorees의 MAX 패스·항공·숙박 및 Adobe 플랫폼 공유 혜택을 안내함.",
+        "summary": "Adobe MAX 2026에서 Design, Image Making, Motion, Video 등 Adobe 도구 기반 창작 프로젝트를 시상하는 국제 공모. 공식 페이지 기준 8월 24일까지 접수.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-27T07:00:00+09:00"
       },
       {
         "title": "Higgsfield Adathon 2026",
@@ -361,6 +361,23 @@
         "source_checked_at": "2026-07-28T07:00:00+09:00"
       },
       {
+        "title": "BOCHNIA INTERNATIONAL AI FILM FESTIVAL 2026",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "MDK Bochnia / Urzad Miasta Bochnia / Pixel Frame Studio",
+        "submission_start": "2026-03-01",
+        "submission_end": "2026-08-27",
+        "result_date": "2026-09-05",
+        "url": "https://filmfreeway.com/BIAIFF2026",
+        "source_type": "official_apply_page",
+        "discovery_source": "brave/manual",
+        "discovery_url": "https://filmfreeway.com/BIAIFF2026",
+        "evidence": "FilmFreeway 공식 접수 페이지가 Bochnia International AI Film Festival을 AI를 창작 도구로 사용하는 국제 단편 영화 공모로 설명하고, Open to filmmakers worldwide, significant use of generative AI tools required, 2026-03-01 Opening Date, 2026-08-27 Extended Deadline, 2026-09-05 Notification Date, 2026-09-17 Event Date를 표시함.",
+        "summary": "전 세계 창작자를 대상으로 생성형 AI를 의미 있게 활용한 1~10분 AI 단편영화를 모집하는 폴란드 Bochnia 기반 국제 AI 영화제.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-29T07:00:00+09:00"
+      },
+      {
         "title": "AI Media Award 2026",
         "category": "AI 영상",
         "country": "International",
@@ -376,6 +393,23 @@
         "summary": "AI가 핵심적으로 쓰인 5분 이하 광고·미디어·브랜드 영상 등 AI 기반 숏폼 영상 작품을 접수하는 국제 어워드.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "Marbella International Film Festival 2026 – AI & Digital Contents Competition",
+        "category": "AI 콘텐츠",
+        "country": "International",
+        "organizer": "Marbella International Film Festival / New World Trust",
+        "submission_start": "2026-01-16",
+        "submission_end": "2026-08-31",
+        "result_date": "2026-09-15",
+        "url": "https://filmfreeway.com/MarbellaInternationalFilmFestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "brave/manual",
+        "discovery_url": "https://filmfreeway.com/MarbellaInternationalFilmFestival",
+        "evidence": "FilmFreeway 공식 접수 페이지가 2026 MIFF의 AI & Digital section과 AI & Digital contents competition을 공지하고, Best AI generated film 및 AI content created 부문을 운영한다고 명시함. 일정은 2026-01-16 Opening Date, 2026-08-31 Extended Deadline, 2026-09-15 Notification Date, 2026-10-07~12 Event Date로 확인됨.",
+        "summary": "Marbella International Film Festival의 AI & Digital Contents Competition. AI 생성 영화와 디지털 AI 창작물을 8월 31일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-29T07:00:00+09:00"
       },
       {
         "title": "Neu Wave AI Film Festival 2026",
@@ -565,6 +599,23 @@
         "source_checked_at": "2026-07-08T07:00:00+09:00"
       },
       {
+        "title": "Graphis AI Creative Awards 2026",
+        "category": "AI 이미지·영상",
+        "country": "International",
+        "organizer": "Graphis Inc.",
+        "submission_start": "2026-02-10",
+        "submission_end": "2026-10-27",
+        "result_date": "미정",
+        "url": "https://graphis.com/competition/ai-awards/info",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://graphis.com/competition/ai-awards/info",
+        "evidence": "Graphis 공식 AI Creative Awards 페이지에서 creative professionals and agencies worldwide 대상, AI-generated images와 visual storytelling, 디자이너와 AI의 협업을 기리는 공모전이라고 설명함. 공식 마감은 Early Bird 2026-04-07, Regular 2026-07-28, Final 2026-10-27로 확인되어 정규 마감 이후 최종 마감 기준으로 보정함.",
+        "summary": "전 세계 전문 크리에이터와 에이전시의 AI 기반 시각 스토리텔링, 디자인, 이미지, 영상 작업을 대상으로 하는 Graphis 공모전. 최종 마감 기준 10월 27일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-07-29T07:00:00+09:00"
+      },
+      {
         "title": "AI Creativity Awards 2026",
         "category": "AI 이미지·영상",
         "country": "International",
@@ -685,23 +736,6 @@
       }
     ],
     "awaiting_results": [
-      {
-        "title": "Kling AI Stadium Cheer Challenge",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "Kling AI",
-        "submission_start": "2026-06-12",
-        "submission_end": "2026-07-26",
-        "result_date": "미정",
-        "url": "https://kling.ai/app/activity-zone?id=894402033980153949&from=home&ac=2",
-        "source_type": "official_platform",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://kling.ai/app/activity-zone?id=894402033980153949&from=home&ac=2",
-        "evidence": "Kling AI 공식 activity-zone 검색 본문에서 Stadium Cheer Challenge가 확인되며 Event Duration 2026-06-12 06:30:00 시작 및 Submission: June 12, 2026 - July 26, 2026로 표시됨. 제출 콘텐츠는 primarily generated using Kling AI 조건으로 안내되어 공식 플랫폼 AI 영상 창작 챌린지 기준을 충족함.",
-        "summary": "Kling AI로 제작한 경기장 응원/치어 계열 AI 영상을 제출하는 글로벌 공식 플랫폼 챌린지. 2026년 7월 26일 접수가 마감되어 발표를 기다립니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-27T07:00:00+09:00"
-      },
       {
         "title": "Runway AIF 2026 – AI Festival",
         "category": "AI 이미지·영상",
@@ -922,6 +956,23 @@
         "summary": "생성형 AI를 활용한 AI 영화·콘텐츠 공모전. 국적 제한 없이 접수되었으며, 접수 마감 후 결과 발표를 기다립니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-07-14T07:00:00+09:00"
+      },
+      {
+        "title": "Kling AI Stadium Cheer Challenge",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Kling AI",
+        "submission_start": "2026-06-12",
+        "submission_end": "2026-07-26",
+        "result_date": "미정",
+        "url": "https://kling.ai/app/activity-zone?id=894402033980153949&from=home&ac=2",
+        "source_type": "official_platform",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://kling.ai/app/activity-zone?id=894402033980153949&from=home&ac=2",
+        "evidence": "Kling AI 공식 activity-zone 검색 본문에서 Stadium Cheer Challenge가 확인되며 Event Duration 2026-06-12 06:30:00 시작 및 Submission: June 12, 2026 - July 26, 2026로 표시됨. 제출 콘텐츠는 primarily generated using Kling AI 조건으로 안내되어 공식 플랫폼 AI 영상 창작 챌린지 기준을 충족함.",
+        "summary": "Kling AI로 제작한 경기장 응원/치어 계열 AI 영상을 제출하는 글로벌 공식 플랫폼 챌린지. 2026년 7월 26일 접수가 마감되어 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-07-27T07:00:00+09:00"
       }
     ]
   },
