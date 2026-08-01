@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T07:00:00+09:00",
+  "generated_at": "2026-08-02T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -53,23 +53,6 @@
         "summary": "AI 뮤직비디오 공모전의 세계관을 표현하는 15~30초 생성형 AI 티저 영상 공개 모집.",
         "status": "진행중",
         "source_checked_at": "2026-07-30T07:00:00+09:00"
-      },
-      {
-        "title": "The Seattle AI Film Festival 2026",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "Seattle AI Film Festival",
-        "submission_start": "2026-01-15",
-        "submission_end": "2026-08-01",
-        "result_date": "2026-08-08",
-        "url": "https://filmfreeway.com/SeattleAIFilmFestival",
-        "source_type": "official_apply_page",
-        "discovery_source": "manual",
-        "discovery_url": "https://filmfreeway.com/SeattleAIFilmFestival",
-        "evidence": "FilmFreeway 공식 접수 페이지가 The Seattle AI Film Festival을 Artificial Intelligence로 구현한 시각 스토리텔링 영화제로 설명하고, AI가 창작 파이프라인에 의미 있게 포함되어야 하며 사용 도구와 워크플로를 제출해야 한다고 안내함. 일정은 2026-01-15 Opening Date, 2026-06-01 Earlybird Deadline, 2026-07-10 Regular Deadline, 2026-08-01 Late Deadline, 2026-08-08 Notification Date, 2026-08-29~30 Event Date로 확인됨.",
-        "summary": "AI 기반 서사·논픽션·실험 영상과 AI 애니메이션 등을 모집하는 미국 시애틀 AI 영화제.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-28T07:00:00+09:00"
       },
       {
         "title": "2026 National AI-Generated Content (AIGC) Video Challenge",
@@ -719,6 +702,23 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "The Seattle AI Film Festival 2026",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "Seattle AI Film Festival",
+        "submission_start": "2026-01-15",
+        "submission_end": "2026-08-01",
+        "result_date": "2026-08-08",
+        "url": "https://filmfreeway.com/SeattleAIFilmFestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "manual",
+        "discovery_url": "https://filmfreeway.com/SeattleAIFilmFestival",
+        "evidence": "FilmFreeway 공식 접수 페이지가 The Seattle AI Film Festival을 Artificial Intelligence로 구현한 시각 스토리텔링 영화제로 설명하고, AI가 창작 파이프라인에 의미 있게 포함되어야 하며 사용 도구와 워크플로를 제출해야 한다고 안내함. 일정은 2026-01-15 Opening Date, 2026-06-01 Earlybird Deadline, 2026-07-10 Regular Deadline, 2026-08-01 Late Deadline, 2026-08-08 Notification Date, 2026-08-29~30 Event Date로 확인됨.",
+        "summary": "AI 기반 서사·논픽션·실험 영상과 AI 애니메이션 등을 모집하는 미국 시애틀 AI 영화제.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-02T07:00:00+09:00"
+      },
       {
         "title": "Artiver AI Art Awards 2026",
         "category": "AI 이미지·영상",
