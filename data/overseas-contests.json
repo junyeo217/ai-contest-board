@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T07:00:00+09:00",
+  "generated_at": "2026-08-05T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,40 +37,6 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "「はじまりの予告編」ティザーPV募集",
-        "category": "AI 영상",
-        "country": "Japan",
-        "organizer": "ぬのきおく制作委員会 / Koromo Lab.",
-        "submission_start": "2026-07-16",
-        "submission_end": "2026-08-04",
-        "result_date": "미정",
-        "url": "https://koromolab.site/teaser-pv.html",
-        "source_type": "official_notice",
-        "discovery_source": "brave",
-        "discovery_url": "https://www.value-press.com/pressrelease/377754",
-        "evidence": "공식 모집 페이지가 2026-07-16부터 2026-08-04까지 15~30초 세로형 티저 PV를 모집한다고 명시함. 생성형 AI 영상·이미지·음악 및 편집 도구를 자유롭게 사용할 수 있고, 지정 해시태그로 SNS에 게시한 뒤 공식 응모 폼에 제출하도록 안내함.",
-        "summary": "AI 뮤직비디오 공모전의 세계관을 표현하는 15~30초 생성형 AI 티저 영상 공개 모집.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-30T07:00:00+09:00"
-      },
-      {
-        "title": "Kling AI Uncanny Aesthetics Contest",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "Kling AI",
-        "submission_start": "2026-07-08",
-        "submission_end": "2026-08-04",
-        "result_date": "미정",
-        "url": "https://kling.ai/app/activity-zone?id=903727936003113056&ac=2&r=201&rid=315471618653521",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://kling.ai/app/activity-zone?id=903727936003113056&ac=2&r=201&rid=315471618653521",
-        "evidence": "Kling AI 공식 activity-zone 검색 본문에서 Uncanny Aesthetics Contest가 확인되며 Event Duration 2026-07-08 03:00:00~2026-08-04 및 Submission: July 8, 2026 - August 4, 2026로 표시됨. 제출 콘텐츠는 primarily generated using Kling AI 조건으로 안내되어 공식 플랫폼 AI 창작 챌린지 기준을 충족함.",
-        "summary": "Kling AI로 제작한 언캐니/초현실 미학 계열 AI 창작물을 제출하는 글로벌 공식 플랫폼 콘테스트. 8월 4일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-20T07:00:00+09:00"
-      },
       {
         "title": "01 A.I. | New Media | Experimental | Digital Arts Film Festival 2026",
         "category": "AI 영상",
@@ -668,6 +634,40 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "「はじまりの予告編」ティザーPV募集",
+        "category": "AI 영상",
+        "country": "Japan",
+        "organizer": "ぬのきおく制作委員会 / Koromo Lab.",
+        "submission_start": "2026-07-16",
+        "submission_end": "2026-08-04",
+        "result_date": "미정",
+        "url": "https://koromolab.site/teaser-pv.html",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.value-press.com/pressrelease/377754",
+        "evidence": "공식 모집 페이지가 2026-07-16부터 2026-08-04까지 15~30초 세로형 티저 PV를 모집한다고 명시함. 생성형 AI 영상·이미지·음악 및 편집 도구를 자유롭게 사용할 수 있고, 지정 해시태그로 SNS에 게시한 뒤 공식 응모 폼에 제출하도록 안내함.",
+        "summary": "AI 뮤직비디오 공모전의 세계관을 표현하는 15~30초 생성형 AI 티저 영상 공개 모집.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-05T07:00:00+09:00"
+      },
+      {
+        "title": "Kling AI Uncanny Aesthetics Contest",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Kling AI",
+        "submission_start": "2026-07-08",
+        "submission_end": "2026-08-04",
+        "result_date": "미정",
+        "url": "https://kling.ai/app/activity-zone?id=903727936003113056&ac=2&r=201&rid=315471618653521",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://kling.ai/app/activity-zone?id=903727936003113056&ac=2&r=201&rid=315471618653521",
+        "evidence": "Kling AI 공식 activity-zone 검색 본문에서 Uncanny Aesthetics Contest가 확인되며 Event Duration 2026-07-08 03:00:00~2026-08-04 및 Submission: July 8, 2026 - August 4, 2026로 표시됨. 제출 콘텐츠는 primarily generated using Kling AI 조건으로 안내되어 공식 플랫폼 AI 창작 챌린지 기준을 충족함.",
+        "summary": "Kling AI로 제작한 언캐니/초현실 미학 계열 AI 창작물을 제출하는 글로벌 공식 플랫폼 콘테스트. 8월 4일까지 접수합니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-05T07:00:00+09:00"
+      },
       {
         "title": "2026 National AI-Generated Content (AIGC) Video Challenge",
         "category": "AI 영상",
