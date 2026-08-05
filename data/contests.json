@@ -1,9 +1,74 @@
 {
-  "generated_at": "2026-08-04T19:00:00+09:00",
+  "generated_at": "2026-08-05T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [],
+    "starting_today": [
+      {
+        "title": "2026 한글대전 한글 국제 AI 영상공모전",
+        "category": "AI 영상",
+        "organizer": "세종특별자치시·세종시문화관광재단",
+        "submission_start": "2026-08-05",
+        "submission_end": "2026-09-01",
+        "result_date": "2026-10-10 예정",
+        "url": "https://www.sejong.go.kr/bbs/R0079/view.do?nttId=B000000159194Em1sT6z&mno=sub02_0401&cmsNoStr=&pageIndex=1&kind=",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.mokpo.ac.kr/bbs/www/148/173248/artclView.do?layout=unknown",
+        "evidence": "세종시 공식 공고에 생성형 인공지능으로 제작한 3~5분 영상 출품 명시",
+        "summary": "한글의 가치와 미래 가능성을 생성형 AI 영상으로 표현하는 국제 공모전",
+        "status": "오늘 추가",
+        "source_checked_at": "2026-08-05T19:00:00+09:00"
+      }
+    ],
     "ongoing": [
+      {
+        "title": "2026 HACCP AI 콘텐츠 공모전",
+        "category": "AI 영상",
+        "organizer": "한국식품안전관리인증원",
+        "submission_start": "2026-08-03",
+        "submission_end": "2026-08-30",
+        "result_date": "미정",
+        "url": "https://www.facebook.com/mfds/posts/event-haccp-ai-%EC%BD%98%ED%85%90%EC%B8%A0-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%86%8C%EB%AC%B8%EB%82%B4%EA%B8%B0-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B0%9C%EC%B5%9Chaccp-ai-%EC%BD%98%ED%85%90%EC%B8%A0-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%86%8C%EB%AC%B8%EB%82%B4%EA%B8%B0-%EC%9D%B4%EB%B2%A4%ED%8A%B8-ai%EB%A1%9C-%EA%B7%B8%EB%A6%AC%EB%8A%94-%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC%EC%9D%B8%EC%A6%9D%EA%B8%B0%EC%A4%80%EC%9D%98-%EB%B0%9C%EC%A0%84/1462223105935892",
+        "source_type": "official_platform",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.k-health.com/news/articleView.html?idxno=100464",
+        "evidence": "식약처 공식 안내와 주최기관 공고에 생성형 AI를 활용한 HACCP 홍보 영상 콘텐츠 명시",
+        "summary": "HACCP의 발전과 가치를 생성형 AI 영상으로 알리는 대국민 콘텐츠 공모전",
+        "status": "진행중",
+        "source_checked_at": "2026-08-05T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 성평등 AI 콘텐츠 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "충북여성재단",
+        "submission_start": "2026-07-29",
+        "submission_end": "2026-08-21",
+        "result_date": "2026-08-31 예정",
+        "url": "https://www.cbwf.re.kr/home/sub.php?menukey=454&mod=view&no=1001673&scode=99999999",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.cheongju.go.kr/www/index.do",
+        "evidence": "공식 공고의 공모분야에 AI 이미지형 콘텐츠·카드뉴스·영상 콘텐츠 명시",
+        "summary": "AI를 활용해 일상 속 성평등 가치를 확산하는 이미지·카드뉴스·영상 공모전",
+        "status": "진행중",
+        "source_checked_at": "2026-08-05T19:00:00+09:00"
+      },
+      {
+        "title": "경기도 청소년 뻔뻔한(FunFun) AI 영상전",
+        "category": "AI 영상",
+        "organizer": "경기도경제과학진흥원·블루커뮤니케이션",
+        "submission_start": "2026-08-03",
+        "submission_end": "2026-08-18",
+        "result_date": "2026-09-05 예정",
+        "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608030023",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608030023",
+        "evidence": "공모 안내 본문에 생성형 AI 기술을 활용한 1분 MP4 영상 제출 명시",
+        "summary": "경기도 중·고교 재학생 및 동연령 청소년 대상 생성형 AI 1분 영상 공모전",
+        "status": "진행중",
+        "source_checked_at": "2026-08-05T19:00:00+09:00"
+      },
       {
         "title": "2026 서초 AI 페스타 캐릭터 창작 공모전",
         "category": "AI 디자인",
