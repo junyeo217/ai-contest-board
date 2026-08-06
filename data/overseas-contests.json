@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T07:00:00+09:00",
+  "generated_at": "2026-08-07T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,23 +37,6 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "01 A.I. | New Media | Experimental | Digital Arts Film Festival 2026",
-        "category": "AI 영상",
-        "country": "United Kingdom",
-        "organizer": "01 A.I. | New Media | Experimental | Digital Arts Film Festival",
-        "submission_start": "2025-08-02",
-        "submission_end": "2026-08-06",
-        "result_date": "2026-09-24",
-        "url": "https://filmfreeway.com/01NFTNewMediaExpDigitalArtsFest",
-        "source_type": "official_apply_page",
-        "discovery_source": "brave/manual",
-        "discovery_url": "https://filmfreeway.com/01NFTNewMediaExpDigitalArtsFest",
-        "evidence": "FilmFreeway 공식 접수 페이지가 United Kingdom 소재 영화제로 A.I. | AI | Artificial Intelligence Film 부문을 운영하며, 해당 부문은 창작에 Artificial Intelligence를 주로 사용하는 단편 영화라고 설명함. 일정은 2025-08-02 Opening Date, 2026-08-06 Final Deadline, 2026-09-24 Notification Date, 2027-01-15 Event Date로 확인됨.",
-        "summary": "영국 기반 01 A.I. 영화제의 AI 단편 및 뉴미디어·디지털 아트 공모. AI를 주로 활용한 단편영화를 8월 6일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-29T07:00:00+09:00"
-      },
       {
         "title": "CapCut CRE[AI]TE 2026 AI Festival",
         "category": "AI 이미지·영상",
@@ -128,16 +111,67 @@
         "country": "International",
         "organizer": "Astana AI Film Festival",
         "submission_start": "2026-05-24",
-        "submission_end": "2026-08-15",
+        "submission_end": "2026-08-31",
         "result_date": "2026-09-15",
         "url": "https://aaiff.ai/",
         "source_type": "official_homepage",
         "discovery_source": "tavily",
         "discovery_url": "https://www.gov.kz/memleket/entities/mfa-seoul/press/news/details/1229303?lang=en",
-        "evidence": "공식 AAIFF 홈페이지가 Astana AI Film Festival을 AI로 제작된 영화 전용 국제 영화제로 설명하고, Open call 2026-05-24~2026-08-15 및 Astana 개최 일정을 표시함. Tavily로 확인한 정부 공지 역시 전 세계 창작자 대상 국제 AI 영화 공모이며 2026-08-15까지 제출 가능하다고 안내함.",
-        "summary": "AI로 제작된 영화를 모집하는 아스타나 국제 AI 영화제. 8월 15일까지 무료 접수.",
+        "evidence": "공식 AAIFF 홈페이지가 Astana AI Film Festival을 AI로 제작된 영화 전용 국제 영화제로 설명하고, 전 세계 창작자를 대상으로 접수를 운영한다고 명시함. 2026-08-07 재확인 시 공식 홈페이지의 최신 안내가 submissions close on 31 August 2026으로 표시되어 마감일을 2026-08-31로 보정함.",
+        "summary": "AI로 제작된 영화를 모집하는 아스타나 국제 AI 영화제. 공식 연장 안내에 따라 8월 31일까지 무료 접수.",
         "status": "진행중",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
+        "source_checked_at": "2026-08-07T07:00:00+09:00"
+      },
+      {
+        "title": "제5회 AI Art Grand Prix",
+        "category": "AI 이미지·영상",
+        "country": "Japan",
+        "organizer": "AI Art Grand Prix Executive Committee",
+        "submission_start": "2026-08-01",
+        "submission_end": "2026-09-15",
+        "result_date": "2026-11-07",
+        "url": "https://www.aiartgrandprix.com/aitemu-1/05aiartgp",
+        "source_type": "official_notice",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://www.aiartgrandprix.com/aitemu-1/05aiartgp",
+        "evidence": "AI Art Grand Prix 공식 공지가 제5회 행사의 작품 주제를 '조화'로 안내하고, AI를 활용해 인간의 예술적 창의성을 확장한 아트 작품을 모집한다고 설명함. 공식 일정은 2026-08-01~2026-09-15 작품 접수, 2026-11-07 그랑프리 발표로 확인됨.",
+        "summary": "AI를 활용한 이미지·영상 등 아트 작품을 모집하는 일본 AI 아트 공모전. '조화'를 주제로 9월 15일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-07T07:00:00+09:00"
+      },
+      {
+        "title": "My Style vintage Generative AI Contest 2026",
+        "category": "AI 이미지·영상",
+        "country": "Japan",
+        "organizer": "CEL Corporation",
+        "submission_start": "2026-07-22",
+        "submission_end": "2026-08-10",
+        "result_date": "미정",
+        "url": "https://www.cel-co.com/news/7241/",
+        "source_type": "official_notice",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://prtimes.jp/main/html/rd/p/000000044.000008127.html",
+        "evidence": "CEL Corporation 공식 공지가 실제 건물 My Style vintage Asagaya-Kita의 외관 이미지와 로고를 바탕으로 생성형 AI를 활용한 이미지 또는 영상 작품을 모집한다고 안내함. 공식 공지와 주최사 보도자료에서 접수 기간 2026-07-22~2026-08-10을 확인함.",
+        "summary": "실제 건물 외관과 로고를 생성형 AI로 재해석한 이미지·영상 작품을 모집하는 일본 공모전. 8월 10일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-07T07:00:00+09:00"
+      },
+      {
+        "title": "Artiver AI Art Awards 2026",
+        "category": "AI 이미지·영상",
+        "country": "United States",
+        "organizer": "Artiver",
+        "submission_start": "2026-06-02",
+        "submission_end": "2026-08-31",
+        "result_date": "2026-09-15",
+        "url": "https://filmfreeway.com/ArtiverAIArtAwards",
+        "source_type": "official_apply_page",
+        "discovery_source": "tavily/manual",
+        "discovery_url": "https://www.instagram.com/p/Dbi6mCMFUsc",
+        "evidence": "FilmFreeway 공식 접수 페이지가 AI-powered creativity 국제 공모로 Film & Video, Image & Visual Art, Spatial & Architecture, Interactive Media 분야를 모집한다고 명시함. Artiver 공식 소셜 공지에서 모든 카테고리의 접수 마감이 2026-07-31에서 2026-08-31로 연장됐음을 재확인함.",
+        "summary": "AI 기반 영상, 이미지, 비주얼 아트, 인터랙티브 미디어를 모집하는 뉴욕 기반 국제 AI 아트 어워드. 연장된 마감일은 8월 31일입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-07T07:00:00+09:00"
       },
       {
         "title": "Austin AI Film Festival 2026",
@@ -635,6 +669,23 @@
     ],
     "awaiting_results": [
       {
+        "title": "01 A.I. | New Media | Experimental | Digital Arts Film Festival 2026",
+        "category": "AI 영상",
+        "country": "United Kingdom",
+        "organizer": "01 A.I. | New Media | Experimental | Digital Arts Film Festival",
+        "submission_start": "2025-08-02",
+        "submission_end": "2026-08-06",
+        "result_date": "2026-09-24",
+        "url": "https://filmfreeway.com/01NFTNewMediaExpDigitalArtsFest",
+        "source_type": "official_apply_page",
+        "discovery_source": "brave/manual",
+        "discovery_url": "https://filmfreeway.com/01NFTNewMediaExpDigitalArtsFest",
+        "evidence": "FilmFreeway 공식 접수 페이지가 United Kingdom 소재 영화제로 A.I. | AI | Artificial Intelligence Film 부문을 운영하며, 해당 부문은 창작에 Artificial Intelligence를 주로 사용하는 단편 영화라고 설명함. 일정은 2025-08-02 Opening Date, 2026-08-06 Final Deadline, 2026-09-24 Notification Date, 2027-01-15 Event Date로 확인됨.",
+        "summary": "영국 기반 01 A.I. 영화제의 AI 단편 및 뉴미디어·디지털 아트 공모. 접수 마감 후 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-07T07:00:00+09:00"
+      },
+      {
         "title": "「はじまりの予告編」ティザーPV募集",
         "category": "AI 영상",
         "country": "Japan",
@@ -718,23 +769,6 @@
         "summary": "AI 기반 서사·논픽션·실험 영상과 AI 애니메이션 등을 모집하는 미국 시애틀 AI 영화제.",
         "status": "발표 대기",
         "source_checked_at": "2026-08-02T07:00:00+09:00"
-      },
-      {
-        "title": "Artiver AI Art Awards 2026",
-        "category": "AI 이미지·영상",
-        "country": "United States",
-        "organizer": "Artiver",
-        "submission_start": "2026-06-02",
-        "submission_end": "2026-07-31",
-        "result_date": "2026-09-15",
-        "url": "https://filmfreeway.com/ArtiverAIArtAwards",
-        "source_type": "official_apply_page",
-        "discovery_source": "manual",
-        "discovery_url": "https://filmfreeway.com/ArtiverAIArtAwards",
-        "evidence": "FilmFreeway 공식 접수 페이지가 Artiver AI Art Awards 2026을 AI-powered creativity 국제 공모로 소개하며 Film & Video, Image & Visual Art, Spatial & Architecture, Interactive Media 분야를 모집한다고 명시함. 접수 일정은 2026-06-02 Opening Date, 2026-07-31 Regular Deadline, 2026-09-15 Notification Date, 2026-10-15~16 Event Date로 확인됨. 참가 자격은 전 세계 18세 이상 창작자, 팀, 스튜디오로 안내됨.",
-        "summary": "AI 기반 영상, 이미지, 비주얼 아트, 인터랙티브 미디어를 모집하는 뉴욕 기반 국제 AI 아트 어워드.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-08-01T07:00:00+09:00"
       },
       {
         "title": "Runway Another Big Ad Contest Vol. II",
