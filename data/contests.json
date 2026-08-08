@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-07T19:00:00+09:00",
+  "generated_at": "2026-08-08T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "2026 켑코이에스 AI 활용 홍보영상 제작 공모전",
+        "category": "AI 영상",
+        "organizer": "켑코이에스",
+        "submission_start": "2026-08-04",
+        "submission_end": "2026-09-03",
+        "result_date": "미정",
+        "url": "https://kepcoes.co.kr/support/notice.asp?state=view&idx=1412",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.instagram.com/p/DbuLwU0E1Yx",
+        "evidence": "켑코이에스 공식 공지와 공모 안내 이미지에 생성형 AI 활용 홍보영상, 1~3분 영상 규격 및 2026.08.04~09.03 공모기간 명시.",
+        "summary": "켑코이에스와 에너지효율화사업을 알리는 생성형 AI 기반 홍보영상을 모집하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-08T19:00:00+09:00"
+      },
       {
         "title": "AI로 알리는 기초연금 홍보 콘텐츠 공모전",
         "category": "AI 이미지·영상",
@@ -131,22 +147,6 @@
         "summary": "AI 기술을 전부 또는 일부 활용한 영화를 모집하는 국제 비경쟁 영화제 출품 공모입니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-30T19:00:00+09:00"
-      },
-      {
-        "title": "K-Heritage Media Art Shinsegae Square Awards",
-        "category": "AI 영상",
-        "organizer": "신세계스퀘어 / 국가유산청",
-        "submission_start": "2026-06-15",
-        "submission_end": "2026-08-07",
-        "result_date": "미정",
-        "url": "https://contest.vido.gallery/contests/ssq-2026",
-        "source_type": "official_platform",
-        "discovery_source": "brave/crowlly_auxiliary",
-        "discovery_url": "https://crowlly.xyz/competitions/shinsegae-square-awards-2026",
-        "evidence": "공식 홈페이지와 VIDO 접수 페이지 기준 국가유산청 디지털 데이터를 활용한 30~90초 미디어아트 및 MP4 영상 제출, AI 기반 콘텐츠 제작 관심자 참가 가능 문구 확인.",
-        "summary": "세종대왕과 K-Heritage를 소재로 신세계스퀘어 미디어파사드 송출용 미디어아트 영상을 제작하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-29T19:00:00+09:00"
       },
       {
         "title": "2026년 지진안전 AI 영상 공모전",
@@ -646,6 +646,22 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "K-Heritage Media Art Shinsegae Square Awards",
+        "category": "AI 영상",
+        "organizer": "신세계스퀘어 / 국가유산청",
+        "submission_start": "2026-06-15",
+        "submission_end": "2026-08-07",
+        "result_date": "미정",
+        "url": "https://contest.vido.gallery/contests/ssq-2026",
+        "source_type": "official_platform",
+        "discovery_source": "brave/crowlly_auxiliary",
+        "discovery_url": "https://crowlly.xyz/competitions/shinsegae-square-awards-2026",
+        "evidence": "공식 홈페이지와 VIDO 접수 페이지 기준 국가유산청 디지털 데이터를 활용한 30~90초 미디어아트 및 MP4 영상 제출, AI 기반 콘텐츠 제작 관심자 참가 가능 문구 확인.",
+        "summary": "세종대왕과 K-Heritage를 소재로 신세계스퀘어 미디어파사드 송출용 미디어아트 영상을 제작하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-08T19:00:00+09:00"
+      },
       {
         "title": "2026 사천 에어쇼와 함께하는 90초 우주항공 AI 영화제",
         "category": "AI 영상",
