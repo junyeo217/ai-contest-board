@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:00:00+09:00",
+  "generated_at": "2026-08-09T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -771,23 +771,6 @@
         "source_checked_at": "2026-08-04T07:00:00+09:00"
       },
       {
-        "title": "The Seattle AI Film Festival 2026",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "Seattle AI Film Festival",
-        "submission_start": "2026-01-15",
-        "submission_end": "2026-08-01",
-        "result_date": "2026-08-08",
-        "url": "https://filmfreeway.com/SeattleAIFilmFestival",
-        "source_type": "official_apply_page",
-        "discovery_source": "manual",
-        "discovery_url": "https://filmfreeway.com/SeattleAIFilmFestival",
-        "evidence": "FilmFreeway 공식 접수 페이지가 The Seattle AI Film Festival을 Artificial Intelligence로 구현한 시각 스토리텔링 영화제로 설명하고, AI가 창작 파이프라인에 의미 있게 포함되어야 하며 사용 도구와 워크플로를 제출해야 한다고 안내함. 일정은 2026-01-15 Opening Date, 2026-06-01 Earlybird Deadline, 2026-07-10 Regular Deadline, 2026-08-01 Late Deadline, 2026-08-08 Notification Date, 2026-08-29~30 Event Date로 확인됨.",
-        "summary": "AI 기반 서사·논픽션·실험 영상과 AI 애니메이션 등을 모집하는 미국 시애틀 AI 영화제.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-08-02T07:00:00+09:00"
-      },
-      {
         "title": "Runway Another Big Ad Contest Vol. II",
         "category": "AI 영상",
         "country": "International",
@@ -803,23 +786,6 @@
         "summary": "Runway로 15~30초 AI 생성 spec ad를 제작해 제출하는 국제 광고 영상 콘테스트. 최대 10만 달러 규모의 상금을 내걸고 7월 31일까지 접수합니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-08-01T07:00:00+09:00"
-      },
-      {
-        "title": "Flova Brandstorm AI Advertising Creative Challenge",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "Flova.ai",
-        "submission_start": "2026-07-16",
-        "submission_end": "2026-07-30",
-        "result_date": "2026-08-06",
-        "url": "https://www.flova.ai/en/activity/activity-ai-challenge/",
-        "source_type": "official_platform",
-        "discovery_source": "brave",
-        "discovery_url": "https://www.flova.ai/en/activity/activity-ai-challenge/",
-        "evidence": "Flova.ai 공식 챌린지 페이지가 AI 광고 크리에이티브 영상을 모집하며 접수 기간 2026-07-16~2026-07-30, 심사 2026-07-30~2026-08-05, 수상 발표 2026-08-06을 명시함. 핵심 비주얼과 주요 콘텐츠를 Flova.ai로 제작하도록 요구하며 전 세계 공개 SNS 제출 방식을 안내함.",
-        "summary": "Flova.ai로 제작한 45초 이상의 AI 광고 영상을 모집한 글로벌 플랫폼 챌린지로, 접수 종료 후 결과 발표를 기다리는 상태입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-31T07:00:00+09:00"
       },
       {
         "title": "K-CULTURE AI International Film Festival 2026",
