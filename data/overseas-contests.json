@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:00:00+09:00",
+  "generated_at": "2026-08-12T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,6 +37,23 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "AKOOL Creator Clash 2026",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "AKOOL",
+        "submission_start": "2026-07-21",
+        "submission_end": "2026-09-15",
+        "result_date": "2026-09-30",
+        "url": "https://akool.com/creator-clash",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.prnewswire.com/news-releases/the-future-of-ai-storytelling-belongs-to-creators-akool-launches-global-competition-with-300-000-in-creator-rewards-302830264.html",
+        "evidence": "AKOOL 공식 Creator Clash 페이지와 2026-07-21 공식 발표가 전 세계 창작자를 대상으로 AKOOL의 Seedance 2를 사용한 원본 영상을 모집한다고 명시함. 참가자는 영상을 소셜 플랫폼에 게시한 뒤 제출하며, 접수 마감은 2026-09-15, 수상자 발표는 2026-09-30으로 확인됨.",
+        "summary": "AKOOL의 Seedance 2로 제작한 원본 AI 영상을 모집하는 글로벌 크리에이터 챌린지. 9월 15일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-12T07:00:00+09:00"
+      },
       {
         "title": "Reel Futures: Student AI Film Shorts Competition 2026",
         "category": "AI 영상",
