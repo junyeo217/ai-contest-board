@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-10T19:00:00+09:00",
+  "generated_at": "2026-08-11T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "제1회 AI 이미지 챌린지",
+        "category": "AI 이미지",
+        "organizer": "서울AI재단·전자신문·한국사진기자협회",
+        "submission_start": "2026-08-01",
+        "submission_end": "2026-09-07",
+        "result_date": "심사 후 개별 통지",
+        "url": "https://www.etnews.com/20260807000086",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.etnews.com/20260807000086",
+        "evidence": "공동 주최사 안내에 직접 촬영한 사진을 생성형 AI 도구로 미래지향적 이미지로 제작해 출품하며 접수 기간은 2026.08.01~09.07이라고 명시.",
+        "summary": "직접 촬영한 사진을 생성형 AI로 재해석해 미래 도시 이미지를 제작하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-11T19:00:00+09:00"
+      },
       {
         "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
         "category": "AI 이미지·영상",
@@ -163,22 +179,6 @@
         "summary": "AI 기술을 전부 또는 일부 활용한 영화를 모집하는 국제 비경쟁 영화제 출품 공모입니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-30T19:00:00+09:00"
-      },
-      {
-        "title": "2026 디앤에이모터스 AI 공모전",
-        "category": "AI 이미지·영상",
-        "organizer": "디앤에이모터스",
-        "submission_start": "2026-07-20",
-        "submission_end": "2026-08-10",
-        "result_date": "미정",
-        "url": "https://www.kmnews.net/NEWS/?bmode=view&idx=172470339",
-        "source_type": "reference_link",
-        "discovery_source": "brave",
-        "discovery_url": "https://www.kmnews.net/NEWS/?bmode=view&idx=172470339",
-        "evidence": "한국이륜차신문 참고 기사 기준 2026 디앤에이모터스 AI 공모전, 생성형 AI를 활용한 루미 AI 이미지 또는 AI 영상 제작, 접수 2026.07.20~08.10 명시.",
-        "summary": "신규 스쿠터 루미의 라이프스타일과 브랜드 세계관을 생성형 AI 이미지 또는 영상으로 표현하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-27T19:00:00+09:00"
       },
       {
         "title": "성북구도시관리공단 대표 AI 캐릭터 공모전",
@@ -549,22 +549,6 @@
         "source_checked_at": "2026-08-04T19:00:00+09:00"
       },
       {
-        "title": "청소년이 만드는 재단 캐릭터 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "순천문화재단",
-        "submission_start": "2026-08-03",
-        "submission_end": "2026-08-10",
-        "result_date": "2026-09-14 예정",
-        "url": "https://www.cfsc.or.kr/contents/open/open0102.asp?mode=view&cat=39&aseq=4018",
-        "source_type": "official_notice",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://www.cfsc.or.kr/gears_pds/board/4018/%EB%B6%99%EC%9E%841.%20%E3%80%8C%EC%B2%AD%EC%86%8C%EB%85%84%EC%9D%B4%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%9E%AC%EB%8B%A8%20%EC%BA%90%EB%A6%AD%ED%84%B0%20AI%EC%98%81%EC%83%81%20%EA%B3%B5%EB%AA%A8%EC%A0%84%E3%80%8D%20%EA%B3%B5%EA%B3%A0.pdf",
-        "evidence": "순천문화재단 공식 공고에 재단 캐릭터 세계관을 활용한 30초 내외 AI 숏폼 영상과 2026.08.03~08.10 접수 기간 명시.",
-        "summary": "전남동부권 청소년이 순천문화재단 캐릭터의 세계관을 AI 숏폼 영상으로 표현하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-03T19:00:00+09:00"
-      },
-      {
         "title": "제23회 영천보현산별빛축제 청소년 AI 영상 공모전",
         "category": "AI 영상",
         "organizer": "영천시",
@@ -579,22 +563,6 @@
         "summary": "대구·경북 청소년이 별과 우주, 보현산과 영천 관광을 생성형 AI 영상으로 표현하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-03T19:00:00+09:00"
-      },
-      {
-        "title": "건강한 디지털미디어 사용 문화 만들기 AI 그림책 공모전",
-        "category": "AI 이미지",
-        "organizer": "서울특별시·시립인터넷중독예방상담센터 광진사무소",
-        "submission_start": "2026-07-20",
-        "submission_end": "2026-08-10",
-        "result_date": "2026-08-31 예정",
-        "url": "http://gjiwill.or.kr/content/popup/64",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://linkareer.com/activity/339116",
-        "evidence": "공고 본문에 AI 도구를 활용한 삽화가 포함된 그림책 제출 명시",
-        "summary": "서울 거주 청소년이 AI 도구로 만든 삽화를 포함한 그림책을 제출하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-04T19:00:00+09:00"
       },
       {
         "title": "생성형 AI 퓨전국악 뮤직비디오 공모전",
@@ -619,17 +587,65 @@
         "submission_start": "2026-07-28",
         "submission_end": "2026-09-15",
         "result_date": "미정",
-        "url": "https://www.facebook.com/kspof/videos/2176760342979643",
-        "source_type": "official_platform",
+        "url": "https://kspo-contest.kr/event/2026-contest",
+        "source_type": "official_homepage",
         "discovery_source": "tavily",
         "discovery_url": "https://www.facebook.com/kspof/videos/2176760342979643",
         "evidence": "공식 게시물에 직접 촬영한 스포츠 활동 영상을 생성형 AI로 재구성한 숏폼 제출 명시",
         "summary": "직접 촬영한 스포츠 활동 영상을 생성형 AI로 재구성한 숏폼 콘텐츠 공모전입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-08-04T19:00:00+09:00"
+        "source_checked_at": "2026-08-11T19:00:00+09:00"
       }
     ],
     "awaiting_results": [
+      {
+        "title": "2026 디앤에이모터스 AI 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "디앤에이모터스",
+        "submission_start": "2026-07-20",
+        "submission_end": "2026-08-10",
+        "result_date": "미정",
+        "url": "https://www.kmnews.net/NEWS/?bmode=view&idx=172470339",
+        "source_type": "reference_link",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.kmnews.net/NEWS/?bmode=view&idx=172470339",
+        "evidence": "한국이륜차신문 참고 기사 기준 2026 디앤에이모터스 AI 공모전, 생성형 AI를 활용한 루미 AI 이미지 또는 AI 영상 제작, 접수 2026.07.20~08.10 명시.",
+        "summary": "신규 스쿠터 루미의 라이프스타일과 브랜드 세계관을 생성형 AI 이미지 또는 영상으로 표현하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-11T19:00:00+09:00"
+      },
+      {
+        "title": "청소년이 만드는 재단 캐릭터 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "순천문화재단",
+        "submission_start": "2026-08-03",
+        "submission_end": "2026-08-10",
+        "result_date": "2026-09-14 예정",
+        "url": "https://www.cfsc.or.kr/contents/open/open0102.asp?mode=view&cat=39&aseq=4018",
+        "source_type": "official_notice",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://www.cfsc.or.kr/gears_pds/board/4018/%EB%B6%99%EC%9E%841.%20%E3%80%8C%EC%B2%AD%EC%86%8C%EB%85%84%EC%9D%B4%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%9E%AC%EB%8B%A8%20%EC%BA%90%EB%A6%AD%ED%84%B0%20AI%EC%98%81%EC%83%81%20%EA%B3%B5%EB%AA%A8%EC%A0%84%E3%80%8D%20%EA%B3%B5%EA%B3%A0.pdf",
+        "evidence": "순천문화재단 공식 공고에 재단 캐릭터 세계관을 활용한 30초 내외 AI 숏폼 영상과 2026.08.03~08.10 접수 기간 명시.",
+        "summary": "전남동부권 청소년이 순천문화재단 캐릭터의 세계관을 AI 숏폼 영상으로 표현하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-11T19:00:00+09:00"
+      },
+      {
+        "title": "건강한 디지털미디어 사용 문화 만들기 AI 그림책 공모전",
+        "category": "AI 이미지",
+        "organizer": "서울특별시·시립인터넷중독예방상담센터 광진사무소",
+        "submission_start": "2026-07-20",
+        "submission_end": "2026-08-10",
+        "result_date": "2026-08-31 예정",
+        "url": "http://gjiwill.or.kr/content/popup/64",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://linkareer.com/activity/339116",
+        "evidence": "공고 본문에 AI 도구를 활용한 삽화가 포함된 그림책 제출 명시",
+        "summary": "서울 거주 청소년이 AI 도구로 만든 삽화를 포함한 그림책을 제출하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-11T19:00:00+09:00"
+      },
       {
         "title": "2026년 지진안전 AI 영상 공모전",
         "category": "AI 영상",
