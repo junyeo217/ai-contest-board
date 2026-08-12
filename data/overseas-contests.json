@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:00:00+09:00",
+  "generated_at": "2026-08-13T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -240,6 +240,23 @@
         "summary": "Higgsfield와 Adweek가 진행하는 글로벌 AI 광고 영상 콘테스트. Higgsfield에서 제작한 30~60초 광고 영상을 8월 24일까지 접수합니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-28T07:00:00+09:00"
+      },
+      {
+        "title": "Higgsfield Global Film Festival 2026",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Higgsfield",
+        "submission_start": "2026-08-10",
+        "submission_end": "2026-09-03",
+        "result_date": "미정",
+        "url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
+        "evidence": "Higgsfield 공식 블로그가 2026-08-10 글로벌 필름 페스티벌 접수 시작과 2026-09-03 23:59 PT 마감을 명시함. 전 세계 Higgsfield 구독자가 개인 또는 최대 4인 팀으로 참가할 수 있으며, Cinema Studio 안에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하고 수상자는 2026년 10월 첫째 주에 발표한다고 안내함.",
+        "summary": "Higgsfield 플랫폼에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하는 글로벌 영화제. 9월 3일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-13T07:00:00+09:00"
       },
       {
         "title": "BOCHNIA INTERNATIONAL AI FILM FESTIVAL 2026",
