@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-11T19:00:00+09:00",
+  "generated_at": "2026-08-12T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "2026년 국토안전 AI 콘텐츠 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "국토안전관리원",
+        "submission_start": "2026-08-05",
+        "submission_end": "2026-08-30",
+        "result_date": "2026-09-11 예정",
+        "url": "https://www.kmou.ac.kr/common/nttFileDownload.do?fileKey=a7b0564c9fa5a2fcc79fb6bb9fba905d",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://top.jbnu.ac.kr/bbs/sportscience/754/397933/artclView.do",
+        "evidence": "배포된 응모 요강에 국토안전관리원의 역할과 업무를 주제로 한 AI 영상·이미지 콘텐츠 공모이며 접수 기간은 2026.08.05~08.30이라고 명시.",
+        "summary": "국토안전관리원의 역할과 업무를 알리는 AI 영상 또는 이미지 콘텐츠를 모집합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-12T19:00:00+09:00"
+      },
       {
         "title": "제1회 AI 이미지 챌린지",
         "category": "AI 이미지",
