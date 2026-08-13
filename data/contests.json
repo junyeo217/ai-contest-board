@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-08-12T19:00:00+09:00",
+  "generated_at": "2026-08-13T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "2026년 남원 숏폼 영상(+AI) 공모전: Deep in Namwon",
+        "category": "AI 영상",
+        "organizer": "남원시·우석대학교 RISE사업단 / 로잇스페이스",
+        "submission_start": "2026-07-15",
+        "submission_end": "2026-08-31",
+        "result_date": "미정",
+        "url": "https://linkareer.com/activity/336795",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.wevity.com/index_university.php?c=find&s=_university&gbn=viewok&gp=2&ix=109391",
+        "evidence": "공개 공고 본문에 남원의 관광지와 숨은 명소를 소개하는 숏폼 영상 공모이며 일반 영상과 AI 영상으로 참여 가능하고 접수 기간은 2026.07.15~08.31이라고 명시.",
+        "summary": "남원의 관광지와 숨은 명소를 일반 또는 AI 숏폼 영상으로 소개하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-13T19:00:00+09:00"
+      },
+      {
+        "title": "XCONDA 60 Awards Vol.1",
+        "category": "AI 영상",
+        "organizer": "XCONDA",
+        "submission_start": "2026-06-26",
+        "submission_end": "2026-08-14",
+        "result_date": "2026-08-21 예정",
+        "url": "https://onoffmix.com/event/345071",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://onoffmix.com/event/345071",
+        "evidence": "온오프믹스 공식 플랫폼의 연장 공고에 15~60초 AI 숏폼 영상, 접수 2026.06.26~08.14 23:59, 수상자 발표 2026.08.21로 명시.",
+        "summary": "XCONDA 워크플로우를 활용한 15~60초 AI 숏폼 영상을 모집하는 AI 영상 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-13T19:00:00+09:00"
+      },
       {
         "title": "2026년 국토안전 AI 콘텐츠 공모전",
         "category": "AI 이미지·영상",
@@ -163,22 +195,6 @@
         "summary": "가족이 함께 만든 손그림을 생성형 AI로 발전시켜 서초 AI 페스타 캐릭터를 제안하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-03T19:00:00+09:00"
-      },
-      {
-        "title": "2026 직지문화축제 「AI 상상공모전」",
-        "category": "AI 영상",
-        "organizer": "청주시 / 청주시 직지가치 증진위원회",
-        "submission_start": "2026-07-23",
-        "submission_end": "2026-08-12",
-        "result_date": "2026-08-19 이후 예정",
-        "url": "https://jikjifestival.com/sub.php?code=317&mode=view&no=144",
-        "source_type": "official_notice",
-        "discovery_source": "crowlly_auxiliary",
-        "discovery_url": "https://crowlly.xyz/competitions/cheongju-jikji-festival-ai-sangsang-contest-2026",
-        "evidence": "직지문화축제 공식 공고에 생성형 AI를 활용한 2분 이내 FHD 가로형 창작 영상 제출 명시.",
-        "summary": "직지와 청주, 미래 기록문화를 주제로 생성형 AI 창작 영상을 모집합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-30T19:00:00+09:00"
       },
       {
         "title": "제3회 부산국제AI영화제 출품작 공모",
@@ -615,6 +631,22 @@
     ],
     "awaiting_results": [
       {
+        "title": "2026 직지문화축제 「AI 상상공모전」",
+        "category": "AI 영상",
+        "organizer": "청주시 / 청주시 직지가치 증진위원회",
+        "submission_start": "2026-07-23",
+        "submission_end": "2026-08-12",
+        "result_date": "2026-08-19 이후 예정",
+        "url": "https://jikjifestival.com/sub.php?code=317&mode=view&no=144",
+        "source_type": "official_notice",
+        "discovery_source": "crowlly_auxiliary",
+        "discovery_url": "https://crowlly.xyz/competitions/cheongju-jikji-festival-ai-sangsang-contest-2026",
+        "evidence": "직지문화축제 공식 공고에 생성형 AI를 활용한 2분 이내 FHD 가로형 창작 영상 제출 명시.",
+        "summary": "직지와 청주, 미래 기록문화를 주제로 생성형 AI 창작 영상을 모집합니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-13T19:00:00+09:00"
+      },
+      {
         "title": "2026 디앤에이모터스 AI 공모전",
         "category": "AI 이미지·영상",
         "organizer": "디앤에이모터스",
@@ -1045,22 +1077,6 @@
         "summary": "전공의 현실을 30초 내외 AI 숏폼 영상으로 표현하는 대학(원)생 대상 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-08-01T19:00:00+09:00"
-      },
-      {
-        "title": "2026 호텔JCS여수 웨딩홀 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "호텔JCS여수",
-        "submission_start": "2026-07-07",
-        "submission_end": "2026-07-30",
-        "result_date": "2026-08-05 예정",
-        "url": "https://www.hoteljcs.com/community/notice/52",
-        "source_type": "official_notice",
-        "discovery_source": "crowlly_auxiliary",
-        "discovery_url": "https://crowlly.xyz/competitions/2026-hoteljcs-yeosu-wedding-ai-video-contest",
-        "evidence": "공식 공지에 AI기술을 활용한 웨딩 스토리 영상, 30초 이내 FHD 가로형 MP4 명시",
-        "summary": "호텔JCS여수를 배경으로 AI 기술을 활용한 웨딩 스토리 영상을 모집합니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-31T19:00:00+09:00"
       },
       {
         "title": "코웨이 비렉스 AI 영상 광고·숏폼 공모전",
@@ -2065,22 +2081,6 @@
         "summary": "층간소음 예방과 배려 문화를 주제로 60초 이내 세로형 AI 영상을 모집하는 한국환경보전원 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-07-25T19:00:00+09:00"
-      },
-      {
-        "title": "XCONDA 60 Awards Vol.1",
-        "category": "AI 영상",
-        "organizer": "XCONDA",
-        "submission_start": "2026-06-26",
-        "submission_end": "2026-07-26",
-        "result_date": "2026-08-03 예정",
-        "url": "https://onoffmix.com/event/345071",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://onoffmix.com/event/345071",
-        "evidence": "온오프믹스 행사 페이지와 XCONDA 공식 SNS 색인 기준 15~60초 AI 숏폼 영상, 접수 2026.06.26~07.26 23:59, 수상자 발표 2026.08.03 명시.",
-        "summary": "XCONDA 워크플로우를 활용한 15~60초 AI 숏폼 영상을 모집하는 AI 영상 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-27T19:00:00+09:00"
       },
       {
         "title": "2026 대한민국 환경사랑공모전 AI 일러스트레이션 부문",
