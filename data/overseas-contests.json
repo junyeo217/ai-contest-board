@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:00:00+09:00",
+  "generated_at": "2026-08-15T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -53,23 +53,6 @@
         "summary": "AKOOL의 Seedance 2로 제작한 원본 AI 영상을 모집하는 글로벌 크리에이터 챌린지. 9월 15일까지 접수합니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-12T07:00:00+09:00"
-      },
-      {
-        "title": "Reel Futures: Student AI Film Shorts Competition 2026",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "California Community Colleges / Futures Summit 2026",
-        "submission_start": "2026-04-13",
-        "submission_end": "2026-08-14",
-        "result_date": "2026-08-31",
-        "url": "https://filmfreeway.com/2026ReelFutures",
-        "source_type": "official_apply_page",
-        "discovery_source": "tavily",
-        "discovery_url": "https://californiacommunitycolleges.cventevents.com/event/970bba4c-aabb-4e04-aac7-de65ea72516d/reel-futures-student-ai-film-shorts-",
-        "evidence": "FilmFreeway 검색 결과가 Reel Futures: Student AI Film Shorts Competition의 2026-04-13 Opening Date, 2026-08-14 Regular Deadline, 2026-08-31 Notification Date, 2026-09-09~10 Event Date를 표시함. California Community Colleges Futures Summit 공식 Cvent 페이지는 California community college students 대상 original short films 제작 공모이며 AI Film Shorts 성격을 명시함.",
-        "summary": "California Community Colleges Futures Summit 2026 연계 학생 AI 단편 영화 공모. 8월 14일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-08T07:00:00+09:00"
       },
       {
         "title": "AAIFF 2026 – Astana AI Film Festival",
@@ -651,6 +634,23 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "Reel Futures: Student AI Film Shorts Competition 2026",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "California Community Colleges / Futures Summit 2026",
+        "submission_start": "2026-04-13",
+        "submission_end": "2026-08-14",
+        "result_date": "2026-08-31",
+        "url": "https://filmfreeway.com/2026ReelFutures",
+        "source_type": "official_apply_page",
+        "discovery_source": "tavily",
+        "discovery_url": "https://californiacommunitycolleges.cventevents.com/event/970bba4c-aabb-4e04-aac7-de65ea72516d/reel-futures-student-ai-film-shorts-",
+        "evidence": "FilmFreeway 검색 결과가 Reel Futures: Student AI Film Shorts Competition의 2026-04-13 Opening Date, 2026-08-14 Regular Deadline, 2026-08-31 Notification Date, 2026-09-09~10 Event Date를 표시함. California Community Colleges Futures Summit 공식 Cvent 페이지는 California community college students 대상 original short films 제작 공모이며 AI Film Shorts 성격을 명시함.",
+        "summary": "California Community Colleges Futures Summit 2026 연계 학생 AI 단편 영화 공모. 8월 14일 접수를 마치고 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-15T07:00:00+09:00"
+      },
       {
         "title": "CapCut CRE[AI]TE 2026 AI Festival",
         "category": "AI 이미지·영상",
