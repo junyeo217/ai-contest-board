@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:00:00+09:00",
+  "generated_at": "2026-08-16T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -104,40 +104,6 @@
         "summary": "AI 기반 영상, 이미지, 비주얼 아트, 인터랙티브 미디어를 모집하는 뉴욕 기반 국제 AI 아트 어워드. 연장된 마감일은 8월 31일입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-07T07:00:00+09:00"
-      },
-      {
-        "title": "Austin AI Film Festival 2026",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "Austin AI Film Festival / International AI Productivity Alliance",
-        "submission_start": "2026-07-06",
-        "submission_end": "2026-08-15",
-        "result_date": "미정",
-        "url": "https://austinfestival.org/",
-        "source_type": "official_homepage",
-        "discovery_source": "brave",
-        "discovery_url": "https://filmmakers.festhome.com/en/festival/austin-ai-film-festival",
-        "evidence": "공식 Austin AI Film Festival 페이지가 Austin, Texas 기반 International Call for Entries Open 상태와 AI-driven cinema, AI Usage Statement, AI 도구/모델 기여도 제출 요건을 명시함. 보조 Festhome 검색 결과가 2026-08-15 마감으로 표시하며, AdArena 디렉터리는 2026-07-06 검증 기준 약 24일 남은 AI Film/AI Commercial/Trailer/Music Video 공모로 안내함.",
-        "summary": "오스틴에서 열리는 국제 AI 영화제. AI 단편·장편·실험 영상 등 AI 활용 작품을 8월 15일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-23T07:00:00+09:00"
-      },
-      {
-        "title": "Future Vision XPRIZE",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "XPRIZE, Range Media Partners, Google / 100 ZEROS",
-        "submission_start": "2026-03-09",
-        "submission_end": "2026-08-15",
-        "result_date": "2026-09-25",
-        "url": "https://futurevisionxprize.com/",
-        "source_type": "official_homepage",
-        "discovery_source": "brave",
-        "discovery_url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-        "evidence": "공식 홈페이지가 creators anywhere on Earth 대상 $3.5M+ sci-fi film competition으로 설명하고, 3분 이하 SF 트레일러를 모집한다고 명시. 2026-05-19 재확인 시 일정은 Launch Date 2026-03-09, Final submission deadline 2026-08-15, Finals 2026-09-25로 공지됨.",
-        "summary": "기술 낙관적 미래를 그리는 3분 이하 SF 트레일러 글로벌 공모전. AI 영상 도구 활용 가능.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
         "title": "BLACK AI FEST 2026 – International A.I Film Academy Festival & Awards",
@@ -634,6 +600,40 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "Austin AI Film Festival 2026",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "Austin AI Film Festival / International AI Productivity Alliance",
+        "submission_start": "2026-07-06",
+        "submission_end": "2026-08-15",
+        "result_date": "미정",
+        "url": "https://austinfestival.org/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://filmmakers.festhome.com/en/festival/austin-ai-film-festival",
+        "evidence": "공식 Austin AI Film Festival 페이지가 Austin, Texas 기반 International Call for Entries Open 상태와 AI-driven cinema, AI Usage Statement, AI 도구/모델 기여도 제출 요건을 명시함. 보조 Festhome 검색 결과가 2026-08-15 마감으로 표시하며, AdArena 디렉터리는 2026-07-06 검증 기준 약 24일 남은 AI Film/AI Commercial/Trailer/Music Video 공모로 안내함.",
+        "summary": "오스틴에서 열리는 국제 AI 영화제. 8월 15일 접수를 마치고 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-16T07:00:00+09:00"
+      },
+      {
+        "title": "Future Vision XPRIZE",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "XPRIZE, Range Media Partners, Google / 100 ZEROS",
+        "submission_start": "2026-03-09",
+        "submission_end": "2026-08-15",
+        "result_date": "2026-09-25",
+        "url": "https://futurevisionxprize.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+        "evidence": "공식 홈페이지가 creators anywhere on Earth 대상 $3.5M+ sci-fi film competition으로 설명하고, 3분 이하 SF 트레일러를 모집한다고 명시. 2026-05-19 재확인 시 일정은 Launch Date 2026-03-09, Final submission deadline 2026-08-15, Finals 2026-09-25로 공지됨.",
+        "summary": "기술 낙관적 미래를 그리는 글로벌 SF 트레일러 공모전. 8월 15일 접수를 마치고 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-16T07:00:00+09:00"
+      },
       {
         "title": "Reel Futures: Student AI Film Shorts Competition 2026",
         "category": "AI 영상",
