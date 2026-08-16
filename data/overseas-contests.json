@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:00:00+09:00",
+  "generated_at": "2026-08-17T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,6 +37,23 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "#はじめてのアイキャス – IDOL CAST 첫 사용자 참여 콘테스트",
+        "category": "AI 이미지·영상",
+        "country": "Japan",
+        "organizer": "KOWRO / IDOL CAST",
+        "submission_start": "2026-08-14",
+        "submission_end": "2026-08-23",
+        "result_date": "2026-08-26",
+        "url": "https://prtimes.jp/main/html/rd/p/000000005.000184101.html",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://prtimes.jp/main/html/rd/p/000000005.000184101.html",
+        "evidence": "KOWRO 공식 배포 보도자료가 AI 아이돌 프로듀싱 서비스 IDOL CAST에서 생성한 영상 또는 이미지를 모집한다고 명시함. 응모 기간은 2026-08-14 12:00~2026-08-23 23:59, 결과 발표는 2026-08-26이며, 공식 계정 팔로우·지정 해시태그 공개 게시·응모 폼 제출 절차와 심사·상품 정보가 확인됨.",
+        "summary": "IDOL CAST에서 제작한 AI 아이돌 이미지 또는 영상을 모집하는 일본 사용자 참여형 콘테스트. 8월 23일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-17T07:00:00+09:00"
+      },
       {
         "title": "AKOOL Creator Clash 2026",
         "category": "AI 영상",
@@ -104,23 +121,6 @@
         "summary": "AI 기반 영상, 이미지, 비주얼 아트, 인터랙티브 미디어를 모집하는 뉴욕 기반 국제 AI 아트 어워드. 연장된 마감일은 8월 31일입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-07T07:00:00+09:00"
-      },
-      {
-        "title": "BLACK AI FEST 2026 – International A.I Film Academy Festival & Awards",
-        "category": "AI 영상",
-        "country": "United Kingdom",
-        "organizer": "Mighty Jot Ltd / BLACK AI FEST",
-        "submission_start": "2025-10-12",
-        "submission_end": "2026-08-16",
-        "result_date": "2026-08-31",
-        "url": "https://filmfreeway.com/aifilmacademyfestivalandawards",
-        "source_type": "official_apply_page",
-        "discovery_source": "manual",
-        "discovery_url": "https://filmfreeway.com/aifilmacademyfestivalandawards",
-        "evidence": "FilmFreeway 공식 접수 페이지가 BLACKAIFEST 2026을 International AI Film Academy Festival & Awards로 소개하며 AI Film Trailer, AI Short Film, AI Feature Film, AI Animation, AI Adverts, AI Documentary, AI Music Video 등 AI 영상·애니메이션·광고 부문을 운영한다고 명시함. 일정은 2025-10-12 Opening Date, 2026-07-15 Late Deadline, 2026-08-16 Extended Deadline, 2026-08-31 Notification Date, 2026-10-17~18 Event Date이며 장소는 BFI Southbank, London으로 표시됨.",
-        "summary": "런던에서 열리는 국제 AI 영화 아카데미 페스티벌. AI 단편·장편·애니메이션·광고·뮤직비디오 부문을 8월 16일까지 접수.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-28T07:00:00+09:00"
       },
       {
         "title": "AI International Film Festival 2026 – October Hollywood Edition",
@@ -600,6 +600,23 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "BLACK AI FEST 2026 – International A.I Film Academy Festival & Awards",
+        "category": "AI 영상",
+        "country": "United Kingdom",
+        "organizer": "Mighty Jot Ltd / BLACK AI FEST",
+        "submission_start": "2025-10-12",
+        "submission_end": "2026-08-16",
+        "result_date": "2026-08-31",
+        "url": "https://filmfreeway.com/aifilmacademyfestivalandawards",
+        "source_type": "official_apply_page",
+        "discovery_source": "manual",
+        "discovery_url": "https://filmfreeway.com/aifilmacademyfestivalandawards",
+        "evidence": "FilmFreeway 공식 접수 페이지가 BLACKAIFEST 2026을 International AI Film Academy Festival & Awards로 소개하며 AI Film Trailer, AI Short Film, AI Feature Film, AI Animation, AI Adverts, AI Documentary, AI Music Video 등 AI 영상·애니메이션·광고 부문을 운영한다고 명시함. 일정은 2025-10-12 Opening Date, 2026-07-15 Late Deadline, 2026-08-16 Extended Deadline, 2026-08-31 Notification Date, 2026-10-17~18 Event Date이며 장소는 BFI Southbank, London으로 표시됨.",
+        "summary": "런던에서 열리는 국제 AI 영화 아카데미 페스티벌. 접수를 마치고 8월 31일 발표를 기다리고 있습니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-17T07:00:00+09:00"
+      },
       {
         "title": "Austin AI Film Festival 2026",
         "category": "AI 영상",
