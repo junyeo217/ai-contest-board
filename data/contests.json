@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-18T19:00:00+09:00",
+  "generated_at": "2026-08-19T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "제2회 글그림 AI 영상공모전",
+        "category": "AI 영상",
+        "organizer": "주식회사 문도에이아이",
+        "submission_start": "2026-08-18",
+        "submission_end": "2026-09-13",
+        "result_date": "2026-09-21 예정",
+        "url": "https://contest.moondo.ai/",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://linkareer.com/activity/341430",
+        "evidence": "공식 공모전 페이지와 공개 공고에 AI를 활용해 자유로운 대상을 소개하는 광고영상을 제작하며 접수 기간은 2026.08.18~09.13이라고 명시.",
+        "summary": "AI를 활용해 친구, 가게, 기업, 지역 명소 등 알리고 싶은 대상을 광고영상으로 소개하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-19T19:00:00+09:00"
+      },
       {
         "title": "2026 청소년 AI 콘텐츠 경진대회",
         "category": "AI 영상",
@@ -197,22 +213,6 @@
         "source_checked_at": "2026-08-05T19:00:00+09:00"
       },
       {
-        "title": "경기도 청소년 뻔뻔한(FunFun) AI 영상전",
-        "category": "AI 영상",
-        "organizer": "경기도경제과학진흥원·블루커뮤니케이션",
-        "submission_start": "2026-08-03",
-        "submission_end": "2026-08-18",
-        "result_date": "2026-09-05 예정",
-        "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608030023",
-        "source_type": "reference_link",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608030023",
-        "evidence": "공모 안내 본문에 생성형 AI 기술을 활용한 1분 MP4 영상 제출 명시",
-        "summary": "경기도 중·고교 재학생 및 동연령 청소년 대상 생성형 AI 1분 영상 공모전",
-        "status": "진행중",
-        "source_checked_at": "2026-08-05T19:00:00+09:00"
-      },
-      {
         "title": "2026 서초 AI 페스타 캐릭터 창작 공모전",
         "category": "AI 디자인",
         "organizer": "서초구",
@@ -243,22 +243,6 @@
         "summary": "AI 기술을 전부 또는 일부 활용한 영화를 모집하는 국제 비경쟁 영화제 출품 공모입니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-30T19:00:00+09:00"
-      },
-      {
-        "title": "상상을 실현하는 아이 AI <2026 대전 AI 영상 공모전>",
-        "category": "AI 영상",
-        "organizer": "대전정보문화산업진흥원 / 스튜디오프리윌루전(AI-Kive)",
-        "submission_start": "2026-07-20",
-        "submission_end": "2026-08-18",
-        "result_date": "2026-09-09 발표 / 2026-09-18 시상식 예정",
-        "url": "https://www.youtube.com/watch?v=azHKyRa6rQM",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.etnews.com/20260720000062",
-        "evidence": "공식 영상 설명에 생성형 AI를 활용한 스토리 중심 단편 영상, 진행 기간 2026.07.20~08.18 명시",
-        "summary": "생성형 AI로 제작한 스토리 중심 단편 영상을 모집하는 대전 AI 영상 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-22T19:00:00+09:00"
       },
       {
         "title": "제5회 Galaxy 사진공모전",
@@ -582,6 +566,38 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "경기도 청소년 뻔뻔한(FunFun) AI 영상전",
+        "category": "AI 영상",
+        "organizer": "경기도경제과학진흥원·블루커뮤니케이션",
+        "submission_start": "2026-08-03",
+        "submission_end": "2026-08-18",
+        "result_date": "2026-09-05 예정",
+        "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608030023",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031210001&str_no=202608030023",
+        "evidence": "공모 안내 본문에 생성형 AI 기술을 활용한 1분 MP4 영상 제출 명시",
+        "summary": "경기도 중·고교 재학생 및 동연령 청소년 대상 생성형 AI 1분 영상 공모전",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-19T19:00:00+09:00"
+      },
+      {
+        "title": "상상을 실현하는 아이 AI <2026 대전 AI 영상 공모전>",
+        "category": "AI 영상",
+        "organizer": "대전정보문화산업진흥원 / 스튜디오프리윌루전(AI-Kive)",
+        "submission_start": "2026-07-20",
+        "submission_end": "2026-08-18",
+        "result_date": "2026-09-09 발표 / 2026-09-18 시상식 예정",
+        "url": "https://www.youtube.com/watch?v=azHKyRa6rQM",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.etnews.com/20260720000062",
+        "evidence": "공식 영상 설명에 생성형 AI를 활용한 스토리 중심 단편 영상, 진행 기간 2026.07.20~08.18 명시",
+        "summary": "생성형 AI로 제작한 스토리 중심 단편 영상을 모집하는 대전 AI 영상 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-19T19:00:00+09:00"
+      },
       {
         "title": "2026 궁중문화축전 AI 영상 공모전",
         "category": "AI 영상",
