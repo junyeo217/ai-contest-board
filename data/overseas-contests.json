@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:00:00+09:00",
+  "generated_at": "2026-08-20T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -822,23 +822,6 @@
         "source_checked_at": "2026-08-04T07:00:00+09:00"
       },
       {
-        "title": "Runway Another Big Ad Contest Vol. II",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "Runway AI, Inc.",
-        "submission_start": "2026-07-01",
-        "submission_end": "2026-07-31",
-        "result_date": "미정",
-        "url": "https://runwayml.com/big-ad-contest-vol-2",
-        "source_type": "official_platform",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://runwayml.com/big-ad-contest/terms",
-        "evidence": "Runway 공식 이벤트 페이지가 Another Big Ad Contest For Products That Do Not Exist Volume II를 2026-07-31까지 진행되는 Runway 기반 15~30초 spec ad 영상 공모로 안내함. 공식 규정은 Runway AI, Inc.가 주최하며 Contest Period가 2026-07-01 10:00 ET부터 2026-07-31 23:59:59 ET까지이고, 참가자는 Runway 유료 계정으로 Runway 도구를 사용해 원본 광고 영상을 제작·공개 게시 후 제출해야 한다고 명시함. Eligibility는 금지·제외 지역을 제외한 지역 거주자에게 열려 있어 국제 참가 가능 조건을 충족함.",
-        "summary": "Runway로 15~30초 AI 생성 spec ad를 제작해 제출하는 국제 광고 영상 콘테스트. 최대 10만 달러 규모의 상금을 내걸고 7월 31일까지 접수합니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-08-01T07:00:00+09:00"
-      },
-      {
         "title": "2026 Jeju Global AI Film Contest",
         "category": "AI 영상",
         "country": "International",
@@ -1077,6 +1060,14 @@
       "summary": "발표 예정일이 2026-08-17인 발표대기 항목 1건을 관리 대상에서 제외",
       "items": [
         "2026 National AI-Generated Content (AIGC) Video Challenge"
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "type": "cleanup",
+      "summary": "Runway 공식 페이지에서 수상작 공개를 확인한 발표대기 항목 1건을 관리 대상에서 제외",
+      "items": [
+        "Runway Another Big Ad Contest Vol. II"
       ]
     }
   ]
