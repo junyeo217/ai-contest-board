@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:00:00+09:00",
+  "generated_at": "2026-08-21T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -129,22 +129,6 @@
         "discovery_url": "https://www.allforyoung.com/posts/85980",
         "evidence": "대전광역시 공식 SNS 안내와 공개 공고에 AI로 제작한 태양광·미래에너지 이미지(JPG·PNG) 또는 영상(MP4·MOV), 접수 2026.08.14~08.28이 명시.",
         "summary": "태양광과 미래 에너지를 주제로 AI 이미지 또는 영상을 제작하는 대국민 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-16T19:00:00+09:00"
-      },
-      {
-        "title": "2026 케미스트릿 강남역 페스티벌 AI 숏폼 공모전",
-        "category": "AI 영상",
-        "organizer": "서초구·서초여성일자리주식회사",
-        "submission_start": "2026-08-10",
-        "submission_end": "2026-08-20",
-        "result_date": "미정",
-        "url": "https://www.instagram.com/p/Db2TexcEhZM",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.wevity.com/index.php?c=find&s=_university&gbn=viewok&gp=1&ix=110013",
-        "evidence": "케미스트릿 공식 SNS와 공개 공고에 생성형 AI로 페스티벌을 표현한 20~30초 세로형 숏폼 영상, 접수 2026.08.10~08.20이 명시.",
-        "summary": "생성형 AI로 강남역 상권과 케미스트릿 페스티벌의 매력을 표현하는 숏폼 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-16T19:00:00+09:00"
       },
@@ -646,6 +630,22 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "2026 케미스트릿 강남역 페스티벌 AI 숏폼 공모전",
+        "category": "AI 영상",
+        "organizer": "서초구·서초여성일자리주식회사",
+        "submission_start": "2026-08-10",
+        "submission_end": "2026-08-20",
+        "result_date": "미정",
+        "url": "https://www.instagram.com/p/Db2TexcEhZM",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.wevity.com/index.php?c=find&s=_university&gbn=viewok&gp=1&ix=110013",
+        "evidence": "케미스트릿 공식 SNS와 공개 공고에 생성형 AI로 페스티벌을 표현한 20~30초 세로형 숏폼 영상, 접수 2026.08.10~08.20이 명시.",
+        "summary": "생성형 AI로 강남역 상권과 케미스트릿 페스티벌의 매력을 표현하는 숏폼 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-21T19:00:00+09:00"
+      },
       {
         "title": "경기도 청소년 뻔뻔한(FunFun) AI 영상전",
         "category": "AI 영상",
