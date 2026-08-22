@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:00:00+09:00",
+  "generated_at": "2026-08-23T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -138,23 +138,6 @@
         "summary": "AI 기반 영상, 이미지, 비주얼 아트, 인터랙티브 미디어를 모집하는 뉴욕 기반 국제 AI 아트 어워드. 연장된 마감일은 8월 31일입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-07T07:00:00+09:00"
-      },
-      {
-        "title": "AI Film 3 - AI Film and Art Festival | Arizona | Year III",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "AI Film 3",
-        "submission_start": "2026-02-16",
-        "submission_end": "2026-08-22",
-        "result_date": "2026-08-31",
-        "url": "https://filmfreeway.com/AIFilm3",
-        "source_type": "official_apply_page",
-        "discovery_source": "tavily",
-        "discovery_url": "https://filmfreeway.com/AIFilm3",
-        "evidence": "FilmFreeway 공식 제출 페이지가 Phoenix, Arizona에서 열리는 3년차 AI Film and Art Festival로 소개하며, AI-generated films, AI music video, AI documentary, AI short form film, AI long form film, AI experimental video/audio 등 AI 도구·기법을 사용한 작품을 접수한다고 명시함. 일정은 Opening 2026-02-16, Regular Deadline 2026-08-01, Late Deadline 2026-08-22, Notification 2026-08-31, Event 2026-09-17~19로 공지됨.",
-        "summary": "애리조나 피닉스에서 열리는 AI 영화·아트 페스티벌. AI 영상·뮤직비디오·실험 영상 등을 8월 22일까지 접수.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
         "title": "Adobe MAX 2026 Creativity Awards",
@@ -600,6 +583,23 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "AI Film 3 - AI Film and Art Festival | Arizona | Year III",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "AI Film 3",
+        "submission_start": "2026-02-16",
+        "submission_end": "2026-08-22",
+        "result_date": "2026-08-31",
+        "url": "https://filmfreeway.com/AIFilm3",
+        "source_type": "official_apply_page",
+        "discovery_source": "tavily",
+        "discovery_url": "https://filmfreeway.com/AIFilm3",
+        "evidence": "FilmFreeway 공식 제출 페이지가 Phoenix, Arizona에서 열리는 3년차 AI Film and Art Festival로 소개하며, AI-generated films, AI music video, AI documentary, AI short form film, AI long form film, AI experimental video/audio 등 AI 도구·기법을 사용한 작품을 접수한다고 명시함. 일정은 Opening 2026-02-16, Regular Deadline 2026-08-01, Late Deadline 2026-08-22, Notification 2026-08-31, Event 2026-09-17~19로 공지됨.",
+        "summary": "애리조나 피닉스에서 열리는 AI 영화·아트 페스티벌. 접수 마감 후 8월 31일 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-23T07:00:00+09:00"
+      },
       {
         "title": "AI International Film Festival 2026 – October Hollywood Edition",
         "category": "AI 영상",
