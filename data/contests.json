@@ -1,25 +1,9 @@
 {
-  "generated_at": "2026-08-22T19:00:00+09:00",
+  "generated_at": "2026-08-23T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "The Next AI Film Festival 출품 공모",
-        "category": "AI 영상",
-        "organizer": "Next AI Content Festival 조직위원회 / 임팩트스테이션",
-        "submission_start": "2026-08-18",
-        "submission_end": "2026-08-22",
-        "result_date": "2026-09-02 예정",
-        "url": "https://festhome.com/festival/the-next-ai-film-festival",
-        "source_type": "official_apply_page",
-        "discovery_source": "tavily",
-        "discovery_url": "https://festhome.com/festival/the-next-ai-film-festival",
-        "evidence": "공식 출품 플랫폼에 AI를 핵심 제작 기술로 활용한 영화 출품, 접수 2026.08.18~08.22, 선정 발표 2026.09.02가 명시.",
-        "summary": "AI를 핵심 제작 기술이자 창작 매체로 활용한 영화를 모집하는 서울 개최 영화제 출품 공모입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-20T19:00:00+09:00"
-      },
       {
         "title": "2026년 로봇랜드 AI 영상제작 공모전",
         "category": "AI 영상",
@@ -563,9 +547,41 @@
         "summary": "해양수도 부산을 주제로 생성형 AI 영상 또는 이미지를 제작하는 부산 시민 대상 콘텐츠 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-15T19:00:00+09:00"
+      },
+      {
+        "title": "[2026 SHIFT & SPARK] AI+XR 공모전 | AI로 만드는 나의 실감세계",
+        "category": "AI 영상",
+        "organizer": "실감미디어혁신융합대학사업단",
+        "submission_start": "2026-08-05",
+        "submission_end": "2026-08-26",
+        "result_date": "2026-08-29 예정",
+        "url": "https://gongmo.incruit.com/info/gongmolistinfo.asp?contestno=202608060002",
+        "source_type": "reference_link",
+        "discovery_source": "brave",
+        "discovery_url": "https://gongmo.incruit.com/info/gongmolistinfo.asp?contestno=202608060002",
+        "evidence": "공고 본문 일반 부문에 생성형 AI를 활용한 15~30초 숏폼 영상 결과물 명시",
+        "summary": "생성형 AI와 XR 기술로 실감 콘텐츠 또는 15~30초 숏폼 영상을 제작하는 공모전",
+        "status": "진행중",
+        "source_checked_at": "2026-08-23T19:00:00+09:00"
       }
     ],
     "awaiting_results": [
+      {
+        "title": "The Next AI Film Festival 출품 공모",
+        "category": "AI 영상",
+        "organizer": "Next AI Content Festival 조직위원회 / 임팩트스테이션",
+        "submission_start": "2026-08-18",
+        "submission_end": "2026-08-22",
+        "result_date": "2026-09-02 예정",
+        "url": "https://festhome.com/festival/the-next-ai-film-festival",
+        "source_type": "official_apply_page",
+        "discovery_source": "tavily",
+        "discovery_url": "https://festhome.com/festival/the-next-ai-film-festival",
+        "evidence": "공식 출품 플랫폼에 AI를 핵심 제작 기술로 활용한 영화 출품, 접수 2026.08.18~08.22, 선정 발표 2026.09.02가 명시.",
+        "summary": "AI를 핵심 제작 기술이자 창작 매체로 활용한 영화를 모집하는 서울 개최 영화제 출품 공모입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-23T19:00:00+09:00"
+      },
       {
         "title": "2026 케미스트릿 강남역 페스티벌 AI 숏폼 공모전",
         "category": "AI 영상",
