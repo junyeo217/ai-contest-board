@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:00:00+09:00",
+  "generated_at": "2026-08-24T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -35,42 +35,26 @@
     "platform_scope_mode": "always_on"
   },
   "sections": {
-    "starting_today": [],
-    "ongoing": [
+    "starting_today": [
       {
-        "title": "SIGGRAPH Asia 2026 AI Film Frontiers Challenge",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "SIGGRAPH Asia 2026 / ACM SIGGRAPH",
-        "submission_start": "2026-07-23",
-        "submission_end": "2026-08-23",
-        "result_date": "2026-09-13",
-        "url": "https://asia.siggraph.org/2026/submissions/workshops/ai-film-frontiers-workshop/",
+        "title": "TCCP GENERATE 2026",
+        "category": "AI 이미지",
+        "country": "United States",
+        "organizer": "Technology Council of Central Pennsylvania (TCCP)",
+        "submission_start": "2026-08-24",
+        "submission_end": "2026-10-30",
+        "result_date": "2026-12-07",
+        "url": "https://www.tccp.org/generate2026/",
         "source_type": "official_notice",
         "discovery_source": "brave",
-        "discovery_url": "https://asia.siggraph.org/2026/submissions/workshops/ai-film-frontiers-workshop/",
-        "evidence": "SIGGRAPH Asia 2026 공식 페이지가 국제 AI Film Challenge로 AI 생성 영화와 기술 보고서를 함께 모집한다고 명시함. 접수는 2026-07-23 시작, 2026-08-23 마감, 수상작은 2026-09-13 발표하며 선정작은 SIGGRAPH Asia 2026에서 상영됨.",
-        "summary": "생성형 AI 영화와 제작 워크플로 기술 보고서를 함께 제출하는 SIGGRAPH Asia 국제 AI 영화 챌린지입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-19T07:00:00+09:00"
-      },
-      {
-        "title": "#はじめてのアイキャス – IDOL CAST 첫 사용자 참여 콘테스트",
-        "category": "AI 이미지·영상",
-        "country": "Japan",
-        "organizer": "KOWRO / IDOL CAST",
-        "submission_start": "2026-08-14",
-        "submission_end": "2026-08-23",
-        "result_date": "2026-08-26",
-        "url": "https://prtimes.jp/main/html/rd/p/000000005.000184101.html",
-        "source_type": "reference_link",
-        "discovery_source": "tavily",
-        "discovery_url": "https://prtimes.jp/main/html/rd/p/000000005.000184101.html",
-        "evidence": "KOWRO 공식 배포 보도자료가 AI 아이돌 프로듀싱 서비스 IDOL CAST에서 생성한 영상 또는 이미지를 모집한다고 명시함. 응모 기간은 2026-08-14 12:00~2026-08-23 23:59, 결과 발표는 2026-08-26이며, 공식 계정 팔로우·지정 해시태그 공개 게시·응모 폼 제출 절차와 심사·상품 정보가 확인됨.",
-        "summary": "IDOL CAST에서 제작한 AI 아이돌 이미지 또는 영상을 모집하는 일본 사용자 참여형 콘테스트. 8월 23일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-17T07:00:00+09:00"
-      },
+        "discovery_url": "https://www.tccp.org/generate2026/",
+        "evidence": "TCCP 공식 GENERATE 2026 페이지가 모든 출품작을 생성형 AI 소프트웨어, 머신러닝 알고리즘, AI 보조 디자인 플랫폼 등 AI 도구로 제작해야 한다고 명시함. TCCP 22개 카운티 서비스 지역 거주자를 대상으로 2026-08-24 접수를 시작해 2026-10-30 23:59에 마감하며, 공개 투표와 심사 후 2026-12-07 시상 일정을 안내함.",
+        "summary": "미국 펜실베이니아 중부 지역 창작자가 AI 도구로 제작한 시각 예술 작품을 모집하는 TCCP 공모전. 오늘 접수를 시작합니다.",
+        "status": "오늘 시작",
+        "source_checked_at": "2026-08-24T07:00:00+09:00"
+      }
+    ],
+    "ongoing": [
       {
         "title": "AKOOL Creator Clash 2026",
         "category": "AI 영상",
@@ -583,6 +567,40 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "#はじめてのアイキャス – IDOL CAST 첫 사용자 참여 콘테스트",
+        "category": "AI 이미지·영상",
+        "country": "Japan",
+        "organizer": "KOWRO / IDOL CAST",
+        "submission_start": "2026-08-14",
+        "submission_end": "2026-08-23",
+        "result_date": "2026-08-26",
+        "url": "https://prtimes.jp/main/html/rd/p/000000005.000184101.html",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://prtimes.jp/main/html/rd/p/000000005.000184101.html",
+        "evidence": "KOWRO 공식 배포 보도자료가 AI 아이돌 프로듀싱 서비스 IDOL CAST에서 생성한 영상 또는 이미지를 모집한다고 명시함. 응모 기간은 2026-08-14 12:00~2026-08-23 23:59, 결과 발표는 2026-08-26이며, 공식 계정 팔로우·지정 해시태그 공개 게시·응모 폼 제출 절차와 심사·상품 정보가 확인됨.",
+        "summary": "IDOL CAST에서 제작한 AI 아이돌 이미지 또는 영상을 모집한 일본 사용자 참여형 콘테스트. 접수 마감 후 8월 26일 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-24T07:00:00+09:00"
+      },
+      {
+        "title": "SIGGRAPH Asia 2026 AI Film Frontiers Challenge",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "SIGGRAPH Asia 2026 / ACM SIGGRAPH",
+        "submission_start": "2026-07-23",
+        "submission_end": "2026-08-23",
+        "result_date": "2026-09-13",
+        "url": "https://asia.siggraph.org/2026/submissions/workshops/ai-film-frontiers-workshop/",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://asia.siggraph.org/2026/submissions/workshops/ai-film-frontiers-workshop/",
+        "evidence": "SIGGRAPH Asia 2026 공식 페이지가 국제 AI Film Challenge로 AI 생성 영화와 기술 보고서를 함께 모집한다고 명시함. 접수는 2026-07-23 시작, 2026-08-23 마감, 수상작은 2026-09-13 발표하며 선정작은 SIGGRAPH Asia 2026에서 상영됨.",
+        "summary": "생성형 AI 영화와 제작 워크플로 기술 보고서를 함께 모집한 SIGGRAPH Asia 국제 AI 영화 챌린지. 접수 마감 후 9월 13일 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-24T07:00:00+09:00"
+      },
       {
         "title": "AI Film 3 - AI Film and Art Festival | Arizona | Year III",
         "category": "AI 영상",
