@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-08-23T19:00:00+09:00",
+  "generated_at": "2026-08-24T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "하나손해보험 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "하나손해보험",
+        "submission_start": "2026-08-12",
+        "submission_end": "2026-09-08",
+        "result_date": "2026-09-22 예정",
+        "url": "https://www.hanainsure.co.kr/w/benefit/event/ongoingEventDetail?nSeq=19",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://crowlly.xyz/competitions/hana-insurance-ai-video-contest-2026",
+        "evidence": "하나손해보험 공식 이벤트 페이지와 공개 공고에 생성형 AI를 활용한 가로형 TVC·세로형 숏폼 영상, 접수 2026.08.12~09.08이 명시.",
+        "summary": "하나손해보험 브랜드를 생성형 AI 광고영상과 숏폼으로 표현하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-24T19:00:00+09:00"
+      },
+      {
+        "title": "THE GREAT GWANGJU AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "광주신세계",
+        "submission_start": "2026-08-20",
+        "submission_end": "2026-09-27",
+        "result_date": "2026-10-08 예정",
+        "url": "https://form.naver.com/response/HI3Ib605OPW",
+        "source_type": "official_apply_page",
+        "discovery_source": "brave",
+        "discovery_url": "https://crowlly.xyz/competitions/gwangju-shinsegae-the-great-gwangju-ai-video-contest-2026",
+        "evidence": "공개 공고와 주최 측 접수 폼에 미래의 광주신세계 서비스·시설·공간을 주제로 한 30초~1분 AI 숏폼 영상, 접수 2026.08.20~09.27이 명시.",
+        "summary": "미래의 광주신세계에 생기길 바라는 서비스를 AI 숏폼 영상으로 제안하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-24T19:00:00+09:00"
+      },
+      {
+        "title": "제6회 그린리모델링 챌린지 42초 AI 영화제",
+        "category": "AI 영상",
+        "organizer": "국토교통부·국토안전관리원",
+        "submission_start": "2026-08-12",
+        "submission_end": "2026-09-30",
+        "result_date": "2026-11-18 예정",
+        "url": "https://2026grchallenge.com/front/contest/guideline",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://crowlly.xyz/competitions/green-remodeling-challenge-42sec-ai-film-2026",
+        "evidence": "공식 공모요강에 생성형 AI 등 AI 기술로 그린리모델링의 가치와 변화를 표현한 42초 영상, 접수 2026.08.12~09.30이 명시.",
+        "summary": "그린리모델링의 가치와 변화를 생성형 AI로 정확히 42초에 담는 영화제입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-24T19:00:00+09:00"
+      },
+      {
+        "title": "제2회 KOREAZ 콘텐츠 공모전",
+        "category": "AI 영상",
+        "organizer": "외교부",
+        "submission_start": "2026-06-01",
+        "submission_end": "2026-10-25",
+        "result_date": "2026-11 중 예정",
+        "url": "https://www.mofa.go.kr/www/brd/4075/view.do?page=279&pitem=10&seq=369399",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://crowlly.xyz/competitions/mofa-koreaz-content-contest-2026",
+        "evidence": "외교부 공식 공지에 생성형 AI를 활용해 청년이 상상하는 10년 후 미래를 영상으로 제작하며 접수 기간은 2026.06.01~10.25라고 명시.",
+        "summary": "청년이 상상하고 변화시킬 10년 후 미래를 생성형 AI 영상으로 제안하는 외교부 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-24T19:00:00+09:00"
+      },
       {
         "title": "2026년 로봇랜드 AI 영상제작 공모전",
         "category": "AI 영상",
@@ -437,22 +501,6 @@
         "source_checked_at": "2026-07-24T19:00:00+09:00"
       },
       {
-        "title": "자연은 더말린 AI 숏폼 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "웅진식품",
-        "submission_start": "2026-07-24",
-        "submission_end": "2026-08-23",
-        "result_date": "2026-08-28 예정",
-        "url": "https://www.etoday.co.kr/news/view/2607134",
-        "source_type": "reference_link",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://www.instagram.com/p/DbJ-hq_lK5s",
-        "evidence": "웅진식품 공식 SNS 색인과 복수 보도 참고 자료 기준 AI를 활용한 자연은 더말린 브랜드 30초 이내 숏폼 영상 제작, 접수 2026.07.24~08.23, 수상작 2026.08.28 발표 명시.",
-        "summary": "제로 칼로리 음료 자연은 더말린의 매력을 AI 숏폼 영상으로 표현하는 웅진식품 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-25T19:00:00+09:00"
-      },
-      {
         "title": "청년들이 만드는 첨단 공공서비스 AI 영상 공모전",
         "category": "AI 영상",
         "organizer": "행정안전부 / 한국지역정보개발원",
@@ -566,6 +614,22 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "자연은 더말린 AI 숏폼 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "웅진식품",
+        "submission_start": "2026-07-24",
+        "submission_end": "2026-08-23",
+        "result_date": "2026-08-28 예정",
+        "url": "https://www.etoday.co.kr/news/view/2607134",
+        "source_type": "reference_link",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://www.instagram.com/p/DbJ-hq_lK5s",
+        "evidence": "웅진식품 공식 SNS 색인과 복수 보도 참고 자료 기준 AI를 활용한 자연은 더말린 브랜드 30초 이내 숏폼 영상 제작, 접수 2026.07.24~08.23, 수상작 2026.08.28 발표 명시.",
+        "summary": "제로 칼로리 음료 자연은 더말린의 매력을 AI 숏폼 영상으로 표현하는 웅진식품 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-24T19:00:00+09:00"
+      },
       {
         "title": "The Next AI Film Festival 출품 공모",
         "category": "AI 영상",
