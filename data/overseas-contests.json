@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T07:00:00+09:00",
+  "generated_at": "2026-08-25T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -35,7 +35,8 @@
     "platform_scope_mode": "always_on"
   },
   "sections": {
-    "starting_today": [
+    "starting_today": [],
+    "ongoing": [
       {
         "title": "TCCP GENERATE 2026",
         "category": "AI 이미지",
@@ -49,12 +50,10 @@
         "discovery_source": "brave",
         "discovery_url": "https://www.tccp.org/generate2026/",
         "evidence": "TCCP 공식 GENERATE 2026 페이지가 모든 출품작을 생성형 AI 소프트웨어, 머신러닝 알고리즘, AI 보조 디자인 플랫폼 등 AI 도구로 제작해야 한다고 명시함. TCCP 22개 카운티 서비스 지역 거주자를 대상으로 2026-08-24 접수를 시작해 2026-10-30 23:59에 마감하며, 공개 투표와 심사 후 2026-12-07 시상 일정을 안내함.",
-        "summary": "미국 펜실베이니아 중부 지역 창작자가 AI 도구로 제작한 시각 예술 작품을 모집하는 TCCP 공모전. 오늘 접수를 시작합니다.",
-        "status": "오늘 시작",
-        "source_checked_at": "2026-08-24T07:00:00+09:00"
-      }
-    ],
-    "ongoing": [
+        "summary": "미국 펜실베이니아 중부 지역 창작자가 AI 도구로 제작한 시각 예술 작품을 모집하는 TCCP 공모전. 10월 30일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-25T07:00:00+09:00"
+      },
       {
         "title": "AKOOL Creator Clash 2026",
         "category": "AI 영상",
@@ -122,40 +121,6 @@
         "summary": "AI 기반 영상, 이미지, 비주얼 아트, 인터랙티브 미디어를 모집하는 뉴욕 기반 국제 AI 아트 어워드. 연장된 마감일은 8월 31일입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-07T07:00:00+09:00"
-      },
-      {
-        "title": "Adobe MAX 2026 Creativity Awards",
-        "category": "AI 디자인",
-        "country": "International",
-        "organizer": "Adobe",
-        "submission_start": "2026-06-09",
-        "submission_end": "2026-08-24",
-        "result_date": "2026-11-10",
-        "url": "https://max.adobe.com/creativity-awards/",
-        "source_type": "official_notice",
-        "discovery_source": "brave",
-        "discovery_url": "https://blog.adobe.com/en/publish/2026/06/18/adobe-max-2026-creativity-awards-here-are-categories-and-how-to-submit",
-        "evidence": "Adobe MAX Creativity Awards 공식 페이지에서 2026년 접수가 2026-06-09에 열리고 2026-08-24 23:59 PT에 마감된다고 확인함. Design, Image Making, Motion, Photography, Video 카테고리로 Adobe 도구 기반 창작 프로젝트를 접수하며, 공식 페이지는 honorees의 MAX 패스·항공·숙박 및 Adobe 플랫폼 공유 혜택을 안내함.",
-        "summary": "Adobe MAX 2026에서 Design, Image Making, Motion, Video 등 Adobe 도구 기반 창작 프로젝트를 시상하는 국제 공모. 공식 페이지 기준 8월 24일까지 접수.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-27T07:00:00+09:00"
-      },
-      {
-        "title": "Higgsfield Adathon 2026",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "Higgsfield",
-        "submission_start": "2026-07-27",
-        "submission_end": "2026-08-24",
-        "result_date": "2026-09-09",
-        "url": "https://higgsfield.ai/contests/adathon",
-        "source_type": "official_platform",
-        "discovery_source": "manual",
-        "discovery_url": "https://higgsfield.ai/contests/adathon",
-        "evidence": "Higgsfield 공식 Contests/Adathon 페이지가 The Adathon을 Jul 27–Aug 24 활성 콘테스트로 표시하고, 공식 규칙에서 2026-07-27 09:00 ET 시작 및 2026-08-24 23:59 ET 종료를 명시함. 제출물은 실제 브랜드용 30~60초 광고 영상이며 최소 51%가 AI-generated visuals이고 모든 AI 영상·이미지·음성 콘텐츠는 Higgsfield 플랫폼에서 제작해야 한다고 안내함. 참가 대상은 제재 지역 등을 제외한 전 세계 전문 팀.",
-        "summary": "Higgsfield와 Adweek가 진행하는 글로벌 AI 광고 영상 콘테스트. Higgsfield에서 제작한 30~60초 광고 영상을 8월 24일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-28T07:00:00+09:00"
       },
       {
         "title": "Higgsfield Global Film Festival 2026",
@@ -567,6 +532,40 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "Adobe MAX 2026 Creativity Awards",
+        "category": "AI 디자인",
+        "country": "International",
+        "organizer": "Adobe",
+        "submission_start": "2026-06-09",
+        "submission_end": "2026-08-24",
+        "result_date": "2026-11-10",
+        "url": "https://max.adobe.com/creativity-awards/",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://blog.adobe.com/en/publish/2026/06/18/adobe-max-2026-creativity-awards-here-are-categories-and-how-to-submit",
+        "evidence": "Adobe MAX Creativity Awards 공식 페이지에서 2026년 접수가 2026-06-09에 열리고 2026-08-24 23:59 PT에 마감된다고 확인함. Design, Image Making, Motion, Photography, Video 카테고리로 Adobe 도구 기반 창작 프로젝트를 접수하며, 공식 페이지는 honorees의 MAX 패스·항공·숙박 및 Adobe 플랫폼 공유 혜택을 안내함.",
+        "summary": "Adobe MAX 2026에서 Design, Image Making, Motion, Video 등 Adobe 도구 기반 창작 프로젝트를 모집한 국제 공모. 접수 마감 후 11월 10일 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-25T07:00:00+09:00"
+      },
+      {
+        "title": "Higgsfield Adathon 2026",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Higgsfield",
+        "submission_start": "2026-07-27",
+        "submission_end": "2026-08-24",
+        "result_date": "2026-09-09",
+        "url": "https://higgsfield.ai/contests/adathon",
+        "source_type": "official_platform",
+        "discovery_source": "manual",
+        "discovery_url": "https://higgsfield.ai/contests/adathon",
+        "evidence": "Higgsfield 공식 Contests/Adathon 페이지가 The Adathon을 Jul 27–Aug 24 활성 콘테스트로 표시하고, 공식 규칙에서 2026-07-27 09:00 ET 시작 및 2026-08-24 23:59 ET 종료를 명시함. 제출물은 실제 브랜드용 30~60초 광고 영상이며 최소 51%가 AI-generated visuals이고 모든 AI 영상·이미지·음성 콘텐츠는 Higgsfield 플랫폼에서 제작해야 한다고 안내함. 참가 대상은 제재 지역 등을 제외한 전 세계 전문 팀.",
+        "summary": "Higgsfield AI 도구로 제작한 광고 영상을 모집한 글로벌 Adathon. 접수 마감 후 9월 9일 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-25T07:00:00+09:00"
+      },
       {
         "title": "#はじめてのアイキャス – IDOL CAST 첫 사용자 참여 콘테스트",
         "category": "AI 이미지·영상",
