@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:00:00+09:00",
+  "generated_at": "2026-08-26T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -162,16 +162,16 @@
         "country": "International",
         "organizer": "SSIA Smile Swiss Influence Award / AI Media Agency",
         "submission_start": "2026-03-28",
-        "submission_end": "2026-08-31",
+        "submission_end": "2026-09-13",
         "result_date": "2026-10-27",
         "url": "https://ai-media-award.com/",
         "source_type": "official_homepage",
         "discovery_source": "tavily",
         "discovery_url": "https://ai-media-award.com/",
-        "evidence": "공식 AI Media Award 2026 홈페이지에서 submission now open, 프로젝트 제출 마감 2026-08-31, 최종 쇼케이스 및 시상식 2026-10-27 취리히 일정을 확인함. 전 세계 개인·전문 에이전시·미디어 제작사가 참가 가능하며, AI 기술이 기획·디자인·제작에 핵심 역할을 한 5분 이하 audiovisual short format을 대상으로 함.",
-        "summary": "AI가 핵심적으로 쓰인 5분 이하 광고·미디어·브랜드 영상 등 AI 기반 숏폼 영상 작품을 접수하는 국제 어워드.",
+        "evidence": "공식 AI Media Award 2026 홈페이지에서 submission now open, 프로젝트 제출 마감이 2026-09-13으로 연장되었고 최종 쇼케이스 및 시상식은 2026-10-27 취리히에서 열린다고 확인함. 전 세계 개인·전문 에이전시·미디어 제작사가 참가 가능하며, AI 기술이 기획·디자인·제작에 핵심 역할을 한 5분 이하 audiovisual short format을 대상으로 함.",
+        "summary": "AI가 핵심적으로 쓰인 5분 이하 광고·미디어·브랜드 영상 등 AI 기반 숏폼 영상 작품을 모집하는 국제 어워드. 연장된 마감일은 9월 13일입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
+        "source_checked_at": "2026-08-26T07:00:00+09:00"
       },
       {
         "title": "Marbella International Film Festival 2026 – AI & Digital Contents Competition",
