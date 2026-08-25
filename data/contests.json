@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:00:00+09:00",
+  "generated_at": "2026-08-25T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -83,6 +83,22 @@
         "summary": "로봇랜드 캐릭터와 시설을 소재로 생성형 AI 홍보영상을 제작하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-20T19:00:00+09:00"
+      },
+      {
+        "title": "2026 부산교통공사 AI 이미지 공모전",
+        "category": "AI 이미지",
+        "organizer": "부산교통공사",
+        "submission_start": "2026-08-24",
+        "submission_end": "2026-09-13",
+        "result_date": "2026-09-29 예정",
+        "url": "https://www.humetro.busan.kr/servlet/DownloadServlet?file_name=2f98ca7e-a224-4a19-a8b7-11340a30bc57.pdf&file_name_origin=%EA%B3%B5%EB%AA%A8%EC%A0%84%ED%8F%AC%EC%8A%A4%ED%84%B0.pdf&upload_dir=board.80",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2462721",
+        "evidence": "부산교통공사 공식 포스터와 공개 안내에 생성형 AI로 미래 부산도시철도·부산 랜드마크·공사 캐릭터를 표현한 PNG/JPG/JPEG 이미지, 접수 2026.08.24~09.13이 명시.",
+        "summary": "생성형 AI로 시민이 꿈꾸는 미래 부산도시철도의 모습을 이미지로 표현하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-25T19:00:00+09:00"
       },
       {
         "title": "대한민국 가스안전 AI 게임·영상 공모전",
