@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T07:00:00+09:00",
+  "generated_at": "2026-08-27T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,6 +37,23 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "ユメカタリ 학생 생성형 AI 콘테스트 2026",
+        "category": "생성형 AI",
+        "country": "Japan",
+        "organizer": "ユメカタリ 학생 생성형 AI 콘테스트 실행위원회",
+        "submission_start": "2026-06-01",
+        "submission_end": "2026-09-10",
+        "result_date": "2026-10-11",
+        "url": "https://aichi-select.net/ai_contest/",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://aichi-select.net/ai_contest/",
+        "evidence": "공식 페이지가 2026년 6월부터 9월 10일까지 접수한다고 안내하며, 일본의 대학생·대학원생·전문학교생·고등전문학교생·고등학생·졸업 후 3년 이내 제2신졸을 대상으로 생성형 AI 앱·도구·서비스 개발 부문과 포스터·기획서·영상 등을 제출하는 크리에이티브 부문을 운영한다고 명시함. 최종 심사는 나고야 2026-10-01, 도쿄 2026-10-11에 진행됨.",
+        "summary": "일본 학생과 제2신졸이 생성형 AI 기반 개발 작품 또는 포스터·영상·기획 작품으로 참가하는 공모전. 9월 10일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-27T07:00:00+09:00"
+      },
       {
         "title": "TCCP GENERATE 2026",
         "category": "AI 이미지",
