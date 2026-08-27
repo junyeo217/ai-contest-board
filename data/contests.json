@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:00:00+09:00",
+  "generated_at": "2026-08-27T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -627,7 +627,9 @@
         "summary": "해양수도 부산을 주제로 생성형 AI 영상 또는 이미지를 제작하는 부산 시민 대상 콘텐츠 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-15T19:00:00+09:00"
-      },
+      }
+    ],
+    "awaiting_results": [
       {
         "title": "[2026 SHIFT & SPARK] AI+XR 공모전 | AI로 만드는 나의 실감세계",
         "category": "AI 영상",
@@ -641,11 +643,9 @@
         "discovery_url": "https://gongmo.incruit.com/info/gongmolistinfo.asp?contestno=202608060002",
         "evidence": "공고 본문 일반 부문에 생성형 AI를 활용한 15~30초 숏폼 영상 결과물 명시",
         "summary": "생성형 AI와 XR 기술로 실감 콘텐츠 또는 15~30초 숏폼 영상을 제작하는 공모전",
-        "status": "진행중",
-        "source_checked_at": "2026-08-23T19:00:00+09:00"
-      }
-    ],
-    "awaiting_results": [
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-27T19:00:00+09:00"
+      },
       {
         "title": "자연은 더말린 AI 숏폼 영상 공모전",
         "category": "AI 영상",
