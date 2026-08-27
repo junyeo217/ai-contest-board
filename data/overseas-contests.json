@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T07:00:00+09:00",
+  "generated_at": "2026-08-28T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -155,23 +155,6 @@
         "summary": "Higgsfield 플랫폼에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하는 글로벌 영화제. 9월 3일까지 접수합니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-13T07:00:00+09:00"
-      },
-      {
-        "title": "BOCHNIA INTERNATIONAL AI FILM FESTIVAL 2026",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "MDK Bochnia / Urzad Miasta Bochnia / Pixel Frame Studio",
-        "submission_start": "2026-03-01",
-        "submission_end": "2026-08-27",
-        "result_date": "2026-09-05",
-        "url": "https://filmfreeway.com/BIAIFF2026",
-        "source_type": "official_apply_page",
-        "discovery_source": "brave/manual",
-        "discovery_url": "https://filmfreeway.com/BIAIFF2026",
-        "evidence": "FilmFreeway 공식 접수 페이지가 Bochnia International AI Film Festival을 AI를 창작 도구로 사용하는 국제 단편 영화 공모로 설명하고, Open to filmmakers worldwide, significant use of generative AI tools required, 2026-03-01 Opening Date, 2026-08-27 Extended Deadline, 2026-09-05 Notification Date, 2026-09-17 Event Date를 표시함.",
-        "summary": "전 세계 창작자를 대상으로 생성형 AI를 의미 있게 활용한 1~10분 AI 단편영화를 모집하는 폴란드 Bochnia 기반 국제 AI 영화제.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-29T07:00:00+09:00"
       },
       {
         "title": "AI Media Award 2026",
@@ -584,23 +567,6 @@
         "source_checked_at": "2026-08-25T07:00:00+09:00"
       },
       {
-        "title": "#はじめてのアイキャス – IDOL CAST 첫 사용자 참여 콘테스트",
-        "category": "AI 이미지·영상",
-        "country": "Japan",
-        "organizer": "KOWRO / IDOL CAST",
-        "submission_start": "2026-08-14",
-        "submission_end": "2026-08-23",
-        "result_date": "2026-08-26",
-        "url": "https://prtimes.jp/main/html/rd/p/000000005.000184101.html",
-        "source_type": "reference_link",
-        "discovery_source": "tavily",
-        "discovery_url": "https://prtimes.jp/main/html/rd/p/000000005.000184101.html",
-        "evidence": "KOWRO 공식 배포 보도자료가 AI 아이돌 프로듀싱 서비스 IDOL CAST에서 생성한 영상 또는 이미지를 모집한다고 명시함. 응모 기간은 2026-08-14 12:00~2026-08-23 23:59, 결과 발표는 2026-08-26이며, 공식 계정 팔로우·지정 해시태그 공개 게시·응모 폼 제출 절차와 심사·상품 정보가 확인됨.",
-        "summary": "IDOL CAST에서 제작한 AI 아이돌 이미지 또는 영상을 모집한 일본 사용자 참여형 콘테스트. 접수 마감 후 8월 26일 결과 발표를 기다립니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-08-24T07:00:00+09:00"
-      },
-      {
         "title": "SIGGRAPH Asia 2026 AI Film Frontiers Challenge",
         "category": "AI 영상",
         "country": "International",
@@ -633,23 +599,6 @@
         "summary": "애리조나 피닉스에서 열리는 AI 영화·아트 페스티벌. 접수 마감 후 8월 31일 결과 발표를 기다립니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-08-23T07:00:00+09:00"
-      },
-      {
-        "title": "AI International Film Festival 2026 – October Hollywood Edition",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "AI International Film Festival",
-        "submission_start": "2026-07-24",
-        "submission_end": "2026-08-21",
-        "result_date": "2026-08-27",
-        "url": "https://filmfreeway.com/AIinternationalFilmFestival",
-        "source_type": "official_apply_page",
-        "discovery_source": "manual",
-        "discovery_url": "https://filmfreeway.com/AIinternationalFilmFestival",
-        "evidence": "FilmFreeway 공식 접수 페이지가 2026-07-24 Opening Date, 2026-07-31 Earlybird Deadline, 2026-08-21 Regular Deadline, 2026-08-27 Notification Date, 2026-10-10 Event Date를 표시함. Best AI Film, Best AI Feature Film, Best AI Short Film, Best AI Vertical Short, Best AI Animation Short, Best Hybrid AI Short Film 등 AI 제작·AI 주제 영상 부문을 모집함.",
-        "summary": "AI International Film Festival의 2026년 10월 Hollywood 접수 사이클. 접수 마감 후 8월 27일 결과 발표를 기다립니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-08-22T07:00:00+09:00"
       },
       {
         "title": "BLACK AI FEST 2026 – International A.I Film Academy Festival & Awards",
@@ -752,23 +701,6 @@
         "summary": "미국 유타에서 열리는 AI 생성 영화제. AI 영화, 단편, 광고, 애니메이션 등 부문을 8월 10일까지 접수합니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-07-09T07:00:00+09:00"
-      },
-      {
-        "title": "Shortest AI Film Competition by LTX Studio 2026",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "Forward Festival / LTX Studio",
-        "submission_start": "2026-07-14",
-        "submission_end": "2026-08-10",
-        "result_date": "2026-08-27",
-        "url": "https://ltx.io/studio/beyond-the-prompt",
-        "source_type": "official_platform",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://ltx.io/studio/beyond-the-prompt",
-        "evidence": "LTX Studio 공식 Beyond the Prompt 페이지가 LTX Studio로 100% 생성한 short-form film 공모를 안내하며, 일정은 2026-07-14 11:59 EST submissions open, 2026-08-10 11:59 EST submissions close, 2026-08-14 winners contacted, 2026-08-28 Forward Festival Berlin 상영으로 확인됨. Forward Festival 공식 페이지와 공식 Instagram은 Shortest AI Film Competition by LTX의 Forward Festival Berlin 상영 및 2026-08-10 연장 마감을 보강 확인함.",
-        "summary": "LTX Studio로 100% 생성한 60초 이하 AI 단편 영화를 제출하는 국제 공모. 8월 10일까지 접수하고 수상작은 Forward Festival Berlin에서 상영됩니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-19T07:00:00+09:00"
       },
       {
         "title": "My Style vintage Generative AI Contest 2026",
@@ -1058,6 +990,23 @@
         "summary": "Kling AI로 제작한 경기장 응원/치어 계열 AI 영상을 제출하는 글로벌 공식 플랫폼 챌린지. 2026년 7월 26일 접수가 마감되어 발표를 기다립니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-07-27T07:00:00+09:00"
+      },
+      {
+        "title": "BOCHNIA INTERNATIONAL AI FILM FESTIVAL 2026",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "MDK Bochnia / Urzad Miasta Bochnia / Pixel Frame Studio",
+        "submission_start": "2026-03-01",
+        "submission_end": "2026-08-27",
+        "result_date": "2026-09-05",
+        "url": "https://filmfreeway.com/BIAIFF2026",
+        "source_type": "official_apply_page",
+        "discovery_source": "brave/manual",
+        "discovery_url": "https://filmfreeway.com/BIAIFF2026",
+        "evidence": "FilmFreeway 공식 접수 페이지가 Bochnia International AI Film Festival을 AI를 창작 도구로 사용하는 국제 단편 영화 공모로 설명하고, Open to filmmakers worldwide, significant use of generative AI tools required, 2026-03-01 Opening Date, 2026-08-27 Extended Deadline, 2026-09-05 Notification Date, 2026-09-17 Event Date를 표시함.",
+        "summary": "전 세계 창작자를 대상으로 생성형 AI를 의미 있게 활용한 1~10분 AI 단편영화를 모집하는 폴란드 Bochnia 기반 국제 AI 영화제.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-28T07:00:00+09:00"
       }
     ]
   },
@@ -1102,6 +1051,16 @@
       "summary": "Runway 공식 페이지에서 수상작 공개를 확인한 발표대기 항목 1건을 관리 대상에서 제외",
       "items": [
         "Runway Another Big Ad Contest Vol. II"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "type": "cleanup",
+      "summary": "발표 예정일이 2026-08-26~2026-08-27인 발표대기 항목 3건을 관리 대상에서 제외",
+      "items": [
+        "#はじめてのアイキャス – IDOL CAST 첫 사용자 참여 콘테스트",
+        "AI International Film Festival 2026 – October Hollywood Edition",
+        "Shortest AI Film Competition by LTX Studio 2026"
       ]
     }
   ]
