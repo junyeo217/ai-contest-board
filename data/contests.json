@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-08-28T19:00:00+09:00",
+  "generated_at": "2026-08-29T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "2026년도 제44회 교통안전 홍보작품 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "한국도로교통공단",
+        "submission_start": "2026-08-28",
+        "submission_end": "2026-10-18",
+        "result_date": "2026-11 중순 예정",
+        "url": "https://www.newswhoplus.com/news/articleView.html?idxno=68214",
+        "source_type": "reference_link",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.newswhoplus.com/news/articleView.html?idxno=68214",
+        "evidence": "한국도로교통공단 배포 안내에 AI 영상·디자인 교통안전 홍보작품으로 광고영상·숏폼영상·광고포스터 3개 분야, 접수 2026.08.28~10.18이 명시.",
+        "summary": "AI 광고영상·숏폼·포스터로 어린이와 고령자의 교통안전 문화를 알리는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-29T19:00:00+09:00"
+      },
+      {
+        "title": "2026 김해·인제대 All-City Campus 국제 청년 AI 생성아트 콘테스트",
+        "category": "AI 이미지·영상",
+        "organizer": "인제대학교 글로컬대학사업본부",
+        "submission_start": "2026-08-24",
+        "submission_end": "2026-09-30",
+        "result_date": "2026-10-12 예정",
+        "url": "https://www.veritas-a.com/news/articleView.html?idxno=624307",
+        "source_type": "reference_link",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.veritas-a.com/news/articleView.html?idxno=624307",
+        "evidence": "인제대 배포 안내에 생성형 AI를 활용한 영상·시각·사운드·인터랙티브 콘텐츠 분야와 접수 2026.08.24~09.30이 명시.",
+        "summary": "All-City Campus를 주제로 생성형 AI 영상과 시각예술 등 다양한 창작물을 모집하는 국제 청년 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-08-29T19:00:00+09:00"
+      },
       {
         "title": "AI로 여는 미래·한중 청년 AI 숏폼 영상 공모전",
         "category": "AI 영상",
@@ -229,22 +261,6 @@
         "source_checked_at": "2026-08-17T19:00:00+09:00"
       },
       {
-        "title": "WCPEC-9 AI로 그리는 미래에너지 공모전",
-        "category": "AI 이미지·영상",
-        "organizer": "제9회 대전 세계태양광총회 조직위원회",
-        "submission_start": "2026-08-14",
-        "submission_end": "2026-08-28",
-        "result_date": "미정",
-        "url": "https://www.facebook.com/daejeonstory/posts/1526553259510763",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.allforyoung.com/posts/85980",
-        "evidence": "대전광역시 공식 SNS 안내와 공개 공고에 AI로 제작한 태양광·미래에너지 이미지(JPG·PNG) 또는 영상(MP4·MOV), 접수 2026.08.14~08.28이 명시.",
-        "summary": "태양광과 미래 에너지를 주제로 AI 이미지 또는 영상을 제작하는 대국민 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-16T19:00:00+09:00"
-      },
-      {
         "title": "2026년 남원 숏폼 영상(+AI) 공모전: Deep in Namwon",
         "category": "AI 영상",
         "organizer": "남원시·우석대학교 RISE사업단 / 로잇스페이스",
@@ -403,22 +419,6 @@
         "summary": "AI 기술을 전부 또는 일부 활용한 영화를 모집하는 국제 비경쟁 영화제 출품 공모입니다.",
         "status": "진행중",
         "source_checked_at": "2026-07-30T19:00:00+09:00"
-      },
-      {
-        "title": "제21회 생물다양성 세밀화 및 인공지능(AI) 이미지 공모전",
-        "category": "AI 이미지",
-        "organizer": "국립생물자원관",
-        "submission_start": "2026-05-22",
-        "submission_end": "2026-08-28",
-        "result_date": "2026-10 중순 예정",
-        "url": "http://www.제21회생물다양성공모전.com",
-        "source_type": "official_homepage",
-        "discovery_source": "tavily",
-        "discovery_url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156762922",
-        "evidence": "정책브리핑/국립생물자원관 보도자료 기준 인공지능 이미지 분야 신설, 생성형 언어모델로 자유롭게 제작한 인공지능 이미지 응모 명시.",
-        "summary": "생물다양성을 주제로 세밀화와 생성형 AI 이미지를 모집하는 전 국민 대상 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-05-23T19:00:00+09:00"
       },
       {
         "title": "2026 한글 AI아트 창작 공모전",
@@ -581,22 +581,6 @@
         "source_checked_at": "2026-08-04T19:00:00+09:00"
       },
       {
-        "title": "제23회 영천보현산별빛축제 청소년 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "영천시",
-        "submission_start": "2026-08-03",
-        "submission_end": "2026-08-28",
-        "result_date": "2026-09 중 예정",
-        "url": "https://www.facebook.com/ycstar01000/posts/1474904624676767",
-        "source_type": "official_platform",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://www.welfarehello.com/community/hometownNews/%EC%A0%9C23%ED%9A%8C-%EC%98%81%EC%B2%9C%EB%B3%B4%ED%98%84%EC%82%B0%EB%B3%84%EB%B9%9B%EC%B6%95%EC%A0%9C-%EC%B2%AD%EC%86%8C%EB%85%84-AI-%EC%98%81%EC%83%81-%EA%B3%B5%EB%AA%A8%EC%A0%84--100cadc3-2d9a-43c0-8205-6fda850c04e4",
-        "evidence": "영천시 제공 공고와 공식 축제 채널에 생성형 AI를 활용한 30~90초 영상 제출 및 2026.08.03~08.28 접수 기간 명시.",
-        "summary": "대구·경북 청소년이 별과 우주, 보현산과 영천 관광을 생성형 AI 영상으로 표현하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-03T19:00:00+09:00"
-      },
-      {
         "title": "2026 AI 활용 스포츠 활동 숏폼 공모전",
         "category": "AI 영상",
         "organizer": "국민체육진흥공단",
@@ -627,6 +611,56 @@
         "summary": "생성형 AI를 활용해 전국민 AI 경진대회 대표 캐릭터 알고와 함께할 친구 캐릭터를 제안하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-15T19:00:00+09:00"
+      }
+    ],
+    "awaiting_results": [
+      {
+        "title": "WCPEC-9 AI로 그리는 미래에너지 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "제9회 대전 세계태양광총회 조직위원회",
+        "submission_start": "2026-08-14",
+        "submission_end": "2026-08-28",
+        "result_date": "미정",
+        "url": "https://www.facebook.com/daejeonstory/posts/1526553259510763",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.allforyoung.com/posts/85980",
+        "evidence": "대전광역시 공식 SNS 안내와 공개 공고에 AI로 제작한 태양광·미래에너지 이미지(JPG·PNG) 또는 영상(MP4·MOV), 접수 2026.08.14~08.28이 명시.",
+        "summary": "태양광과 미래 에너지를 주제로 AI 이미지 또는 영상을 제작하는 대국민 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-29T19:00:00+09:00"
+      },
+      {
+        "title": "제21회 생물다양성 세밀화 및 인공지능(AI) 이미지 공모전",
+        "category": "AI 이미지",
+        "organizer": "국립생물자원관",
+        "submission_start": "2026-05-22",
+        "submission_end": "2026-08-28",
+        "result_date": "2026-10 중순 예정",
+        "url": "http://www.제21회생물다양성공모전.com",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156762922",
+        "evidence": "정책브리핑/국립생물자원관 보도자료 기준 인공지능 이미지 분야 신설, 생성형 언어모델로 자유롭게 제작한 인공지능 이미지 응모 명시.",
+        "summary": "생물다양성을 주제로 세밀화와 생성형 AI 이미지를 모집하는 전 국민 대상 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-29T19:00:00+09:00"
+      },
+      {
+        "title": "제23회 영천보현산별빛축제 청소년 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "영천시",
+        "submission_start": "2026-08-03",
+        "submission_end": "2026-08-28",
+        "result_date": "2026-09 중 예정",
+        "url": "https://www.facebook.com/ycstar01000/posts/1474904624676767",
+        "source_type": "official_platform",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://www.welfarehello.com/community/hometownNews/%EC%A0%9C23%ED%9A%8C-%EC%98%81%EC%B2%9C%EB%B3%B4%ED%98%84%EC%82%B0%EB%B3%84%EB%B9%9B%EC%B6%95%EC%A0%9C-%EC%B2%AD%EC%86%8C%EB%85%84-AI-%EC%98%81%EC%83%81-%EA%B3%B5%EB%AA%A8%EC%A0%84--100cadc3-2d9a-43c0-8205-6fda850c04e4",
+        "evidence": "영천시 제공 공고와 공식 축제 채널에 생성형 AI를 활용한 30~90초 영상 제출 및 2026.08.03~08.28 접수 기간 명시.",
+        "summary": "대구·경북 청소년이 별과 우주, 보현산과 영천 관광을 생성형 AI 영상으로 표현하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-29T19:00:00+09:00"
       },
       {
         "title": "부산 AI 페스티벌 AI 콘텐츠 공모전",
@@ -641,11 +675,9 @@
         "discovery_url": "https://bipa.kr/board/business/view?seq=85305",
         "evidence": "부산정보산업진흥원 사업공고와 참고 공고에 생성형 AI로 만든 1분 이내 영상 또는 이미지 분야, 접수 2026.08.13~08.28 12:00 및 결과 발표 2026.09.04가 명시.",
         "summary": "해양수도 부산을 주제로 생성형 AI 영상 또는 이미지를 제작하는 부산 시민 대상 콘텐츠 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-15T19:00:00+09:00"
-      }
-    ],
-    "awaiting_results": [
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-29T19:00:00+09:00"
+      },
       {
         "title": "생성형 AI 퓨전국악 뮤직비디오 공모전",
         "category": "AI 영상",
