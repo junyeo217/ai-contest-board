@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:00:00+09:00",
+  "generated_at": "2026-09-02T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,6 +37,23 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "NEXT ART AI 2026",
+        "category": "AI 이미지·영상",
+        "country": "International",
+        "organizer": "HOBAN Cultural Foundation",
+        "submission_start": "2026-09-01",
+        "submission_end": "2026-09-30",
+        "result_date": "2026-11-01",
+        "url": "https://next-art-ai.com/en/apply/overview",
+        "source_type": "official_apply_page",
+        "discovery_source": "tavily",
+        "discovery_url": "https://ai-arts.org/competitions/next-art-ai-2026",
+        "evidence": "공식 지원 안내가 국적·연령·경력 제한 없이 누구나 참가 가능한 국제 AI 아트 공모전으로 명시하고, AI Image Art와 AI Video Art 부문을 2026-09-01부터 2026-09-30 23:59 KST까지 온라인 접수한다고 안내함. 최종 발표와 시상식은 2026년 11월 초 예정임.",
+        "summary": "생성형 AI로 제작한 이미지 또는 영상 작품을 전 세계 참가자에게 모집하는 호반문화재단 국제 AI 아트 어워드. 9월 30일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-02T07:00:00+09:00"
+      },
       {
         "title": "ユメカタリ 학생 생성형 AI 콘테스트 2026",
         "category": "생성형 AI",
@@ -138,23 +155,6 @@
         "summary": "AI가 핵심적으로 쓰인 5분 이하 광고·미디어·브랜드 영상 등 AI 기반 숏폼 영상 작품을 모집하는 국제 어워드. 연장된 마감일은 9월 13일입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-26T07:00:00+09:00"
-      },
-      {
-        "title": "LifeArt AI Global Film Festival 2026",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "LifeArt Festival / EyeMix AI",
-        "submission_start": "2026-01-15",
-        "submission_end": "2026-09-01",
-        "result_date": "2026-11-01",
-        "url": "https://www.lifeartfestival.com/ai",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://festhome.com/en/festival/ai-global-film-festival-lifeart",
-        "evidence": "공식 LifeArt AI Film Festival 페이지가 AI-generated films, animation, digital art, experimental AI media 및 AI Art & Visual Design 등 AI Film Awards 카테고리를 안내하고, FilmFreeway/FestHome/Toujiang 제출 경로를 제공함. 2026-06-05 재확인 시 공식 페이지와 FestHome 검색 본문에서 Regular Deadline 2026-08-01, Late Deadline 2026-08-20, Extended Deadline 2026-09-01 및 Notification Date 2026-11-01이 확인되어 진행중으로 보정함.",
-        "summary": "AI 생성 영화·애니메이션·디지털 아트·실험 AI 미디어를 접수하는 국제 AI 영화제. 연장 마감은 9월 1일.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
         "title": "The AI Design Awards 2026",
@@ -430,6 +430,23 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "LifeArt AI Global Film Festival 2026",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "LifeArt Festival / EyeMix AI",
+        "submission_start": "2026-01-15",
+        "submission_end": "2026-09-01",
+        "result_date": "2026-11-01",
+        "url": "https://www.lifeartfestival.com/ai",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://festhome.com/en/festival/ai-global-film-festival-lifeart",
+        "evidence": "공식 LifeArt AI Film Festival 페이지가 AI-generated films, animation, digital art, experimental AI media 및 AI Art & Visual Design 등 AI Film Awards 카테고리를 안내하고, FilmFreeway/FestHome/Toujiang 제출 경로를 제공함. 공식 페이지와 FestHome 검색 본문에서 Extended Deadline 2026-09-01 및 Notification Date 2026-11-01이 확인되며, 접수 마감에 따라 발표 대기로 전환함.",
+        "summary": "AI 생성 영화·애니메이션·디지털 아트·실험 AI 미디어 국제 영화제. 9월 1일 접수를 마감해 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-09-02T07:00:00+09:00"
+      },
       {
         "title": "AAIFF 2026 – Astana AI Film Festival",
         "category": "AI 영상",
