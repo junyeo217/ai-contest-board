@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T07:00:00+09:00",
+  "generated_at": "2026-09-03T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -128,16 +128,16 @@
         "country": "Global",
         "organizer": "Higgsfield",
         "submission_start": "2026-08-10",
-        "submission_end": "2026-09-03",
+        "submission_end": "2026-09-14",
         "result_date": "미정",
         "url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
         "source_type": "official_platform",
         "discovery_source": "tavily",
         "discovery_url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
-        "evidence": "Higgsfield 공식 블로그가 2026-08-10 글로벌 필름 페스티벌 접수 시작과 2026-09-03 23:59 PT 마감을 명시함. 전 세계 Higgsfield 구독자가 개인 또는 최대 4인 팀으로 참가할 수 있으며, Cinema Studio 안에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하고 수상자는 2026년 10월 첫째 주에 발표한다고 안내함.",
-        "summary": "Higgsfield 플랫폼에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하는 글로벌 영화제. 9월 3일까지 접수합니다.",
+        "evidence": "Higgsfield 공식 블로그가 2026-08-10 글로벌 필름 페스티벌 접수 시작과 연장된 2026-09-14 23:59 UTC 마감을 명시함. 전 세계 Higgsfield 구독자가 개인 또는 최대 4인 팀으로 참가할 수 있으며, Cinema Studio 안에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하고 수상자는 2026년 10월 마지막 주에 발표할 예정이라고 안내함.",
+        "summary": "Higgsfield 플랫폼에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하는 글로벌 영화제. 연장된 마감일은 9월 14일입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-08-13T07:00:00+09:00"
+        "source_checked_at": "2026-09-03T07:00:00+09:00"
       },
       {
         "title": "AI Media Award 2026",
@@ -179,16 +179,16 @@
         "country": "Japan",
         "organizer": "AI Film Festival Japan",
         "submission_start": "2026-07-01",
-        "submission_end": "2026-09-20",
+        "submission_end": "2026-09-30",
         "result_date": "2026-10-01",
         "url": "http://aifilm.jp/index_en.html",
         "source_type": "official_homepage",
         "discovery_source": "tavily",
         "discovery_url": "https://filmfreeway.com/AIFilmFestivalJapan2026",
-        "evidence": "AI Film Festival Japan 공식 영문 사이트가 AIFJ 2026을 cutting-edge AI technology와 human creativity가 만나는 영화제로 소개함. FilmFreeway/Festhome 검색 결과는 Tokyo Innovation Base에서 2026-11-22 개최되는 Japan의 international AI film festival로, 제출작은 writing, image generation, editing, sound, animation 등 창작 과정의 의미 있는 부분에 AI를 사용해야 한다고 설명함. FilmFreeway 검색 결과에서 2026-07-01 Opening Date, 2026-07-31 Earlybird Deadline, 2026-08-31 Regular Deadline, 2026-09-20 Late Deadline이 확인됨.",
-        "summary": "도쿄에서 열리는 일본 AI 영화제. AI를 창작 과정에 의미 있게 활용한 영화·애니메이션·실험 작품을 9월 20일까지 접수합니다.",
+        "evidence": "AI Film Festival Japan 공식 영문 사이트와 FilmFreeway 공식 접수 페이지가 AIFJ 2026을 인간 창작자와 AI의 협업을 다루는 국제 영화제로 안내함. 국적·연령·성별·배경 제한 없이 참가할 수 있고, 영화 제작의 의미 있는 부분에 AI를 사용해야 하며, 공식 접수 기간은 2026-07-01 00:00~2026-09-30 12:00 JST로 확인됨.",
+        "summary": "도쿄에서 열리는 일본 AI 영화제. AI를 창작 과정에 의미 있게 활용한 영화·애니메이션·실험 작품을 9월 30일까지 접수합니다.",
         "status": "진행중",
-        "source_checked_at": "2026-07-08T07:00:00+09:00"
+        "source_checked_at": "2026-09-03T07:00:00+09:00"
       },
       {
         "title": "WAIFF LA USA 2026",
@@ -601,40 +601,6 @@
         "source_checked_at": "2026-08-24T07:00:00+09:00"
       },
       {
-        "title": "AI Film 3 - AI Film and Art Festival | Arizona | Year III",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "AI Film 3",
-        "submission_start": "2026-02-16",
-        "submission_end": "2026-08-22",
-        "result_date": "2026-08-31",
-        "url": "https://filmfreeway.com/AIFilm3",
-        "source_type": "official_apply_page",
-        "discovery_source": "tavily",
-        "discovery_url": "https://filmfreeway.com/AIFilm3",
-        "evidence": "FilmFreeway 공식 제출 페이지가 Phoenix, Arizona에서 열리는 3년차 AI Film and Art Festival로 소개하며, AI-generated films, AI music video, AI documentary, AI short form film, AI long form film, AI experimental video/audio 등 AI 도구·기법을 사용한 작품을 접수한다고 명시함. 일정은 Opening 2026-02-16, Regular Deadline 2026-08-01, Late Deadline 2026-08-22, Notification 2026-08-31, Event 2026-09-17~19로 공지됨.",
-        "summary": "애리조나 피닉스에서 열리는 AI 영화·아트 페스티벌. 접수 마감 후 8월 31일 결과 발표를 기다립니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-08-23T07:00:00+09:00"
-      },
-      {
-        "title": "BLACK AI FEST 2026 – International A.I Film Academy Festival & Awards",
-        "category": "AI 영상",
-        "country": "United Kingdom",
-        "organizer": "Mighty Jot Ltd / BLACK AI FEST",
-        "submission_start": "2025-10-12",
-        "submission_end": "2026-08-16",
-        "result_date": "2026-08-31",
-        "url": "https://filmfreeway.com/aifilmacademyfestivalandawards",
-        "source_type": "official_apply_page",
-        "discovery_source": "manual",
-        "discovery_url": "https://filmfreeway.com/aifilmacademyfestivalandawards",
-        "evidence": "FilmFreeway 공식 접수 페이지가 BLACKAIFEST 2026을 International AI Film Academy Festival & Awards로 소개하며 AI Film Trailer, AI Short Film, AI Feature Film, AI Animation, AI Adverts, AI Documentary, AI Music Video 등 AI 영상·애니메이션·광고 부문을 운영한다고 명시함. 일정은 2025-10-12 Opening Date, 2026-07-15 Late Deadline, 2026-08-16 Extended Deadline, 2026-08-31 Notification Date, 2026-10-17~18 Event Date이며 장소는 BFI Southbank, London으로 표시됨.",
-        "summary": "런던에서 열리는 국제 AI 영화 아카데미 페스티벌. 접수를 마치고 8월 31일 발표를 기다리고 있습니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-08-17T07:00:00+09:00"
-      },
-      {
         "title": "Austin AI Film Festival 2026",
         "category": "AI 영상",
         "country": "United States",
@@ -667,40 +633,6 @@
         "summary": "기술 낙관적 미래를 그리는 글로벌 SF 트레일러 공모전. 8월 15일 접수를 마치고 결과 발표를 기다립니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-08-16T07:00:00+09:00"
-      },
-      {
-        "title": "Reel Futures: Student AI Film Shorts Competition 2026",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "California Community Colleges / Futures Summit 2026",
-        "submission_start": "2026-04-13",
-        "submission_end": "2026-08-14",
-        "result_date": "2026-08-31",
-        "url": "https://filmfreeway.com/2026ReelFutures",
-        "source_type": "official_apply_page",
-        "discovery_source": "tavily",
-        "discovery_url": "https://californiacommunitycolleges.cventevents.com/event/970bba4c-aabb-4e04-aac7-de65ea72516d/reel-futures-student-ai-film-shorts-",
-        "evidence": "FilmFreeway 검색 결과가 Reel Futures: Student AI Film Shorts Competition의 2026-04-13 Opening Date, 2026-08-14 Regular Deadline, 2026-08-31 Notification Date, 2026-09-09~10 Event Date를 표시함. California Community Colleges Futures Summit 공식 Cvent 페이지는 California community college students 대상 original short films 제작 공모이며 AI Film Shorts 성격을 명시함.",
-        "summary": "California Community Colleges Futures Summit 2026 연계 학생 AI 단편 영화 공모. 8월 14일 접수를 마치고 결과 발표를 기다립니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-08-15T07:00:00+09:00"
-      },
-      {
-        "title": "CapCut CRE[AI]TE 2026 AI Festival",
-        "category": "AI 이미지·영상",
-        "country": "Global",
-        "organizer": "CapCut",
-        "submission_start": "2026-06-10",
-        "submission_end": "2026-08-10",
-        "result_date": "2026-09-01",
-        "url": "https://capcut.creaite26.com/",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.instagram.com/reel/DZaNSALJJJ4",
-        "evidence": "CapCut CRE[AI]TE 공식 이벤트 페이지의 메타데이터와 본문에서 CapCut's AI Festival, Film/Series/Creative/Commercial 트랙, 2026-06-10~2026-08-10 접수, CapCut Video Studio 활용, 2026년 9월 수상자 발표 및 $200K 규모 시상 정보를 확인함. CapCut 공식 Instagram 공지도 전 세계 크리에이터 대상 CapCut Video Studio 원작 공모와 2026-08-10까지 접수를 안내함.",
-        "summary": "CapCut Video Studio를 활용한 Film, Series, Creative, Commercial 트랙의 글로벌 AI 창작 페스티벌. 8월 10일까지 접수.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
         "title": "Red Rocks AI Film Festival 2026",
@@ -803,40 +735,6 @@
         "summary": "NeurIPS 2026 Creative AI Track의 AI/ML 기반 창작 작업 접수가 종료되어 9월 18일 결정을 기다립니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-08-04T07:00:00+09:00"
-      },
-      {
-        "title": "2026 Jeju Global AI Film Contest",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "Jeju Content Agency / Jeju Special Self-Governing Province",
-        "submission_start": "2026-06-15",
-        "submission_end": "2026-07-13",
-        "result_date": "2026-08-31",
-        "url": "https://filmfreeway.com/2026JejuGlobalAIFilmContest",
-        "source_type": "official_apply_page",
-        "discovery_source": "tavily",
-        "discovery_url": "https://filmfreeway.com/2026JejuGlobalAIFilmContest",
-        "evidence": "FilmFreeway 공식 접수 페이지가 Jeju Global AI Film Competition을 2026 Jeju International AI Film Festival 공식 사전 행사로 소개하고, 전 세계 AI-generated audiovisual works 발굴을 목표로 한다고 안내함. Opening Date 2026-06-15, Regular Deadline 2026-07-13, Notification Date 2026-08-31, Event Date 2026-09-15~17로 확인됨.",
-        "summary": "제주국제AI영화제 공식 사전 행사로 열리는 글로벌 AI 영상 공모전. 접수 마감 후 8월 31일 결과 발표를 기다립니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-14T07:00:00+09:00"
-      },
-      {
-        "title": "Reply AI Film Festival 2026",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "Reply / Reply AI Studios",
-        "submission_start": "2026-05-10",
-        "submission_end": "2026-06-02",
-        "result_date": "2026-09-01",
-        "url": "https://challenges.reply.com/challenges/creative/aifilmfestival/home/",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://challenges.reply.com/challenges/creative/aifilmfestival/home/",
-        "evidence": "Reply Challenges 공식 페이지가 AI 영상 제작 공모, 전 세계 18세 이상 참가, Venice 2026 프리미어/수상 발표를 안내하고, Call for Submissions가 기존 2026-06-01에서 2026-06-02로 연장됐다고 명시함.",
-        "summary": "AI를 활용한 단편 영화를 모집하는 국제 AI 영화제. 6월 2일까지 접수 후 9월 베니스 프리미어에서 발표.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
       },
       {
         "title": "PARKOUR TOP OF JAPAN YOKOSUKA 2026 AI Creative Award",
@@ -1078,6 +976,19 @@
         "#はじめてのアイキャス – IDOL CAST 첫 사용자 참여 콘테스트",
         "AI International Film Festival 2026 – October Hollywood Edition",
         "Shortest AI Film Competition by LTX Studio 2026"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "type": "cleanup",
+      "summary": "발표 예정일이 2026-08-31~2026-09-01인 발표대기 항목 6건을 관리 대상에서 제외하고 중복 섹션 배치를 함께 정리",
+      "items": [
+        "AI Film 3 - AI Film and Art Festival | Arizona | Year III",
+        "BLACK AI FEST 2026 – International A.I Film Academy Festival & Awards",
+        "Reel Futures: Student AI Film Shorts Competition 2026",
+        "CapCut CRE[AI]TE 2026 AI Festival",
+        "2026 Jeju Global AI Film Contest",
+        "Reply AI Film Festival 2026"
       ]
     }
   ]
