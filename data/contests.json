@@ -1,42 +1,57 @@
 {
-  "generated_at": "2026-09-01T19:00:00+09:00",
+  "generated_at": "2026-09-02T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [
+    "starting_today": [],
+    "ongoing": [
       {
-        "title": "2026 국가산림문화자산 AI 숏폼 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "산림청·한국산림복지진흥원",
+        "title": "2026 제12회 한국 AI 신발디자인 공모전",
+        "category": "AI 디자인",
+        "organizer": "부산광역시·부산테크노파크 신발패션진흥단",
         "submission_start": "2026-09-01",
         "submission_end": "2026-09-30",
-        "result_date": "2026-10 중 예정",
-        "url": "http://www.forestcontest26.com/contest.php?pg=21",
+        "result_date": "2026-10-31 시상 예정",
+        "url": "https://k-fda.kr/guidelines",
         "source_type": "official_homepage",
         "discovery_source": "tavily",
-        "discovery_url": "https://www.contestkorea.com/sub/view.php?Txt_gbn=1&Txt_bcode=031210001&str_no=202609010003",
-        "evidence": "공식 공모전 페이지에 AI 활용 스토리텔링·애니메이션 등 30초~3분 숏폼 영상 명시",
-        "summary": "국가산림문화자산과 산림을 AI로 표현하는 숏폼 영상 공모전",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-09-01T19:00:00+09:00"
+        "discovery_url": "https://linkareer.com/activity/346974",
+        "evidence": "공식 개최요강에 인공지능을 이용한 신발 산업디자인과 작품 이미지·스케치 제출 명시",
+        "summary": "인공지능을 활용해 창의적인 신발 산업디자인을 제안하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-02T19:00:00+09:00"
       },
       {
-        "title": "2026 춘천 반려동물 페스티벌 반려동물 AI 숏폼 공모전",
-        "category": "AI 영상",
-        "organizer": "춘천시",
-        "submission_start": "2026-09-01",
-        "submission_end": "2026-09-13",
-        "result_date": "2026-10-09~2026-10-11 시상 예정",
-        "url": "https://www.cccaf.co.kr",
-        "source_type": "official_homepage",
+        "title": "2026 해양안전 콘텐츠 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "해양수산부·해양경찰청·해양안전실천본부 / 한국해양교통안전공단",
+        "submission_start": "2026-08-24",
+        "submission_end": "2026-10-22",
+        "result_date": "2026-11 말~12 중 예정",
+        "url": "https://komsa.or.kr/prog/contest/edu/sub03_01_02/list.do",
+        "source_type": "official_apply_page",
         "discovery_source": "tavily",
-        "discovery_url": "https://v.daum.net/v/KAQvXVsATE",
-        "evidence": "생성형 AI를 일부 또는 전체 활용한 15초~3분 모바일 세로형 영상 명시",
-        "summary": "반려동물과 춘천의 매력을 생성형 AI 숏폼으로 표현하는 공모전",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-09-01T19:00:00+09:00"
-      }
-    ],
-    "ongoing": [
+        "discovery_url": "https://www.komsa.or.kr/bbs/BBSMSTR_000000000921/list.do",
+        "evidence": "공식 공모전 안내에 AI 콘텐츠 디자인물과 AI 숏폼영상 부문 및 2026.08.24~10.22 접수 명시",
+        "summary": "해양안전을 AI 디자인물 또는 AI 숏폼영상으로 알리는 국민 참여 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-02T19:00:00+09:00"
+      },
+      {
+        "title": "관계성 범죄예방 AI영상 콘텐츠 공모전",
+        "category": "AI 영상",
+        "organizer": "대전경찰청·대전자치경찰위원회·대전동부경찰서·한국폴리텍Ⅳ대학 대전캠퍼스",
+        "submission_start": "2026-09-01",
+        "submission_end": "2026-10-05",
+        "result_date": "2026-10-14 예정",
+        "url": "https://www.djpolice.go.kr/djdb?m_idx=03020100&m=view&idx=2918",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.facebook.com/poldaejeon/posts/1387779843540240",
+        "evidence": "대전경찰청 공식 게시물에 생성형 AI를 활용한 관계성 범죄예방 영상 콘텐츠와 2026.09.01~10.05 접수 명시",
+        "summary": "관계성 범죄 예방 메시지를 생성형 AI 영상으로 표현하는 대전 지역 청소년·대학생 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-02T19:00:00+09:00"
+      },
       {
         "title": "2026년도 제44회 교통안전 홍보작품 공모전",
         "category": "AI 이미지·영상",
@@ -358,22 +373,6 @@
         "source_checked_at": "2026-08-07T19:00:00+09:00"
       },
       {
-        "title": "2026 한글대전 한글 국제 AI 영상공모전",
-        "category": "AI 영상",
-        "organizer": "세종특별자치시·세종시문화관광재단",
-        "submission_start": "2026-08-05",
-        "submission_end": "2026-09-01",
-        "result_date": "2026-10-10 예정",
-        "url": "https://www.sejong.go.kr/bbs/R0079/view.do?nttId=B000000159194Em1sT6z&mno=sub02_0401&cmsNoStr=&pageIndex=1&kind=",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.mokpo.ac.kr/bbs/www/148/173248/artclView.do?layout=unknown",
-        "evidence": "세종시 공식 공고에 생성형 인공지능으로 제작한 3~5분 영상 출품 명시",
-        "summary": "한글의 가치와 미래 가능성을 생성형 AI 영상으로 표현하는 국제 공모전",
-        "status": "진행중",
-        "source_checked_at": "2026-08-05T19:00:00+09:00"
-      },
-      {
         "title": "제3회 부산국제AI영화제 출품작 공모",
         "category": "AI 영상",
         "organizer": "영화의전당",
@@ -514,7 +513,7 @@
         "discovery_url": "https://www.contestkorea.com/sub/view.php?Txt_gbn=1&Txt_bcode=031210001&str_no=202609010003",
         "evidence": "공식 공모전 페이지에 AI 활용 스토리텔링·애니메이션 등 30초~3분 숏폼 영상 명시",
         "summary": "국가산림문화자산과 산림을 AI로 표현하는 숏폼 영상 공모전",
-        "status": "오늘 추가",
+        "status": "진행중",
         "source_checked_at": "2026-09-01T19:00:00+09:00"
       },
       {
@@ -546,11 +545,27 @@
         "discovery_url": "https://v.daum.net/v/KAQvXVsATE",
         "evidence": "생성형 AI를 일부 또는 전체 활용한 15초~3분 모바일 세로형 영상 명시",
         "summary": "반려동물과 춘천의 매력을 생성형 AI 숏폼으로 표현하는 공모전",
-        "status": "오늘 추가",
+        "status": "진행중",
         "source_checked_at": "2026-09-01T19:00:00+09:00"
       }
     ],
     "awaiting_results": [
+      {
+        "title": "2026 한글대전 한글 국제 AI 영상공모전",
+        "category": "AI 영상",
+        "organizer": "세종특별자치시·세종시문화관광재단",
+        "submission_start": "2026-08-05",
+        "submission_end": "2026-09-01",
+        "result_date": "2026-10-10 예정",
+        "url": "https://www.sejong.go.kr/bbs/R0079/view.do?nttId=B000000159194Em1sT6z&mno=sub02_0401&cmsNoStr=&pageIndex=1&kind=",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.mokpo.ac.kr/bbs/www/148/173248/artclView.do?layout=unknown",
+        "evidence": "세종시 공식 공고에 생성형 인공지능으로 제작한 3~5분 영상 출품 명시",
+        "summary": "한글의 가치와 미래 가능성을 생성형 AI 영상으로 표현하는 국제 공모전",
+        "status": "발표 대기",
+        "source_checked_at": "2026-09-02T19:00:00+09:00"
+      },
       {
         "title": "WCPEC-9 AI로 그리는 미래에너지 공모전",
         "category": "AI 이미지·영상",
