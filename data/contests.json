@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-02T19:00:00+09:00",
+  "generated_at": "2026-09-03T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "국제 AI 아트 공모전 NEXT ART AI",
+        "category": "AI 이미지·영상",
+        "organizer": "호반문화재단",
+        "submission_start": "2026-09-01",
+        "submission_end": "2026-09-30",
+        "result_date": "2026-11 예정",
+        "url": "https://next-art-ai.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.instagram.com/p/DcAyr49kTNJ",
+        "evidence": "공식 SNS와 공식 홈페이지에 생성형 AI를 활용한 AI IMAGE ART·AI VIDEO ART 두 부문 및 2026.09.01~09.30 접수가 명시.",
+        "summary": "생성형 AI 이미지 아트와 비디오 아트 작품을 모집하는 호반문화재단 국제 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-03T19:00:00+09:00"
+      },
       {
         "title": "2026 제12회 한국 AI 신발디자인 공모전",
         "category": "AI 디자인",
