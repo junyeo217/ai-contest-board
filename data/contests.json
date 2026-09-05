@@ -1,9 +1,74 @@
 {
-  "generated_at": "2026-09-04T19:00:00+09:00",
+  "generated_at": "2026-09-05T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [],
+    "starting_today": [
+      {
+        "title": "2026 디지털헤리티지페스타 AI 헤리티지 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "2026 디지털헤리티지페스타 운영사무국",
+        "submission_start": "2026-09-05",
+        "submission_end": "2026-09-30",
+        "result_date": "미정",
+        "url": "https://www.contestkorea.com/sub/view.php?Txt_gbn=1&Txt_bcode=031210001&str_no=202609030057",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.contestkorea.com/sub/view.php?Txt_gbn=1&Txt_bcode=031210001&str_no=202609030057",
+        "evidence": "공모 안내 본문에 생성형 AI 그래픽 도구를 활용한 국가유산 재해석 이미지와 생성형 AI 동영상 두 부문, 2026.09.05~09.30 접수가 명시.",
+        "summary": "생성형 AI로 국가유산을 현대적으로 재해석한 이미지와 영상 작품을 모집합니다.",
+        "status": "오늘 추가",
+        "source_checked_at": "2026-09-05T19:00:00+09:00"
+      }
+    ],
     "ongoing": [
+      {
+        "title": "문화데이터 활용 영상 제작 AI 챌린지",
+        "category": "AI 영상",
+        "organizer": "문화체육관광부·한국문화정보원 / AI-Kive",
+        "submission_start": "2026-09-01",
+        "submission_end": "2026-09-28",
+        "result_date": "2026-10-02 예정",
+        "url": "https://aikive.com/event",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://aikive.com/event",
+        "evidence": "공식 AI-Kive 이벤트 페이지에 한국 전래동화·구전설화를 생성형 AI로 재해석한 영상 제작과 2026.09.01~09.28 진행 기간이 명시.",
+        "summary": "우리 고유의 문화 이야기를 생성형 AI 영상으로 재해석하는 대국민 챌린지입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-05T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 김포시 AI로 만드는 기후대응 숏폼 공모전",
+        "category": "AI 영상",
+        "organizer": "김포시",
+        "submission_start": "2026-09-01",
+        "submission_end": "2026-09-28",
+        "result_date": "2026-10 중 예정",
+        "url": "https://www.facebook.com/gimpocity.kr/posts/1491079199716312",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.facebook.com/gimpocity.kr/posts/1491079199716312",
+        "evidence": "김포시 공식 게시물에 생성형 AI를 1개 이상 활용한 60초 이내 기후대응 숏폼과 2026.09.01~09.28 접수가 명시.",
+        "summary": "김포시의 기후변화·탄소중립 정책을 생성형 AI 숏폼으로 알리는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-05T19:00:00+09:00"
+      },
+      {
+        "title": "2026 국립과천과학관 AI 활용 숏폼 공모전",
+        "category": "AI 영상",
+        "organizer": "국립과천과학관",
+        "submission_start": "2026-08-25",
+        "submission_end": "2026-10-16",
+        "result_date": "미정",
+        "url": "https://www.contestindex.co.kr/index/60971",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.contestindex.co.kr/index/60971",
+        "evidence": "공모 안내 본문에 AI를 활용한 30초 이내 자유주제 영상 제작과 2026.08.25~10.16 접수가 명시.",
+        "summary": "AI를 활용해 자유주제의 30초 이내 숏폼 영상을 제작하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-05T19:00:00+09:00"
+      },
       {
         "title": "제18회 AI윤리·인성 클린콘텐츠 정직 UCC 공모전",
         "category": "AI 영상",
