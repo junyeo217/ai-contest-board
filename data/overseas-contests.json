@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T07:00:00+09:00",
+  "generated_at": "2026-09-06T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -896,15 +896,15 @@
         "organizer": "MDK Bochnia / Urzad Miasta Bochnia / Pixel Frame Studio",
         "submission_start": "2026-03-01",
         "submission_end": "2026-08-27",
-        "result_date": "2026-09-05",
+        "result_date": "2026-09-17",
         "url": "https://filmfreeway.com/BIAIFF2026",
         "source_type": "official_apply_page",
         "discovery_source": "brave/manual",
         "discovery_url": "https://filmfreeway.com/BIAIFF2026",
-        "evidence": "FilmFreeway 공식 접수 페이지가 Bochnia International AI Film Festival을 AI를 창작 도구로 사용하는 국제 단편 영화 공모로 설명하고, Open to filmmakers worldwide, significant use of generative AI tools required, 2026-03-01 Opening Date, 2026-08-27 Extended Deadline, 2026-09-05 Notification Date, 2026-09-17 Event Date를 표시함.",
+        "evidence": "FilmFreeway 공식 접수 페이지가 Bochnia International AI Film Festival을 AI를 창작 도구로 사용하는 국제 단편 영화 공모로 설명하고, 전 세계 영화 제작자에게 개방되며 생성형 AI 도구의 의미 있는 사용을 요구한다고 명시함. 공식 홈페이지는 수상작 발표·시상식을 2026-09-17에 진행한다고 안내하여 결과 추적일을 해당 날짜로 보정함.",
         "summary": "전 세계 창작자를 대상으로 생성형 AI를 의미 있게 활용한 1~10분 AI 단편영화를 모집하는 폴란드 Bochnia 기반 국제 AI 영화제.",
         "status": "발표 대기",
-        "source_checked_at": "2026-08-28T07:00:00+09:00"
+        "source_checked_at": "2026-09-06T07:00:00+09:00"
       }
     ]
   },
