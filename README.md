@@ -13,7 +13,7 @@ Do not hand-edit contest records in generated HTML. Record data lives in:
 - `data/contests.json`
 - `data/overseas-contests.json`
 
-`template.json` contains page metadata, the reviewed music-video dual-category whitelist, and three manually verified guideline summaries. `build.mjs` contains the zero-dependency renderer and progressive-enhancement client.
+`template.json` contains page metadata, the reviewed music-video dual-category whitelist, and 62 official-source guideline summaries (including partial verification). `build.mjs` contains the zero-dependency renderer and progressive-enhancement client.
 
 ## Regenerate
 
@@ -58,3 +58,7 @@ The board is advisory. Official or organizer-controlled links are labeled `공�
 Original pre-redesign backup: `backup/pre-redesign-2026-09-08`, commit `ee3fc8b9389272edd1b1568ef6ddb5ba3353a1c2`. To roll back, restore the branch contents and reset Pages to main / root branch publishing. Keep the backup branch intact.
 
 Host robots.txt is separately managed at https://junyeo217.github.io/robots.txt and currently allows crawling. Submit https://junyeo217.github.io/ai-contest-board/sitemap.xml through the verified Search Console property when available. Search Console submission and search/AI inclusion are not guaranteed by deployment.
+
+## Guideline research, 2026-09-08
+
+62 structured guides cover the original 64-record review scope, including the future-starting 6·10 contest. Missing conditions are labeled instead of inferred. Two entries remain blocked: the 2026 digital heritage rules were not accessible; WAIFF currently describes the 2027 edition and its old 2026 record is preserved in `verification_pending`, not counted as open. Source excerpts, proposed/accepted corrections, and blocker details are in `research/guidelines-2026-09-08.json`. Music-video categories overlap video/music filters but are counted once in the full list.
