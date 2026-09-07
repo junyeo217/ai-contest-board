@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T07:00:00+09:00",
+  "generated_at": "2026-09-08T01:31:39+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -44,7 +44,7 @@
         "organizer": "HOBAN Cultural Foundation",
         "submission_start": "2026-09-01",
         "submission_end": "2026-09-30",
-        "result_date": "2026-11-01",
+        "result_date": "2026-11 초 예정",
         "url": "https://next-art-ai.com/en/apply/overview",
         "source_type": "official_apply_page",
         "discovery_source": "tavily",
@@ -52,7 +52,8 @@
         "evidence": "공식 지원 안내가 국적·연령·경력 제한 없이 누구나 참가 가능한 국제 AI 아트 공모전으로 명시하고, AI Image Art와 AI Video Art 부문을 2026-09-01부터 2026-09-30 23:59 KST까지 온라인 접수한다고 안내함. 최종 발표와 시상식은 2026년 11월 초 예정임.",
         "summary": "생성형 AI로 제작한 이미지 또는 영상 작품을 전 세계 참가자에게 모집하는 호반문화재단 국제 AI 아트 어워드. 9월 30일까지 접수합니다.",
         "status": "진행중",
-        "source_checked_at": "2026-09-02T07:00:00+09:00"
+        "source_checked_at": "2026-09-02T07:00:00+09:00",
+        "rules_reviewed_at": "2026-09-08"
       },
       {
         "title": "ユメカタリ 학생 생성형 AI 콘테스트 2026",
@@ -78,7 +79,7 @@
         "organizer": "Technology Council of Central Pennsylvania (TCCP)",
         "submission_start": "2026-08-24",
         "submission_end": "2026-10-30",
-        "result_date": "2026-12-07",
+        "result_date": "2026-12-08",
         "url": "https://www.tccp.org/generate2026/",
         "source_type": "official_notice",
         "discovery_source": "brave",
@@ -86,7 +87,8 @@
         "evidence": "TCCP 공식 GENERATE 2026 페이지가 모든 출품작을 생성형 AI 소프트웨어, 머신러닝 알고리즘, AI 보조 디자인 플랫폼 등 AI 도구로 제작해야 한다고 명시함. TCCP 22개 카운티 서비스 지역 거주자를 대상으로 2026-08-24 접수를 시작해 2026-10-30 23:59에 마감하며, 공개 투표와 심사 후 2026-12-07 시상 일정을 안내함.",
         "summary": "미국 펜실베이니아 중부 지역 창작자가 AI 도구로 제작한 시각 예술 작품을 모집하는 TCCP 공모전. 10월 30일까지 접수합니다.",
         "status": "진행중",
-        "source_checked_at": "2026-08-25T07:00:00+09:00"
+        "source_checked_at": "2026-08-25T07:00:00+09:00",
+        "rules_reviewed_at": "2026-09-08"
       },
       {
         "title": "AKOOL Creator Clash 2026",
@@ -180,7 +182,7 @@
         "organizer": "AI Film Festival Japan",
         "submission_start": "2026-07-01",
         "submission_end": "2026-09-30",
-        "result_date": "2026-10-01",
+        "result_date": "2026-10-10",
         "url": "http://aifilm.jp/index_en.html",
         "source_type": "official_homepage",
         "discovery_source": "tavily",
@@ -188,24 +190,8 @@
         "evidence": "AI Film Festival Japan 공식 영문 사이트와 FilmFreeway 공식 접수 페이지가 AIFJ 2026을 인간 창작자와 AI의 협업을 다루는 국제 영화제로 안내함. 국적·연령·성별·배경 제한 없이 참가할 수 있고, 영화 제작의 의미 있는 부분에 AI를 사용해야 하며, 공식 접수 기간은 2026-07-01 00:00~2026-09-30 12:00 JST로 확인됨.",
         "summary": "도쿄에서 열리는 일본 AI 영화제. AI를 창작 과정에 의미 있게 활용한 영화·애니메이션·실험 작품을 9월 30일까지 접수합니다.",
         "status": "진행중",
-        "source_checked_at": "2026-09-03T07:00:00+09:00"
-      },
-      {
-        "title": "WAIFF LA USA 2026",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "World AI Film Festival USA",
-        "submission_start": "2026-05-20",
-        "submission_end": "2026-09-30",
-        "result_date": "2026-10-25",
-        "url": "https://worldaifilmfestival.us/",
-        "source_type": "official_homepage",
-        "discovery_source": "tavily",
-        "discovery_url": "https://worldaifilmfestival.us/",
-        "evidence": "WAIFF USA 공식 사이트가 World AI Film Festival의 American Edition으로, 제출작은 사용한 generative image, video, voice, audio systems와 production pipeline을 공개해야 한다고 안내함. FilmFreeway 검색 결과에서 2026-05-20 Opening Date, 2026-07-31 Earlybird Deadline, 2026-08-31 Regular Deadline, 2026-09-30 Late Deadline, 2026-10-25 Notification Date가 확인되어 마감일을 보정함.",
-        "summary": "World AI Film Festival의 미국 LA 에디션. AI 사용 제작 파이프라인을 공개하는 영화·영상 작품을 9월 30일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-08T07:00:00+09:00"
+        "source_checked_at": "2026-09-03T07:00:00+09:00",
+        "rules_reviewed_at": "2026-09-08"
       },
       {
         "title": "We Are Human Festival Paris 2026 – Film & AI International Open Call",
@@ -905,6 +891,26 @@
         "summary": "전 세계 창작자를 대상으로 생성형 AI를 의미 있게 활용한 1~10분 AI 단편영화를 모집하는 폴란드 Bochnia 기반 국제 AI 영화제.",
         "status": "발표 대기",
         "source_checked_at": "2026-09-06T07:00:00+09:00"
+      }
+    ],
+    "verification_pending": [
+      {
+        "title": "WAIFF LA USA 2026",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "World AI Film Festival USA",
+        "submission_start": "2026-05-20",
+        "submission_end": "2026-09-30",
+        "result_date": "2026-10-25",
+        "url": "https://worldaifilmfestival.us/",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://worldaifilmfestival.us/",
+        "evidence": "WAIFF USA 공식 사이트가 World AI Film Festival의 American Edition으로, 제출작은 사용한 generative image, video, voice, audio systems와 production pipeline을 공개해야 한다고 안내함. FilmFreeway 검색 결과에서 2026-05-20 Opening Date, 2026-07-31 Earlybird Deadline, 2026-08-31 Regular Deadline, 2026-09-30 Late Deadline, 2026-10-25 Notification Date가 확인되어 마감일을 보정함.",
+        "summary": "World AI Film Festival의 미국 LA 에디션. AI 사용 제작 파이프라인을 공개하는 영화·영상 작품을 9월 30일까지 접수합니다.",
+        "status": "검증보류",
+        "source_checked_at": "2026-07-08T07:00:00+09:00",
+        "verification_note": "현행 공식 홈페이지·약관은 2027년 3월 LA 행사와 2027년 1월 20일 최종 마감을 안내합니다. 기존 2026 에디션의 요강으로 대체하지 않고 검증 보류했습니다."
       }
     ]
   },

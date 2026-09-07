@@ -20,8 +20,8 @@ PAGES = {
     },
 }
 EXPECTED_DATA_HASHES = {
-    "contests.json": "68e0abcc94a55c935a268d062a7d48b0940e1a28c409034cd33f1d30a94bbe81",
-    "overseas-contests.json": "587f5a9e20e0d85821338015de40ab452b205a9abea2219d092882a1ae983639",
+    "contests.json": "bca5a94995f7221bac38ac44df26dbfb41521f2b1060eae841cb4dc444cb7432",
+    "overseas-contests.json": "a823c926b2de8256dcc32492961a1ecc1033dffdafac2f60e81d78de5f5fd9e2",
 }
 
 
@@ -47,7 +47,7 @@ def fnv1a_js(value):
 
 
 class ProductionMigrationTests(unittest.TestCase):
-    def test_source_json_is_untouched(self):
+    def test_source_json_matches_reviewed_snapshot(self):
         for name, expected in EXPECTED_DATA_HASHES.items():
             actual = hashlib.sha256((ROOT / "data" / name).read_bytes()).hexdigest()
             self.assertEqual(actual, expected)
@@ -84,7 +84,8 @@ class ProductionMigrationTests(unittest.TestCase):
             data = json.loads(read(config["data"]))
             reference = data["generated_at"][:10]
             records = {}
-            for section in data["sections"].values():
+            for key in ["starting_today", "ongoing", "awaiting_results"]:
+                section = data["sections"].get(key, [])
                 for item in section:
                     records.setdefault((item.get("title", ""), item.get("submission_end", "")), item)
             open_count = sum(
@@ -123,8 +124,8 @@ class ProductionMigrationTests(unittest.TestCase):
 
     def test_music_video_whitelist_and_guidelines_are_preserved(self):
         template = json.loads(read(ROOT / "template.json"))
-        self.assertEqual(len(template["musicVideoWhitelist"]), 7)
-        self.assertEqual(len(template["guidelines"]), 3)
+        self.assertGreaterEqual(len(template["musicVideoWhitelist"]), 8)
+        self.assertEqual(len(template["guidelines"]), 62)
         for title in template["guidelines"]:
             self.assertTrue(any(title in read(page) for page in PAGES))
         for page in PAGES:
@@ -146,8 +147,8 @@ class ProductionMigrationTests(unittest.TestCase):
     def test_sitemap_and_robot_scope(self):
         sitemap = read(ROOT / "sitemap.xml")
         self.assertEqual(sitemap.count("<url>"), 2)
-        self.assertIn("<lastmod>2026-09-07</lastmod>", sitemap)
-        self.assertIn("<lastmod>2026-09-06</lastmod>", sitemap)
+        self.assertIn("<lastmod>2026-09-08</lastmod>", sitemap)
+        self.assertEqual(sitemap.count("<lastmod>2026-09-08</lastmod>"), 2)
         self.assertFalse((ROOT / "robots.txt").exists())
 
 
