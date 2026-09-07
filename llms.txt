@@ -1,0 +1,15 @@
+# AI 공모전 보드
+
+> 국내외 AI 이미지, 영상, 디자인, 음악 공모전을 공개 출처 기반으로 정리한 탐색용 정적 사이트입니다.
+
+Canonical pages:
+- https://junyeo217.github.io/ai-contest-board/ : 국내 공모전
+- https://junyeo217.github.io/ai-contest-board/overseas/ : 해외 공모전
+
+Primary data:
+- /ai-contest-board/data/contests.json
+- /ai-contest-board/data/overseas-contests.json
+
+The JSON files are the source of truth. Page summaries are advisory and do not replace organizer rules. Official or organizer-controlled sources are labeled separately from reference links. Dates, eligibility, fees, rights, and submission requirements must be verified at the linked source before entry.
+
+llms.txt is a nonstandard advisory file. It does not grant permissions, change copyright, or override robots directives.
