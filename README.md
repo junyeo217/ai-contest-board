@@ -1,15 +1,60 @@
-# 공모전 보드
+# AI Contest Board
 
-국내 AI 이미지·영상 공모전을 매일 조사해 공개 링크로 공유하기 위한 GitHub Pages용 정적 사이트입니다.
+Static domestic and overseas AI contest pages for GitHub Pages.
 
-## 공개 섹션
+- Production: <https://junyeo217.github.io/ai-contest-board/>
+- Overseas: <https://junyeo217.github.io/ai-contest-board/overseas/>
+- Author: 주녀 (`@junyeo.ai`), <junyeo.ai@gmail.com>
 
-1. 오늘부터 시작한 공모전
-2. 현재 진행중인 공모전
-3. 종료 후 발표 대기 공모전
+## Source of truth
 
-## 운영 원칙
+Do not hand-edit contest records in generated HTML. Record data lives in:
 
-- 공개 가능한 공모전 정보만 게시합니다.
-- 내부 크론 로그, 카카오방 정보, 개인 메모, 토큰, 로컬 경로는 게시하지 않습니다.
-- 데이터는 `data/contests.json`을 기준으로 갱신합니다.
+- `data/contests.json`
+- `data/overseas-contests.json`
+
+`template.json` contains page metadata, the reviewed music-video dual-category whitelist, and three manually verified guideline summaries. `build.mjs` contains the zero-dependency renderer and progressive-enhancement client.
+
+## Regenerate
+
+Requires Node.js 20 or newer. No package install is needed.
+
+```sh
+node build.mjs
+```
+
+The build uses the current Asia/Seoul day (override with `BOARD_DATE=YYYY-MM-DD` for reproducible tests) and writes:
+
+- `index.html`
+- `overseas/index.html`
+- `sitemap.xml`
+- `llms.txt`
+
+Run the builder after an intentional JSON or template update, then review the diff. Sitemap `lastmod` values come from each JSON file's `generated_at`, not from the build clock.
+
+## Runtime behavior
+
+Each page includes a crawlable initial list built for the build-time Asia/Seoul date. JavaScript fetches the same JSON on load to refresh filters and statuses. If that fetch fails, the server-rendered list remains visible and a warning is shown.
+
+Status rules:
+
+- `접수중`: the start date has arrived and the submission end has not passed.
+- `발표예정`: submission ended, but an actual result publication has not been confirmed.
+- `발표완료`: requires `results_confirmed: true` and a valid `results_published_at`; it remains visible for 7 days, then is excluded.
+- Future-starting records are excluded until their start date.
+
+Stable internal contest anchors are derived deterministically from `title + submission_end` without changing the source JSON.
+
+## Editorial policy
+
+The board is advisory. Official or organizer-controlled links are labeled `공식 원문`; other links are labeled `참고 원문`. Never infer missing dates, fees, eligibility, rights, or submission requirements. Entrants must verify the linked organizer page before submitting.
+
+`llms.txt` is a nonstandard advisory description only. This repository intentionally does not include a project-level `robots.txt`, because GitHub Pages hosts it below the domain root and it cannot control the entire host.
+
+## Automated publishing and backup
+
+`.github/workflows/pages.yml` regenerates the public HTML on each main-branch update and daily at 00:05 Asia/Seoul (scheduled Actions may be delayed). GitHub Pages uses the GitHub Actions source, not branch publishing. Only public HTML, data, sitemap and llms.txt are deployed; source templates and tests are excluded.
+
+Original pre-redesign backup: `backup/pre-redesign-2026-09-08`, commit `ee3fc8b9389272edd1b1568ef6ddb5ba3353a1c2`. To roll back, restore the branch contents and reset Pages to main / root branch publishing. Keep the backup branch intact.
+
+Host robots.txt is separately managed at https://junyeo217.github.io/robots.txt and currently allows crawling. Submit https://junyeo217.github.io/ai-contest-board/sitemap.xml through the verified Search Console property when available. Search Console submission and search/AI inclusion are not guaranteed by deployment.
