@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T19:00:00+09:00",
+  "generated_at": "2026-09-07T19:17:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -437,22 +437,6 @@
         "source_checked_at": "2026-07-30T19:00:00+09:00"
       },
       {
-        "title": "2026 평화 통일미래 콘텐츠 공모전",
-        "category": "AI 이미지·영상",
-        "organizer": "통일부",
-        "submission_start": "2026-06-15",
-        "submission_end": "2026-09-06",
-        "result_date": "2026-10-27 예정",
-        "url": "https://unikcontest.kr/",
-        "source_type": "official_homepage",
-        "discovery_source": "brave",
-        "discovery_url": "https://unikorea.go.kr/web/unikorea/bbs/bbs_0000000000000004/59505",
-        "evidence": "통일부 공식 공고와 공모전 공식 홈페이지 기준 AI 활용 분야에 숏폼 영상, 웹툰·컷툰, 디자인 부문이 있고 접수 기간 2026.6.15~9.6 명시.",
-        "summary": "평화와 통일미래를 주제로 생성형 AI를 활용한 숏폼 영상, 웹툰·컷툰, 디자인 작품을 모집하는 국민 참여형 콘텐츠 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-22T19:00:00+09:00"
-      },
-      {
         "title": "2026 충남 인물열전 AI 콘텐츠 어워즈",
         "category": "AI 영상",
         "organizer": "충청남도/충남문화관광재단",
@@ -598,6 +582,22 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "2026 평화 통일미래 콘텐츠 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "통일부",
+        "submission_start": "2026-06-15",
+        "submission_end": "2026-09-06",
+        "result_date": "2026-10-27 예정",
+        "url": "https://unikcontest.kr/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://unikorea.go.kr/web/unikorea/bbs/bbs_0000000000000004/59505",
+        "evidence": "통일부 공식 공고와 공모전 공식 홈페이지 기준 AI 활용 분야에 숏폼 영상, 웹툰·컷툰, 디자인 부문이 있고 접수 기간 2026.6.15~9.6 명시.",
+        "summary": "평화와 통일미래를 주제로 생성형 AI를 활용한 숏폼 영상, 웹툰·컷툰, 디자인 작품을 모집하는 국민 참여형 콘텐츠 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-09-07T19:17:00+09:00"
+      },
       {
         "title": "대한민국 가스안전 AI 게임·영상 공모전",
         "category": "AI 영상",
