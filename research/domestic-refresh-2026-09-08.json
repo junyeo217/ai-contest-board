@@ -1,0 +1,94 @@
+{
+  "checked": "2026-09-08T19:15:00+09:00",
+  "scope": "국내 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전. 음원/BGM 단독 공모전 제외.",
+  "new_verified": [
+    {
+      "title": "2026 강남 대전환!! AI 홍보콘텐츠 공모전",
+      "official_url": "https://www.gangnam.go.kr/notice/view.do?not_ancmt_mgt_no=65101&mid=ID05_040201",
+      "submission_start": "2026-09-10",
+      "submission_end": "2026-09-30",
+      "evidence": "강남구 공식 공고와 첨부 공고문에 생성형 AI로 창작하는 웹툰(인스타툰)·숏폼 영상 2개 분야, 2026.09.10~09.30 접수(이메일은 09.30 자정 전 수신)가 명시."
+    },
+    {
+      "title": "2026년 울산광역시 U잼 영상 공모전",
+      "official_url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46545.ulsan?mId=001004002000000000&gosiGbn=A",
+      "submission_start": "2026-10-01",
+      "submission_end": "2026-10-16",
+      "evidence": "울산광역시 공식 고시공고에 AI영상 부문을 포함한 U잼 영상 공모전, 2026.10.01 09:00~10.16 18:00 접수와 SNS 전체공개 업로드 후 구글폼 제출이 명시."
+    },
+    {
+      "title": "2026 청주영상위원회 AI 영상 공모전",
+      "official_url": "https://cjculture.org/sub.php?code=32&mode=view&no=1855&category=&page=1&search=&keyword=",
+      "submission_start": "2026-09-21",
+      "submission_end": "2026-10-12",
+      "evidence": "청주시문화산업진흥재단 공식 공고 및 첨부 PDF에 AI 기술을 전체 또는 일부 활용한 스토리 영상(뮤직비디오 등 장르 제한 없음), 2026.09.21~10.12 14:00 이메일 접수가 명시."
+    }
+  ],
+  "status_rechecks": [
+    {
+      "title": "하나손해보험 AI 영상 공모전",
+      "status": "접수중",
+      "deadline": "2026-09-08",
+      "official_url": "https://www.hanainsure.co.kr/w/benefit/event/ongoingEvent"
+    },
+    {
+      "title": "WAVE 2026 울산세계미래산업박람회 AI 숏폼 공모전",
+      "status": "접수중",
+      "deadline": "2026-09-09",
+      "official_url": "https://www.instagram.com/p/DcvOI0xGqec"
+    },
+    {
+      "title": "2026 충남 인물열전 AI 콘텐츠 어워즈",
+      "status": "접수중",
+      "deadline": "2026-09-10 16:00",
+      "official_url": "https://www.cnctf.or.kr/site/board/index.php?table_nm=tbl_culture&fn=view&no=2026071015334376345&page=1"
+    },
+    {
+      "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
+      "status": "접수중",
+      "deadline": "2026-09-11 16:00",
+      "official_url": "https://www.fantasiafesta.or.kr/Board-Notice?menuId=MENU_0000000285&mode=detl&nttId=NTT_0000002560"
+    },
+    {
+      "title": "제3회 부산국제AI영화제 출품작 공모",
+      "status": "접수중",
+      "deadline": "2026-09-11 23:59:59 KST",
+      "official_url": "https://biaif.dureraum.org/main/20?action=view&no=669&bbsId=1"
+    },
+    {
+      "title": "청년들이 만드는 첨단 공공서비스 AI 영상 공모전",
+      "status": "접수중",
+      "deadline": "2026-09-11 18:00",
+      "official_url": "https://www.klid.or.kr/open/selectBoardDetail.do?PID=notice&bbsSeq=13621&part=%EA%B3%B5%EC%A7%80"
+    },
+    {
+      "title": "제1회 AI 이미지 챌린지",
+      "status": "마감",
+      "deadline": "2026-09-07",
+      "official_url": "https://smartlifeweek.seoul.kr/kor/bbsPost/64/886/detail.do?mid=996"
+    }
+  ],
+  "results_confirmed": [
+    {
+      "title": "2026 대한민국 미래 철도 AI 영상 공모전",
+      "results_published_at": "2026-08-12",
+      "official_url": "https://www.kr.or.kr/boardCnts/view.do?boardID=1100660&boardSeq=1122600",
+      "evidence": "국가철도공단 공식 공모전 게시판의 수상작·수상자 발표를 확인."
+    },
+    {
+      "title": "2026년 K-AI 콘텐츠 공모전",
+      "results_published_at": "2026-08-03",
+      "official_url": "https://ktgf.or.kr/news/notice.php?boardid=notice&mode=view&idx=46&sk=&sw=&offset=0&category=",
+      "evidence": "KT그룹희망나눔재단 공식 수상자 발표 공지를 확인."
+    },
+    {
+      "title": "2026 바른 AI·디지털 생활 창작 공모전",
+      "results_published_at": "2026-08-26",
+      "official_url": "https://kcmf.or.kr/KCMF/contents/KCMF050707.do?schM=view&id=20260826142755786269&schBcid=seoulTTTnotice",
+      "evidence": "시청자미디어재단 서울센터 공식 결과 발표 공지를 확인."
+    }
+  ],
+  "verification_pending": [
+    "2026 울산광역시 U잼 영상 공모전의 시상·심사·권리 세부 조항은 첨부 HWPX를 이 실행에서 구조화하지 않아 부분 확인으로 표시."
+  ]
+}
