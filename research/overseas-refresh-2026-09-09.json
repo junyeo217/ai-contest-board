@@ -1,0 +1,58 @@
+{
+  "checked": "2026-09-09",
+  "scope": "해외 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전. 음원/BGM 단독 공모 제외.",
+  "verification": [
+    {
+      "title": "AAIFF 2026 – Astana AI Film Festival",
+      "official_url": "https://aaiff.ai/",
+      "checked_at": "2026-09-09T14:00:00+09:00",
+      "finding": "공식 페이지가 마감을 2026-09-07로 연장했다고 명시. 마감 이후 양식은 열려 있으나 심사위원 재량으로만 고려됨. 수상 결과 공개는 확인되지 않음.",
+      "action": "submission_end를 2026-09-07로 정정하고 발표 대기 유지"
+    },
+    {
+      "title": "Sparknify Human vs. AI Film Festival 2026",
+      "official_url": "https://www.sparknify.com/human-vs-ai-film-festival",
+      "checked_at": "2026-09-09T14:00:00+09:00",
+      "finding": "공식 페이지가 2026 접수 종료와 마감일 2026-09-03을 명시. 9월 26일 상영·시상식 예정이나 2026 수상 결과는 아직 공개되지 않음.",
+      "action": "submission_end를 2026-09-03으로 정정하고 발표 대기 유지"
+    },
+    {
+      "title": "Adobe MAX 2026 Creativity Awards",
+      "official_url": "https://max.adobe.com/creativity-awards/",
+      "checked_at": "2026-09-09T14:00:00+09:00",
+      "finding": "공식 페이지가 접수 종료와 MAX 2026(11월 10일~12일) 수상자 발표 예정을 명시. 실제 결과 공개는 미확인.",
+      "action": "기존 발표 대기 유지"
+    },
+    {
+      "title": "AKOOL Creator Clash 2026",
+      "official_url": "https://akool.com/creator-clash",
+      "checked_at": "2026-09-09T14:00:00+09:00",
+      "finding": "Seedance 2.5를 AKOOL에서 사용한 영상, AKOOL 로고 및 공개 SNS 게시를 요구하며 2026-09-15 23:59 PT 마감과 9월 30일 발표를 재확인.",
+      "action": "기존 접수중 정보 유지"
+    },
+    {
+      "title": "Higgsfield Global Film Festival 2026",
+      "official_url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
+      "checked_at": "2026-09-09T14:00:00+09:00",
+      "finding": "등록 계정 보유 18세 이상, Higgsfield 내 전 과정 생성, 2026-09-14 23:59 UTC 마감 및 10월 마지막 주 발표 예정이라는 현행 공식 안내를 재확인.",
+      "action": "기존 접수중 정보 유지"
+    },
+    {
+      "title": "AI Media Award 2026",
+      "official_url": "https://ai-media-award.com/",
+      "checked_at": "2026-09-09T14:00:00+09:00",
+      "finding": "공식 홈페이지가 2026-09-13 마감, 2026-10-27 취리히 쇼케이스·시상식을 안내. 기존 규정 간 참가비·행사 정보 불일치 경고는 유지.",
+      "action": "기존 접수중 정보 유지"
+    },
+    {
+      "title": "ユメカタリ 학생 생성형 AI 콘테스트 2026",
+      "official_url": "https://aichi-select.net/ai_contest/",
+      "checked_at": "2026-09-09T14:00:00+09:00",
+      "finding": "공식 페이지는 2026년 6월부터 9월 10일까지 접수를 표시하나 정확한 6월 개시일과 국적·거주지 요건은 미표기.",
+      "action": "추정한 2026-06-01 개시일을 제거, 기존 부분 확인 경고 유지"
+    }
+  ],
+  "new_officially_verified_records": [],
+  "results_confirmed": [],
+  "verification_pending": ["Artiver·Marbella·Neu Wave·New World의 FilmFreeway 페이지는 결과 공개를 명시적으로 확인하지 못해 발표 대기를 유지함."]
+}
