@@ -1,4 +1,5 @@
 import hashlib
+import os
 import json
 import re
 import subprocess
@@ -7,6 +8,7 @@ import unittest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+BOARD_DATE = "2026-09-09"
 PAGES = {
     ROOT / "index.html": {
         "canonical": "https://junyeo217.github.io/ai-contest-board/",
@@ -20,8 +22,8 @@ PAGES = {
     },
 }
 EXPECTED_DATA_HASHES = {
-    "contests.json": "bca5a94995f7221bac38ac44df26dbfb41521f2b1060eae841cb4dc444cb7432",
-    "overseas-contests.json": "6155f3d414fad8c7630e954e09958a39910ea50b6db277423ad72ed6e58ddb27",
+    "contests.json": "f5bf21c2cf39974dc0b77f8050b58e0abac37ccf2ed344f53235243a19cc3a58",
+    "overseas-contests.json": "7aaec382000e9e8307f232ad9feaa5e53fe138983f6ec0dbdc6e121e47a6adc4",
 }
 
 
@@ -57,7 +59,7 @@ class ProductionMigrationTests(unittest.TestCase):
         self.assertNotIn("node_modules", source)
         self.assertNotRegex(source, r"from ['\"](?!node:)")
         subprocess.run(["node", "--check", "build.mjs"], cwd=ROOT, check=True)
-        subprocess.run(["node", "build.mjs"], cwd=ROOT, check=True, capture_output=True, text=True)
+        subprocess.run(["node", "build.mjs"], cwd=ROOT, check=True, capture_output=True, text=True, env={**os.environ, "BOARD_DATE": BOARD_DATE})
 
     def test_pages_have_indexable_canonical_metadata(self):
         for page, config in PAGES.items():
@@ -82,15 +84,15 @@ class ProductionMigrationTests(unittest.TestCase):
         for page, config in PAGES.items():
             html = read(page)
             data = json.loads(read(config["data"]))
-            reference = data["generated_at"][:10]
+            reference = BOARD_DATE
             records = {}
             for key in ["starting_today", "ongoing", "awaiting_results"]:
                 section = data["sections"].get(key, [])
                 for item in section:
-                    records.setdefault((item.get("title", ""), item.get("submission_end", "")), item)
+                    records.setdefault((item.get("title", ""), (item.get("submission_end") or "")), item)
             open_count = sum(
-                not (re.fullmatch(r"\d{4}-\d{2}-\d{2}", item.get("submission_start", "")) and item["submission_start"] > reference)
-                and not (re.fullmatch(r"\d{4}-\d{2}-\d{2}", item.get("submission_end", "")) and item["submission_end"] < reference)
+                not (re.fullmatch(r"\d{4}-\d{2}-\d{2}", (item.get("submission_start") or "")) and item["submission_start"] > reference)
+                and not (re.fullmatch(r"\d{4}-\d{2}-\d{2}", (item.get("submission_end") or "")) and item["submission_end"] < reference)
                 for item in records.values()
             )
             static_html = html.split('<script type="application/json" id="initial-data">', 1)[0]
@@ -125,7 +127,7 @@ class ProductionMigrationTests(unittest.TestCase):
     def test_music_video_whitelist_and_guidelines_are_preserved(self):
         template = json.loads(read(ROOT / "template.json"))
         self.assertGreaterEqual(len(template["musicVideoWhitelist"]), 8)
-        self.assertEqual(len(template["guidelines"]), 62)
+        self.assertEqual(len(template["guidelines"]), 65)
         for title in template["guidelines"]:
             self.assertTrue(any(title in read(page) for page in PAGES))
         for page in PAGES:
@@ -148,7 +150,8 @@ class ProductionMigrationTests(unittest.TestCase):
         sitemap = read(ROOT / "sitemap.xml")
         self.assertEqual(sitemap.count("<url>"), 2)
         self.assertIn("<lastmod>2026-09-08</lastmod>", sitemap)
-        self.assertEqual(sitemap.count("<lastmod>2026-09-08</lastmod>"), 2)
+        self.assertIn("<lastmod>2026-09-09</lastmod>", sitemap)
+        self.assertEqual(sitemap.count("<lastmod>"), 2)
         self.assertFalse((ROOT / "robots.txt").exists())
 
 
