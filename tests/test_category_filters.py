@@ -21,7 +21,7 @@ PAGES = {
 }
 EXPECTED_DATA_HASHES = {
     "contests.json": "bca5a94995f7221bac38ac44df26dbfb41521f2b1060eae841cb4dc444cb7432",
-    "overseas-contests.json": "a823c926b2de8256dcc32492961a1ecc1033dffdafac2f60e81d78de5f5fd9e2",
+    "overseas-contests.json": "6155f3d414fad8c7630e954e09958a39910ea50b6db277423ad72ed6e58ddb27",
 }
 
 
