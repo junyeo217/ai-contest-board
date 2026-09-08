@@ -1,0 +1,52 @@
+{
+  "checked": "2026-09-08T17:17:13+09:00",
+  "scope": "해외 AI 이미지·영상·디자인·뮤직비디오 공모전의 공식 출처 재확인. 민간 목록·검색 결과는 발견용으로만 사용.",
+  "verified": [
+    {
+      "title": "AKOOL Creator Clash 2026",
+      "official_sources": [
+        "https://akool.com/creator-clash",
+        "https://info.akool.com/creator-clash-rules"
+      ],
+      "finding": "접수 마감 2026-09-15 23:59 PT, 발표 2026-09-30. 현행 대회 페이지는 지정 도구를 Seedance 2.5로 표기하므로 기존 Seedance 2 표기를 정정."
+    },
+    {
+      "title": "Higgsfield Global Film Festival 2026",
+      "official_sources": [
+        "https://higgsfield.ai/blog/higgsfield-global-film-festival",
+        "https://higgsfield.ai/contests/higgsfield-global-film-festival"
+      ],
+      "finding": "접수 마감 2026-09-14 23:59 UTC, 18세 이상 등록 계정 보유자, 영상·이미지는 Higgsfield 내에서 처음부터 생성. 결과는 10월 마지막 주 예정이며 실제 결과 공개는 미확인."
+    },
+    {
+      "title": "AI Media Award 2026",
+      "official_sources": [
+        "https://ai-media-award.com/"
+      ],
+      "finding": "접수 마감 2026-09-13. 전 세계 참가 가능, AI가 핵심 역할을 한 5분 이하 시청각 작품 대상, AI Music Clip 부문은 영상 중심 평가. 실제 결과 공개는 미확인."
+    },
+    {
+      "title": "ユメカタリ 학생 생성형 AI 콘테스트 2026",
+      "official_sources": [
+        "https://aichi-select.net/ai_contest/"
+      ],
+      "finding": "접수 마감 2026-09-10. 대상은 학생 및 졸업 3년 이내 제2신졸로 명시됐으나 국적·거주지 조건은 미공개. 한국 거주자 참가 가능 여부를 추정하지 않음."
+    }
+  ],
+  "held": [
+    {
+      "title": "WAIFF LA USA 2026",
+      "official_sources": [
+        "https://worldaifilmfestival.us/"
+      ],
+      "finding": "현행 공식 페이지는 미국 기반 13세 이상 대상인 2027 LA 에디션과 2027-01-20 최종 마감만 안내. 2026 기록을 다른 연도 요강으로 대체하지 않고 verification_pending 유지."
+    }
+  ],
+  "discovery_not_added": [
+    {
+      "title": "Runway AI Festival 2026",
+      "official_source": "https://aif.runwayml.com/",
+      "reason": "공식 페이지가 이미 2026 수상작을 공개. 새 접수 공고가 아니므로 추가하지 않음."
+    }
+  ]
+}
