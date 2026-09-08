@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-08T01:31:39+09:00",
+  "generated_at": "2026-09-08T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "2026 AI 캐릭터창작공모전",
+        "category": "AI 디자인",
+        "organizer": "(사)캐릭터디자이너협회",
+        "submission_start": "2026-08-18",
+        "submission_end": "2026-11-20",
+        "result_date": "2026-12 중 예정",
+        "url": "https://www.kocda.org/blank-14",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.kocda.org/blank-14",
+        "evidence": "협회 공식 공고에 순수 창작 캐릭터 또는 AI를 활용한 자유 주제 캐릭터와 2026.08.18~11.20 14:00 접수가 명시.",
+        "summary": "AI를 활용한 자유 주제 캐릭터 창작물을 모집하는 디자인 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-08T19:00:00+09:00"
+      },
       {
         "title": "2026년 국가정책연구포털 AI 쇼츠 영상공모전",
         "category": "AI 영상",
