@@ -70,7 +70,7 @@
         "evidence": "공식 페이지가 2026년 6월부터 9월 10일까지 접수한다고 안내하며, 일본의 대학생·대학원생·전문학교생·고등전문학교생·고등학생·졸업 후 3년 이내 제2신졸을 대상으로 생성형 AI 앱·도구·서비스 개발 부문과 포스터·기획서·영상 등을 제출하는 크리에이티브 부문을 운영한다고 명시함. 최종 심사는 나고야 2026-10-01, 도쿄 2026-10-11에 진행됨.",
         "summary": "일본 학생과 제2신졸이 생성형 AI 기반 개발 작품 또는 포스터·영상·기획 작품으로 참가하는 공모전. 9월 10일까지 접수합니다.",
         "status": "진행중",
-        "source_checked_at": "2026-08-27T07:00:00+09:00"
+        "source_checked_at": "2026-09-08T17:17:13+09:00"
       },
       {
         "title": "TCCP GENERATE 2026",
@@ -102,10 +102,10 @@
         "source_type": "official_platform",
         "discovery_source": "tavily",
         "discovery_url": "https://www.prnewswire.com/news-releases/the-future-of-ai-storytelling-belongs-to-creators-akool-launches-global-competition-with-300-000-in-creator-rewards-302830264.html",
-        "evidence": "AKOOL 공식 Creator Clash 페이지와 2026-07-21 공식 발표가 전 세계 창작자를 대상으로 AKOOL의 Seedance 2를 사용한 원본 영상을 모집한다고 명시함. 참가자는 영상을 소셜 플랫폼에 게시한 뒤 제출하며, 접수 마감은 2026-09-15, 수상자 발표는 2026-09-30으로 확인됨.",
-        "summary": "AKOOL의 Seedance 2로 제작한 원본 AI 영상을 모집하는 글로벌 크리에이터 챌린지. 9월 15일까지 접수합니다.",
+        "evidence": "AKOOL 공식 Creator Clash 페이지와 공식 규정이 전 세계 창작자를 대상으로 AKOOL의 Seedance 2.5를 사용한 원본 영상을 모집한다고 명시함. 참가자는 영상을 소셜 플랫폼에 게시한 뒤 제출하며, 접수 마감은 2026-09-15 23:59 PT, 수상자 발표는 2026-09-30으로 확인됨.",
+        "summary": "AKOOL의 Seedance 2.5로 제작한 원본 AI 영상을 모집하는 글로벌 크리에이터 챌린지. 9월 15일 23:59 PT까지 접수합니다.",
         "status": "진행중",
-        "source_checked_at": "2026-08-12T07:00:00+09:00"
+        "source_checked_at": "2026-09-08T17:17:13+09:00"
       },
       {
         "title": "제5회 AI Art Grand Prix",
@@ -139,11 +139,11 @@
         "evidence": "Higgsfield 공식 블로그가 2026-08-10 글로벌 필름 페스티벌 접수 시작과 연장된 2026-09-14 23:59 UTC 마감을 명시함. 전 세계 Higgsfield 구독자가 개인 또는 최대 4인 팀으로 참가할 수 있으며, Cinema Studio 안에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하고 수상자는 2026년 10월 마지막 주에 발표할 예정이라고 안내함.",
         "summary": "Higgsfield 플랫폼에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하는 글로벌 영화제. 연장된 마감일은 9월 14일입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-09-05T07:00:00+09:00"
+        "source_checked_at": "2026-09-08T17:17:13+09:00"
       },
       {
         "title": "AI Media Award 2026",
-        "category": "AI 영상",
+        "category": "AI 영상·음악",
         "country": "International",
         "organizer": "SSIA Smile Swiss Influence Award / AI Media Agency",
         "submission_start": "2026-03-28",
@@ -154,9 +154,9 @@
         "discovery_source": "tavily",
         "discovery_url": "https://ai-media-award.com/",
         "evidence": "공식 AI Media Award 2026 홈페이지에서 submission now open, 프로젝트 제출 마감이 2026-09-13으로 연장되었고 최종 쇼케이스 및 시상식은 2026-10-27 취리히에서 열린다고 확인함. 전 세계 개인·전문 에이전시·미디어 제작사가 참가 가능하며, AI 기술이 기획·디자인·제작에 핵심 역할을 한 5분 이하 audiovisual short format을 대상으로 함.",
-        "summary": "AI가 핵심적으로 쓰인 5분 이하 광고·미디어·브랜드 영상 등 AI 기반 숏폼 영상 작품을 모집하는 국제 어워드. 연장된 마감일은 9월 13일입니다.",
+        "summary": "AI가 핵심적으로 쓰인 5분 이하 광고·미디어·브랜드 영상과 AI 뮤직비디오 작품을 모집하는 국제 어워드. 연장된 마감일은 9월 13일입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-08-26T07:00:00+09:00"
+        "source_checked_at": "2026-09-08T17:17:13+09:00"
       },
       {
         "title": "The AI Design Awards 2026",
@@ -909,8 +909,8 @@
         "evidence": "WAIFF USA 공식 사이트가 World AI Film Festival의 American Edition으로, 제출작은 사용한 generative image, video, voice, audio systems와 production pipeline을 공개해야 한다고 안내함. FilmFreeway 검색 결과에서 2026-05-20 Opening Date, 2026-07-31 Earlybird Deadline, 2026-08-31 Regular Deadline, 2026-09-30 Late Deadline, 2026-10-25 Notification Date가 확인되어 마감일을 보정함.",
         "summary": "World AI Film Festival의 미국 LA 에디션. AI 사용 제작 파이프라인을 공개하는 영화·영상 작품을 9월 30일까지 접수합니다.",
         "status": "검증보류",
-        "source_checked_at": "2026-07-08T07:00:00+09:00",
-        "verification_note": "현행 공식 홈페이지·약관은 2027년 3월 LA 행사와 2027년 1월 20일 최종 마감을 안내합니다. 기존 2026 에디션의 요강으로 대체하지 않고 검증 보류했습니다."
+        "source_checked_at": "2026-09-08T17:17:13+09:00",
+        "verification_note": "2026-09-08 재확인: 현행 공식 홈페이지·약관은 2027년 3월 LA 행사와 2027년 1월 20일 최종 마감을 안내하며, 미국 기반 창작자만 참가 가능하다고 명시합니다. 기존 2026 에디션의 요강으로 대체하지 않고 검증 보류했습니다."
       }
     ]
   },
@@ -986,6 +986,18 @@
       "summary": "발표 예정일이 2026-09-03인 발표대기 항목 1건을 관리 대상에서 제외",
       "items": [
         "Red Rocks AI Film Festival 2026"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "type": "official_recheck",
+      "summary": "공식 원문 재확인: 현행 접수 4건의 마감·핵심 조건을 확인하고 AKOOL의 지정 도구 표기를 Seedance 2.5로 정정. WAIFF LA USA는 2027 에디션만 확인되어 기존 2026 기록을 검증 보류로 유지.",
+      "items": [
+        "AKOOL Creator Clash 2026",
+        "Higgsfield Global Film Festival 2026",
+        "AI Media Award 2026",
+        "ユメカタリ 학생 생성형 AI 콘테스트 2026",
+        "WAIFF LA USA 2026"
       ]
     }
   ]
