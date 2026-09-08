@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T19:00:00+09:00",
+  "generated_at": "2026-09-08T19:15:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -696,6 +696,54 @@
         "summary": "반려동물과 춘천의 매력을 생성형 AI 숏폼으로 표현하는 공모전",
         "status": "진행중",
         "source_checked_at": "2026-09-01T19:00:00+09:00"
+      },
+      {
+        "title": "2026 강남 대전환!! AI 홍보콘텐츠 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "서울특별시 강남구 정책홍보실",
+        "submission_start": "2026-09-10",
+        "submission_end": "2026-09-30",
+        "result_date": "2026-10-30 예정",
+        "url": "https://www.gangnam.go.kr/notice/view.do?not_ancmt_mgt_no=65101&mid=ID05_040201",
+        "source_type": "official_notice",
+        "discovery_source": "official_government_platform",
+        "discovery_url": "https://sotong.go.kr/front/epilogue/epilogueNewViewPage.do?menu_id=527&bbs_id=47faddef894b4552bd503445ef2806c5&pagetype=bbs",
+        "evidence": "강남구 공식 공고와 첨부 공고문에 생성형 AI로 창작하는 웹툰(인스타툰)·숏폼 영상 2개 분야, 2026.09.10~09.30 접수(이메일은 09.30 자정 전 수신)가 명시.",
+        "summary": "강남구 정책·사업·문화·관광·축제를 생성형 AI 웹툰 또는 숏폼 영상으로 홍보하는 공모전입니다.",
+        "status": "접수 예정",
+        "source_checked_at": "2026-09-08T19:15:00+09:00"
+      },
+      {
+        "title": "2026년 울산광역시 U잼 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "울산광역시",
+        "submission_start": "2026-10-01",
+        "submission_end": "2026-10-16",
+        "result_date": "미정",
+        "url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46545.ulsan?mId=001004002000000000&gosiGbn=A",
+        "source_type": "official_notice",
+        "discovery_source": "official_notice",
+        "discovery_url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46545.ulsan?mId=001004002000000000&gosiGbn=A",
+        "evidence": "울산광역시 공식 고시공고에 AI영상 부문을 포함한 U잼 영상 공모전, 2026.10.01 09:00~10.16 18:00 접수와 SNS 전체공개 업로드 후 구글폼 제출이 명시.",
+        "summary": "울산을 소재로 한 AI 영상 부문을 포함한 시민 영상 공모전입니다.",
+        "status": "접수 예정",
+        "source_checked_at": "2026-09-08T19:15:00+09:00"
+      },
+      {
+        "title": "2026 청주영상위원회 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "청주시 / 청주시문화산업진흥재단 청주영상위원회",
+        "submission_start": "2026-09-21",
+        "submission_end": "2026-10-12",
+        "result_date": "2026-10-29 예정",
+        "url": "https://cjculture.org/sub.php?code=32&mode=view&no=1855&category=&page=1&search=&keyword=",
+        "source_type": "official_notice",
+        "discovery_source": "official_notice",
+        "discovery_url": "https://cjculture.org/sub.php?code=32&mode=view&no=1855&category=&page=1&search=&keyword=",
+        "evidence": "청주시문화산업진흥재단 공식 공고 및 첨부 PDF에 AI 기술을 전체 또는 일부 활용한 스토리 영상(뮤직비디오 등 장르 제한 없음), 2026.09.21~10.12 14:00 이메일 접수가 명시.",
+        "summary": "청주 지역 문화원형·촬영작 등을 소재로 AI 스토리 영상을 만드는 공모전입니다.",
+        "status": "접수 예정",
+        "source_checked_at": "2026-09-08T19:15:00+09:00"
       }
     ],
     "awaiting_results": [
@@ -2247,7 +2295,11 @@
         "evidence": "국가철도공단 공고 및 참고 공고 기준 생성형 AI로 만든 60초 이내 가로형 영상 제출 명시.",
         "summary": "2050 대한민국 미래 철도를 주제로 생성형 AI 영상 작품을 모집하는 국가철도공단 공모전입니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-07-11T19:00:00+09:00"
+        "source_checked_at": "2026-09-08T19:15:00+09:00",
+        "results_confirmed": true,
+        "results_published_at": "2026-08-12",
+        "results_url": "https://www.kr.or.kr/boardCnts/view.do?boardID=1100660&boardSeq=1122600",
+        "results_evidence": "국가철도공단 공식 공모전 게시판의 수상작·수상자 발표를 확인."
       },
       {
         "title": "타임라이더 1주년 기념 경주월드 AI 숏폼 공모전",
@@ -2311,7 +2363,11 @@
         "evidence": "Tavily의 Blaybus 공모전 페이지 색인과 전자신문 보도 기준 콘텐츠 부문에서 생성형 AI 이미지(중·고등부)와 생성형 AI 영상(대학·일반부) 제출, 접수 2026년 7월 1일~7월 15일 명시.",
         "summary": "안전하고 올바른 AI 사용과 AI와 공존하는 미래 사회를 주제로 생성형 AI 이미지와 영상을 모집하는 전 국민 대상 공모전입니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-07-16T19:00:00+09:00"
+        "source_checked_at": "2026-09-08T19:15:00+09:00",
+        "results_confirmed": true,
+        "results_published_at": "2026-08-03",
+        "results_url": "https://ktgf.or.kr/news/notice.php?boardid=notice&mode=view&idx=46&sk=&sw=&offset=0&category=",
+        "results_evidence": "KT그룹희망나눔재단 공식 수상자 발표 공지를 확인."
       },
       {
         "title": "올리비아로렌 AI 여름 화보 공모전",
@@ -2407,7 +2463,11 @@
         "evidence": "시청자미디어재단 지역센터 공식 공지 및 공식 SNS 기준 AI·디지털 역기능 예방 캠페인 창작물을 영상, 카드뉴스 및 만화, 포스터로 응모 가능, 접수 2026년 4월 29일~7월 22일 명시.",
         "summary": "전국 초·중·고교 청소년이 AI·디지털 역기능 예방 캠페인을 영상, 카드뉴스·만화, 포스터로 표현하는 창작 공모전입니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-07-23T19:00:00+09:00"
+        "source_checked_at": "2026-09-08T19:15:00+09:00",
+        "results_confirmed": true,
+        "results_published_at": "2026-08-26",
+        "results_url": "https://kcmf.or.kr/KCMF/contents/KCMF050707.do?schM=view&id=20260826142755786269&schBcid=seoulTTTnotice",
+        "results_evidence": "시청자미디어재단 서울센터 공식 결과 발표 공지를 확인."
       },
       {
         "title": "2026 대한민국 AI 콘텐츠 어워즈",
