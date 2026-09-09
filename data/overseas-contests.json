@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T14:00:00+09:00",
+  "generated_at": "2026-09-10T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,6 +37,40 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "Bestiary: Miora × MiniMax H3 Creative Contest",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Miora × MiniMax",
+        "submission_start": "2026-09-01",
+        "submission_end": "2026-09-14",
+        "result_date": "2026-09-17",
+        "url": "https://www.instagram.com/p/DcuigDkzruC/",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.threads.com/@hailuoai_official",
+        "evidence": "MiniMax/Hailuo 공식 계정과 Miora 공식 공지가 전 세계 창작자를 대상으로 MiniMax H3를 활용한 30초 이상 괴생명체 내러티브 영상을 모집한다고 안내함. 공식 포스터와 공지에서 접수 기간 2026-09-01~2026-09-14, 결과 발표 2026-09-17, 총 현금 8,000달러와 200,000 크레딧 규모의 시상을 확인함.",
+        "summary": "MiniMax H3로 30초 이상의 신화·민담·도시전설 또는 독창적 괴생명체 영상을 제작하는 글로벌 크리에이티브 공모전. 9월 14일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-10T07:00:00+09:00"
+      },
+      {
+        "title": "MiniMax H3 × SeaArt App & Play Challenge",
+        "category": "생성형 AI",
+        "country": "Global",
+        "organizer": "SeaArt AI × MiniMax",
+        "submission_start": "2026-09-02",
+        "submission_end": "2026-09-30",
+        "result_date": "미정",
+        "url": "https://www.seaart.ai/minimax-h3-ai-app-contest",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://x.com/SeaArt_Ai/status/2096900698038509578",
+        "evidence": "SeaArt 공식 공지와 MiniMax 공식 재게시가 전 세계 창작자·개발자·일반 사용자를 대상으로 MiniMax H3를 사용해 다른 사람이 체험·생성·공유·리믹스할 수 있는 AI 앱을 제작하는 글로벌 챌린지라고 명시함. 공식 안내에서 2026-09-02~2026-09-30 운영 및 총 3,000달러 규모의 상금을 확인함.",
+        "summary": "MiniMax H3를 활용해 체험·생성·공유 가능한 AI 앱이나 창작 도구를 만드는 글로벌 SeaArt 챌린지. 9월 30일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-10T07:00:00+09:00"
+      },
       {
         "title": "NEXT ART AI 2026",
         "category": "AI 이미지·영상",
