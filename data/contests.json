@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T19:15:00+09:00",
+  "generated_at": "2026-09-09T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -343,22 +343,6 @@
         "source_checked_at": "2026-08-26T19:00:00+09:00"
       },
       {
-        "title": "하나손해보험 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "하나손해보험",
-        "submission_start": "2026-08-12",
-        "submission_end": "2026-09-08",
-        "result_date": "2026-09-22 예정",
-        "url": "https://www.hanainsure.co.kr/w/benefit/event/ongoingEventDetail?nSeq=19",
-        "source_type": "official_homepage",
-        "discovery_source": "brave",
-        "discovery_url": "https://crowlly.xyz/competitions/hana-insurance-ai-video-contest-2026",
-        "evidence": "하나손해보험 공식 이벤트 페이지와 공개 공고에 생성형 AI를 활용한 가로형 TVC·세로형 숏폼 영상, 접수 2026.08.12~09.08이 명시.",
-        "summary": "하나손해보험 브랜드를 생성형 AI 광고영상과 숏폼으로 표현하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-24T19:00:00+09:00"
-      },
-      {
         "title": "THE GREAT GWANGJU AI 영상 공모전",
         "category": "AI 영상",
         "organizer": "광주신세계",
@@ -487,22 +471,6 @@
         "summary": "AI를 활용해 친구, 가게, 기업, 지역 명소 등 알리고 싶은 대상을 광고영상으로 소개하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-19T19:00:00+09:00"
-      },
-      {
-        "title": "제1회 AI 이미지 챌린지",
-        "category": "AI 이미지",
-        "organizer": "서울AI재단·전자신문·한국사진기자협회",
-        "submission_start": "2026-08-01",
-        "submission_end": "2026-09-07",
-        "result_date": "심사 후 개별 통지",
-        "url": "https://www.etnews.com/20260807000086",
-        "source_type": "reference_link",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.etnews.com/20260807000086",
-        "evidence": "공동 주최사 안내에 직접 촬영한 사진을 생성형 AI 도구로 미래지향적 이미지로 제작해 출품하며 접수 기간은 2026.08.01~09.07이라고 명시.",
-        "summary": "직접 촬영한 사진을 생성형 AI로 재해석해 미래 도시 이미지를 제작하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-11T19:00:00+09:00"
       },
       {
         "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
@@ -747,6 +715,38 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "하나손해보험 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "하나손해보험",
+        "submission_start": "2026-08-12",
+        "submission_end": "2026-09-08",
+        "result_date": "2026-09-22 예정",
+        "url": "https://www.hanainsure.co.kr/w/benefit/event/ongoingEventDetail?nSeq=19",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://crowlly.xyz/competitions/hana-insurance-ai-video-contest-2026",
+        "evidence": "하나손해보험 공식 이벤트 페이지와 공개 공고에 생성형 AI를 활용한 가로형 TVC·세로형 숏폼 영상, 접수 2026.08.12~09.08이 명시.",
+        "summary": "하나손해보험 브랜드를 생성형 AI 광고영상과 숏폼으로 표현하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-09-09T19:00:00+09:00"
+      },
+      {
+        "title": "제1회 AI 이미지 챌린지",
+        "category": "AI 이미지",
+        "organizer": "서울AI재단·전자신문·한국사진기자협회",
+        "submission_start": "2026-08-01",
+        "submission_end": "2026-09-07",
+        "result_date": "심사 후 개별 통지",
+        "url": "https://www.etnews.com/20260807000086",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.etnews.com/20260807000086",
+        "evidence": "공동 주최사 안내에 직접 촬영한 사진을 생성형 AI 도구로 미래지향적 이미지로 제작해 출품하며 접수 기간은 2026.08.01~09.07이라고 명시.",
+        "summary": "직접 촬영한 사진을 생성형 AI로 재해석해 미래 도시 이미지를 제작하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-09-09T19:00:00+09:00"
+      },
       {
         "title": "2026 평화 통일미래 콘텐츠 공모전",
         "category": "AI 이미지·영상",
