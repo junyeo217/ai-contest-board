@@ -1,0 +1,40 @@
+{
+  "checked": "2026-09-09T19:01:00+09:00",
+  "scope": "국내 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전. 음원/BGM 단독 공모전 제외.",
+  "new_verified": [],
+  "status_rechecks": [
+    {
+      "title": "WAVE 2026 울산세계미래산업박람회 AI 숏폼 공모전",
+      "status": "마감일 도래",
+      "deadline": "2026-09-09",
+      "official_url": "https://www.instagram.com/wave2026_ulsan/p/DcvR7jAEy15/",
+      "evidence": "기존 공식 WAVE 계정 공고의 접수 마감일이 2026.09.09로 유지됨. 보드의 날짜 기반 상태 규칙에 따라 마감 이후 제외."
+    },
+    {
+      "title": "2026 충남 인물열전 AI 콘텐츠 어워즈",
+      "status": "접수중",
+      "deadline": "2026-09-10 16:00",
+      "official_url": "https://www.cnctf.or.kr/site/board/index.php?table_nm=tbl_culture&fn=view&no=2026071015334376345&page=1",
+      "evidence": "충남문화관광재단 공식 공고의 게시 기간은 2026.07.10~09.10으로 표시되며 첨부 공고문을 제공."
+    },
+    {
+      "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
+      "status": "접수중",
+      "deadline": "2026-09-11 16:00",
+      "official_url": "https://www.fantasiafesta.or.kr/Board-Notice?menuId=MENU_0000000285&mode=detl&nttId=NTT_0000002560",
+      "evidence": "대구문화예술진흥원 공식 공고에 접수 2026.08.03~09.11 16:00 및 AI 숏폼·이미지 부문이 명시."
+    }
+  ],
+  "results_confirmed": [
+    {
+      "title": "상상을 실현하는 아이 AI <2026 대전 AI 영상 공모전>",
+      "results_published_at": "2026-09-07",
+      "official_url": "https://aikive.com/event/5105995dd52643bf9dd53285a2f8137d",
+      "evidence": "공식 AI-Kive 공모전 페이지에 수상작 19편과 결과발표일 2026.09.07이 표시되어 실제 발표를 확인."
+    }
+  ],
+  "verification_pending": [
+    "하나손해보험 AI 영상 공모전은 공식 페이지에서 기존 공모전 상세·결과 페이지를 이번 실행에서 확인하지 못해 결과 발표 여부를 검증 보류.",
+    "WAVE 2026 울산세계미래산업박람회 AI 숏폼 공모전은 Instagram 원문이 비인증 조회에서 본문을 제공하지 않아 연장 또는 결과 공지를 검증 보류."
+  ]
+}
