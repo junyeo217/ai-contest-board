@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T19:00:00+09:00",
+  "generated_at": "2026-09-09T19:01:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -993,15 +993,17 @@
         "organizer": "대전정보문화산업진흥원 / 스튜디오프리윌루전(AI-Kive)",
         "submission_start": "2026-07-20",
         "submission_end": "2026-08-18",
-        "result_date": "2026-09-09 발표 / 2026-09-18 시상식 예정",
-        "url": "https://www.youtube.com/watch?v=azHKyRa6rQM",
+        "result_date": "2026-09-07 발표 / 2026-09-18 시상식 예정",
+        "url": "https://aikive.com/event/5105995dd52643bf9dd53285a2f8137d",
         "source_type": "official_platform",
         "discovery_source": "tavily",
         "discovery_url": "https://www.etnews.com/20260720000062",
-        "evidence": "공식 영상 설명에 생성형 AI를 활용한 스토리 중심 단편 영상, 진행 기간 2026.07.20~08.18 명시",
+        "evidence": "공식 AI-Kive 공모전 페이지에 수상작 19편, 결과발표일 2026.09.07 및 시상식 2026.09.18이 명시.",
         "summary": "생성형 AI로 제작한 스토리 중심 단편 영상을 모집하는 대전 AI 영상 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-08-19T19:00:00+09:00"
+        "status": "발표완료",
+        "source_checked_at": "2026-09-09T19:01:00+09:00",
+        "results_confirmed": true,
+        "results_published_at": "2026-09-07"
       },
       {
         "title": "2026 궁중문화축전 AI 영상 공모전",
