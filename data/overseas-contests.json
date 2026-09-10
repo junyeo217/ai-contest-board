@@ -447,23 +447,6 @@
         "summary": "생성형·알고리즘·파라메트릭·AI 보조 디자인 작품을 모집하는 국제 디자인 어워드.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
-      },
-      {
-        "title": "WAIFF LA USA 2026",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "World AI Film Festival USA",
-        "submission_start": "2026-05-20",
-        "submission_end": "2027-01-20",
-        "result_date": "2027-02-15",
-        "url": "https://worldaifilmfestival.us/",
-        "source_type": "official_homepage",
-        "discovery_source": "tavily",
-        "discovery_url": "https://worldaifilmfestival.us/",
-        "evidence": "WAIFF USA 공식 사이트가 World AI Film Festival의 American Edition으로 생성형 AI가 제작 과정의 핵심이어야 하고, 참가자가 사용한 AI 도구와 제작 파이프라인을 Production Journal로 공개해야 한다고 명시함. 공식 Key Dates는 2026-05-20 접수 시작, 2026-11-30 정규 마감, 2027-01-20 최종 마감, 2027-02-15 결과 통지, 2027년 3월 말 LA 행사로 확인됨.",
-        "summary": "World AI Film Festival의 미국 LA 에디션. 생성형 AI를 핵심적으로 활용한 영화·영상 작품을 2027년 1월 20일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-09-09T07:00:00+09:00"
       }
     ],
     "awaiting_results": [
@@ -1048,6 +1031,27 @@
       "items": [
         "WAIFF LA USA 2026"
       ]
+    }
+  ],
+  "verification_pending": [
+    {
+      "title": "WAIFF LA USA 2026",
+      "category": "AI 영상",
+      "country": "United States",
+      "organizer": "World AI Film Festival USA",
+      "submission_start": "2026-05-20",
+      "submission_end": "2027-01-20",
+      "result_date": "2027-02-15",
+      "url": "https://worldaifilmfestival.us/",
+      "source_type": "official_homepage",
+      "discovery_source": "tavily",
+      "discovery_url": "https://worldaifilmfestival.us/",
+      "evidence": "WAIFF USA 공식 사이트가 World AI Film Festival의 American Edition으로 생성형 AI가 제작 과정의 핵심이어야 하고, 참가자가 사용한 AI 도구와 제작 파이프라인을 Production Journal로 공개해야 한다고 명시함. 공식 Key Dates는 2026-05-20 접수 시작, 2026-11-30 정규 마감, 2027-01-20 최종 마감, 2027-02-15 결과 통지, 2027년 3월 말 LA 행사로 확인됨.",
+      "summary": "World AI Film Festival의 미국 LA 에디션. 생성형 AI를 핵심적으로 활용한 영화·영상 작품을 2027년 1월 20일까지 접수합니다.",
+      "status": "진행중",
+      "source_checked_at": "2026-09-10T07:00:00+09:00",
+      "verification_status": "verification_pending",
+      "verification_reason": "공식 WAIFF USA 현행 페이지는 제목과 달리 2027년 3월 말 LA 행사 및 2027-01-20 최종 마감 일정만 제시한다. 기존 2026 에디션 기록에 다른 연도 요강을 덮어쓸 수 없어 공개 목록에서 제외하고 보존한다."
     }
   ]
 }
