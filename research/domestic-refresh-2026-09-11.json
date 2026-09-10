@@ -1,0 +1,29 @@
+{
+  "checked": "2026-09-11T19:00:00+09:00",
+  "scope": "국내 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전. 음원/BGM 단독 공모전 제외.",
+  "new_verified": [],
+  "verified_updates": [
+    {
+      "title": "2026 국가산림문화자산 AI 숏폼 영상 공모전",
+      "official_url": "https://www.forestcontest26.com/",
+      "changes": ["공식 누리집 기준 접수 2026.09.01~09.30, 이메일 forestcontest26@naver.com 제출, 결과 발표 2026.10.23 예정으로 정정·구조화", "30초~3분, 세로형 1080×1920px 이상 Full HD, 전 국민 대상, 총 4점·280만원 및 수상작 활용 조건 확인"],
+      "evidence": "공식 누리집 및 상세 페이지를 직접 확인. 참가비와 마감 시각은 공식 표기 없음으로 부분 확인 유지."
+    },
+    {
+      "title": "2026년 국토안전 AI 콘텐츠 공모전",
+      "official_url": "https://www.kalis.or.kr/www/contest/m_55/view.do?idx=31",
+      "changes": ["참고 링크를 국토안전관리원 공식 공모전 페이지로 교체", "공식 페이지의 합격자 발표일 2026.09.11을 재확인"],
+      "evidence": "2026.09.11 확인 시 공식 페이지에 수상자 명단 또는 결과 공지가 없어 results_confirmed는 기록하지 않음."
+    }
+  ],
+  "status_rechecks": [
+    {"title":"2026 판타지아대구페스타 AI 콘텐츠 공모전","status":"접수 마감일","deadline":"2026-09-11 16:00 KST","official_url":"https://www.fantasiafesta.or.kr/Board-Notice?menuId=MENU_0000000285&mode=detl&nttId=NTT_0000002560","evidence":"대구문화예술진흥원 공식 공고에서 마감 시각과 결과 발표 2026.09.29 예정 재확인."},
+    {"title":"제3회 부산국제AI영화제 출품작 공모","status":"접수 마감일","deadline":"2026-09-11 23:59:59 KST","official_url":"https://biaif.dureraum.org/main/20?action=view&no=669&bbsId=1","evidence":"영화의전당 공식 BIAIF 공고에서 개인·팀 1편, AI 도구 활용, 2025년 9월 이후 완성작 및 마감 시각 재확인."},
+    {"title":"청년들이 만드는 첨단 공공서비스 AI 영상 공모전","status":"접수 마감일","deadline":"2026-09-11 18:00 KST","official_url":"https://www.klid.or.kr/open/selectBoardDetail.do?PID=notice&bbsSeq=13621&part=%EA%B3%B5%EC%A7%80","evidence":"한국지역정보개발원 공식 공지의 기존 접수 마감일을 기준으로 상태 전환을 확인. 본문에서 연장 공지는 확인하지 못함."}
+  ],
+  "results_confirmed": [],
+  "verification_pending": [
+    "2026년 국토안전 AI 콘텐츠 공모전은 공식 목록에 발표일만 표시되며 실제 수상자 발표를 확인하지 못해 발표완료로 전환하지 않음.",
+    "WAVE 2026 울산세계미래산업박람회 AI 숏폼 공모전은 공식 SNS 원문에서 결과 또는 연장 공지를 이번 실행에 확인하지 못함."
+  ]
+}
