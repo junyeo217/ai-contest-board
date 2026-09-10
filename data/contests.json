@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:00:00+09:00",
+  "generated_at": "2026-09-11T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -607,15 +607,16 @@
         "organizer": "산림청·한국산림복지진흥원",
         "submission_start": "2026-09-01",
         "submission_end": "2026-09-30",
-        "result_date": "2026-10 중 예정",
-        "url": "http://www.forestcontest26.com/contest.php?pg=21",
+        "result_date": "2026-10-23 예정",
+        "url": "https://www.forestcontest26.com/",
         "source_type": "official_homepage",
         "discovery_source": "tavily",
-        "discovery_url": "https://www.contestkorea.com/sub/view.php?Txt_gbn=1&Txt_bcode=031210001&str_no=202609010003",
-        "evidence": "공식 공모전 페이지에 AI 활용 스토리텔링·애니메이션 등 30초~3분 숏폼 영상 명시",
-        "summary": "국가산림문화자산과 산림을 AI로 표현하는 숏폼 영상 공모전",
+        "discovery_url": "https://www.forestcontest26.com/",
+        "evidence": "한국산림복지진흥원 연계 공식 공모전 누리집에 전 국민 대상 AI 활용 30초~3분 세로형 숏폼, 2026.09.01~09.30 이메일 접수, 결과 발표 2026.10.23 예정이 명시.",
+        "summary": "국가산림문화자산과 산림을 AI로 표현하는 세로형 숏폼 영상 공모전입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-09-01T19:00:00+09:00"
+        "source_checked_at": "2026-09-11T19:00:00+09:00",
+        "rules_reviewed_at": "2026-09-11"
       },
       {
         "title": "2026 문화다양성 AI 영상 콘텐츠 공모전",
@@ -2686,14 +2687,15 @@
         "submission_start": "2026-08-05",
         "submission_end": "2026-08-30",
         "result_date": "2026-09-11 예정",
-        "url": "https://www.kmou.ac.kr/common/nttFileDownload.do?fileKey=a7b0564c9fa5a2fcc79fb6bb9fba905d",
-        "source_type": "reference_link",
+        "url": "https://www.kalis.or.kr/www/contest/m_55/view.do?idx=31",
+        "source_type": "official_notice",
         "discovery_source": "tavily",
-        "discovery_url": "https://top.jbnu.ac.kr/bbs/sportscience/754/397933/artclView.do",
-        "evidence": "배포된 응모 요강에 국토안전관리원의 역할과 업무를 주제로 한 AI 영상·이미지 콘텐츠 공모이며 접수 기간은 2026.08.05~08.30이라고 명시.",
+        "discovery_url": "https://www.kalis.or.kr/www/contest/m_55/view.do?idx=31",
+        "evidence": "국토안전관리원 공식 공모전 페이지에 접수 2026.08.05~08.30 및 합격자 발표일 2026.09.11이 표시된다. 2026.09.11 확인 시 수상자 명단 또는 결과 공지는 확인하지 못했다.",
         "summary": "국토안전관리원의 역할과 업무를 알리는 AI 영상 또는 이미지 콘텐츠를 모집합니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-09-01T19:00:00+09:00"
+        "source_checked_at": "2026-09-11T19:00:00+09:00",
+        "rules_reviewed_at": "2026-09-11"
       },
       {
         "title": "2026 HACCP AI 콘텐츠 공모전",
