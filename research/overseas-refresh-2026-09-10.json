@@ -1,0 +1,61 @@
+{
+  "checked": "2026-09-10",
+  "scope": "해외 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전. 음원/BGM 단독 공모 제외.",
+  "verification": [
+    {
+      "title": "WAIFF LA USA 2026",
+      "official_url": "https://worldaifilmfestival.us/",
+      "checked_at": "2026-09-10T07:00:00+09:00",
+      "finding": "현행 공식 페이지는 2027년 3월 말 로스앤젤레스 개최, 2026-05-20 접수 시작, 2026-11-30 정규 마감, 2027-01-20 최종 마감, 2027-02-15 통지와 미국 기반 13세 이상 창작자 요건을 명시한다. 이는 제목의 2026 에디션과 일치하지 않는다.",
+      "action": "2026 레코드를 verification_pending으로 보존하고 공개 접수중 목록에서 제외. 2027 에디션은 별도 공고로 신규 등록하지 않음."
+    },
+    {
+      "title": "ユメカタリ 학생 생성형 AI 콘테스트 2026",
+      "official_url": "https://aichi-select.net/ai_contest/",
+      "checked_at": "2026-09-10T07:00:00+09:00",
+      "finding": "공식 페이지는 접수 마감을 2026-09-10으로만 표시하며 시간대·국적·거주지 요건은 명시하지 않는다. 학생 및 졸업 후 3년 이내 제2신졸 대상, Google Form 접수, 개발 또는 크리에이티브 부문 제출물과 상금을 재확인.",
+      "action": "마감일 당일로 유지. 시간대와 한국 거주 가능 여부는 추정하지 않음."
+    },
+    {
+      "title": "AKOOL Creator Clash 2026",
+      "official_url": "https://akool.com/creator-clash",
+      "checked_at": "2026-09-10T07:00:00+09:00",
+      "finding": "공식 페이지가 Seedance 2.5 사용, AKOOL 로고 삽입, 공개 SNS 게시·태그·링크 제출, 2026-09-15 23:59 PT 마감과 9월 30일 수상자 발표를 계속 명시.",
+      "action": "기존 접수중 정보 유지."
+    },
+    {
+      "title": "Higgsfield Global Film Festival 2026",
+      "official_url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
+      "checked_at": "2026-09-10T07:00:00+09:00",
+      "finding": "공식 안내가 등록 Higgsfield 계정 보유 18세 이상, 플랫폼 내 전 과정 생성, 3분 이상 MP4/MOV, 공개 SNS 게시를 요구하며 2026-09-14 23:59 UTC 마감과 10월 마지막 주 발표 예정을 명시.",
+      "action": "기존 접수중 정보 유지."
+    },
+    {
+      "title": "AI Media Award 2026",
+      "official_url": "https://ai-media-award.com/",
+      "checked_at": "2026-09-10T07:00:00+09:00",
+      "finding": "공식 홈페이지가 전 세계 개인·기관 참가, 5분 이하 시청각 형식, AI Music Clip을 포함한 6개 부문, 2026-09-13 마감, 10월 5일 후보 발표 및 10월 27일 시상식을 명시. 참가비 FAQ 항목은 페이지에서 금액을 제시하지 않음.",
+      "action": "기존 접수중 정보 및 부분 확인 경고 유지."
+    },
+    {
+      "title": "제5회 AI Art Grand Prix",
+      "official_url": "https://www.aiartgrandprix.com/aitemu-1/05aiartgp",
+      "checked_at": "2026-09-10T07:00:00+09:00",
+      "finding": "공식 공지가 AI 활용 아트 작품을 2026-08-01~09-15에 접수하고 11월 7일 시상식을 예고함.",
+      "action": "기존 접수중 정보 유지."
+    },
+    {
+      "title": "Reply AI Film Festival 2026",
+      "official_url": "https://challenges.reply.com/challenges/creative/aifilmfestival/home",
+      "checked_at": "2026-09-10T07:00:00+09:00",
+      "finding": "공식 페이지는 10개 파이널리스트와 9월 베네치아 프리미어를 안내하나 실제 수상자 발표는 확인하지 못함.",
+      "action": "기존 데이터에 미등록. 공식 수상 발표 전 결과 기록을 추가하지 않음."
+    }
+  ],
+  "new_officially_verified_records": [],
+  "results_confirmed": [],
+  "verification_pending": [
+    "WAIFF LA USA 2026: 현행 공식 페이지가 2027 에디션 일정만 표시해 2026 기록을 접수중으로 확정할 수 없음."
+  ],
+  "data_sha256": "30c2686df5dbd7d0183be2afae3d3591fb982dfca29ba60caf3090367898e74e"
+}
