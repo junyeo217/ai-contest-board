@@ -5,6 +5,22 @@
     "starting_today": [],
     "ongoing": [
       {
+        "title": "경북농협 농산물 AI 숏폼 대학생 공모전",
+        "category": "AI 영상",
+        "organizer": "경북농협",
+        "submission_start": "2026-09-09",
+        "submission_end": "2026-09-30",
+        "result_date": "미정",
+        "url": "https://www.citizenadmnews.co.kr/news/article.html?no=1419787",
+        "source_type": "reference_link",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.citizenadmnews.co.kr/news/article.html?no=1419787",
+        "evidence": "경북농협 배포 안내에 경북 대표 과일브랜드 데일리의 농산물을 활용한 AI 숏폼 콘텐츠와 2026.09.09~09.30 접수가 명시.",
+        "summary": "경북 대표 과일브랜드 데일리의 농산물을 AI 숏폼으로 알리는 전국 대학생 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-11T19:00:00+09:00"
+      },
+      {
         "title": "2026 AI 캐릭터창작공모전",
         "category": "AI 디자인",
         "organizer": "(사)캐릭터디자이너협회",
@@ -505,22 +521,6 @@
         "source_checked_at": "2026-07-30T19:00:00+09:00"
       },
       {
-        "title": "2026 충남 인물열전 AI 콘텐츠 어워즈",
-        "category": "AI 영상",
-        "organizer": "충청남도/충남문화관광재단",
-        "submission_start": "2026-07-10",
-        "submission_end": "2026-09-10",
-        "result_date": "미정",
-        "url": "https://www.cnctf.or.kr/site/board/index.php?fn=view&no=2026071015334376345&table_nm=tbl_culture",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.allforyoung.com/posts/84639",
-        "evidence": "충남 역사·문화 인물을 소재로 생성형 AI를 활용한 영상 콘텐츠 제작 공모 명시",
-        "summary": "충남의 역사·문화 인물을 소재로 생성형 AI 영상 콘텐츠를 제작하는 어워즈",
-        "status": "진행중",
-        "source_checked_at": "2026-07-17T19:00:00+09:00"
-      },
-      {
         "title": "2026 충북 AI광고제",
         "category": "AI 영상",
         "organizer": "충청북도·충북과학기술혁신원",
@@ -700,6 +700,22 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "2026 충남 인물열전 AI 콘텐츠 어워즈",
+        "category": "AI 영상",
+        "organizer": "충청남도/충남문화관광재단",
+        "submission_start": "2026-07-10",
+        "submission_end": "2026-09-10",
+        "result_date": "미정",
+        "url": "https://www.cnctf.or.kr/site/board/index.php?fn=view&no=2026071015334376345&table_nm=tbl_culture",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.allforyoung.com/posts/84639",
+        "evidence": "충남 역사·문화 인물을 소재로 생성형 AI를 활용한 영상 콘텐츠 제작 공모 명시",
+        "summary": "충남의 역사·문화 인물을 소재로 생성형 AI 영상 콘텐츠를 제작하는 어워즈",
+        "status": "발표 대기",
+        "source_checked_at": "2026-09-11T19:00:00+09:00"
+      },
       {
         "title": "WAVE 2026 울산세계미래산업박람회 AI 숏폼 공모전",
         "category": "AI 영상",
@@ -2629,22 +2645,6 @@
         "discovery_url": "https://www.gmilbo.net/news/article.html?no=80617",
         "evidence": "공식 누리집에 제5회 Galaxy 사진공모전, 접수기간 2026.06.22~2026.08.21 및 특별부문 Galaxy AI가 명시되어 있습니다.",
         "summary": "갤럭시로 촬영한 사진과 Galaxy AI를 활용한 특별부문 작품을 접수하는 사진 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-08-22T19:00:00+09:00"
-      },
-      {
-        "title": "AIBB 1주년 기념 AI 공모전",
-        "category": "AI 디자인",
-        "organizer": "프롬프트타운 / BBIA x AIBB",
-        "submission_start": "2026-07-13",
-        "submission_end": "2026-08-21",
-        "result_date": "2026-09-10 예정",
-        "url": "https://www.momo365.net/Support?cd=contest&ViewType=detail&seq=174346",
-        "source_type": "reference_link",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.momo365.net/Support?cd=contest&ViewType=detail&seq=174346",
-        "evidence": "참고 공고에 AI 공모전, 콜라보 제품 시안·연출컷·생일 파티 포스터 등 디자인 제출물 명시",
-        "summary": "BBIA x AIBB 1주년을 주제로 제품 시안, 연출컷, 포스터 등 AI 기반 디자인 산출물을 제출하는 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-08-22T19:00:00+09:00"
       },
