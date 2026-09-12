@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:00:00+09:00",
+  "generated_at": "2026-09-13T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,6 +37,40 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "AICM COMPETITION 2026",
+        "category": "AI 영상",
+        "country": "Japan",
+        "organizer": "aicrew株式会社",
+        "submission_start": "2026-09-08",
+        "submission_end": "2026-09-13",
+        "result_date": "2026-09-20",
+        "url": "https://www.aicrew.jp/news/8wtg6j1_h",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.aicrew.jp/news/8wtg6j1_h",
+        "evidence": "aicrew 공식 공지가 생성형 AI를 활용한 15초 기업 CM 영상을 모집한다고 명시함. 공식 페이지 공개일은 2026-09-08이며, 접수 마감은 2026-09-13 23:59, 파이널리스트 작품은 2026-09-20 AIgekijo 2026에서 상영 예정임.",
+        "summary": "AI를 활용해 aicrew의 15초 기업 CM을 제작하는 일본 영상 공모전. 오늘 23:59까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-13T07:00:00+09:00"
+      },
+      {
+        "title": "Slamdance 2027 – DIG AI-driven Film & Music",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "Slamdance",
+        "submission_start": "2026-05-18",
+        "submission_end": "2026-10-06",
+        "result_date": "2026-12-17",
+        "url": "https://slamdance.com/festival-submit",
+        "source_type": "official_apply_page",
+        "discovery_source": "tavily",
+        "discovery_url": "https://slamdance.com/festival-submit",
+        "evidence": "Slamdance 공식 접수 페이지가 DIG 부문에서 AI-driven Film & Music을 다루며 AI로 또는 AI와 함께 만든 영화를 적극 권장한다고 명시함. 2026-05-18 접수 시작, 2026-10-06 최종 마감, 2026-12-17 결과 통지 일정을 확인함.",
+        "summary": "AI 기반 영화와 음악을 포함한 디지털·인터랙티브 작품을 모집하는 Slamdance DIG 부문. 10월 6일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-13T07:00:00+09:00"
+      },
       {
         "title": "AI Los Angeles IFF 2026",
         "category": "AI 영상",
