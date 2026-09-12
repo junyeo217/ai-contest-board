@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-09-11T19:00:00+09:00",
+  "generated_at": "2026-09-12T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "2026년 인공지능(AI) 활용 청소년활동 안전공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "한국청소년활동진흥원",
+        "submission_start": "2026-09-11",
+        "submission_end": "2026-10-12",
+        "result_date": "2026-11 1주 예정",
+        "url": "https://m.kywa.or.kr/notice/notice_view.do?page=notice&no=36764",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://m.kywa.or.kr/notice/notice_view.do?page=notice&no=36764",
+        "evidence": "공식 공고의 공모 분야에 동영상(숏폼)과 웹툰 명시, AI 활용 안전콘텐츠 공모",
+        "summary": "AI를 활용한 청소년활동 안전 교육자료·숏폼·웹툰 공모",
+        "status": "진행중",
+        "source_checked_at": "2026-09-12T19:00:00+09:00"
+      },
+      {
+        "title": "2026 경남지역 2차 장애인식개선 캠페인 AI 이미지 공모전",
+        "category": "AI 이미지",
+        "organizer": "경상남도장애인종합복지관",
+        "submission_start": "2026-09-08",
+        "submission_end": "2026-10-11",
+        "result_date": "미정",
+        "url": "https://www.instagram.com/p/DdBO6CQElp9",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.instagram.com/p/DdBO6CQElp9",
+        "evidence": "공식 게시물에 생성형 AI로 장애인식개선 모습을 표현한 JPG·PNG 이미지 제출 명시",
+        "summary": "생성형 AI로 장애인식개선의 모습을 표현하는 이미지 공모전",
+        "status": "진행중",
+        "source_checked_at": "2026-09-12T19:00:00+09:00"
+      },
+      {
+        "title": "2026 AI 활용 저작권 콘텐츠 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "문화체육관광부·한국저작권위원회",
+        "submission_start": "2026-09-21",
+        "submission_end": "2026-10-25",
+        "result_date": "미정",
+        "url": "https://forms.gle/Ash9em1N7N4HBZYy9",
+        "source_type": "official_apply_page",
+        "discovery_source": "tavily",
+        "discovery_url": "https://ai.cau.ac.kr/sub07/sub0701.php?category=1&view=detail&no=3597",
+        "evidence": "기관 공지에 생성형 AI 기술을 활용한 이미지(카드뉴스·만화) 또는 숏폼 영상 부문 명시",
+        "summary": "생성형 AI로 저작권 존중과 올바른 이용 문화를 표현하는 이미지·숏폼 공모전",
+        "status": "접수 예정",
+        "source_checked_at": "2026-09-12T19:00:00+09:00"
+      },
       {
         "title": "경북농협 농산물 AI 숏폼 대학생 공모전",
         "category": "AI 영상",
@@ -473,22 +521,6 @@
         "source_checked_at": "2026-08-19T19:00:00+09:00"
       },
       {
-        "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
-        "category": "AI 이미지·영상",
-        "organizer": "대구문화예술진흥원",
-        "submission_start": "2026-08-03",
-        "submission_end": "2026-09-11",
-        "result_date": "2026-09-29 예정",
-        "url": "https://www.fantasiafesta.or.kr/Board-Notice?menuId=MENU_0000000285&mode=detl&nttId=NTT_0000002560",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.fantasiafesta.or.kr/Board-Notice?menuId=MENU_0000000285&mode=detl&nttId=NTT_0000002560",
-        "evidence": "판타지아대구페스타 공식 공고에 생성형 AI를 활용한 AI 숏폼과 AI 이미지 부문 및 2026.08.03~09.11 접수 기간 명시.",
-        "summary": "대구 대표 축제 브랜드 판타지아대구페스타를 생성형 AI 숏폼과 이미지로 표현하는 시민 참여 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-09T19:00:00+09:00"
-      },
-      {
         "title": "AI로 알리는 기초연금 홍보 콘텐츠 공모전",
         "category": "AI 이미지·영상",
         "organizer": "국민연금공단",
@@ -503,22 +535,6 @@
         "summary": "기초연금의 의미와 중요성을 생성형 AI 영상 또는 이미지 콘텐츠로 알리는 국민 참여 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-08-07T19:00:00+09:00"
-      },
-      {
-        "title": "제3회 부산국제AI영화제 출품작 공모",
-        "category": "AI 영상",
-        "organizer": "영화의전당",
-        "submission_start": "2026-07-01",
-        "submission_end": "2026-09-11",
-        "result_date": "미정",
-        "url": "https://filmfreeway.com/BIAIF",
-        "source_type": "official_platform",
-        "discovery_source": "brave",
-        "discovery_url": "https://biaif.dureraum.org/en",
-        "evidence": "영화제 공식 홈페이지와 공식 출품 플랫폼에 AI 기술을 전부 또는 일부 활용한 영화 모집 및 2026.07.01~2026.09.11 출품 기간 명시.",
-        "summary": "AI 기술을 전부 또는 일부 활용한 영화를 모집하는 국제 비경쟁 영화제 출품 공모입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-07-30T19:00:00+09:00"
       },
       {
         "title": "2026 충북 AI광고제",
@@ -567,22 +583,6 @@
         "summary": "AI 시대 개인정보 보호를 주제로 그림·영상·AI 활용 콘텐츠를 모집하는 학생 대상 공모전.",
         "status": "진행중",
         "source_checked_at": "2026-07-24T19:00:00+09:00"
-      },
-      {
-        "title": "청년들이 만드는 첨단 공공서비스 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "행정안전부 / 한국지역정보개발원",
-        "submission_start": "2026-08-03",
-        "submission_end": "2026-09-11",
-        "result_date": "2026-11 중 예정",
-        "url": "https://www.klid.or.kr/open/selectBoardDetail.do?PID=notice&bbsSeq=13621&part=%EA%B3%B5%EC%A7%80",
-        "source_type": "official_notice",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://www.klid.or.kr/",
-        "evidence": "공공기관 공지에 AI를 일부 또는 전부 활용한 16:9, 3분 내외 FHD MP4 영상 제출과 2026.08.03~09.11 접수 기간 명시.",
-        "summary": "첨단 정보기술 기반 공공서비스를 청년의 시각으로 알기 쉽게 표현한 AI 영상을 모집합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-04T19:00:00+09:00"
       },
       {
         "title": "2026 AI 활용 스포츠 활동 숏폼 공모전",
@@ -700,6 +700,54 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "대구문화예술진흥원",
+        "submission_start": "2026-08-03",
+        "submission_end": "2026-09-11",
+        "result_date": "2026-09-29 예정",
+        "url": "https://www.fantasiafesta.or.kr/Board-Notice?menuId=MENU_0000000285&mode=detl&nttId=NTT_0000002560",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.fantasiafesta.or.kr/Board-Notice?menuId=MENU_0000000285&mode=detl&nttId=NTT_0000002560",
+        "evidence": "판타지아대구페스타 공식 공고에 생성형 AI를 활용한 AI 숏폼과 AI 이미지 부문 및 2026.08.03~09.11 접수 기간 명시.",
+        "summary": "대구 대표 축제 브랜드 판타지아대구페스타를 생성형 AI 숏폼과 이미지로 표현하는 시민 참여 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-09T19:00:00+09:00"
+      },
+      {
+        "title": "제3회 부산국제AI영화제 출품작 공모",
+        "category": "AI 영상",
+        "organizer": "영화의전당",
+        "submission_start": "2026-07-01",
+        "submission_end": "2026-09-11",
+        "result_date": "미정",
+        "url": "https://filmfreeway.com/BIAIF",
+        "source_type": "official_platform",
+        "discovery_source": "brave",
+        "discovery_url": "https://biaif.dureraum.org/en",
+        "evidence": "영화제 공식 홈페이지와 공식 출품 플랫폼에 AI 기술을 전부 또는 일부 활용한 영화 모집 및 2026.07.01~2026.09.11 출품 기간 명시.",
+        "summary": "AI 기술을 전부 또는 일부 활용한 영화를 모집하는 국제 비경쟁 영화제 출품 공모입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-07-30T19:00:00+09:00"
+      },
+      {
+        "title": "청년들이 만드는 첨단 공공서비스 AI 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "행정안전부 / 한국지역정보개발원",
+        "submission_start": "2026-08-03",
+        "submission_end": "2026-09-11",
+        "result_date": "2026-11 중 예정",
+        "url": "https://www.klid.or.kr/open/selectBoardDetail.do?PID=notice&bbsSeq=13621&part=%EA%B3%B5%EC%A7%80",
+        "source_type": "official_notice",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://www.klid.or.kr/",
+        "evidence": "공공기관 공지에 AI를 일부 또는 전부 활용한 16:9, 3분 내외 FHD MP4 영상 제출과 2026.08.03~09.11 접수 기간 명시.",
+        "summary": "첨단 정보기술 기반 공공서비스를 청년의 시각으로 알기 쉽게 표현한 AI 영상을 모집합니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-08-04T19:00:00+09:00"
+      },
       {
         "title": "2026 충남 인물열전 AI 콘텐츠 어워즈",
         "category": "AI 영상",
@@ -1003,24 +1051,6 @@
         "summary": "경기도 중·고교 재학생 및 동연령 청소년 대상 생성형 AI 1분 영상 공모전",
         "status": "발표 대기",
         "source_checked_at": "2026-08-19T19:00:00+09:00"
-      },
-      {
-        "title": "상상을 실현하는 아이 AI <2026 대전 AI 영상 공모전>",
-        "category": "AI 영상",
-        "organizer": "대전정보문화산업진흥원 / 스튜디오프리윌루전(AI-Kive)",
-        "submission_start": "2026-07-20",
-        "submission_end": "2026-08-18",
-        "result_date": "2026-09-07 발표 / 2026-09-18 시상식 예정",
-        "url": "https://aikive.com/event/5105995dd52643bf9dd53285a2f8137d",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.etnews.com/20260720000062",
-        "evidence": "공식 AI-Kive 공모전 페이지에 수상작 19편, 결과발표일 2026.09.07 및 시상식 2026.09.18이 명시.",
-        "summary": "생성형 AI로 제작한 스토리 중심 단편 영상을 모집하는 대전 AI 영상 공모전입니다.",
-        "status": "발표완료",
-        "source_checked_at": "2026-09-09T19:01:00+09:00",
-        "results_confirmed": true,
-        "results_published_at": "2026-09-07"
       },
       {
         "title": "2026 궁중문화축전 AI 영상 공모전",
