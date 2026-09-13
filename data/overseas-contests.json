@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T07:00:00+09:00",
+  "generated_at": "2026-09-14T07:01:44+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -38,25 +38,8 @@
     "starting_today": [],
     "ongoing": [
       {
-        "title": "AICM COMPETITION 2026",
-        "category": "AI 영상",
-        "country": "Japan",
-        "organizer": "aicrew株式会社",
-        "submission_start": "2026-09-08",
-        "submission_end": "2026-09-13",
-        "result_date": "2026-09-20",
-        "url": "https://www.aicrew.jp/news/8wtg6j1_h",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.aicrew.jp/news/8wtg6j1_h",
-        "evidence": "aicrew 공식 공지가 생성형 AI를 활용한 15초 기업 CM 영상을 모집한다고 명시함. 공식 페이지 공개일은 2026-09-08이며, 접수 마감은 2026-09-13 23:59, 파이널리스트 작품은 2026-09-20 AIgekijo 2026에서 상영 예정임.",
-        "summary": "AI를 활용해 aicrew의 15초 기업 CM을 제작하는 일본 영상 공모전. 오늘 23:59까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-09-13T07:00:00+09:00"
-      },
-      {
         "title": "Slamdance 2027 – DIG AI-driven Film & Music",
-        "category": "AI 영상",
+        "category": "AI 영상·음악",
         "country": "United States",
         "organizer": "Slamdance",
         "submission_start": "2026-05-18",
@@ -67,9 +50,9 @@
         "discovery_source": "tavily",
         "discovery_url": "https://slamdance.com/festival-submit",
         "evidence": "Slamdance 공식 접수 페이지가 DIG 부문에서 AI-driven Film & Music을 다루며 AI로 또는 AI와 함께 만든 영화를 적극 권장한다고 명시함. 2026-05-18 접수 시작, 2026-10-06 최종 마감, 2026-12-17 결과 통지 일정을 확인함.",
-        "summary": "AI 기반 영화와 음악을 포함한 디지털·인터랙티브 작품을 모집하는 Slamdance DIG 부문. 10월 6일까지 접수합니다.",
+        "summary": "AI 기반 영화·음악을 포함한 디지털·인터랙티브 작품을 모집하는 Slamdance DIG 부문. 10월 6일까지 접수합니다.",
         "status": "진행중",
-        "source_checked_at": "2026-09-13T07:00:00+09:00"
+        "source_checked_at": "2026-09-13T18:27:58+09:00"
       },
       {
         "title": "AI Los Angeles IFF 2026",
@@ -206,23 +189,6 @@
         "discovery_url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
         "evidence": "Higgsfield 공식 블로그가 2026-08-10 글로벌 필름 페스티벌 접수 시작과 연장된 2026-09-14 23:59 UTC 마감을 명시함. 전 세계 Higgsfield 구독자가 개인 또는 최대 4인 팀으로 참가할 수 있으며, Cinema Studio 안에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하고 수상자는 2026년 10월 마지막 주에 발표할 예정이라고 안내함.",
         "summary": "Higgsfield 플랫폼에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하는 글로벌 영화제. 연장된 마감일은 9월 14일입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-09-08T17:17:13+09:00"
-      },
-      {
-        "title": "AI Media Award 2026",
-        "category": "AI 영상·음악",
-        "country": "International",
-        "organizer": "SSIA Smile Swiss Influence Award / AI Media Agency",
-        "submission_start": "2026-03-28",
-        "submission_end": "2026-09-13",
-        "result_date": "2026-10-27",
-        "url": "https://ai-media-award.com/",
-        "source_type": "official_homepage",
-        "discovery_source": "tavily",
-        "discovery_url": "https://ai-media-award.com/",
-        "evidence": "공식 AI Media Award 2026 홈페이지에서 submission now open, 프로젝트 제출 마감이 2026-09-13으로 연장되었고 최종 쇼케이스 및 시상식은 2026-10-27 취리히에서 열린다고 확인함. 전 세계 개인·전문 에이전시·미디어 제작사가 참가 가능하며, AI 기술이 기획·디자인·제작에 핵심 역할을 한 5분 이하 audiovisual short format을 대상으로 함.",
-        "summary": "AI가 핵심적으로 쓰인 5분 이하 광고·미디어·브랜드 영상과 AI 뮤직비디오 작품을 모집하는 국제 어워드. 연장된 마감일은 9월 13일입니다.",
         "status": "진행중",
         "source_checked_at": "2026-09-08T17:17:13+09:00"
       },
@@ -484,6 +450,40 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "AI Media Award 2026",
+        "category": "AI 영상·음악",
+        "country": "International",
+        "organizer": "SSIA Smile Swiss Influence Award / AI Media Agency",
+        "submission_start": "2026-03-28",
+        "submission_end": "2026-09-13",
+        "result_date": "2026-10-27",
+        "url": "https://ai-media-award.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://ai-media-award.com/",
+        "evidence": "공식 AI Media Award 2026 홈페이지에서 submission now open, 프로젝트 제출 마감이 2026-09-13으로 연장되었고 최종 쇼케이스 및 시상식은 2026-10-27 취리히에서 열린다고 확인함. 전 세계 개인·전문 에이전시·미디어 제작사가 참가 가능하며, AI 기술이 기획·디자인·제작에 핵심 역할을 한 5분 이하 audiovisual short format을 대상으로 함. 2026-09-14 재확인 시 공식 홈페이지·공식 접수 연결 페이지에서 실제 후보 또는 수상 결과 공개를 확인하지 못함.",
+        "summary": "AI가 핵심적으로 쓰인 5분 이하 광고·미디어·브랜드 영상과 AI 뮤직비디오 국제 어워드. 9월 13일 접수가 종료되어 후보·결과 공개를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-09-14T07:01:44+09:00"
+      },
+      {
+        "title": "AICM COMPETITION 2026",
+        "category": "AI 영상",
+        "country": "Japan",
+        "organizer": "aicrew株式会社",
+        "submission_start": "2026-09-08",
+        "submission_end": "2026-09-13",
+        "result_date": "2026-09-20",
+        "url": "https://www.aicrew.jp/news/8wtg6j1_h",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.aicrew.jp/news/8wtg6j1_h",
+        "evidence": "aicrew 공식 공지가 생성형 AI를 활용한 15초 기업 CM 영상을 모집한다고 명시함. 공식 페이지 공개일은 2026-09-08이며, 접수 마감은 2026-09-13 23:59, 파이널리스트 작품은 2026-09-20 AIgekijo 2026에서 상영 예정임. 2026-09-14 재확인 시 공식 공지는 실제 수상 결과 없이 2026-09-20 파이널리스트 상영 예정만 안내함.",
+        "summary": "aicrew의 15초 기업 CM을 주제로 한 일본 AI 영상 공모전. 9월 13일 23:59 접수가 종료되어 파이널리스트 상영 안내를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-09-14T07:01:44+09:00"
+      },
       {
         "title": "ユメカタリ 학생 생성형 AI 콘테스트 2026",
         "category": "생성형 AI",
@@ -980,6 +980,7 @@
     ]
   },
   "change_notes": [
+    "2026-09-14: AICM COMPETITION 2026와 AI Media Award 2026의 접수 종료를 공식 원문으로 재확인하여 발표 대기로 이동. 실제 수상 결과는 확인되지 않아 results_confirmed/results_published_at을 기록하지 않음. Higgsfield(9/14 23:59 UTC), AI Design Awards(9/14 23:59 PT), AKOOL·AI Art Grand Prix(9/15) 현행 공식 일정도 재확인.",
     {
       "date": "2026-07-25",
       "type": "cleanup",
