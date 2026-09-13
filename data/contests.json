@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-12T19:00:00+09:00",
+  "generated_at": "2026-09-13T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "2026 별별화성 Awards AI CF 공모전",
+        "category": "AI 영상",
+        "organizer": "화성특례시",
+        "submission_start": "2026-09-21",
+        "submission_end": "2026-10-18",
+        "result_date": "2026-11-16 예정",
+        "url": "https://aihscity.com/en",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://aihscity.com/en",
+        "evidence": "공식 홈페이지에 AI 숏폼·AI CF·AI CM송 부문과 접수 기간 명시",
+        "summary": "AI 기술로 화성특례시를 알리는 숏폼·광고영상·CM송 공모",
+        "status": "접수 예정",
+        "source_checked_at": "2026-09-13T19:00:00+09:00"
+      },
       {
         "title": "2026년 인공지능(AI) 활용 청소년활동 안전공모전",
         "category": "AI 이미지·영상",
