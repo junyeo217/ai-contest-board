@@ -1,0 +1,49 @@
+{
+  "checked": "2026-09-13",
+  "checked_at": "2026-09-13T18:27:58+09:00",
+  "scope": "해외 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전. 음원/BGM 단독 공모 제외.",
+  "verification": [
+    {
+      "title": "AICM COMPETITION 2026",
+      "official_url": "https://www.aicrew.jp/news/8wtg6j1_h",
+      "finding": "주최사 공식 공지가 AI를 활용한 영상 제작 크리에이터를 모집하고 2026-09-13 23:59 마감, 무료 참가, 2026-09-20 AIgekijo 2026에서 파이널리스트 상영 예정이라고 명시한다. 시간대, 국적·거주지·연령, 파일 규격, 접수 양식, 권리와 상금은 공개 공지에서 확인하지 못했다.",
+      "action": "이미 올라온 신규 항목을 유지하고, 확인 가능한 내용만 부분 검증 요강으로 구조화했다. 미확인 조건은 추정하지 않았다."
+    },
+    {
+      "title": "Slamdance 2027 – DIG AI-driven Film & Music",
+      "official_url": "https://slamdance.com/festival-submit",
+      "finding": "공식 접수 페이지는 DIG 부문에 AI-driven Film & Music을 포함하고 AI로 또는 AI와 함께 만든 영화의 DIG 출품을 강력히 권장한다. 전 세계 접수, 2026-10-06 종료, 2026-12-17 통지, DIG Extended 출품료 90 USD, 마감 23:59 PST를 명시한다.",
+      "action": "AI 영상·음악으로 분류하여 영상·음악 필터 양쪽에 표시하되 전체 목록에서는 한 번만 집계되도록 했고, 공식 요강을 추가했다. AI 전용 영화제가 아니라 DIG 부문임을 경고에 명시했다."
+    },
+    {
+      "title": "AI Media Award 2026",
+      "official_url": "https://ai-media-award.com/",
+      "finding": "공식 홈페이지는 2026-09-13 마감, 전 세계 개인·에이전시·제작사 참가, 5분 이하 시청각 작품, AI Music Clip을 포함한 6개 부문, 2026-10-05 후보 공지와 2026-10-27 취리히 시상식을 표시한다. 마감 시각·시간대와 수수료 금액은 해당 홈페이지 FAQ에서 확인되지 않는다.",
+      "action": "마감일 당일이므로 기존 접수중 상태와 부분 검증 경고를 유지했다."
+    },
+    {
+      "title": "Higgsfield Global Film Festival 2026",
+      "official_url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
+      "finding": "공식 안내는 18세 이상 등록 계정, Higgsfield 내 전 과정 생성, 2026-09-14 23:59 UTC 마감, 2026년 10월 마지막 주 수상자 발표 예정 및 총 100만 USD 상금을 계속 명시한다.",
+      "action": "기존 접수중 정보 유지. 실제 결과 발표는 확인되지 않았다."
+    },
+    {
+      "title": "The AI Design Awards 2026",
+      "official_url": "https://designaward.ai/",
+      "finding": "공식 홈페이지는 Last Call 2026-09-14 23:59 PT, 이미지 29/49 EUR 및 모션 49 EUR 출품료, 전 세계 AI 디자인 제출을 계속 표시한다.",
+      "action": "기존 접수중 정보 유지."
+    },
+    {
+      "title": "AKOOL Creator Clash 2026",
+      "official_url": "https://akool.com/creator-clash",
+      "finding": "공식 페이지는 Seedance 2.5 사용, AKOOL 로고와 공개 SNS 게시·태그, 2026-09-15 11:59 PM PT 마감, 9월 30일 수상자 발표을 계속 표시한다.",
+      "action": "기존 접수중 정보 유지."
+    }
+  ],
+  "new_officially_verified_records": [],
+  "results_confirmed": [],
+  "verification_pending": [
+    "AICM COMPETITION 2026: 세부 규정 접근 불가로 참가자격·규격·접수 방법·권리·상금은 부분 확인.",
+    "WAIFF LA USA 2026: 현행 공식 페이지가 2027 에디션 일정만 표시해 2026 기록을 접수중으로 확정할 수 없음."
+  ]
+}
