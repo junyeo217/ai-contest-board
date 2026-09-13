@@ -22,8 +22,8 @@ PAGES = {
     },
 }
 EXPECTED_DATA_HASHES = {
-    "contests.json": "4dd70dd8ef730948618eca39a3b50e775ae47293bb337cce9227186ceb85d221",
-    "overseas-contests.json": "30c2686df5dbd7d0183be2afae3d3591fb982dfca29ba60caf3090367898e74e",
+    "contests.json": "5d85f8dfd73cc3618a795d368b9042a999fa53b1881257871600ba117423c30b",
+    "overseas-contests.json": "c9b20a3738744a0c018cd25c48536589231a3080fc8fd8b99ba8586aa62f2522",
 }
 
 
@@ -127,7 +127,7 @@ class ProductionMigrationTests(unittest.TestCase):
     def test_music_video_whitelist_and_guidelines_are_preserved(self):
         template = json.loads(read(ROOT / "template.json"))
         self.assertGreaterEqual(len(template["musicVideoWhitelist"]), 8)
-        self.assertEqual(len(template["guidelines"]), 65)
+        self.assertEqual(len(template["guidelines"]), 68)
         for title in template["guidelines"]:
             self.assertTrue(any(title in read(page) for page in PAGES))
         for page in PAGES:
@@ -142,15 +142,21 @@ class ProductionMigrationTests(unittest.TestCase):
     def test_stable_anchor_uses_title_and_submission_end(self):
         for page, config in PAGES.items():
             data = json.loads(read(config["data"]))
-            first = next(item for values in data["sections"].values() for item in values)
+            first = next(
+                item
+                for values in data["sections"].values()
+                for item in values
+                if not (re.fullmatch(r"\d{4}-\d{2}-\d{2}", (item.get("submission_start") or "")) and item["submission_start"] > BOARD_DATE)
+                and not (re.fullmatch(r"\d{4}-\d{2}-\d{2}", (item.get("submission_end") or "")) and item["submission_end"] < BOARD_DATE)
+            )
             expected = "contest-" + fnv1a_js(first["title"] + "|" + first["submission_end"])
             self.assertIn(f'id="{expected}"', read(page))
 
     def test_sitemap_and_robot_scope(self):
         sitemap = read(ROOT / "sitemap.xml")
         self.assertEqual(sitemap.count("<url>"), 2)
-        self.assertEqual(sitemap.count("<lastmod>2026-09-09</lastmod>"), 1)
-        self.assertEqual(sitemap.count("<lastmod>2026-09-10</lastmod>"), 1)
+        self.assertEqual(sitemap.count("<lastmod>2026-09-13</lastmod>"), 1)
+        self.assertEqual(sitemap.count("<lastmod>2026-09-14</lastmod>"), 1)
         self.assertEqual(sitemap.count("<lastmod>"), 2)
         self.assertFalse((ROOT / "robots.txt").exists())
 
