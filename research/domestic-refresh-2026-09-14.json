@@ -1,0 +1,68 @@
+{
+  "checked": "2026-09-14T19:00:00+09:00",
+  "scope": "국내 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전. 음원/BGM 단독 공모전 제외.",
+  "new_verified": [],
+  "verified_updates": [
+    {
+      "title": "과학기술 미래 상상 1컷 만화 공모전 (생성형 AI 만화 부문)",
+      "official_url": "https://apply.kosac.re.kr/onlnRcpt/getBscInfo.do?pbancNo=2026-S716",
+      "changes": [
+        "접수 상태와 2026.09.18 16:00 마감, 대한민국 국적·학생/성인 대상 및 AI 생성·수정 과정 제출을 공식 접수 페이지로 재확인"
+      ],
+      "evidence": "한국과학창의재단 공식 접수 페이지."
+    },
+    {
+      "title": "AI로 알리는 기초연금 홍보 콘텐츠 공모전",
+      "official_url": "https://www.nps.or.kr/pnsgdnc/nscvrgdata/getOHAE0002M1.do?menuId=MN24000898&pstId=ZZ202600000000000873&hmpgCd=01&hmpgBbsCd=BS20240145&sortSe=FR&pageIndex=1&searchText=&searchGbu=",
+      "changes": [
+        "9월 16일까지 접수, 영상·이미지 두 분야, 국민 누구나 참여 및 총 6점 시상을 공식 보도자료로 재확인"
+      ],
+      "evidence": "국민연금공단 공식 보도자료."
+    },
+    {
+      "title": "2026 AI 활용 스포츠 활동 숏폼 공모전",
+      "official_url": "https://kspo-contest.kr/event/2026-contest",
+      "changes": [
+        "9월 15일 마감 임박, 직접 촬영 영상에 생성형 AI를 일부 활용해야 하며 AI만으로 제작한 영상은 제외됨을 공식 안내로 재확인"
+      ],
+      "evidence": "국민체육진흥공단 공식 공모전 홈페이지."
+    },
+    {
+      "title": "2026 국립과천과학관 AI 활용 숏폼 공모전",
+      "official_url": "https://www.sciencecenter.go.kr/event/2026/ai-shortform-contest/",
+      "changes": [
+        "10월 16일 23:59 마감, 전 연령·4인 이내 팀, 모든 시각 요소 생성형 AI 제작과 증빙 제출을 공식 안내로 재확인"
+      ],
+      "evidence": "국립과천과학관 공식 공모 안내."
+    }
+  ],
+  "status_rechecks": [
+    {
+      "title": "에코-뷰티 AI 크리에이터 대작전",
+      "status": "마감일 경과",
+      "deadline": "2026-09-13 23:59 KST",
+      "official_url": "https://eco-beauty-ai-2026.edupro72303.chatgpt.site/",
+      "evidence": "기존 공식 캠페인 페이지의 마감일 기준. 연장 공지는 이번 확인에서 찾지 못함."
+    },
+    {
+      "title": "2026년 로봇랜드 AI 영상제작 공모전",
+      "status": "마감일 경과",
+      "deadline": "2026-09-13 (시각 미표기)",
+      "official_url": "https://www.facebook.com/gsndkorea/posts/1533768792128238",
+      "evidence": "기존 공식 게시물의 마감일 기준. 연장 공지는 이번 확인에서 찾지 못함."
+    },
+    {
+      "title": "2026 부산교통공사 AI 이미지 공모전",
+      "status": "마감일 경과",
+      "deadline": "2026-09-13 (시각 미표기)",
+      "official_url": "https://www.humetro.busan.kr/servlet/DownloadServlet?file_name=2f98ca7e-a224-4a19-a8b7-11340a30bc57.pdf&file_name_origin=%EA%B3%B5%EB%AA%A8%EC%A0%84%ED%8F%AC%EC%8A%A4%ED%84%B0.pdf&upload_dir=board.80",
+      "evidence": "기존 부산교통공사 공식 포스터의 마감일 기준. 연장 공지는 이번 확인에서 찾지 못함."
+    }
+  ],
+  "results_confirmed": [],
+  "verification_pending": [
+    "K-건설안전 AI 콘텐츠 공모전 공식 결과 페이지에서 이미지·영상 수상작 명단은 확인했으나 게시일이 표기되지 않아 results_published_at을 추정하지 않고 보류.",
+    "2026년 국토안전 AI 콘텐츠 공모전은 공식 페이지에 합격자 발표일만 있고 실제 수상자 명단 원문은 이번 실행에서 확인하지 못해 발표완료로 전환하지 않음.",
+    "WAVE 2026, 판타지아대구페스타, 부산국제AI영화제 등 9월 초 마감 공고는 실제 결과 발표 원문을 이번 확인에서 찾지 못해 results_confirmed를 기록하지 않음."
+  ]
+}
