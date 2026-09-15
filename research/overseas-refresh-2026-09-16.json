@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-09-16T01:06:31+09:00",
+  "scope": "해외 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전. 공식 주최기관 페이지와 공식 접수 페이지로만 확정.",
+  "changes": [
+    {
+      "title": "The AI Design Awards 2026",
+      "action": "접수중에서 발표 대기로 이동",
+      "reason": "공식 홈페이지의 Last Call은 2026-09-14 23:59 PT로 종료. 실제 수상자 발표는 확인하지 못해 results_confirmed/results_published_at 미기록.",
+      "official_sources": [
+        "https://designaward.ai/"
+      ]
+    },
+    {
+      "title": "제5회 AI Art Grand Prix",
+      "action": "접수중에서 발표 대기로 이동 및 요강 보강",
+      "reason": "공식 홈페이지·응모요강상 접수는 2026-09-15 23:59 종료. 1차 심사 결과는 10월 중순 예정으로 실제 수상 결과 미공개.",
+      "official_sources": [
+        "https://www.aiartgrandprix.com/",
+        "https://www.aiartgrandprix.com/terms-2"
+      ]
+    }
+  ],
+  "reconfirmed_open": [
+    {
+      "title": "Higgsfield Global Film Festival 2026",
+      "deadline": "2026-09-15 23:59 UTC (한국시간 2026-09-16 08:59)",
+      "official_source": "https://higgsfield.ai/contests/higgsfield-global-film-festival",
+      "evidence": "공식 접수 페이지가 24시간 연장 및 9월 15일 마감을 명시. 2026-09-16 01:06 KST에는 마감 전이라 접수중으로 유지."
+    },
+    {
+      "title": "AKOOL Creator Clash 2026",
+      "deadline": "2026-09-15 23:59 PT (한국시간 2026-09-16 15:59)",
+      "official_source": "https://akool.com/creator-clash",
+      "evidence": "공식 대회 페이지·규정이 마감과 9월 30일 수상자 발표 예정 명시. 2026-09-16 01:06 KST에는 마감 전이라 접수중으로 유지."
+    }
+  ],
+  "awaiting_results_rechecked": [],
+  "new_officially_verified_contests": [],
+  "result_publications_confirmed": [],
+  "verification_pending": [
+    {
+      "title": "WAIFF LA USA 2026",
+      "reason": "현행 공식 페이지가 2027 LA 에디션만 제시하므로, 다른 연도 요강으로 기존 2026 기록을 덮어쓰지 않고 보류 유지."
+    }
+  ]
+}
