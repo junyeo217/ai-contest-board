@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T07:01:44+09:00",
+  "generated_at": "2026-09-16T01:06:31+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -147,33 +147,16 @@
         "country": "Global",
         "organizer": "AKOOL",
         "submission_start": "2026-07-21",
-        "submission_end": "2026-09-15",
+        "submission_end": "2026-09-16",
         "result_date": "2026-09-30",
         "url": "https://akool.com/creator-clash",
         "source_type": "official_platform",
         "discovery_source": "tavily",
         "discovery_url": "https://www.prnewswire.com/news-releases/the-future-of-ai-storytelling-belongs-to-creators-akool-launches-global-competition-with-300-000-in-creator-rewards-302830264.html",
-        "evidence": "AKOOL 공식 Creator Clash 페이지와 공식 규정이 전 세계 창작자를 대상으로 AKOOL의 Seedance 2.5를 사용한 원본 영상을 모집한다고 명시함. 참가자는 영상을 소셜 플랫폼에 게시한 뒤 제출하며, 접수 마감은 2026-09-15 23:59 PT, 수상자 발표는 2026-09-30으로 확인됨.",
-        "summary": "AKOOL의 Seedance 2.5로 제작한 원본 AI 영상을 모집하는 글로벌 크리에이터 챌린지. 9월 15일 23:59 PT까지 접수합니다.",
+        "evidence": "AKOOL 공식 Creator Clash 페이지·규정이 Seedance 2.5 사용 원본 영상의 마감을 2026-09-15 23:59 PT로 명시한다. 한국시간으로는 2026-09-16 15:59까지로, 2026-09-16 01:06 KST에 접수 상태를 재확인했다.",
+        "summary": "AKOOL의 Seedance 2.5로 제작한 원본 AI 영상 글로벌 챌린지. 공식 마감은 9월 15일 23:59 PT(한국시간 9월 16일 15:59)입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-09-08T17:17:13+09:00"
-      },
-      {
-        "title": "제5회 AI Art Grand Prix",
-        "category": "AI 이미지·영상",
-        "country": "Japan",
-        "organizer": "AI Art Grand Prix Executive Committee",
-        "submission_start": "2026-08-01",
-        "submission_end": "2026-09-15",
-        "result_date": "2026-11-07",
-        "url": "https://www.aiartgrandprix.com/aitemu-1/05aiartgp",
-        "source_type": "official_notice",
-        "discovery_source": "tavily/brave",
-        "discovery_url": "https://www.aiartgrandprix.com/aitemu-1/05aiartgp",
-        "evidence": "AI Art Grand Prix 공식 공지가 제5회 행사의 작품 주제를 '조화'로 안내하고, AI를 활용해 인간의 예술적 창의성을 확장한 아트 작품을 모집한다고 설명함. 공식 일정은 2026-08-01~2026-09-15 작품 접수, 2026-11-07 그랑프리 발표로 확인됨.",
-        "summary": "AI를 활용한 이미지·영상 등 아트 작품을 모집하는 일본 AI 아트 공모전. '조화'를 주제로 9월 15일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-08-07T07:00:00+09:00"
+        "source_checked_at": "2026-09-16T01:06:31+09:00"
       },
       {
         "title": "Higgsfield Global Film Festival 2026",
@@ -181,33 +164,16 @@
         "country": "Global",
         "organizer": "Higgsfield",
         "submission_start": "2026-08-10",
-        "submission_end": "2026-09-14",
+        "submission_end": "2026-09-16",
         "result_date": "미정",
         "url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
         "source_type": "official_platform",
         "discovery_source": "tavily",
         "discovery_url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
-        "evidence": "Higgsfield 공식 블로그가 2026-08-10 글로벌 필름 페스티벌 접수 시작과 연장된 2026-09-14 23:59 UTC 마감을 명시함. 전 세계 Higgsfield 구독자가 개인 또는 최대 4인 팀으로 참가할 수 있으며, Cinema Studio 안에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하고 수상자는 2026년 10월 마지막 주에 발표할 예정이라고 안내함.",
-        "summary": "Higgsfield 플랫폼에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하는 글로벌 영화제. 연장된 마감일은 9월 14일입니다.",
+        "evidence": "Higgsfield 공식 접수 페이지가 기존 일정보다 24시간 연장된 2026-09-15 23:59 UTC 마감을 명시한다. 한국시간으로는 2026-09-16 08:59까지로, 2026-09-16 01:06 KST에 접수 상태를 재확인했다.",
+        "summary": "Higgsfield 플랫폼에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하는 글로벌 영화제. 공식 마감은 9월 15일 23:59 UTC(한국시간 9월 16일 08:59)입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-09-08T17:17:13+09:00"
-      },
-      {
-        "title": "The AI Design Awards 2026",
-        "category": "AI 디자인",
-        "country": "International",
-        "organizer": "AI Design Awards",
-        "submission_start": "2026-04-30",
-        "submission_end": "2026-09-14",
-        "result_date": "미정",
-        "url": "https://designaward.ai/",
-        "source_type": "official_homepage",
-        "discovery_source": "brave",
-        "discovery_url": "https://designaward.ai/",
-        "evidence": "공식 홈페이지가 designers globally를 초대하며 Image Categories와 Motion Categories를 운영한다고 명시. 2026-05-19 재확인 시 Main Deadline 2026-08-30, Last Call 2026-09-14 23:59 PT로 공지됨.",
-        "summary": "AI 이미지·모션 디자인 글로벌 공모전. 이미지/영상형 AI 디자인 작품을 접수함.",
-        "status": "진행중",
-        "source_checked_at": "2026-06-23T07:00:00+09:00"
+        "source_checked_at": "2026-09-16T01:06:31+09:00"
       },
       {
         "title": "AI Film Festival Japan 2026",
@@ -450,6 +416,40 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "제5회 AI Art Grand Prix",
+        "category": "AI 이미지·영상",
+        "country": "Japan",
+        "organizer": "AI Art Grand Prix Executive Committee",
+        "submission_start": "2026-08-01",
+        "submission_end": "2026-09-15",
+        "result_date": "2026-11-07",
+        "url": "https://www.aiartgrandprix.com/aitemu-1/05aiartgp",
+        "source_type": "official_notice",
+        "discovery_source": "tavily/brave",
+        "discovery_url": "https://www.aiartgrandprix.com/aitemu-1/05aiartgp",
+        "evidence": "AI Art Grand Prix 공식 홈페이지 및 응모요강이 제5회 작품 접수를 2026-08-01 15:00~2026-09-15 23:59로 명시한다. 1차 심사 결과는 10월 중순 공식 Web 등에 발표 예정이며, 2026-09-16 확인 시 실제 결과는 미공개다.",
+        "summary": "일본 AI 아트 공모전. '조화' 주제의 작품 접수는 9월 15일 23:59에 종료됐으며, 10월 중순 1차 심사 결과 발표 예정입니다.",
+        "status": "마감",
+        "source_checked_at": "2026-09-16T01:06:31+09:00"
+      },
+      {
+        "title": "The AI Design Awards 2026",
+        "category": "AI 디자인",
+        "country": "International",
+        "organizer": "AI Design Awards",
+        "submission_start": "2026-04-30",
+        "submission_end": "2026-09-14",
+        "result_date": "미정",
+        "url": "https://designaward.ai/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://designaward.ai/",
+        "evidence": "AI Design Awards 공식 홈페이지가 전 세계 참가자 대상 Last Call을 2026-09-14 23:59 PT로 명시한다. 2026-09-16 확인 시 공식 수상자 발표는 확인하지 못해 발표 예정으로 유지한다.",
+        "summary": "AI 이미지·모션 디자인 글로벌 공모전. 공식 Last Call(9월 14일 23:59 PT)은 종료됐으며 실제 수상 결과를 기다리는 중입니다.",
+        "status": "마감",
+        "source_checked_at": "2026-09-16T01:06:31+09:00"
+      },
       {
         "title": "AI Media Award 2026",
         "category": "AI 영상·음악",
@@ -980,6 +980,7 @@
     ]
   },
   "change_notes": [
+    "2026-09-16: 공식 원문 재확인. AI Design Awards와 제5회 AI Art Grand Prix는 접수 종료 후 실제 수상 결과 미공개로 발표 예정으로 이동. Higgsfield(9/15 23:59 UTC)와 AKOOL(9/15 23:59 PT)은 한국시간 9/16에 아직 마감 전이라 원문 시간대와 한국시간 환산을 요강에 병기해 유지.",
     "2026-09-14: AICM COMPETITION 2026와 AI Media Award 2026의 접수 종료를 공식 원문으로 재확인하여 발표 대기로 이동. 실제 수상 결과는 확인되지 않아 results_confirmed/results_published_at을 기록하지 않음. Higgsfield(9/14 23:59 UTC), AI Design Awards(9/14 23:59 PT), AKOOL·AI Art Grand Prix(9/15) 현행 공식 일정도 재확인.",
     {
       "date": "2026-07-25",
