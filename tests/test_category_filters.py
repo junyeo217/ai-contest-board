@@ -22,8 +22,8 @@ PAGES = {
     },
 }
 EXPECTED_DATA_HASHES = {
-    "contests.json": "5d85f8dfd73cc3618a795d368b9042a999fa53b1881257871600ba117423c30b",
-    "overseas-contests.json": "c9b20a3738744a0c018cd25c48536589231a3080fc8fd8b99ba8586aa62f2522",
+    "contests.json": "6d4f3c759f629d843db5d6d25bc5f935ed5b16ba94ae873ed0e724015b1eed37",
+    "overseas-contests.json": "2ec7a6aa29ef6652bbeb3f273718edb64495c4f841df37bc5afad702f7987e59",
 }
 
 
@@ -155,8 +155,8 @@ class ProductionMigrationTests(unittest.TestCase):
     def test_sitemap_and_robot_scope(self):
         sitemap = read(ROOT / "sitemap.xml")
         self.assertEqual(sitemap.count("<url>"), 2)
-        self.assertEqual(sitemap.count("<lastmod>2026-09-13</lastmod>"), 1)
         self.assertEqual(sitemap.count("<lastmod>2026-09-14</lastmod>"), 1)
+        self.assertEqual(sitemap.count("<lastmod>2026-09-16</lastmod>"), 1)
         self.assertEqual(sitemap.count("<lastmod>"), 2)
         self.assertFalse((ROOT / "robots.txt").exists())
 
