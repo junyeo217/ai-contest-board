@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:01:02+09:00",
+  "generated_at": "2026-09-17T07:01:09+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -72,23 +72,6 @@
         "source_checked_at": "2026-09-12T07:00:00+09:00"
       },
       {
-        "title": "Bestiary: Miora × MiniMax H3 Creative Contest",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "Miora × MiniMax",
-        "submission_start": "2026-09-01",
-        "submission_end": "2026-09-14",
-        "result_date": "2026-09-17",
-        "url": "https://www.instagram.com/p/DcuigDkzruC/",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.threads.com/@hailuoai_official",
-        "evidence": "MiniMax/Hailuo 공식 계정과 Miora 공식 공지가 전 세계 창작자를 대상으로 MiniMax H3를 활용한 30초 이상 괴생명체 내러티브 영상을 모집한다고 안내함. 공식 포스터와 공지에서 접수 기간 2026-09-01~2026-09-14, 결과 발표 2026-09-17, 총 현금 8,000달러와 200,000 크레딧 규모의 시상을 확인함.",
-        "summary": "MiniMax H3로 30초 이상의 신화·민담·도시전설 또는 독창적 괴생명체 영상을 제작하는 글로벌 크리에이티브 공모전. 9월 14일까지 접수합니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-09-10T07:00:00+09:00"
-      },
-      {
         "title": "MiniMax H3 × SeaArt App & Play Challenge",
         "category": "생성형 AI",
         "country": "Global",
@@ -140,40 +123,6 @@
         "status": "진행중",
         "source_checked_at": "2026-08-25T07:00:00+09:00",
         "rules_reviewed_at": "2026-09-08"
-      },
-      {
-        "title": "AKOOL Creator Clash 2026",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "AKOOL",
-        "submission_start": "2026-07-21",
-        "submission_end": "2026-09-16",
-        "result_date": "2026-09-30",
-        "url": "https://akool.com/creator-clash",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.prnewswire.com/news-releases/the-future-of-ai-storytelling-belongs-to-creators-akool-launches-global-competition-with-300-000-in-creator-rewards-302830264.html",
-        "evidence": "AKOOL 공식 Creator Clash 페이지·규정이 Seedance 2.5 사용 원본 영상의 마감을 2026-09-15 23:59 PT로 명시한다. 한국시간으로는 2026-09-16 15:59까지로, 2026-09-16 01:06 KST에 접수 상태를 재확인했다.",
-        "summary": "AKOOL의 Seedance 2.5로 제작한 원본 AI 영상 글로벌 챌린지. 공식 마감은 9월 15일 23:59 PT(한국시간 9월 16일 15:59)입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-09-16T07:01:02+09:00"
-      },
-      {
-        "title": "Higgsfield Global Film Festival 2026",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "Higgsfield",
-        "submission_start": "2026-08-10",
-        "submission_end": "2026-09-16",
-        "result_date": "미정",
-        "url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
-        "evidence": "Higgsfield 공식 접수 페이지가 기존 일정보다 24시간 연장된 2026-09-15 23:59 UTC 마감을 명시한다. 한국시간으로는 2026-09-16 08:59까지로, 2026-09-16 01:06 KST에 접수 상태를 재확인했다.",
-        "summary": "Higgsfield 플랫폼에서 전 과정을 제작한 3분 이상 AI 단편영화를 모집하는 글로벌 영화제. 공식 마감은 9월 15일 23:59 UTC(한국시간 9월 16일 08:59)입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-09-16T07:01:02+09:00"
       },
       {
         "title": "AI Film Festival Japan 2026",
@@ -416,6 +365,57 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "Bestiary: Miora × MiniMax H3 Creative Contest",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Miora × MiniMax",
+        "submission_start": "2026-09-01",
+        "submission_end": "2026-09-14",
+        "result_date": "2026-09-17",
+        "url": "https://www.instagram.com/p/DcuigDkzruC/",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.threads.com/@hailuoai_official",
+        "evidence": "MiniMax/Hailuo 공식 계정과 Miora 공식 공지가 전 세계 창작자를 대상으로 MiniMax H3를 활용한 30초 이상 괴생명체 내러티브 영상을 모집하고 2026-09-01~09-14 접수, 9월 17일 결과 발표 예정 및 총 8,000 USD·200,000 크레딧 시상을 안내했다. 9월 17일 KST 기준 실제 수상 발표 게시물은 확인하지 못했다.",
+        "summary": "MiniMax H3로 제작한 글로벌 영상 공모전은 9월 14일 접수를 마감했습니다. 공식 공지의 9월 17일 결과 예정은 실제 수상 발표 확인 전까지 발표 예정으로 표시합니다.",
+        "status": "발표예정",
+        "source_checked_at": "2026-09-17T07:01:09+09:00"
+      },
+      {
+        "title": "AKOOL Creator Clash 2026",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "AKOOL",
+        "submission_start": "2026-07-21",
+        "submission_end": "2026-09-16",
+        "result_date": "2026-09-30",
+        "url": "https://akool.com/creator-clash",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.prnewswire.com/news-releases/the-future-of-ai-storytelling-belongs-to-creators-akool-launches-global-competition-with-300-000-in-creator-rewards-302830264.html",
+        "evidence": "AKOOL 공식 Creator Clash 페이지·규정이 Seedance 2.5 사용 원본 영상의 마감을 2026-09-15 23:59 PT(한국시간 9월 16일 15:59)로 명시한다. 9월 17일 KST 기준 마감은 경과했고, 공식 페이지의 9월 30일 수상자 발표 예정 외 실제 수상 발표는 확인하지 못했다.",
+        "summary": "AKOOL Seedance 2.5 글로벌 챌린지는 9월 15일 23:59 PT에 마감했습니다. 공식 수상자 발표 예정일은 9월 30일입니다.",
+        "status": "발표예정",
+        "source_checked_at": "2026-09-17T07:01:09+09:00"
+      },
+      {
+        "title": "Higgsfield Global Film Festival 2026",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Higgsfield",
+        "submission_start": "2026-08-10",
+        "submission_end": "2026-09-16",
+        "result_date": "미정",
+        "url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
+        "evidence": "Higgsfield 공식 영화제 안내·접수 페이지가 24시간 연장된 2026-09-15 23:59 UTC 마감(한국시간 9월 16일 08:59)을 명시한다. 9월 17일 KST 기준 마감은 경과했고, 공식 안내의 10월 마지막 주 수상자 발표 예정 외 실제 수상 발표는 확인하지 못했다.",
+        "summary": "Higgsfield 플랫폼에서 전 과정을 제작하는 글로벌 AI 단편영화 공모전은 9월 15일 23:59 UTC에 마감했습니다. 수상자는 10월 마지막 주 발표 예정입니다.",
+        "status": "발표예정",
+        "source_checked_at": "2026-09-17T07:01:09+09:00"
+      },
       {
         "title": "제5회 AI Art Grand Prix",
         "category": "AI 이미지·영상",
@@ -980,6 +980,7 @@
     ]
   },
   "change_notes": [
+    "2026-09-17: 공식 원문·공식 플랫폼 재확인. Bestiary, Higgsfield Global Film Festival, AKOOL Creator Clash은 각 공식 마감 시각이 경과해 발표 대기로 이동. Bestiary의 9월 17일 결과 예정 및 AKOOL(9월 30일)·Higgsfield(10월 마지막 주) 수상자 예정 외 실제 결과 발표는 확인하지 않아 results_confirmed/results_published_at을 기록하지 않음.",
     "2026-09-16: 공식 원문 재확인. AI Design Awards와 제5회 AI Art Grand Prix는 접수 종료 후 실제 수상 결과 미공개로 발표 예정으로 이동. Higgsfield(9/15 23:59 UTC)와 AKOOL(9/15 23:59 PT)은 한국시간 9/16에 아직 마감 전이라 원문 시간대와 한국시간 환산을 요강에 병기해 유지.",
     "2026-09-14: AICM COMPETITION 2026와 AI Media Award 2026의 접수 종료를 공식 원문으로 재확인하여 발표 대기로 이동. 실제 수상 결과는 확인되지 않아 results_confirmed/results_published_at을 기록하지 않음. Higgsfield(9/14 23:59 UTC), AI Design Awards(9/14 23:59 PT), AKOOL·AI Art Grand Prix(9/15) 현행 공식 일정도 재확인.",
     {
