@@ -22,7 +22,7 @@ PAGES = {
     },
 }
 EXPECTED_DATA_HASHES = {
-    "contests.json": "9f39ce5c8ed0ffac6414ac50eaf5838fd7bb3f5452787efc4bff819dfe7fc72e",
+    "contests.json": "b98cd0261020db9f8d66994d8ef984396132f07c647a4ff247536f921db6c81e",
     "overseas-contests.json": "09877fb7ea694df21978bb561ff4390651e9de984159ede06f5f2cf000db5ca5",
 }
 
