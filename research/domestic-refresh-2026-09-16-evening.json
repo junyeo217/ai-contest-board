@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-09-16T19:05:00+09:00",
+  "scope": "국내 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전",
+  "updates": [
+    {
+      "title": "2026 HACCP AI 콘텐츠 공모전",
+      "change": "실제 결과 발표 확인. results_confirmed=true 및 results_published_at=2026-09-16 기록, 공식 결과 보도자료로 원문 교체.",
+      "official_source": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50355&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+      "evidence": "식품의약품안전처 보도참고자료(등록일 2026-09-16)가 수상작 8점 선정 사실을 명시."
+    }
+  ],
+  "rechecks": [
+    {
+      "title": "2026 대한민국 AI 콘텐츠 어워즈 및 백남준 특별상",
+      "result": "공식 공고에는 9월 중 개별 연락 예정만 확인, 실제 수상자 발표 원문 미확인으로 보류."
+    },
+    {
+      "title": "2026년 국토안전 AI 콘텐츠 공모전",
+      "result": "공식 페이지에는 합격자발표일 2026-09-11만 표시되고 실제 수상자 명단 원문 미확인으로 보류."
+    },
+    {
+      "title": "WAVE 2026 울산세계미래산업박람회 AI 숏폼 공모전",
+      "result": "공식 SNS 결과 원문을 이번 확인에서 찾지 못해 보류."
+    }
+  ],
+  "new_official_notices": [],
+  "notes": "민간 공모전 사이트 및 뉴스는 발견 보조로만 사용했으며 공식 출처로 확인된 결과만 데이터에 반영."
+}
