@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T19:00:00+09:00",
+  "generated_at": "2026-09-16T19:05:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -2749,15 +2749,17 @@
         "organizer": "한국식품안전관리인증원",
         "submission_start": "2026-08-03",
         "submission_end": "2026-08-30",
-        "result_date": "2026-09-16 예정",
-        "url": "https://www.facebook.com/mfds/posts/event-haccp-ai-%EC%BD%98%ED%85%90%EC%B8%A0-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%86%8C%EB%AC%B8%EB%82%B4%EA%B8%B0-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B0%9C%EC%B5%9Chaccp-ai-%EC%BD%98%ED%85%90%EC%B8%A0-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%86%8C%EB%AC%B8%EB%82%B4%EA%B8%B0-%EC%9D%B4%EB%B2%A4%ED%8A%B8-ai%EB%A1%9C-%EA%B7%B8%EB%A6%AC%EB%8A%94-%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC%EC%9D%B8%EC%A6%9D%EA%B8%B0%EC%A4%80%EC%9D%98-%EB%B0%9C%EC%A0%84/1462223105935892",
-        "source_type": "official_platform",
-        "discovery_source": "brave",
-        "discovery_url": "https://www.k-health.com/news/articleView.html?idxno=100464",
-        "evidence": "식약처 공식 안내와 주최기관 공고에 생성형 AI를 활용한 HACCP 홍보 영상 콘텐츠 명시",
+        "result_date": "2026-09-16 발표",
+        "url": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50355&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+        "source_type": "official_press_release",
+        "discovery_source": "official_mfds",
+        "discovery_url": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50355&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+        "evidence": "식품의약품안전처 2026-09-16 보도참고자료에서 해썹(HACCP) AI 콘텐츠 공모전 수상작 8점을 선정·발표한 사실을 확인",
         "summary": "HACCP의 발전과 가치를 생성형 AI 영상으로 알리는 대국민 콘텐츠 공모전",
-        "status": "발표 대기",
-        "source_checked_at": "2026-09-01T19:00:00+09:00"
+        "status": "발표 완료",
+        "source_checked_at": "2026-09-16T19:05:00+09:00",
+        "results_confirmed": true,
+        "results_published_at": "2026-09-16"
       },
       {
         "title": "2026 서초 AI 페스타 캐릭터 창작 공모전",
