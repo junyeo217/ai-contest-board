@@ -1,0 +1,37 @@
+{
+  "checked_at": "2026-09-17T07:01:09+09:00",
+  "scope": "해외 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전. 공식 주최기관 페이지, 주최기관의 공식 소셜 게시물 및 공식 연결 접수 플랫폼으로만 확정.",
+  "changes": [
+    {
+      "title": "Bestiary: Miora × MiniMax H3 Creative Contest",
+      "action": "접수중에서 발표 대기로 이동",
+      "reason": "기존에 확인한 MiniMax/Hailuo 및 Miora 공식 공지의 접수 마감일(2026-09-14)이 경과했다. 9월 17일 결과 발표 예정은 안내됐지만 실제 수상 발표 게시물은 확인하지 못했다.",
+      "official_sources": ["https://www.instagram.com/p/DcuigDkzruC/"]
+    },
+    {
+      "title": "Higgsfield Global Film Festival 2026",
+      "action": "접수중에서 발표 대기로 이동",
+      "reason": "Higgsfield 공식 영화제 안내가 2026-09-15 23:59 UTC 마감을 명시한다. 공식 안내의 10월 마지막 주 수상자 발표 예정 외 실제 결과는 확인하지 못했다.",
+      "official_sources": ["https://higgsfield.ai/blog/higgsfield-global-film-festival", "https://higgsfield.ai/contests/higgsfield-global-film-festival"]
+    },
+    {
+      "title": "AKOOL Creator Clash 2026",
+      "action": "접수중에서 발표 대기로 이동",
+      "reason": "AKOOL 공식 대회 페이지·규정이 2026-09-15 23:59 PT 마감을 명시한다. 공식 안내의 9월 30일 수상자 발표 예정 외 실제 결과는 확인하지 못했다.",
+      "official_sources": ["https://akool.com/creator-clash", "https://info.akool.com/creator-clash-rules"]
+    }
+  ],
+  "reconfirmed_open": [
+    {"title":"Slamdance 2027 – DIG AI-driven Film & Music","official_source":"https://slamdance.com/festival-submit","evidence":"기존 공식 접수 페이지의 2026-10-06 23:59 PST 마감 및 DIG AI-driven Film & Music 부문을 유지. 이번 실행에서는 새 조건 변경을 확인하지 못함."}
+  ],
+  "awaiting_results_rechecked": [
+    {"title":"AAIFF 2026 – Astana AI Film Festival","official_source":"https://aaiff.ai/","evidence":"공식 홈페이지는 접수 종료, 10월 1~3일 아스타나 행사, longlist·shortlist·nominations 단계를 제시하며 실제 수상 결과는 아직 공개하지 않음."},
+    {"title":"Sparknify Human vs. AI Film Festival 2026","official_source":"https://www.sparknify.com/human-vs-ai-film-festival","evidence":"공식 페이지는 2026-09-11 Stage 2 specialized juries for nominations 상태와 9월 26일 시사회·시상식을 안내. 실제 수상자 발표는 미확인."}
+  ],
+  "new_officially_verified_contests": [],
+  "result_publications_confirmed": [],
+  "verification_pending": [
+    {"title":"WAIFF LA USA 2026","reason":"현행 공식 페이지가 2027 LA 에디션만 제시하므로, 다른 연도 요강으로 기존 2026 기록을 덮어쓰지 않고 보류 유지."},
+    {"title":"AI International Music Video Festival 2026","reason":"공식 연결 FilmFreeway 페이지에서 접수 일정과 2026 행사일 안내가 서로 충돌해 신규 공고로 확정하지 않음."}
+  ]
+}
