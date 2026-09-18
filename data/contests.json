@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T19:00:00+09:00",
+  "generated_at": "2026-09-19T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -2540,15 +2540,15 @@
         "organizer": "경기도·경기콘텐츠진흥원",
         "submission_start": "2026-06-01",
         "submission_end": "2026-07-22",
-        "result_date": "2026-09-15 예정",
+        "result_date": "2026-10-15 예정",
         "url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11172&menuNo=200061",
         "source_type": "official_notice",
         "discovery_source": "tavily",
         "discovery_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11172&menuNo=200061",
-        "evidence": "경기콘텐츠진흥원 공식 사업공고 기준 중편 부문 접수기간이 2026.07.22 23:55까지 연장되었고, 생성형 AI 활용 영상·영화 작품 공모가 명시됨.",
+        "evidence": "경기콘텐츠진흥원 공식 결과 공지(2026-09-15)에서 중편·단편·백남준 특별상 본선 진출작 20편을 확인. 공지문은 최종 수상작을 2026-10-15 시상식에서 공개한다고 명시하므로 results_confirmed/results_published_at은 기록하지 않음. 결과 공지: https://www.gcon.or.kr/gcon/bbs/B0000024/view.do?nttId=12348&menuNo=200060&pageIndex=1",
         "summary": "생성형 AI 기반 영화·영상 콘텐츠를 모집하며, 중편 부문 접수가 7월 22일까지 연장된 경기콘텐츠진흥원 주관 어워즈입니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-09-17T19:00:00+09:00"
+        "source_checked_at": "2026-09-19T19:00:00+09:00"
       },
       {
         "title": "2026 충남 지역특화 AI음원·뮤직비디오 공모전",
@@ -2572,15 +2572,15 @@
         "organizer": "경기도 / 경기콘텐츠진흥원",
         "submission_start": "2026-06-01",
         "submission_end": "2026-07-22",
-        "result_date": "2026-09-15 예정",
+        "result_date": "2026-10-15 예정",
         "url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11173&menuNo=200061&pageIndex=",
         "source_type": "official_notice",
         "discovery_source": "tavily",
         "discovery_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11173&menuNo=200061&pageIndex=",
-        "evidence": "공식 공고의 사업목적에 생성형 AI를 활용한 영상(영화) 작품 공모, 출품 조건에 영상 이미지 생성 등 AI 활용 영역 명시",
+        "evidence": "경기콘텐츠진흥원 공식 결과 공지(2026-09-15)에서 중편·단편·백남준 특별상 본선 진출작 20편을 확인. 공지문은 최종 수상작을 2026-10-15 시상식에서 공개한다고 명시하므로 results_confirmed/results_published_at은 기록하지 않음. 결과 공지: https://www.gcon.or.kr/gcon/bbs/B0000024/view.do?nttId=12348&menuNo=200060&pageIndex=1",
         "summary": "고 백남준 작가 서거 20주기를 맞아 생성형 AI 활용 영상 작품을 공모하는 특별상 부문입니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-09-17T19:00:00+09:00"
+        "source_checked_at": "2026-09-19T19:00:00+09:00"
       },
       {
         "title": "2026 원주만두축제 AI 영상 공모전",
