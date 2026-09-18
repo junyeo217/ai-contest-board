@@ -23,7 +23,7 @@ PAGES = {
 }
 EXPECTED_DATA_HASHES = {
     "contests.json": "ca5067c64ec2f493cadeaa3ec22f683f6d820ceee99b19093b5cf7a93d45983c",
-    "overseas-contests.json": "0fdcdbbbe8d9ffec91d4683a7aa7fb270a0ceacace4fb161f6ab44be62ad5588",
+    "overseas-contests.json": "36bf3c50392014cb73888b98c9f2b5a4972d220a73ae1da34e3c36eba8b48f97",
 }
 
 
@@ -127,7 +127,7 @@ class ProductionMigrationTests(unittest.TestCase):
     def test_music_video_whitelist_and_guidelines_are_preserved(self):
         template = json.loads(read(ROOT / "template.json"))
         self.assertGreaterEqual(len(template["musicVideoWhitelist"]), 8)
-        self.assertEqual(len(template["guidelines"]), 68)
+        self.assertEqual(len(template["guidelines"]), 70)
         for title in template["guidelines"]:
             self.assertTrue(any(title in read(page) for page in PAGES))
         for page in PAGES:
@@ -155,7 +155,8 @@ class ProductionMigrationTests(unittest.TestCase):
     def test_sitemap_and_robot_scope(self):
         sitemap = read(ROOT / "sitemap.xml")
         self.assertEqual(sitemap.count("<url>"), 2)
-        self.assertEqual(sitemap.count("<lastmod>2026-09-17</lastmod>"), 2)
+        self.assertEqual(sitemap.count("<lastmod>2026-09-17</lastmod>"), 1)
+        self.assertEqual(sitemap.count("<lastmod>2026-09-19</lastmod>"), 1)
         self.assertEqual(sitemap.count("<lastmod>"), 2)
         self.assertFalse((ROOT / "robots.txt").exists())
 
