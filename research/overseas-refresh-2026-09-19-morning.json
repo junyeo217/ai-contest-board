@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-09-19T08:30:10+09:00",
+  "scope": "해외 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전. 주최기관 공식 페이지와 주최기관 연결 공식 접수 페이지로만 확인.",
+  "changes": [],
+  "reconfirmed_open": [
+    {"title":"WAIMF: World AI Movie Festival 2026","official_source":"https://filmfreeway.com/WAIMF","evidence":"공식 FilmFreeway 페이지의 전 세계 AI 생성·하이브리드 영상 모집 및 2026-09-30 Late Deadline을 재확인. Best Music Clip을 포함한다."},
+    {"title":"GenTO: Toronto AI Film Festival 2026","official_source":"https://gento.ca/festival","evidence":"공식 페이지의 2026-10-20 Late Deadline, 11/15 통지, 12/5 행사 일정을 재확인. 영화·광고·뮤직비디오 상영 프로그램을 안내한다."},
+    {"title":"AI Movie Awards 2026","official_source":"https://www.aimovieawards.org","evidence":"공식 홈페이지는 11/7~8 London 행사와 AI Film·Art Image·Art Motion·Ads·Music 부문을 계속 표시한다. Regular 9/5 문구와 Rules 내 10/10 최종 접수일 충돌은 해소되지 않아 기존 부분 검증 경고를 유지한다."}
+  ],
+  "awaiting_results_rechecked": [
+    {"title":"AKOOL Creator Clash 2026","official_source":"https://akool.com/creator-clash","evidence":"공식 페이지는 9/15 23:59 PT 마감 및 9/30 수상자 발표 예정만 표시하며 실제 수상자 명단은 확인되지 않았다."},
+    {"title":"Higgsfield Global Film Festival 2026","official_source":"https://higgsfield.ai/blog/higgsfield-global-film-festival","evidence":"공식 안내는 9/15 23:59 UTC 마감과 10월 마지막 주 수상자 발표 예정만 표시하며 실제 결과는 확인되지 않았다."},
+    {"title":"Sparknify Human vs. AI Film Festival 2026","official_source":"https://www.sparknify.com/human-vs-ai-film-festival","evidence":"공식 상태는 9/17 Grand Jury of Academia 심사 안내 및 9/26 시상식을 표시한다. 공식선정 외 실제 수상 결과는 확인되지 않았다."},
+    {"title":"AAIFF 2026 – Astana AI Film Festival","official_source":"https://aaiff.ai/","evidence":"공식 홈페이지는 접수 종료, 8,067편, 10/1~3 Astana 행사와 longlist·shortlist·nominations 단계만 표시한다. 실제 수상 결과는 확인되지 않았다."}
+  ],
+  "verification_pending": [
+    {"title":"WAIFF LA USA 2026","reason":"현행 공식 페이지가 2027 LA 에디션만 제시한다. 2026 기록은 다른 연도 요강으로 대체하지 않고 계속 보류한다."},
+    {"title":"AI International Music Video Festival 2026","reason":"공식 웹사이트와 연결 FilmFreeway 페이지의 일정·접수 링크 충돌이 해소됐다는 공식 근거를 확인하지 못해 보류한다."}
+  ]
+}
