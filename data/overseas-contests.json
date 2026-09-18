@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:01:09+09:00",
+  "generated_at": "2026-09-19T00:47:14+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -216,16 +216,16 @@
         "country": "International",
         "organizer": "AI Movie Awards (AIMA)",
         "submission_start": "2026-06-15",
-        "submission_end": "2026-10-17",
+        "submission_end": "2026-10-10",
         "result_date": "미정",
         "url": "https://www.aimovieawards.org",
         "source_type": "official_homepage",
         "discovery_source": "tavily",
         "discovery_url": "https://filmfreeway.com/AIMovieAwards",
-        "evidence": "AI Movie Awards 공식 사이트 검색 결과가 submission period 2026-06-15~2026-10-17 및 FilmFreeway 접수를 안내함. Festhome 소개는 AIMA를 artificial intelligence 시대의 미래 영화 탐구를 위한 international platform으로 설명하고, 제출작은 AI tools를 중심적으로 사용한 short films, feature films, experimental works여야 한다고 안내함.",
-        "summary": "AI 도구를 중심적으로 활용한 단편·장편·실험 영화를 모집하는 국제 AI 영화 어워드. 10월 17일까지 접수합니다.",
+        "evidence": "AIMA 공식 사이트의 2026 London Rules가 접수 기간을 2026-06-15~2026-10-10으로 명시함. 같은 페이지 상단에는 Regular submissions 2026-09-05 마감 문구가 남아 있어 안내 간 불일치는 요강에 유지하되, 세부 Rules의 최종 접수일 10월 10일을 보드 마감일로 반영함.",
+        "summary": "AI 도구를 중심적으로 활용한 영화·이미지·모션·광고 및 AI 뮤직비디오를 모집하는 국제 AI 어워드. 세부 Rules 기준 10월 10일까지 접수합니다.",
         "status": "진행중",
-        "source_checked_at": "2026-07-08T07:00:00+09:00"
+        "source_checked_at": "2026-09-19T00:47:14+09:00"
       },
       {
         "title": "Graphis AI Creative Awards 2026",
@@ -362,6 +362,40 @@
         "summary": "생성형·알고리즘·파라메트릭·AI 보조 디자인 작품을 모집하는 국제 디자인 어워드.",
         "status": "진행중",
         "source_checked_at": "2026-06-23T07:00:00+09:00"
+      },
+      {
+        "title": "WAIMF: World AI Movie Festival 2026",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "WAIMF / FILM6",
+        "submission_start": "2026-06-30",
+        "submission_end": "2026-09-30",
+        "result_date": "2026-09-30 통지 예정",
+        "url": "https://filmfreeway.com/WAIMF",
+        "source_type": "official_apply_page",
+        "discovery_source": "official_organizer",
+        "discovery_url": "https://www.film6.ai/WAIMF/festival",
+        "evidence": "FILM6 공식 WAIMF 페이지가 FilmFreeway 공식 접수를 연결하며, FilmFreeway 공식 접수 페이지는 Opening 2026-06-30, Late Deadline·Notification 2026-09-30, 10/7~8 스페인 Marbella 행사 일정을 표시함. 전 세계 창작자·제작사·스튜디오 대상이며 AI 전면 생성 또는 하이브리드 영화, Best Music Clip을 포함한 영상 부문을 접수함.",
+        "summary": "AI 생성·하이브리드 영화를 전 세계에서 접수하는 스페인 Marbella 영화제. Best Music Clip을 포함해 9월 30일까지 접수합니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-19T00:47:14+09:00"
+      },
+      {
+        "title": "GenTO: Toronto AI Film Festival 2026",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "GenTO: Toronto AI Film Festival",
+        "submission_start": "2026-05-01",
+        "submission_end": "2026-10-20",
+        "result_date": "2026-11-15 통지 예정",
+        "url": "https://gento.ca/festival",
+        "source_type": "official_organizer",
+        "discovery_source": "official_organizer",
+        "discovery_url": "https://filmfreeway.com/GenTOAIFilmFestival",
+        "evidence": "GenTO 공식 페이지가 로컬 및 국제 영화·창작자를 환영하고, Opening 2026-05-01, Regular 9/20, Late 10/20, Notification 11/15, Toronto 행사 12/5를 명시함. FilmFreeway 공식 접수 페이지도 AI 보조 단편·실험 영상·하이브리드 작품, Best AI Music Video 등을 안내함. 수수료·연령 제한은 확인한 공식 안내에서 명확히 확인하지 못함.",
+        "summary": "AI 보조 단편·실험 영상·하이브리드 작품을 모집하는 토론토 국제 영화제. 늦은 마감은 10월 20일입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-09-19T00:47:14+09:00"
       }
     ],
     "awaiting_results": [
@@ -372,15 +406,17 @@
         "organizer": "Miora × MiniMax",
         "submission_start": "2026-09-01",
         "submission_end": "2026-09-14",
-        "result_date": "2026-09-17",
+        "result_date": "2026-09-18 결과 확인",
         "url": "https://www.instagram.com/p/DcuigDkzruC/",
         "source_type": "official_platform",
         "discovery_source": "tavily",
         "discovery_url": "https://www.threads.com/@hailuoai_official",
-        "evidence": "MiniMax/Hailuo 공식 계정과 Miora 공식 공지가 전 세계 창작자를 대상으로 MiniMax H3를 활용한 30초 이상 괴생명체 내러티브 영상을 모집하고 2026-09-01~09-14 접수, 9월 17일 결과 발표 예정 및 총 8,000 USD·200,000 크레딧 시상을 안내했다. 9월 17일 KST 기준 실제 수상 발표 게시물은 확인하지 못했다.",
-        "summary": "MiniMax H3로 제작한 글로벌 영상 공모전은 9월 14일 접수를 마감했습니다. 공식 공지의 9월 17일 결과 예정은 실제 수상 발표 확인 전까지 발표 예정으로 표시합니다.",
+        "evidence": "Miora 공식 활동 페이지의 진행표가 Results 2026.09.18을 표시하고, 실제 출품 갤러리에 Grand Prize·Second Place·Third Place·Audience Choice 수상 배지가 표시됨. 기존 안내의 9/17 예정일과 달리 실제 수상 표기를 확인했으므로 발표완료로 기록함.",
+        "summary": "Miora × MiniMax H3 창작 공모전. 공식 갤러리에 Grand Prize·Second Place·Third Place·Audience Choice 수상 표기가 확인되었습니다.",
         "status": "발표예정",
-        "source_checked_at": "2026-09-17T07:01:09+09:00"
+        "source_checked_at": "2026-09-19T00:47:14+09:00",
+        "results_confirmed": true,
+        "results_published_at": "2026-09-18"
       },
       {
         "title": "AKOOL Creator Clash 2026",
@@ -627,15 +663,15 @@
         "organizer": "Sparknify",
         "submission_start": "2026-05-01",
         "submission_end": "2026-09-03",
-        "result_date": "미정",
+        "result_date": "2026-09-26 시상식 예정",
         "url": "https://www.sparknify.com/human-vs-ai-film-festival",
         "source_type": "official_notice",
         "discovery_source": "brave",
         "discovery_url": "https://www.sparknify.com/human-vs-ai-film-festival",
-        "evidence": "Sparknify 공식 2026 페이지가 접수 종료와 2027 포털 알림을 표시하며, 2026 출품 마감을 2026-09-03으로 명시함. AI-generated 부문은 전 과정 생성형 AI 제작, AI 생성 음성·음악을 요구하며 2026-09-26 샌프란시스코 상영·시상식 예정으로 안내함. 수상 결과의 실제 공개는 아직 확인되지 않아 발표 대기로 유지함.",
-        "summary": "전 과정 생성형 AI로 제작한 단편을 포함해 인간 제작·AI 생성 영화를 평가하는 국제 영화제. 9월 3일 접수 종료 후 결과 공개를 기다립니다.",
+        "evidence": "Sparknify 공식 2026-09-13자 공식선정 발표가 전 세계 3,000편 이상 출품작 중 Human-Produced·AI-Generated 두 부문 32편을 실제 공식선정으로 공개함. 다만 8개 감정 부문 수상자와 Sparknify Humanity Award 등 수상자는 2026-09-26 시상식에서 정할 예정이라고 명시하여 results_confirmed는 기록하지 않음.",
+        "summary": "전 과정 생성형 AI로 제작한 단편을 포함해 인간 제작·AI 생성 영화를 평가하는 국제 영화제. 공식선정 32편은 발표됐지만 수상 결과는 9월 26일 시상식 이후 확인합니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-09-09T14:00:00+09:00"
+        "source_checked_at": "2026-09-19T00:47:14+09:00"
       },
       {
         "title": "Adobe MAX 2026 Creativity Awards",
@@ -980,6 +1016,7 @@
     ]
   },
   "change_notes": [
+    "2026-09-19: WAIMF와 GenTO 국제 AI 영상 공모전을 공식 주최·공식 FilmFreeway 근거로 추가. Bestiary 실제 수상 표기 확인, Sparknify 공식선정 발표 반영, AIMA 세부 Rules의 10/10 최종 마감으로 정정.",
     "2026-09-17: 공식 원문·공식 플랫폼 재확인. Bestiary, Higgsfield Global Film Festival, AKOOL Creator Clash은 각 공식 마감 시각이 경과해 발표 대기로 이동. Bestiary의 9월 17일 결과 예정 및 AKOOL(9월 30일)·Higgsfield(10월 마지막 주) 수상자 예정 외 실제 결과 발표는 확인하지 않아 results_confirmed/results_published_at을 기록하지 않음.",
     "2026-09-16: 공식 원문 재확인. AI Design Awards와 제5회 AI Art Grand Prix는 접수 종료 후 실제 수상 결과 미공개로 발표 예정으로 이동. Higgsfield(9/15 23:59 UTC)와 AKOOL(9/15 23:59 PT)은 한국시간 9/16에 아직 마감 전이라 원문 시간대와 한국시간 환산을 요강에 병기해 유지.",
     "2026-09-14: AICM COMPETITION 2026와 AI Media Award 2026의 접수 종료를 공식 원문으로 재확인하여 발표 대기로 이동. 실제 수상 결과는 확인되지 않아 results_confirmed/results_published_at을 기록하지 않음. Higgsfield(9/14 23:59 UTC), AI Design Awards(9/14 23:59 PT), AKOOL·AI Art Grand Prix(9/15) 현행 공식 일정도 재확인.",
