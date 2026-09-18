@@ -1,0 +1,27 @@
+{
+  "checked_at": "2026-09-19T00:47:14+09:00",
+  "scope": "해외 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전. 공식 주최기관 공지와 해당 주최기관이 연결하거나 운영하는 FilmFreeway 접수 페이지만 확정 근거로 사용.",
+  "changes": [
+    {"title":"WAIMF: World AI Movie Festival 2026","action":"신규 추가","reason":"FILM6 공식 WAIMF 페이지와 공식 FilmFreeway 접수에서 6/30 개시·9/30 Late Deadline·전 세계 대상·AI 전면 생성/하이브리드 영상·Best Music Clip을 확인.","official_sources":["https://www.film6.ai/WAIMF/festival","https://filmfreeway.com/WAIMF"]},
+    {"title":"GenTO: Toronto AI Film Festival 2026","action":"신규 추가","reason":"GenTO 공식 페이지와 공식 FilmFreeway 접수에서 국제 창작자 대상, 10/20 Late Deadline, AI 보조·하이브리드 영상 및 Best AI Music Video를 확인. 수수료·연령 제한은 확인 보류.","official_sources":["https://gento.ca/festival","https://filmfreeway.com/GenTOAIFilmFestival"]},
+    {"title":"Bestiary: Miora × MiniMax H3 Creative Contest","action":"발표완료","reason":"Miora 공식 활동 페이지의 Results 2026.09.18 진행표와 실제 갤러리 수상 배지(Grand Prize·Second Place·Third Place·Audience Choice)를 확인.","official_sources":["https://miora.design/arena/activity/2"]},
+    {"title":"Sparknify Human vs. AI Film Festival 2026","action":"공식선정 발표 반영, 수상 결과는 대기 유지","reason":"공식 발표가 32편 공식선정을 공개했으나 수상자는 9/26 시상식에서 정할 예정임.","official_sources":["https://www.sparknify.com/post/20260913-film-festival-official-select-en"]},
+    {"title":"AI Movie Awards 2026","action":"마감 정정","reason":"공식 Rules의 2026-10-10 최종 접수일을 데이터에 반영. 같은 페이지 상단의 9/5 Regular 마감 문구와 충돌하므로 부분 검증 경고 유지.","official_sources":["https://www.aimovieawards.org"]}
+  ],
+  "reconfirmed_open": [
+    {"title":"Slamdance 2027 – DIG AI-driven Film & Music","official_source":"https://slamdance.com/festival-submit","evidence":"공식 일정은 2026-10-06 접수 종료, DIG Extended 90 USD, 12/17 통지를 계속 표시."},
+    {"title":"NEXT ART AI 2026","official_source":"https://next-art-ai.com/en/apply/overview","evidence":"전 세계 대상, 2026-09-30 23:59 KST, 이미지·영상 생성형 AI 조건을 재확인."},
+    {"title":"We Are Human Festival Paris 2026 – Film & AI International Open Call","official_source":"https://wearehuman.foundation/en/call-for-films","evidence":"전 세계 18세 이상·무료·9/30 마감을 재확인."},
+    {"title":"AI Film Festival Japan 2026","official_source":"http://aifilm.jp/index_en.html","evidence":"공식 영문 안내의 9/30 12:00 JST 마감과 AI 영상 부문 요건을 재확인."},
+    {"title":"PixLight 2026 – PixVerse AI Film Contest","official_source":"https://pixverse.ai/en/blog/pixverse-kicks-off-pixlight-global-ai-film-competition","evidence":"전 세계·무료·10/9 마감·PixVerse Canvas 주 플랫폼 조건을 재확인."}
+  ],
+  "awaiting_results_rechecked": [
+    {"title":"AKOOL Creator Clash 2026","official_source":"https://akool.com/creator-clash","evidence":"9/30 수상자 발표 예정만 확인, 실제 수상자 미공개."},
+    {"title":"Higgsfield Global Film Festival 2026","official_source":"https://higgsfield.ai/blog/higgsfield-global-film-festival","evidence":"10월 마지막 주 수상자 발표 예정, 실제 결과 미공개."},
+    {"title":"AAIFF 2026 – Astana AI Film Festival","official_source":"https://aaiff.ai/","evidence":"접수 종료·10/1~3 행사 및 향후 longlist/shortlist/nominations만 표시, 실제 결과 미공개."}
+  ],
+  "verification_pending": [
+    {"title":"WAIFF LA USA 2026","reason":"현행 공식 페이지가 2027 LA 에디션만 제시해 기존 2026 기록은 보류 유지."},
+    {"title":"AI International Music Video Festival 2026","reason":"공식 웹사이트와 연결 FilmFreeway 페이지의 일정·접수 링크 충돌이 계속되어 신규 확정하지 않음."}
+  ]
+}
