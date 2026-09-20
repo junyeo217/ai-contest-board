@@ -43,7 +43,8 @@
     "2026 문화다양성 AI 영상 콘텐츠 공모전",
     "2026 청주영상위원회 AI 영상 공모전",
     "WAIMF: World AI Movie Festival 2026",
-    "GenTO: Toronto AI Film Festival 2026"
+    "GenTO: Toronto AI Film Festival 2026",
+    "VIC AI Awards 2026"
   ],
   "guidelines": {
     "2026년 국가정책연구포털 AI 쇼츠 영상공모전": {
@@ -2200,7 +2201,7 @@
       "verification": "partial"
     },
     "2026 AI 활용 스포츠 활동 숏폼 공모전": {
-      "checked": "2026-09-20",
+      "checked": "2026-09-08",
       "facts": [
         [
           "참가",
@@ -2243,7 +2244,7 @@
             ],
             [
               "발표",
-              "수상후보작 온라인 공개검증 09.23~10.02. 최종 수상작 발표 10.12 예정, 시상식 10.15 예정."
+              "온라인 공개검증 09.29~10.08, 수상작 발표 10.12, 시상식 10.15."
             ]
           ]
         ],
@@ -8558,6 +8559,124 @@
       "action": [
         "공식 접수",
         "https://filmfreeway.com/GenTOAIFilmFestival"
+      ],
+      "verification": "partial"
+    },
+    "VIC AI Awards 2026": {
+      "checked": "2026-09-20",
+      "facts": [
+        [
+          "참가",
+          "호주 및 전 세계 창작자"
+        ],
+        [
+          "마감",
+          "2026.10.20 Late Deadline (시간대 미표기)"
+        ],
+        [
+          "규격",
+          "3시간 미만 콘텐츠, 장르 제한 없음"
+        ]
+      ],
+      "alert": "주최 측이 운영하는 FilmFreeway 공식 접수 페이지 기준입니다. 현재 단계와 부문별 금액, 현장 상영·편집 권한 및 기타 조건은 출품 직전에 원문에서 다시 확인하세요.",
+      "sections": [
+        [
+          "참가 대상·비용",
+          [
+            [
+              "참가 대상",
+              "호주 및 전 세계의 창작자·AI 창작 커뮤니티. 국제 출품을 환영한다고 명시."
+            ],
+            [
+              "출품·참가비",
+              "FilmFreeway 유료 출품. Regular: Standard 45 USD·Student 40 USD·Gold 40 USD, Late: Standard 50 USD·Student 45 USD·Gold 45 USD로 표시. 환불·취소 시 다음 에디션 이관 조건은 원문 확인 필요."
+            ]
+          ]
+        ],
+        [
+          "일정",
+          [
+            [
+              "접수",
+              "2026.08.20 Opening, 09.09 Earlybird, 09.30 Regular, 10.20 Late Deadline. 시간대 미표기."
+            ],
+            [
+              "발표·행사",
+              "2026.10.23 Notification 예정. 2026.10.30 호주 Melbourne VIC AI Boom 행사에서 수상자 발표 예정."
+            ]
+          ]
+        ],
+        [
+          "주제·작품 규격",
+          [
+            [
+              "대상",
+              "Best in AI Animation, AI Art, AI Campaign/Commercial, AI Influencer, AI Music/Music Videos, AI Social Media Content, AI Gaming, AI Short Films."
+            ],
+            [
+              "규격",
+              "게임 외 콘텐츠는 3시간 미만, 모든 장르 가능. 경쟁 부문 작품은 2020년 1월 이후 상영작이어야 한다고 명시."
+            ]
+          ]
+        ],
+        [
+          "AI 사용 조건",
+          [
+            [
+              "AI 조건",
+              "AI 창작·기술 인재를 대상으로 한 시상식. 세부 부문별 AI 사용 조건은 공식 접수 부문 설명을 확인해야 함. AI 음악·뮤직비디오 부문은 음악 또는 영상(또는 모두)에 AI가 사용된 콘텐츠를 대상으로 안내."
+            ]
+          ]
+        ],
+        [
+          "제출 체크리스트",
+          [
+            [
+              "제출물",
+              "전자 제출 권장. 물리적 요소가 있으면 주최 측 이메일로 사전 문의. 심사는 출품 직후 시작될 수 있어 완성본을 제출해야 함."
+            ],
+            [
+              "접수 방법",
+              "VIC AI Awards 공식 FilmFreeway에서 온라인 출품."
+            ]
+          ]
+        ],
+        [
+          "시상·심사",
+          [
+            [
+              "시상",
+              "부문상 외 Best in Australia, Best in the World, Rising Star. 수상자는 크리스털 트로피, 후보는 10/30 행사 전 발표 예정."
+            ],
+            [
+              "심사",
+              "출품 뒤 언제든 심사 가능. 선정작은 후보·각 부문 및 특별상 심사 대상이 될 수 있음."
+            ]
+          ]
+        ],
+        [
+          "권리·유의사항",
+          [
+            [
+              "권리",
+              "출품 시 VIC AI Awards/VIC AI Boom 관련 플랫폼·행사에서의 사용 허가 및 선정작 홍보용 자료 사용 권한을 부여. 주최 측은 관객 등 사유로 작품을 편집할 수 있다고 명시."
+            ],
+            [
+              "문의",
+              "hello@vicaiboom.com 또는 FilmFreeway Contact."
+            ]
+          ]
+        ]
+      ],
+      "sources": [
+        [
+          "공식 접수·요강 (FilmFreeway)",
+          "https://filmfreeway.com/VICAIAwards"
+        ]
+      ],
+      "action": [
+        "공식 접수",
+        "https://filmfreeway.com/VICAIAwards"
       ],
       "verification": "partial"
     }
