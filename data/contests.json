@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T00:35:00+09:00",
+  "generated_at": "2026-09-20T20:11:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -611,10 +611,10 @@
         "source_type": "official_homepage",
         "discovery_source": "tavily",
         "discovery_url": "https://www.facebook.com/kspof/videos/2176760342979643",
-        "evidence": "국민체육진흥공단 공식 공모전 안내에 직접 촬영 영상에 생성형 AI를 일부 활용한 30~90초 작품, 2026.09.15 마감이 명시. 생성형 AI만으로 제작한 영상은 제외.",
+        "evidence": "국민체육진흥공단 공식 공모전 마감 안내에 접수 마감 및 총 390개 작품 접수, 수상후보작 온라인 공개검증 2026.09.23~10.02가 명시. 직접 촬영 영상에 생성형 AI 일부 활용, AI 단독 제작 영상 제외 조건은 유지.",
         "summary": "직접 촬영한 스포츠 활동 영상을 생성형 AI로 재구성한 숏폼 콘텐츠 공모전입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-09-17T19:00:00+09:00",
+        "source_checked_at": "2026-09-20T20:11:00+09:00",
         "rules_reviewed_at": "2026-09-08"
       },
       {
