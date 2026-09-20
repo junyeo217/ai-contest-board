@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-09-20T20:11:00+09:00",
+  "scope": "국내 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전. 음원/BGM 단독 제출 공모전은 제외.",
+  "new_verified": [],
+  "verified_updates": [
+    {
+      "title": "2026 AI 활용 스포츠 활동 숏폼 공모전",
+      "official_url": "https://kspo-contest.kr/event/2026-contest",
+      "changes": [
+        "공식 마감 안내에서 접수 마감 및 총 390개 작품 접수 확인",
+        "수상후보작 온라인 공개검증은 2026-09-23~10-02로 확인. 최종 수상작 발표 전이므로 results_confirmed와 results_published_at은 기록하지 않음"
+      ],
+      "evidence": "국민체육진흥공단 공식 공모전 홈페이지의 접수 마감 안내와 심사 일정."
+    },
+    {
+      "title": "2026년 국토안전 AI 콘텐츠 공모전",
+      "official_url": "https://www.kalis.or.kr/www/contest/m_55/view.do?idx=31",
+      "changes": [
+        "공식 페이지가 합격자발표일 2026-09-11만 표기하는 것을 재확인",
+        "실제 수상자 명단 또는 결과 공지를 확인하지 못해 발표완료로 전환하지 않음"
+      ],
+      "evidence": "국토안전관리원 공식 공모전 페이지."
+    },
+    {
+      "title": "2026 대한민국 AI 콘텐츠 어워즈 / 백남준 특별상",
+      "official_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11172&menuNo=200061",
+      "changes": [
+        "기존 출품 공고의 최종 수상자 명단은 확인하지 못함",
+        "이전 확인된 본선 진출작 공지는 최종 수상 발표가 아니므로 results_confirmed를 유지하지 않음"
+      ],
+      "evidence": "경기콘텐츠진흥원 공식 출품 공고 및 기존 결과 게시판 확인 범위."
+    }
+  ],
+  "urgent_rechecks": [
+    {
+      "titles": [
+        "[세븐일레븐] K-비빔밥 AI 광고제 \"ㄸ뚜ㅁ뜨뜨\"",
+        "2026년 NABIS 브랜드 대국민 아이디어 공모전",
+        "2026 문화다양성 AI 영상 콘텐츠 공모전"
+      ],
+      "deadline": "2026-09-21",
+      "result": "공식 공고의 기존 마감일을 재확인했으며, 공식 연장 공지는 확인하지 못함."
+    }
+  ],
+  "notes": "검색 결과는 후보 발견에만 사용했다. 공식 출처로 검증되지 않은 신규 공고 및 조건은 데이터에 추가하지 않았다."
+}
