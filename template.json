@@ -6521,7 +6521,7 @@
       "verification": "partial"
     },
     "AI Movie Awards 2026": {
-      "checked": "2026-09-08",
+      "checked": "2026-09-21",
       "facts": [
         [
           "참가",
@@ -6536,7 +6536,7 @@
           "영화 2분 초과, 최소 1920×1080, MP4/MOV"
         ]
       ],
-      "alert": "입력은 10-17 마감이나, 확인한 AIMA 공식 사이트는 런던 2026 에디션의 Rules에 10-10을 기재하고 도입부에는 Regular 9-5 마감도 병기합니다. 최종 접수 가능일은 주최 측 확인이 필요합니다. 공식 사이트와 공식 FilmFreeway 양쪽에서 접수한다고 명시합니다.",
+      "alert": "공식 Rules·공식 제출 양식은 10-10 Extended Deadline과 부문당 30 EUR를 표시합니다. 홈페이지에는 Regular 9-5, 공식 FilmFreeway 설명에는 10-17 문구가 남아 충돌하므로, 보드는 Rules·제출 양식 기준 10-10을 반영합니다. 출품 직전에 접수 가능 여부를 다시 확인하세요.",
       "sections": [
         [
           "참가 대상·비용",
@@ -6547,7 +6547,7 @@
             ],
             [
               "출품·참가비",
-              "환불 불가. 금액은 확인한 공식 안내에 별도 표기 없음."
+              "공식 제출 양식 기준 부문당 30 EUR. 환불 불가."
             ]
           ]
         ],
@@ -6556,7 +6556,7 @@
           [
             [
               "접수",
-              "Rules: 2026-06-15~10-10. 단 사이트 도입부: Regular submissions close 09-05로 병기되어 최종 기한 확인 필요."
+              "Rules·공식 제출 양식: 2026-06-15~10-10(Extended). 홈페이지 도입부는 Regular 09-05, 공식 FilmFreeway 설명은 10-17 문구를 병기해 충돌하므로 최종 접수 가능 여부 확인 필요."
             ],
             [
               "발표",
@@ -8319,7 +8319,7 @@
       "verification": "partial"
     },
     "WAIMF: World AI Movie Festival 2026": {
-      "checked": "2026-09-19",
+      "checked": "2026-09-21",
       "facts": [
         [
           "참가",
@@ -8441,7 +8441,7 @@
       "verification": "partial"
     },
     "GenTO: Toronto AI Film Festival 2026": {
-      "checked": "2026-09-19",
+      "checked": "2026-09-21",
       "facts": [
         [
           "참가",
@@ -8563,7 +8563,7 @@
       "verification": "partial"
     },
     "VIC AI Awards 2026": {
-      "checked": "2026-09-20",
+      "checked": "2026-09-21",
       "facts": [
         [
           "참가",
