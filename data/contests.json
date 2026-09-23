@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-21T19:02:00+09:00",
+  "generated_at": "2026-09-24T02:11:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "제28회 말 사진·AI 이미지 공모전",
+        "category": "AI 이미지",
+        "organizer": "한국마사회",
+        "submission_start": "2026-10-01",
+        "submission_end": "2026-10-31",
+        "result_date": "2026-11-20 예정",
+        "url": "https://www.kra.co.kr/board/view/pr/no/1201811_1144.do?menuId=skr02_skr021",
+        "source_type": "official_notice",
+        "discovery_source": "websearch",
+        "discovery_url": "https://www.kra.co.kr/board/view/pr/no/1201811_1144.do?menuId=skr02_skr021",
+        "evidence": "한국마사회 공식 공지(2026.09.20)에 생성형 AI 이미지 부문, 2026.10.01~10.31 온라인 접수, 11.20 결과 발표이 명시.",
+        "summary": "생성형 AI로 말(馬)을 주제로 한 이미지를 제작하고 작품 사연을 함께 제출하는 공모전입니다.",
+        "status": "접수 예정",
+        "source_checked_at": "2026-09-24T02:11:00+09:00"
+      },
       {
         "title": "2026 별별화성 Awards AI CF 공모전",
         "category": "AI 영상",
@@ -146,7 +162,7 @@
         "evidence": "기후에너지환경부 공식 공고에 영상·이미지·음악·내레이션 중 1가지 이상 AI를 활용한 15~30초 숏폼과 2026.09.28 18:00 마감이 명시.",
         "summary": "재생에너지의 가치를 AI 제작요소로 표현하는 15~30초 세로형 숏폼 공모전입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-09-07T22:08:00+09:00"
+        "source_checked_at": "2026-09-24T02:11:00+09:00"
       },
       {
         "title": "에코-뷰티 AI 크리에이터 대작전",
@@ -566,7 +582,7 @@
         "evidence": "충북과학기술혁신원 공식 사업공고 기준 공모분야가 AI 영상 광고이며 3분 이상 5분 내외 AI 영상 콘텐츠, 접수 2026.07.02~09.30 17시 명시.",
         "summary": "충북 특화 브랜딩을 주제로 생성형 AI 기술을 활용한 광고 영상 콘텐츠를 모집하는 공모전입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-07-03T19:00:00+09:00"
+        "source_checked_at": "2026-09-24T02:11:00+09:00"
       },
       {
         "title": "2026년 디지털윤리 창작콘텐츠 공모전",
@@ -631,7 +647,7 @@
         "evidence": "한국산림복지진흥원 연계 공식 공모전 누리집에 전 국민 대상 AI 활용 30초~3분 세로형 숏폼, 2026.09.01~09.30 이메일 접수, 결과 발표 2026.10.23 예정이 명시.",
         "summary": "국가산림문화자산과 산림을 AI로 표현하는 세로형 숏폼 영상 공모전입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-09-11T19:00:00+09:00",
+        "source_checked_at": "2026-09-24T02:11:00+09:00",
         "rules_reviewed_at": "2026-09-11"
       },
       {
@@ -680,7 +696,7 @@
         "evidence": "강남구 공식 공고와 첨부 공고문에 생성형 AI로 창작하는 웹툰(인스타툰)·숏폼 영상 2개 분야, 2026.09.10~09.30 접수(이메일은 09.30 자정 전 수신)가 명시.",
         "summary": "강남구 정책·사업·문화·관광·축제를 생성형 AI 웹툰 또는 숏폼 영상으로 홍보하는 공모전입니다.",
         "status": "접수 예정",
-        "source_checked_at": "2026-09-16T19:00:00+09:00"
+        "source_checked_at": "2026-09-24T02:11:00+09:00"
       },
       {
         "title": "2026년 울산광역시 U잼 영상 공모전",
@@ -807,10 +823,10 @@
         "source_type": "official_homepage",
         "discovery_source": "brave",
         "discovery_url": "https://crowlly.xyz/competitions/hana-insurance-ai-video-contest-2026",
-        "evidence": "하나손해보험 공식 이벤트 페이지와 공개 공고에 생성형 AI를 활용한 가로형 TVC·세로형 숏폼 영상, 접수 2026.08.12~09.08이 명시.",
+        "evidence": "하나손해보험 공식 이벤트 페이지에 생성형 AI를 활용한 가로형 TVC·세로형 숏폼 영상, 접수 2026.08.12~09.08 및 결과 발표 2026.09.22 예정이 명시. 2026.09.24 공식 당첨자 발표 페이지에서는 실제 수상자 결과를 확인하지 못함.",
         "summary": "하나손해보험 브랜드를 생성형 AI 광고영상과 숏폼으로 표현하는 공모전입니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-09-09T19:00:00+09:00"
+        "source_checked_at": "2026-09-24T02:11:00+09:00"
       },
       {
         "title": "제1회 AI 이미지 챌린지",
@@ -1074,15 +1090,15 @@
         "organizer": "국가유산청 궁능유적본부·국가유산진흥원",
         "submission_start": "2026-07-06",
         "submission_end": "2026-08-16",
-        "result_date": "2026-09-23 예정",
-        "url": "https://www.momo365.net/Support?cd=contest&ViewType=detail&seq=174096",
-        "source_type": "reference_link",
+        "result_date": "2026-09-30 예정",
+        "url": "https://www.kh.or.kr/brd/board/644/L/SITES/202/menu/530?brdType=R&bbIdx=119806",
+        "source_type": "official_notice",
         "discovery_source": "tavily/brave",
         "discovery_url": "https://www.momo365.net/Support?cd=contest&ViewType=detail&seq=174096",
-        "evidence": "모모365 참고 공고와 검색 결과 기준 조선 왕실과 현대를 잇는 30초~1분 세로형 AI 영상 제작, 접수 2026.07.06~2026.08.16, 최종 발표 2026.09.23 명시.",
+        "evidence": "국가유산진흥원 공식 공지(2026.09.10)에 온라인 투표가 9.11~9.27로 연장되고 최종 수상작 발표가 2026.09.30 예정이라고 명시. 본선 후보 6점과 장려상 14점 안내는 있으나 최종 주요 수상작은 발표 전.",
         "summary": "조선 궁궐 문화를 현대적으로 재해석해 60초 이내 AI 쇼츠 영상으로 표현하는 공모전입니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-08-17T19:00:00+09:00"
+        "source_checked_at": "2026-09-24T02:11:00+09:00"
       },
       {
         "title": "남이섬 AI 영상 광고 숏폼 공모전",
