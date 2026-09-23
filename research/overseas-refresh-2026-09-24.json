@@ -1,0 +1,42 @@
+{
+  "checked_at": "2026-09-24T04:00:00+09:00",
+  "scope": "해외 AI 이미지·영상·디자인 및 AI 뮤직비디오. 주최 측 공식 페이지 또는 주최 측이 운영·연결한 FilmFreeway 접수 페이지로만 확정.",
+  "changes": [
+    {
+      "title": "AI International Music Video Festival 2026 – September Submission",
+      "action": "added",
+      "official_sources": ["https://filmfreeway.com/AIMusicVideoFestival"],
+      "evidence": "주최 측 FilmFreeway 페이지가 9월 30일 다음 접수 마감, 해당 기간 선정작의 11월 10일 Hollywood 상영 고려, AI/AI 보조/라이브액션 및 AI 주제 뮤직비디오, 수평·수직 형식을 명시. 출품료·시간대·국적/거주/연령 요건은 공개 본문에서 확인하지 못해 부분 검증으로 기록.",
+      "note": "페이지는 다음 상영을 10월 18일로도 표시하므로, 9월 30일 접수분은 11월 10일 안내를 보존하고 충돌 경고를 표시."
+    },
+    {
+      "title": "AI Film Festival Japan 2026",
+      "action": "rechecked",
+      "official_sources": ["http://aifilm.jp/index_en.html", "https://filmfreeway.com/AIFilmFestivalJapan2026"],
+      "evidence": "공식 영문 가이드에서 10월 31일~11월 2일 Tokyo 행사, AI 사용 공개·권리 요건·형식을 재확인. 기존 9월 30일 12:00 JST 접수 마감 및 10월 10일 통지 안내는 유지. 실제 결과 미발표."
+    },
+    {
+      "title": "We Are Human Festival Paris 2026 – Film & AI International Open Call",
+      "action": "rechecked",
+      "official_sources": ["https://wearehuman.foundation/en/call-for-films"],
+      "evidence": "국제 18세 이상, 인간/AI 하이브리드 1~10분, 무료, 9월 30일 마감, Ethics Notebook 필수, 단독 AI 생성물 불가, 10월 20일 공식선정·11월 24일 시상 예정 확인."
+    },
+    {
+      "title": "WAIMF / GenTO / VIC AI Awards / AI Movie Awards",
+      "action": "rechecked",
+      "official_sources": ["https://filmfreeway.com/WAIMF", "https://filmfreeway.com/GenTOAIFilmFestival", "https://filmfreeway.com/VICAIAwards", "https://www.aimovieawards.org/submit"],
+      "evidence": "WAIMF 9/30 Late·통지 예정, GenTO 10/20 Late·11/15 통지 예정, AIMA 10/10 제출 마감 규정을 재확인. VIC FilmFreeway URL은 이번 환경에서 404였으므로 9/22 확인 조건을 보존하고 새 조건은 확정하지 않음."
+    }
+  ],
+  "results_recheck": [
+    {"title":"Sparknify Human vs. AI Film Festival 2026","official_source":"https://www.sparknify.com/human-vs-ai-film-festival","status":"2026-09-17 Jury Instructions Sent, 9/26 시상식 예정. 실제 2026 수상자 미공개이므로 results_confirmed 미기록."},
+    {"title":"AAIFF 2026 – Astana AI Film Festival","official_source":"https://aaiff.ai/","status":"8,067편 접수 종료, 10/1~3 행사 전 longlist·shortlist·nominations 단계만 안내. 실제 결과 미공개."},
+    {"title":"AKOOL Creator Clash 2026","official_source":"https://akool.com/creator-clash","status":"9/30 수상자 발표 예정만 확인되어 실제 결과 미공개."},
+    {"title":"Higgsfield Global Film Festival 2026","official_source":"https://higgsfield.ai/blog/higgsfield-global-film-festival","status":"10월 마지막 주 수상자 발표 예정. 실제 결과 미공개."}
+  ],
+  "verification_pending": [
+    {"title":"VIC AI Awards 2026","reason":"공식 FilmFreeway URL이 이번 확인 환경에서 404. 기존 9/22 공식 확인값 보존, 신규 변경 미확정."},
+    {"title":"WAIFF LA USA 2026","reason":"현행 주최 측 페이지는 다른 연도 에디션 중심으로 기존 2026 조건을 독립 확인할 수 없음."},
+    {"title":"AI International Music Video Festival 기존 보류 기록","reason":"현재 주최 측 FilmFreeway에 별도 월간 접수 공고와 9/12 실제 수상자 게시가 확인되어, 새 9월 접수 항목으로 구조화. 과거 기록과 다른 제출 회차를 혼합하지 않음."}
+  ]
+}
