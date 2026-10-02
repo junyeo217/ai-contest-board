@@ -22,8 +22,8 @@ PAGES = {
     },
 }
 EXPECTED_DATA_HASHES = {
-    "contests.json": "b1e2665350ef7c5870960a27f6638e292695260d0e981c9c51930fbf8991512f",
-    "overseas-contests.json": "ca003d0b3745cdb843aaf4181155a97d5d23967041c474719ed464f50ff918eb",
+    "contests.json": "45cfbfb0d287359e2c764cd4da7b7c4bae6bcb815700a7c51abba0e68cac138e",
+    "overseas-contests.json": "eb1c56d021d5633678432f1c78a87758f735feaf8b94955c3894e2d650e82523",
 }
 
 
@@ -127,7 +127,7 @@ class ProductionMigrationTests(unittest.TestCase):
     def test_music_video_whitelist_and_guidelines_are_preserved(self):
         template = json.loads(read(ROOT / "template.json"))
         self.assertGreaterEqual(len(template["musicVideoWhitelist"]), 8)
-        self.assertEqual(len(template["guidelines"]), 70)
+        self.assertEqual(len(template["guidelines"]), 74)
         for title in template["guidelines"]:
             self.assertTrue(any(title in read(page) for page in PAGES))
         for page in PAGES:
@@ -155,7 +155,8 @@ class ProductionMigrationTests(unittest.TestCase):
     def test_sitemap_and_robot_scope(self):
         sitemap = read(ROOT / "sitemap.xml")
         self.assertEqual(sitemap.count("<url>"), 2)
-        self.assertEqual(sitemap.count("<lastmod>2026-09-19</lastmod>"), 2)
+        self.assertIn("<loc>https://junyeo217.github.io/ai-contest-board/</loc><lastmod>2026-10-02</lastmod>", sitemap)
+        self.assertIn("<loc>https://junyeo217.github.io/ai-contest-board/overseas/</loc><lastmod>2026-10-02</lastmod>", sitemap)
         self.assertEqual(sitemap.count("<lastmod>"), 2)
         self.assertFalse((ROOT / "robots.txt").exists())
 
