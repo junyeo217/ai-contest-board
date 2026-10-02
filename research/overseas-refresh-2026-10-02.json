@@ -1,0 +1,84 @@
+{
+  "checked_at": "2026-10-02T21:16:00+09:00",
+  "scope": "해외 AI 이미지·영상·디자인 및 AI 뮤직비디오. 주최 측 공식 페이지 또는 주최 측이 운영·연결한 FilmFreeway 접수 페이지로만 확정.",
+  "changes": [
+    {
+      "title": "AI International Music Video Festival 2026 – September Submission / MiniMax H3 × SeaArt App & Play Challenge / NEXT ART AI 2026 / AI Film Festival Japan 2026 / We Are Human Festival Paris 2026 – Film & AI International Open Call / WAIMF: World AI Movie Festival 2026",
+      "action": "moved_to_awaiting_results",
+      "official_sources": [
+        "https://filmfreeway.com/AIMusicVideoFestival",
+        "https://www.seaart.ai/minimax-h3-ai-app-contest",
+        "https://next-art-ai.com/en/apply/overview",
+        "https://filmfreeway.com/AIFilmFestivalJapan2026",
+        "https://wearehuman.foundation/en/call-for-films",
+        "https://filmfreeway.com/WAIMF"
+      ],
+      "evidence": "각 기존 공식 안내의 2026-09-30 접수 마감이 경과한 것을 확인해 접수중에서 발표예정으로 이동. 실제 최종 결과는 이번 확인에서 발견하지 못해 results_confirmed를 기록하지 않음."
+    },
+    {
+      "title": "AI Film Festival Japan 2026",
+      "action": "schedule_rechecked",
+      "official_sources": [
+        "http://aifilm.jp/index_en.html",
+        "https://filmfreeway.com/AIFilmFestivalJapan2026"
+      ],
+      "evidence": "공식 연결 FilmFreeway가 2026-10-10 Notification Date 및 10/31~11/2 Tokyo 행사를 표시. 결과 발표 전으로 유지."
+    },
+    {
+      "title": "WAIMF: World AI Movie Festival 2026",
+      "action": "schedule_rechecked",
+      "official_sources": [
+        "https://filmfreeway.com/WAIMF",
+        "https://www.film6.ai/WAIMF/festival"
+      ],
+      "evidence": "공식 FilmFreeway가 Late Deadline 9/30, Notification Date 10/2, Marbella 행사 10/7~8을 표시. 실제 선정·수상자 목록은 확인하지 못해 발표예정으로 유지."
+    }
+  ],
+  "results_recheck": [
+    {
+      "title": "Sparknify Human vs. AI Film Festival 2026",
+      "action": "results_confirmed",
+      "results_published_at": "2026-09-27",
+      "official_source": "https://www.sparknify.com/post/2026-film-festival-winners-en",
+      "evidence": "Sparknify 공식 보도자료가 9/27 결과를 발표. Humanity Award Down The Hatch(Alexandra Lukina), Best Cinema The Way You Sea Me(Gabriel Mellin), Best AI-Generated Film BENCH(Mooshin Rhee, STUDIO aim).",
+      "note": "공식 발표일을 확인했으므로 results_confirmed=true 및 results_published_at=2026-09-27 기록."
+    },
+    {
+      "title": "AKOOL Creator Clash 2026",
+      "action": "results_confirmed",
+      "results_published_at": "2026-09-30",
+      "official_sources": [
+        "https://www.instagram.com/reel/Dd7CVguj1c2",
+        "https://akool.com/creator-clash"
+      ],
+      "evidence": "AKOOL 공식 Instagram(@akoolinc)이 9/30 Grand Prize 수상자 @brain.glitch_ml을 발표. 대회 페이지의 9/30 winners announced 일정과 일치.",
+      "note": "공식 SNS 실제 수상자 게시물을 확인했으므로 results_confirmed=true 및 results_published_at=2026-09-30 기록."
+    },
+    {
+      "title": "AAIFF 2026 – Astana AI Film Festival",
+      "action": "not_confirmed",
+      "official_source": "https://aaiff.ai/",
+      "evidence": "공식 사이트에서 실제 수상자 발표를 찾지 못함. 기존 발표예정 유지."
+    },
+    {
+      "title": "Higgsfield Global Film Festival 2026",
+      "action": "not_confirmed",
+      "official_source": "https://higgsfield.ai/blog/higgsfield-global-film-festival",
+      "evidence": "기존 10월 마지막 주 발표 예정 외 실제 수상자 공개를 확인하지 못함."
+    }
+  ],
+  "verification_pending": [
+    {
+      "title": "VIC AI Awards 2026",
+      "reason": "공식 FilmFreeway URL이 이 환경의 HTTP 조회에서 보안 확인으로 열리지 않아, 9/22 공식 확인값을 보존하고 새 조건은 확정하지 않음."
+    },
+    {
+      "title": "WAIFF LA USA 2026",
+      "reason": "현행 주최 측 페이지는 다른 연도 에디션 중심으로 기존 2026 조건을 독립 확인할 수 없음."
+    },
+    {
+      "title": "African AI Film Festival 2026",
+      "reason": "공식 FilmFreeway 검색 결과에서 10/21 Late Deadline을 발견했으나, 이 환경에서 보안 확인으로 요강·참가 자격·수수료를 충분히 검증하지 못해 신규 항목으로 추가하지 않음."
+    }
+  ]
+}
