@@ -1,0 +1,84 @@
+{
+  "checked_at": "2026-10-02T21:18:37+09:00",
+  "scope": "국내 AI 이미지·영상·디자인 및 AI 뮤직비디오 공모전. 음원/BGM 단독 제출 공모전은 제외.",
+  "new_verified": [
+    {
+      "title": "2026 한국탄소산업진흥원 AI 콘텐츠 챌린지 「탄소, 다시 보다」",
+      "official_url": "http://carbon-c.co.kr/",
+      "changes": [
+        "이미지·영상 부문을 새로 추가",
+        "접수 2026.09.29~10.19 23:59, 대학생·일반인 개인·팀 대상, 부문별 최대 3작품을 확인",
+        "생성형 AI를 제작 과정 일부 또는 전부에 필수 활용하는 조건을 확인"
+      ],
+      "evidence": "한국탄소산업진흥원 공식 공모전 페이지."
+    },
+    {
+      "title": "대한지방행정공제회 생성형 AI 콘텐츠 공모전",
+      "official_url": "https://www.poba.or.kr/bbs/selectNttDetail?sechBbsSeq=10&sechBbstSeq=97367&sechWrdTySeCd=T&sechWrd=",
+      "changes": [
+        "생성형 AI 영상·이미지 부문을 새로 추가",
+        "대한지방행정공제회 회원 대상, 접수 2026.09.14 10:00~11.08 23:59 및 네이버폼 후 이메일 제출을 확인"
+      ],
+      "evidence": "대한지방행정공제회 공식 공지(2026.09.14)."
+    }
+  ],
+  "verified_updates": [
+    {
+      "title": "2026 궁중문화축전 AI 영상 공모전",
+      "official_url": "https://www.kh.or.kr/brd/board/644/L/SITES/100/menu/371?brdType=R&bbIdx=119882",
+      "changes": [
+        "국가유산진흥원 공식 공지(2026.09.30)에서 최종 수상작 6편을 확인",
+        "results_confirmed: true, results_published_at: 2026-09-30으로 기록"
+      ],
+      "evidence": "대상 「경복궁에서 왕이 건넨 위로」를 포함한 최종 수상작 명단 공개."
+    },
+    {
+      "title": "2026년 국토안전 AI 콘텐츠 공모전",
+      "official_url": "https://blog.naver.com/kalis_pr/224407312743",
+      "changes": [
+        "국토안전관리원 공식 블로그의 2026.09.11 17:30 결과 공지에서 영상·이미지 총 8편 최종 선정 확인",
+        "results_confirmed: true, results_published_at: 2026-09-11으로 기록"
+      ],
+      "evidence": "공식 블로그 수상작 명단."
+    },
+    {
+      "title": "2026 재생에너지의 날 기념 AI 숏폼 공모전",
+      "official_url": "https://www.mcee.go.kr/home/web/board/read.do?boardCategoryId&boardId=1887380&boardMasterId=713&maxIndexPages=10&maxPageItems=6&menuId=10392&orgCd&pagerOffset=0&rn=5&searchKey&searchValue",
+      "changes": [
+        "10월 2일 입상작 발표 예정만 확인했으며, 실제 결과 게시물은 확인하지 못함"
+      ],
+      "evidence": "기후에너지환경부 공식 카드뉴스 및 접수 공고."
+    },
+    {
+      "title": "2026 AI 활용 스포츠 활동 숏폼 공모전",
+      "official_url": "https://kspo-contest.kr/event/2026-contest",
+      "changes": [
+        "수상후보작 공개검증이 9월 23일~10월 2일 진행 중임을 확인",
+        "최종 수상작 발표 전이므로 결과 확정 필드를 기록하지 않음"
+      ],
+      "evidence": "국민체육진흥공단 공식 공모전 페이지."
+    }
+  ],
+  "urgent_rechecks": [
+    {
+      "titles": [
+        "2026 제12회 한국 AI 신발디자인 공모전",
+        "국제 AI 아트 공모전 NEXT ART AI",
+        "경북농협 농산물 AI 숏폼 대학생 공모전",
+        "제6회 그린리모델링 챌린지 42초 AI 영화제",
+        "2026 충북 AI광고제",
+        "2026 강남 대전환!! AI 홍보콘텐츠 공모전"
+      ],
+      "deadline": "2026-09-30",
+      "result": "공식 안내 기준 마감 또는 접수 종료를 재확인했으며, 각 항목의 공식 연장 공지는 확인하지 못함. 그린리모델링 42초 AI 영화제는 연장 대상이 아님."
+    },
+    {
+      "titles": [
+        "2026년 디지털윤리 창작콘텐츠 공모전"
+      ],
+      "deadline": "2026-10-02 23:59",
+      "result": "공식 공모요강 기준 마감 당일 접수중이며 연장 공지는 확인하지 못함."
+    }
+  ],
+  "notes": "검색 결과는 후보 발견에만 사용했다. 고성 해양심층수 브랜드 AI 영상 공모전은 공식 일정·요강을 검증하지 못해 추가하지 않았다. 하나손해보험은 공식 결과 목록의 실제 수상자 명단·게시일을 검증하지 못해 결과 확정을 보류했다."
+}
