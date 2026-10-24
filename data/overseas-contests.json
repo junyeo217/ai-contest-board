@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T07:05:59+09:00",
+  "generated_at": "2026-10-25T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,6 +37,57 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "Kling 4.0 Epic Scene Creation Challenge",
+        "category": "AI 영상",
+        "country": "Global / Online",
+        "organizer": "Kling AI",
+        "submission_start": "2026-10-15",
+        "submission_end": "2026-10-28",
+        "result_date": "2026-11-10",
+        "url": "https://kling.ai/app/activity-zone?id=939264439399497752",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://kling.ai/app/activity-zone",
+        "evidence": "Kling AI 공식 이벤트 페이지가 2026-10-15~10-28 접수, 11-10 수상자 발표와 Kling 4.0으로 제작한 AI 영상·쇼츠 제출 요건을 명시함.",
+        "summary": "Kling 4.0으로 액션·시각적 스펙터클·동양 판타지 등 시네마틱 영상을 제작하는 글로벌 공식 챌린지.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-25T07:00:00+09:00"
+      },
+      {
+        "title": "Atlanta AI Ad Fest 2026",
+        "category": "AI 영상",
+        "country": "United States / International",
+        "organizer": "SouArt Alliance",
+        "submission_start": "2026-09-15",
+        "submission_end": "2026-11-15",
+        "result_date": "2026-12-10",
+        "url": "https://atlantaaiadfest.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "aside",
+        "discovery_url": "https://atlantaaiadfest.com/en/press",
+        "evidence": "공식 Press Room이 전 세계 참가 가능한 국제 AI 광고 영화제로 안내하고, 2026-09-15 접수 시작, 11-15 마감, 12-10 애틀랜타 시상식과 30~60초 AI 광고·단편 형식을 명시함.",
+        "summary": "전 세계 창작자의 30~60초 AI 광고 또는 단편영화를 모집하는 애틀랜타 기반 국제 페스티벌.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-25T07:00:00+09:00"
+      },
+      {
+        "title": "Todo es Prompt – AI Film Festival 2026, 2nd Edition",
+        "category": "AI 영상",
+        "country": "International / Online",
+        "organizer": "Todo es Prompt",
+        "submission_start": "2026-07-22",
+        "submission_end": "2026-10-25",
+        "result_date": "2026-11-01",
+        "url": "https://todoesprompt.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmmakers.festhome.com/en/festival/todo-es-prompt-festival-online-de-cortometrajes-y-guiones-creados-con-inteligencia-artificial",
+        "evidence": "주최사 공식 홈페이지와 공식 접수 페이지가 국제 온라인 AI 영화제임을 명시하며, 실제 영상 부문 접수 기간은 2026-07-22~10-25, 결과 통지는 11-01로 확인됨.",
+        "summary": "AI 도구로 제작한 단편·장편 영화를 모집하는 국제 온라인 AI 영화제.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-25T07:00:00+09:00"
+      },
       {
         "title": "PixAI × zeta Original Character Creation Contest 2026",
         "category": "AI 이미지",
@@ -516,6 +567,40 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "Higgsfield × Iman Gadzhi Discord Contest",
+        "category": "AI 콘텐츠",
+        "country": "Global / Online",
+        "organizer": "Higgsfield × Iman Gadzhi",
+        "submission_start": "2026-10-16",
+        "submission_end": "2026-10-24",
+        "result_date": "미정",
+        "url": "https://higgsfield.ai/creator-hub/changelog#iman-gadzhi-contest",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://higgsfield.ai/creator-hub/changelog#iman-gadzhi-contest",
+        "evidence": "Higgsfield 공식 변경 기록이 2026-10-16 공지, 10-24 접수 마감, Higgsfield에서 제작한 단편·광고·트레일러·포스터·밈과 총 50,000달러 상금을 명시함. 공개 결과는 아직 확인되지 않음.",
+        "summary": "Iman Gadzhi를 주인공으로 Higgsfield에서 제작한 AI 콘텐츠를 모집한 글로벌 공식 콘테스트로, 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-10-25T07:00:00+09:00"
+      },
+      {
+        "title": "Tyrannus Angel Awards 2026",
+        "category": "AI 영상",
+        "country": "United States / International",
+        "organizer": "Tyrannus Foundation",
+        "submission_start": "2026-07-01",
+        "submission_end": "2026-09-20",
+        "result_date": "2026-10-24",
+        "url": "https://tyrannusangelawards.org/",
+        "source_type": "official_homepage",
+        "discovery_source": "aside",
+        "discovery_url": "https://tyrannusangelawards.org/",
+        "evidence": "공식 홈페이지가 2026-07-01~09-20 접수, 10-01 공식선정 35편, 10-24 로스앤젤레스 시상 일정을 명시함. 현재 페이지는 공식선정작과 최종 수상작을 구분하며 최종 수상 결과는 아직 공개하지 않음.",
+        "summary": "국제 AI 영화·애니메이션 작품을 대상으로 한 로스앤젤레스 AI Film Awards로, 최종 수상 결과 공개를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-10-25T07:00:00+09:00"
+      },
       {
         "title": "AI Film Festival Japan 2026",
         "category": "AI 영상",
@@ -1132,7 +1217,7 @@
       }
     ]
   },
-  "change_notes": "2026-10-24: 신규 5건(Runway Weekly Challenge #2, Higgsfield Weekly Challenge WCC#1, AI MUSIC VIDEO WAVE 2026, Uzumasa JidAI Short Film Competition 2026, WAICY 2026) 반영. PixAI × zeta 공모전을 오늘 시작에서 진행중으로 전환. AIFJ 2026은 공식 10월 23일 발표에서 최종 시상일이 11월 1일로 확인되어 발표 대기로 복원. CartesianForms 작품 제출 마감을 12월 13일로 보정하고, 제5회 AI Art Grand Prix의 1차 심사 결과와 11월 7일 최종 시상 일정을 반영.",
+  "change_notes": "2026-10-25: 신규 5건(Kling 4.0 Epic Scene Creation Challenge, Atlanta AI Ad Fest 2026, Todo es Prompt – AI Film Festival 2026, Higgsfield × Iman Gadzhi Discord Contest, Tyrannus Angel Awards 2026) 반영. Atlanta AI Ad Fest의 공식 접수 마감 11월 15일과 시상일 12월 10일을 원문 기준으로 확인. Runway Weekly Challenge #1 공식 수상 결과를 확인했으며 이미 관리 대상에 없으므로 재등록하지 않음. 11월 2일 접수 시작 예정인 제2회 My Style vintage 생성AI 콘테스트는 현행 보드의 진행중·발표대기 구조에 따라 접수 시작일에 반영 예정.",
   "verification_pending": [
     {
       "title": "WAIFF LA USA 2026",
