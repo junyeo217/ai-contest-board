@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T07:00:00+09:00",
+  "generated_at": "2026-10-26T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -77,16 +77,16 @@
         "country": "International / Online",
         "organizer": "Todo es Prompt",
         "submission_start": "2026-07-22",
-        "submission_end": "2026-10-25",
+        "submission_end": "2026-10-29",
         "result_date": "2026-11-01",
         "url": "https://todoesprompt.com/",
         "source_type": "official_homepage",
         "discovery_source": "aside",
         "discovery_url": "https://filmmakers.festhome.com/en/festival/todo-es-prompt-festival-online-de-cortometrajes-y-guiones-creados-con-inteligencia-artificial",
-        "evidence": "주최사 공식 홈페이지와 공식 접수 페이지가 국제 온라인 AI 영화제임을 명시하며, 실제 영상 부문 접수 기간은 2026-07-22~10-25, 결과 통지는 11-01로 확인됨.",
-        "summary": "AI 도구로 제작한 단편·장편 영화를 모집하는 국제 온라인 AI 영화제.",
+        "evidence": "2026-10-26 Aside 원문 재확인: 공식 Festhome 접수 페이지가 국제 온라인 AI 영화제임을 명시하고, 연장 마감일을 2026-10-29, 통지일을 11-01, 영화제 일정을 11-06~11-12로 표시함.",
+        "summary": "AI 도구로 제작한 단편·장편 영화를 모집하는 국제 온라인 AI 영화제. 연장 마감은 10월 29일입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-10-25T07:00:00+09:00"
+        "source_checked_at": "2026-10-26T07:00:00+09:00"
       },
       {
         "title": "PixAI × zeta Original Character Creation Contest 2026",
@@ -104,6 +104,40 @@
         "summary": "PixAI에서 오리지널 캐릭터 일러스트를 제작·제출하는 PixAI×zeta 공식 글로벌 콘테스트.",
         "status": "진행중",
         "source_checked_at": "2026-10-24T07:05:59+09:00"
+      },
+      {
+        "title": "VIC AI Awards 2026",
+        "category": "AI 이미지·영상",
+        "country": "Australia / International",
+        "organizer": "VIC AI Boom / VIC AI Awards",
+        "submission_start": "2026-08-20",
+        "submission_end": "2026-11-04",
+        "result_date": "2026-11-06 통지 예정 · 11/13 수상 발표",
+        "url": "https://filmfreeway.com/VICAIAwards",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/VICAIAwards",
+        "evidence": "2026-10-26 Aside로 공식 FilmFreeway 원문을 재확인해 2026-08-20 개시, 11-04 Late Deadline, 11-06 Notification, 11-13 Melbourne 행사·수상 발표와 전 세계 창작자 출품 가능 안내를 확인함. 기존 10-20 마감 정보는 최신 공식 일정으로 보정함.",
+        "summary": "전 세계 AI 창작자의 이미지·애니메이션·단편·광고·AI 뮤직비디오를 모집하는 멜버른 시상식. 연장 마감은 11월 4일입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-26T07:00:00+09:00"
+      },
+      {
+        "title": "Picsart × KLING 4.0 Microdrama Challenge",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Picsart × KLING AI",
+        "submission_start": "2026-10-19",
+        "submission_end": "2026-11-02",
+        "result_date": "2026-11-05",
+        "url": "https://picsart.com/challenges/picsart-x-kling-40-microdrama-challenge-6ad62170f3636cc691705a71",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://picsart.com/picsart-x-kling-4-0-microdrama/",
+        "evidence": "2026-10-26 Aside 공식 원문 검증: Picsart 공식 챌린지·규칙 페이지가 2026-10-19 15:00 UTC 개시, 11-02 15:00 UTC 마감, 11-05 결과 발표, KLING 4.0을 활용한 오리지널 마이크로드라마 제출, 18세 이상 글로벌 참가(일부 국가·제재 지역 제외), 5명에게 각 10,000달러 상금을 명시함.",
+        "summary": "Picsart에서 KLING 4.0을 활용해 오리지널 마이크로드라마를 제작하는 글로벌 영상 챌린지.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-26T07:00:00+09:00"
       },
       {
         "title": "Runway Weekly Challenge #2 – The Unexpected Guest",
@@ -649,23 +683,6 @@
         "discovery_url": "https://filmfreeway.com/GenTOAIFilmFestival",
         "evidence": "2026-09-24 GenTO 공식 FilmFreeway Rules 재확인: 국제 영화·창작자 대상이며 전통·AI 보조·하이브리드 작품을 허용, 비영어 작품은 영어 자막 필요. 현장 상영 고려는 크레딧 포함 30분 이하이며, 12-05 Toronto 행사 예정. Late Deadline 10-20·Notification 11-15는 기존 공식 일정 기준으로 유지. 실제 결과는 아직 발표 전임.\n\n2026-10-23 재확인: 공식 접수 마감일이 경과하여 발표 대기로 전환함.",
         "summary": "AI 보조 단편·실험 영상·하이브리드 작품을 모집하는 토론토 국제 영화제. 늦은 마감은 10월 20일입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-10-23T10:58:11+09:00"
-      },
-      {
-        "title": "VIC AI Awards 2026",
-        "category": "AI 이미지·영상",
-        "country": "Australia / International",
-        "organizer": "VIC AI Boom / VIC AI Awards",
-        "submission_start": "2026-08-20",
-        "submission_end": "2026-10-20",
-        "result_date": "2026-10-23 통지 예정 · 10/30 시상",
-        "url": "https://filmfreeway.com/VICAIAwards",
-        "source_type": "official_apply_page",
-        "discovery_source": "official_apply_page",
-        "discovery_url": "https://filmfreeway.com/VICAIAwards",
-        "evidence": "2026-09-24 기존 공식 FilmFreeway 접수 URL을 재확인했으나 이 확인 환경에서는 FilmFreeway 404 응답이 반환됨. 9-22에 실제 접수 페이지에서 확인한 9-30 Regular·10-20 Late·10-23 Notification·10-30 Melbourne 시상 일정과 국제 출품 안내는 보존하며, 이번에는 새 조건으로 갱신하지 않음.\n\n2026-10-23 재확인: 공식 접수 마감일이 경과하여 발표 대기로 전환함.",
-        "summary": "전 세계 AI 창작자의 이미지·애니메이션·단편·광고·AI 뮤직비디오를 모집하는 멜버른 시상식. Late 마감은 10월 20일입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-10-23T10:58:11+09:00"
       },
@@ -1217,7 +1234,7 @@
       }
     ]
   },
-  "change_notes": "2026-10-25: 신규 5건(Kling 4.0 Epic Scene Creation Challenge, Atlanta AI Ad Fest 2026, Todo es Prompt – AI Film Festival 2026, Higgsfield × Iman Gadzhi Discord Contest, Tyrannus Angel Awards 2026) 반영. Atlanta AI Ad Fest의 공식 접수 마감 11월 15일과 시상일 12월 10일을 원문 기준으로 확인. Runway Weekly Challenge #1 공식 수상 결과를 확인했으며 이미 관리 대상에 없으므로 재등록하지 않음. 11월 2일 접수 시작 예정인 제2회 My Style vintage 생성AI 콘테스트는 현행 보드의 진행중·발표대기 구조에 따라 접수 시작일에 반영 예정.",
+  "change_notes": "2026-10-26: 신규 1건(Picsart × KLING 4.0 Microdrama Challenge) 반영. 공식 원문 재확인으로 Todo es Prompt – AI Film Festival 2026의 연장 마감을 10월 29일로 보정하고, VIC AI Awards 2026의 연장 마감을 11월 4일로 확인해 발표 대기에서 진행중으로 복원함. Tyrannus Angel Awards 2026은 10월 24일 시상 일정이 지났으나 공식 수상 결과가 공개되지 않아 발표 대기를 유지함.",
   "verification_pending": [
     {
       "title": "WAIFF LA USA 2026",
