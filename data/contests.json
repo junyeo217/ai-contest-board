@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-10-24T19:00:00+09:00",
+  "generated_at": "2026-10-25T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "PixAI × zeta 자캐 창작 콘테스트 2026",
+        "category": "AI 디자인",
+        "organizer": "PixAI·zeta",
+        "submission_start": "2026-10-23",
+        "submission_end": "2026-11-04",
+        "result_date": "미정",
+        "url": "https://pixai.art/contest/pixai-zeta-oc",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://crowlly.xyz/competitions/pixai-zeta-oc-creation-contest-2026",
+        "evidence": "PixAI 공식 상세 규칙에 2026.10.23 15:00~11.04 23:59(KST) 일정과 AI로 오리지널 캐릭터 일러스트 1장을 제작하는 창작 트랙이 명시.",
+        "summary": "PixAI에서 AI 캐릭터 일러스트를 만들고 zeta에서 성격과 세계관을 더하는 공동 창작 콘테스트입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-25T19:00:00+09:00"
+      },
+      {
+        "title": "노량진수산시장 AI 숏폼 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "동서울대학교·수협 노량진수산(주)",
+        "submission_start": "2026-10-01",
+        "submission_end": "2026-11-05",
+        "result_date": "2026-12-14~2026-12-23 심사·시상 예정",
+        "url": "https://makerspace.du.ac.kr/MakerLibraryBoard/Detail/20260907095622592?n=notice",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://crowlly.xyz/competitions/du-2026-noryangjin-ai-shortform",
+        "evidence": "동서울대학교 공식 공고에 Kling AI 활용 필수 60초 숏폼 영상, 2026.10.01~11.05 참가 접수와 11.12~12.11 콘텐츠 제작·제출이 명시.",
+        "summary": "동서울대학교 재학생이 생성형 AI로 노량진수산시장의 역사와 매력을 표현하는 숏폼 영상 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-25T19:00:00+09:00"
+      },
+      {
+        "title": "2026 전국민 AI 활용사례 공모전 시즌3",
+        "category": "AI 콘텐츠",
+        "organizer": "과학기술정보통신부·한국과학창의재단",
+        "submission_start": "2026-09-01",
+        "submission_end": "2026-10-31",
+        "result_date": "2026-11-20 예정",
+        "url": "https://aichallenge4all.or.kr/notice/cmtjpa73f000m149hjskkpv4x",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://crowlly.xyz/competitions/kosac-2026-ai-case-season3",
+        "evidence": "전국민 AI 경진대회 공식 공고에 생활·지역사회·교육·업무의 AI 활용사례를 블로그 또는 1분 이내 숏폼으로 제작하고 2026.09.01~10.31 접수한다고 명시.",
+        "summary": "일상에서 직접 경험한 AI 활용사례를 블로그나 1분 이내 숏폼으로 소개하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-25T19:00:00+09:00"
+      },
       {
         "title": "2026 한국세라믹기술원 AI 영상 공모전 「세라믹이 사라진 세상」",
         "category": "AI 영상",
@@ -1997,22 +2045,6 @@
         "source_checked_at": "2026-07-24T19:00:00+09:00"
       },
       {
-        "title": "2026 대한민국 AI 콘텐츠 어워즈",
-        "category": "AI 영상",
-        "organizer": "경기도·경기콘텐츠진흥원",
-        "submission_start": "2026-06-01",
-        "submission_end": "2026-07-22",
-        "result_date": "2026-10-15 예정",
-        "url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11172&menuNo=200061",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11172&menuNo=200061",
-        "evidence": "경기콘텐츠진흥원 공식 결과 공지(2026-09-15)에서 중편·단편·백남준 특별상 본선 진출작 20편을 확인. 공지문은 최종 수상작을 2026-10-15 시상식에서 공개한다고 명시하므로 results_confirmed/results_published_at은 기록하지 않음. 결과 공지: https://www.gcon.or.kr/gcon/bbs/B0000024/view.do?nttId=12348&menuNo=200060&pageIndex=1",
-        "summary": "생성형 AI 기반 영화·영상 콘텐츠를 모집하며, 중편 부문 접수가 7월 22일까지 연장된 경기콘텐츠진흥원 주관 어워즈입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-10-02T21:18:37+09:00"
-      },
-      {
         "title": "2026 바른 AI·디지털 생활 창작 공모전",
         "category": "AI 이미지·영상",
         "organizer": "LG헬로비전 / 시청자미디어재단 / 한국지능정보사회진흥원",
@@ -2047,22 +2079,6 @@
         "summary": "충남 지역 특색과 문화를 반영한 AI 음원과 뮤직비디오를 함께 제작해 출품하는 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-07-23T19:00:00+09:00"
-      },
-      {
-        "title": "2026년 대한민국 AI 콘텐츠 어워즈 [백남준 특별상]",
-        "category": "AI 영상",
-        "organizer": "경기도 / 경기콘텐츠진흥원",
-        "submission_start": "2026-06-01",
-        "submission_end": "2026-07-22",
-        "result_date": "2026-10-15 예정",
-        "url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11173&menuNo=200061&pageIndex=",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.gcon.or.kr/gcon/business/gconNotice/view.do?pbancSrnm=11173&menuNo=200061&pageIndex=",
-        "evidence": "경기콘텐츠진흥원 공식 결과 공지(2026-09-15)에서 중편·단편·백남준 특별상 본선 진출작 20편을 확인. 공지문은 최종 수상작을 2026-10-15 시상식에서 공개한다고 명시하므로 results_confirmed/results_published_at은 기록하지 않음. 결과 공지: https://www.gcon.or.kr/gcon/bbs/B0000024/view.do?nttId=12348&menuNo=200060&pageIndex=1",
-        "summary": "고 백남준 작가 서거 20주기를 맞아 생성형 AI 활용 영상 작품을 공모하는 특별상 부문입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-10-02T21:18:37+09:00"
       },
       {
         "title": "제1회 코리아 숏드라마 어워즈",
@@ -2295,20 +2311,6 @@
         "summary": "대구 남구의 현재와 미래 발전상을 생성형 AI 기반 홍보 영상으로 표현하는 전국민 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-07-02T19:00:00+09:00"
-      },
-      {
-        "title": "2026 경북 국제 AI·메타버스 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "경상북도·구미시·포항시·경산시·경북테크노파크",
-        "submission_start": "2026-03-16",
-        "submission_end": "2026-06-30",
-        "result_date": "영상제 시상식 발표 예정",
-        "url": "https://gamff.com/doc/contest1.php",
-        "source_type": "official_homepage",
-        "evidence": "Crowlly/공식 페이지 기준 AI창작영상·AI게임영상·AI광고영상·AI숏폼 부문과 분야별 영상 길이 명시.",
-        "summary": "AI·메타버스 기술을 활용한 창작·게임·광고·숏폼 영상을 모집합니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-07-01T19:00:00+09:00"
       },
       {
         "title": "2026 전국민 인공지능(AI) 창작 경진대회",
