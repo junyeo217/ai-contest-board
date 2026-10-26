@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T07:00:00+09:00",
+  "generated_at": "2026-10-27T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -138,23 +138,6 @@
         "summary": "Picsart에서 KLING 4.0을 활용해 오리지널 마이크로드라마를 제작하는 글로벌 영상 챌린지.",
         "status": "진행중",
         "source_checked_at": "2026-10-26T07:00:00+09:00"
-      },
-      {
-        "title": "Runway Weekly Challenge #2 – The Unexpected Guest",
-        "category": "AI 영상",
-        "country": "Global / Online",
-        "organizer": "Runway",
-        "submission_start": "2026-10-19",
-        "submission_end": "2026-10-26",
-        "result_date": "2026-10-30",
-        "url": "https://www.reddit.com/r/runwayml/comments/1xa0eju/weekly_challenge_2_the_unexpected_guest/",
-        "source_type": "official_platform",
-        "discovery_source": "aside",
-        "discovery_url": "https://www.reddit.com/r/runwayml/comments/1xa0eju/weekly_challenge_2_the_unexpected_guest/",
-        "evidence": "Runway 공식 커뮤니티 공지가 2026-10-19~10-26 12:00 EDT 접수, 10-30 투표 마감·수상자 발표, Runway로 제작한 15~30초 영상과 1인 1작품 요건을 명시함.",
-        "summary": "예상치 못한 방문자가 등장하는 15~30초 Runway 영상을 제작하는 글로벌 온라인 주간 챌린지.",
-        "status": "진행중",
-        "source_checked_at": "2026-10-24T07:05:59+09:00"
       },
       {
         "title": "Higgsfield Weekly Challenge WCC#1 – Impossible Camera",
@@ -532,6 +515,23 @@
         "source_checked_at": "2026-10-23T10:58:11+09:00"
       },
       {
+        "title": "AI Slop Film Festival 2027 – Season 2",
+        "category": "AI 영상",
+        "country": "Canada",
+        "organizer": "AI Slop Film Festival / Rumiversal Studio",
+        "submission_start": "2026-05-26",
+        "submission_end": "2026-12-16",
+        "result_date": "2026-12-23",
+        "url": "https://aislopfestival.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "aside/brave",
+        "discovery_url": "https://aislopfestival.com/",
+        "evidence": "2026-10-27 공식 홈페이지 원문 확인: Toronto Rumiversal Studio에서 열리는 Season 2가 2026-05-26 접수를 시작해 12-16 최종 마감, 12-23 통지, 2027-01-23 행사를 진행함. AI가 의미 있게 사용된 내러티브·실험·애니메이션·다큐멘터리·밈·하이브리드 영화를 모집하며 완성작 길이 제한은 없음.",
+        "summary": "AI를 의미 있게 활용한 영화·애니메이션·실험 영상 등을 모집하는 토론토 기반 AI 영화제 시즌 2.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-27T07:00:00+09:00"
+      },
+      {
         "title": "AKOOL AI Film Challenge 2026",
         "category": "AI 영상",
         "country": "Global",
@@ -601,6 +601,23 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "Runway Weekly Challenge #2 – The Unexpected Guest",
+        "category": "AI 영상",
+        "country": "Global / Online",
+        "organizer": "Runway",
+        "submission_start": "2026-10-19",
+        "submission_end": "2026-10-26",
+        "result_date": "2026-10-30",
+        "url": "https://www.reddit.com/r/runwayml/comments/1xa0eju/weekly_challenge_2_the_unexpected_guest/",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://www.reddit.com/r/runwayml/comments/1xa0eju/weekly_challenge_2_the_unexpected_guest/",
+        "evidence": "2026-10-27 Aside 원문 재확인: Runway 공식 커뮤니티 공지가 2026-10-19 개시, 10-26 12:00 EDT(한국 시각 10-27 01:00) 접수 마감, 10-30 투표 마감·수상자 발표를 명시함. Runway로 제작한 15~30초 영상과 1인 1작품 요건을 확인함.",
+        "summary": "예상치 못한 방문자가 등장하는 15~30초 Runway 영상 챌린지로, 접수가 종료되어 투표·결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-10-27T07:00:00+09:00"
+      },
       {
         "title": "Higgsfield × Iman Gadzhi Discord Contest",
         "category": "AI 콘텐츠",
