@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:00:00+09:00",
+  "generated_at": "2026-10-29T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -89,21 +89,38 @@
         "source_checked_at": "2026-10-28T07:00:00+09:00"
       },
       {
-        "title": "Kling 4.0 Epic Scene Creation Challenge",
+        "title": "ADC 106th Annual Awards – AI Filmmaking: CapCut AI",
         "category": "AI 영상",
-        "country": "Global / Online",
-        "organizer": "Kling AI",
-        "submission_start": "2026-10-15",
-        "submission_end": "2026-10-28",
-        "result_date": "2026-11-10",
-        "url": "https://kling.ai/app/activity-zone?id=939264439399497752",
-        "source_type": "official_platform",
-        "discovery_source": "aside",
-        "discovery_url": "https://kling.ai/app/activity-zone",
-        "evidence": "Kling AI 공식 이벤트 페이지가 2026-10-15~10-28 접수, 11-10 수상자 발표와 Kling 4.0으로 제작한 AI 영상·쇼츠 제출 요건을 명시함.",
-        "summary": "Kling 4.0으로 액션·시각적 스펙터클·동양 판타지 등 시네마틱 영상을 제작하는 글로벌 공식 챌린지.",
+        "country": "International",
+        "organizer": "The One Club for Creativity / CapCut",
+        "submission_start": "2026-10-13",
+        "submission_end": "2027-03-05",
+        "result_date": "미정",
+        "url": "https://adcawards.org/ai-filmmaking-capcut-ai/",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside/brave",
+        "discovery_url": "https://adcawards.org/ai-filmmaking-capcut-ai/",
+        "evidence": "The One Club 공식 카테고리·자격 페이지가 2026-10-13 접수 시작, 2027-03-05 최종 마감, 국제 출품 가능과 CapCut Video Studio를 주 제작 플랫폼으로 사용해 작품의 60% 이상을 만들고 AI 생성·편집 기능을 의미 있게 활용하는 영화 제출 요건을 명시함.",
+        "summary": "CapCut AI Video Studio를 중심으로 1인 제작 방식의 홀리데이 영화를 완성하는 ADC 106th Annual Awards 공식 AI 영화 부문.",
         "status": "진행중",
-        "source_checked_at": "2026-10-25T07:00:00+09:00"
+        "source_checked_at": "2026-10-29T07:00:00+09:00"
+      },
+      {
+        "title": "Young Ones 2027 – CapCut: Creative Use of AI",
+        "category": "AI 콘텐츠",
+        "country": "International",
+        "organizer": "The One Club for Creativity / CapCut",
+        "submission_start": "2026-09-22",
+        "submission_end": "2027-03-19",
+        "result_date": "2027-05-17",
+        "url": "https://youngones.org/categories/one-show?target=one-show-capcut",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://youngones.org/categories/one-show?target=one-show-capcut",
+        "evidence": "Young Ones 공식 CapCut 브리프와 규정이 2026-09-22~2027-03-19 제작·접수 기간, 2027-05-17 수상 발표, 국제 학생·최근 졸업생 참가 가능, 생성형 AI 산출물의 의미 있는 변형과 사용 도구 공개를 요구하는 Creative Use of AI 부문을 명시함.",
+        "summary": "CapCut 브리프에 맞춰 인간의 창의성과 AI 활용을 결합한 국제 학생·최근 졸업생 대상 크리에이티브 공모 부문.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-29T07:00:00+09:00"
       },
       {
         "title": "Atlanta AI Ad Fest 2026",
@@ -635,6 +652,23 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "Kling 4.0 Epic Scene Creation Challenge",
+        "category": "AI 영상",
+        "country": "Global / Online",
+        "organizer": "Kling AI",
+        "submission_start": "2026-10-15",
+        "submission_end": "2026-10-28",
+        "result_date": "2026-11-10",
+        "url": "https://kling.ai/app/activity-zone?id=939264439399497752",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://kling.ai/app/activity-zone",
+        "evidence": "Kling AI 공식 이벤트 페이지가 2026-10-15~10-28 접수, 11-10 수상자 발표와 Kling 4.0으로 제작한 AI 영상·쇼츠 제출 요건을 명시함.",
+        "summary": "Kling 4.0으로 액션·시각적 스펙터클·동양 판타지 등 시네마틱 영상을 제작하는 글로벌 공식 챌린지.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-10-29T07:00:00+09:00"
+      },
       {
         "title": "Graphis AI Creative Awards 2026",
         "category": "AI 이미지·영상",
@@ -1302,7 +1336,7 @@
       }
     ]
   },
-  "change_notes": "2026-10-28: 신규 3건(Runway Weekly Challenge #3 – The Great Escape, Kling Holiday Sparks #10 – Costume Chaos, PixAI Manga Contest 2026)을 공식 원문 검증 후 반영함. Graphis AI Creative Awards 2026은 10월 27일 최종 마감이 지나 진행중에서 발표 대기로 전환함. AI International Film Festival 2026 – December Cycle, AI Media Award 2026, Tyrannus Angel Awards 2026은 공식 수상 결과 공개를 확인하지 못해 발표 대기를 유지함.",
+  "change_notes": "2026-10-29: 신규 2건(ADC 106th Annual Awards – AI Filmmaking: CapCut AI, Young Ones 2027 – CapCut: Creative Use of AI)을 공식 원문 검증 후 반영함. Kling 4.0 Epic Scene Creation Challenge는 10월 28일 접수 마감이 지나 진행중에서 발표 대기로 전환함. 10월 29일 당일 마감인 Todo es Prompt, Higgsfield Weekly Challenge WCC#1은 마감 전이므로 진행중을 유지함. AI International Film Festival 2026 – December Cycle, AI Media Award 2026, Tyrannus Angel Awards 2026은 공식 수상 결과 공개를 확인하지 못해 발표 대기를 유지함.",
   "verification_pending": [
     {
       "title": "WAIFF LA USA 2026",
