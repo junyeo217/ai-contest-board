@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T07:00:00+09:00",
+  "generated_at": "2026-10-30T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -53,6 +53,40 @@
         "summary": "대담하거나 예상 밖의 탈출 장면을 15~30초 Runway 영상으로 제작하는 글로벌 온라인 주간 챌린지.",
         "status": "진행중",
         "source_checked_at": "2026-10-28T07:00:00+09:00"
+      },
+      {
+        "title": "Wandura Weekly Challenge Week 01 – The Last Stand",
+        "category": "AI 영상",
+        "country": "Global / Online",
+        "organizer": "Wandura",
+        "submission_start": "2026-10-26",
+        "submission_end": "2026-11-02",
+        "result_date": "2026-11-09",
+        "url": "https://www.wandura.ai/weekly-challenge",
+        "source_type": "official_platform",
+        "discovery_source": "aside/brave",
+        "discovery_url": "https://www.wandura.ai/blog/introducing-wandura-weekly-challenge",
+        "evidence": "Wandura 공식 Weekly Challenge 페이지가 Week 01 Action Showdown 'The Last Stand'의 2026-10-26 00:00 UTC 개시, 10-30 23:59 UTC 아이디어 마감, 11-02 23:59 UTC 영상 제출 마감, 11-09 결과 공개를 명시함. Seedance 2.0 Fast로 만든 25~35초 세로형 AI 영상을 요구하며 18세 이상 개인·최대 4인 팀 참가가 가능함.",
+        "summary": "캐릭터의 마지막 결전을 25~35초 세로형 AI 영상으로 제작하는 Wandura 공식 글로벌 주간 챌린지.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-30T07:00:00+09:00"
+      },
+      {
+        "title": "MagicShot Halloween Glow-Up Challenge 2026",
+        "category": "AI 이미지",
+        "country": "Global / Online",
+        "organizer": "MagicShot",
+        "submission_start": "2026-10-20",
+        "submission_end": "2026-10-31",
+        "result_date": "미정",
+        "url": "https://magicshot.ai/halloween",
+        "source_type": "official_platform",
+        "discovery_source": "aside/brave",
+        "discovery_url": "https://app.magicshot.ai/community/challenges/halloween-glow-up-spooky-portrait-challenge",
+        "evidence": "MagicShot 공식 챌린지 페이지가 2026-10-20 02:30 UTC 개시, 10-31 18:29 UTC 접수 마감, 11-03 18:29 UTC 투표 마감과 심사 후 수상자 발표를 명시함. 무료 계정으로 본인·지인·반려동물 사진을 Image Editing으로 할로윈 이미지로 편집해 공개 템플릿으로 제출하며 상위 3명에게 총 100,000 크레딧을 시상함.",
+        "summary": "실제 사진을 MagicShot Image Editing으로 할로윈 콘셉트 이미지로 변환해 제출하는 글로벌 커뮤니티 챌린지.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-30T07:00:00+09:00"
       },
       {
         "title": "Kling Holiday Sparks #10 – Costume Chaos",
@@ -140,23 +174,6 @@
         "source_checked_at": "2026-10-25T07:00:00+09:00"
       },
       {
-        "title": "Todo es Prompt – AI Film Festival 2026, 2nd Edition",
-        "category": "AI 영상",
-        "country": "International / Online",
-        "organizer": "Todo es Prompt",
-        "submission_start": "2026-07-22",
-        "submission_end": "2026-10-29",
-        "result_date": "2026-11-01",
-        "url": "https://todoesprompt.com/",
-        "source_type": "official_homepage",
-        "discovery_source": "aside",
-        "discovery_url": "https://filmmakers.festhome.com/en/festival/todo-es-prompt-festival-online-de-cortometrajes-y-guiones-creados-con-inteligencia-artificial",
-        "evidence": "2026-10-26 Aside 원문 재확인: 공식 Festhome 접수 페이지가 국제 온라인 AI 영화제임을 명시하고, 연장 마감일을 2026-10-29, 통지일을 11-01, 영화제 일정을 11-06~11-12로 표시함.",
-        "summary": "AI 도구로 제작한 단편·장편 영화를 모집하는 국제 온라인 AI 영화제. 연장 마감은 10월 29일입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-10-26T07:00:00+09:00"
-      },
-      {
         "title": "PixAI × zeta Original Character Creation Contest 2026",
         "category": "AI 이미지",
         "country": "Global",
@@ -206,23 +223,6 @@
         "summary": "Picsart에서 KLING 4.0을 활용해 오리지널 마이크로드라마를 제작하는 글로벌 영상 챌린지.",
         "status": "진행중",
         "source_checked_at": "2026-10-26T07:00:00+09:00"
-      },
-      {
-        "title": "Higgsfield Weekly Challenge WCC#1 – Impossible Camera",
-        "category": "AI 영상",
-        "country": "Global / Online",
-        "organizer": "Higgsfield",
-        "submission_start": "2026-10-22",
-        "submission_end": "2026-10-29",
-        "result_date": "2026-10-30",
-        "url": "https://higgsfield.ai/contests/wcc-impossible-camera",
-        "source_type": "official_platform",
-        "discovery_source": "aside",
-        "discovery_url": "https://higgsfield.ai/community/contests",
-        "evidence": "Higgsfield 공식 콘테스트 페이지가 한국 시간 기준 2026-10-22~10-29 WCC#1 Impossible Camera를 진행 중으로 표시함. 공식 변경 기록은 모든 AI 생성을 챌린지 프로젝트 안에서 수행한 정확히 120초 가로형 연속 카메라 무브 영상을 요구하며 무료·유료 계정 모두 참가 가능하다고 명시함.",
-        "summary": "한 번의 연속 카메라 무브로 120초 이야기를 만드는 Higgsfield 공식 글로벌 주간 영화 챌린지.",
-        "status": "진행중",
-        "source_checked_at": "2026-10-24T07:05:59+09:00"
       },
       {
         "title": "AI MUSIC VIDEO WAVE 2026",
@@ -652,6 +652,40 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "Todo es Prompt – AI Film Festival 2026, 2nd Edition",
+        "category": "AI 영상",
+        "country": "International / Online",
+        "organizer": "Todo es Prompt",
+        "submission_start": "2026-07-22",
+        "submission_end": "2026-10-29",
+        "result_date": "2026-11-01",
+        "url": "https://todoesprompt.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmmakers.festhome.com/en/festival/todo-es-prompt-festival-online-de-cortometrajes-y-guiones-creados-con-inteligencia-artificial",
+        "evidence": "공식 Festhome 접수 페이지가 국제 온라인 AI 영화제임을 명시하고, 연장 마감일을 2026-10-29, 통지일을 11-01, 영화제 일정을 11-06~11-12로 표시함. 2026-10-30 기준 접수가 종료되어 결과 발표를 기다림.",
+        "summary": "AI 도구로 제작한 단편·장편 영화를 모집한 국제 온라인 AI 영화제로, 접수가 종료되어 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-10-30T07:00:00+09:00"
+      },
+      {
+        "title": "Higgsfield Weekly Challenge WCC#1 – Impossible Camera",
+        "category": "AI 영상",
+        "country": "Global / Online",
+        "organizer": "Higgsfield",
+        "submission_start": "2026-10-22",
+        "submission_end": "2026-10-29",
+        "result_date": "2026-10-30",
+        "url": "https://higgsfield.ai/contests/wcc-impossible-camera",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://higgsfield.ai/community/contests",
+        "evidence": "Higgsfield 공식 콘테스트 페이지가 한국 시간 기준 2026-10-22~10-29 WCC#1 Impossible Camera를 표시함. 모든 AI 생성을 챌린지 프로젝트 안에서 수행한 정확히 120초 가로형 연속 카메라 무브 영상을 요구했으며, 2026-10-30 기준 접수가 종료되어 결과 발표를 기다림.",
+        "summary": "한 번의 연속 카메라 무브로 120초 이야기를 만드는 Higgsfield 공식 글로벌 주간 영화 챌린지로, 접수가 종료되어 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-10-30T07:00:00+09:00"
+      },
       {
         "title": "Kling 4.0 Epic Scene Creation Challenge",
         "category": "AI 영상",
@@ -1336,7 +1370,7 @@
       }
     ]
   },
-  "change_notes": "2026-10-29: 신규 2건(ADC 106th Annual Awards – AI Filmmaking: CapCut AI, Young Ones 2027 – CapCut: Creative Use of AI)을 공식 원문 검증 후 반영함. Kling 4.0 Epic Scene Creation Challenge는 10월 28일 접수 마감이 지나 진행중에서 발표 대기로 전환함. 10월 29일 당일 마감인 Todo es Prompt, Higgsfield Weekly Challenge WCC#1은 마감 전이므로 진행중을 유지함. AI International Film Festival 2026 – December Cycle, AI Media Award 2026, Tyrannus Angel Awards 2026은 공식 수상 결과 공개를 확인하지 못해 발표 대기를 유지함.",
+  "change_notes": "2026-10-30: 신규 2건(Wandura Weekly Challenge Week 01 – The Last Stand, MagicShot Halloween Glow-Up Challenge 2026)을 공식 원문 검증 후 반영함. Todo es Prompt – AI Film Festival 2026, 2nd Edition과 Higgsfield Weekly Challenge WCC#1 – Impossible Camera는 10월 29일 접수 마감이 지나 진행중에서 발표 대기로 전환함. Curious Refuge AI Horror Film Competition 2026, Runway Weekly Challenge #2, AI International Film Festival 2026 – December Cycle, AI Media Award 2026, Tyrannus Angel Awards 2026은 정확한 에디션의 공식 수상 결과 공개를 확인하지 못해 발표 대기를 유지함.",
   "verification_pending": [
     {
       "title": "WAIFF LA USA 2026",
