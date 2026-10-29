@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-10-28T19:00:00+09:00",
+  "generated_at": "2026-10-29T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "AI를 활용한 3분 숏츠 챌린지",
+        "category": "AI 영상",
+        "organizer": "대전일자리경제진흥원",
+        "submission_start": "2026-10-12",
+        "submission_end": "2026-10-30",
+        "result_date": "미정",
+        "url": "https://www.djbea.or.kr/mps/bizTskPbnc/view?tsk_pbnc_id=2026-0162&menuKey=TOfnnvp207",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.djbea.or.kr/board?menuKey=FPR91wNXjf&bbsId=BOARD00047",
+        "evidence": "대전일자리경제진흥원 공식 공고에 AI를 활용한 2분 30초 이내 세로형 숏츠 영상과 2026.10.12~10.30 접수가 명시.",
+        "summary": "대전의 사회적경제기업 제품과 지역 브랜드, 생활 속 실천을 AI 숏츠 영상으로 알리는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-29T19:00:00+09:00"
+      },
+      {
+        "title": "AI 활용 옥외광고 간판 디자인 공모전",
+        "category": "AI 디자인",
+        "organizer": "한국지방재정공제회 한국옥외광고센터",
+        "submission_start": "2026-09-14",
+        "submission_end": "2026-11-13",
+        "result_date": "2026-11 중 예정",
+        "url": "https://xn--ai-vs1i84a86y3mi7lxqfa73b312f.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "brave",
+        "discovery_url": "https://xn--ai-vs1i84a86y3mi7lxqfa73b312f.com/info.asp",
+        "evidence": "공식 공모요강에 AI 활용 단계별 프롬프트와 이미지, 간판 디자인 시안 및 주·야간 시뮬레이션 제출과 2026.09.14~11.13 접수가 명시.",
+        "summary": "AI를 활용해 실제 현장 적용이 가능한 옥외광고 간판 디자인을 제안하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-29T19:00:00+09:00"
+      },
       {
         "title": "2026 광양시 매돌이 AI 영상 공모전 「매돌이, AI로 살아나다!」",
         "category": "AI 영상",
@@ -536,22 +568,6 @@
         "source_checked_at": "2026-10-28T19:00:00+09:00"
       },
       {
-        "title": "2026 디지털미디어테크쇼 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "고양특례시·킨텍스 / DMTS 사무국",
-        "submission_start": "2026-09-23",
-        "submission_end": "2026-10-25",
-        "result_date": "2026-10-28 예정",
-        "url": "https://www.k-dmts.com/ko/notice/115",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.k-dmts.com/ko/notice/115",
-        "evidence": "DMTS 공식 공고에 생성형 AI 활용 영상, 60초 가로형·15초 세로형 부문과 2026.09.23~10.25 23:59 접수가 명시.",
-        "summary": "디지털미디어 기술과 고양의 미래를 생성형 AI 영상으로 표현하는 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-10-26T19:00:00+09:00"
-      },
-      {
         "title": "2026 별별화성 Awards AI CF 공모전",
         "category": "AI 영상",
         "organizer": "화성특례시",
@@ -679,22 +695,6 @@
         "discovery_url": "https://www.ulsan.go.kr/u/rep/transfer/notice/46545.ulsan?mId=001004002000000000&gosiGbn=A",
         "evidence": "울산광역시 공식 고시공고에 AI영상 부문을 포함한 U잼 영상 공모전, 2026.10.01 09:00~10.16 18:00 접수와 SNS 전체공개 업로드 후 구글폼 제출이 명시.",
         "summary": "울산을 소재로 한 AI 영상 부문을 포함한 시민 영상 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-09-08T19:15:00+09:00"
-      },
-      {
-        "title": "2026 청주영상위원회 AI 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "청주시 / 청주시문화산업진흥재단 청주영상위원회",
-        "submission_start": "2026-09-21",
-        "submission_end": "2026-10-12",
-        "result_date": "2026-10-29 예정",
-        "url": "https://cjculture.org/sub.php?code=32&mode=view&no=1855&category=&page=1&search=&keyword=",
-        "source_type": "official_notice",
-        "discovery_source": "official_notice",
-        "discovery_url": "https://cjculture.org/sub.php?code=32&mode=view&no=1855&category=&page=1&search=&keyword=",
-        "evidence": "청주시문화산업진흥재단 공식 공고 및 첨부 PDF에 AI 기술을 전체 또는 일부 활용한 스토리 영상(뮤직비디오 등 장르 제한 없음), 2026.09.21~10.12 14:00 이메일 접수가 명시.",
-        "summary": "청주 지역 문화원형·촬영작 등을 소재로 AI 스토리 영상을 만드는 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-09-08T19:15:00+09:00"
       },
