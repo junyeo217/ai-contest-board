@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-10-30T19:00:00+09:00",
+  "generated_at": "2026-10-31T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [
+    "starting_today": [],
+    "ongoing": [
       {
         "title": "제2회 VIVID AI 영상 공모전 「VIVID RE:PLAY」",
         "category": "AI 영상",
@@ -16,8 +17,8 @@
         "discovery_url": "https://vivid.ing/support/notice/68?category=CONTEST",
         "evidence": "VIVID 공식 오픈 공지와 상세페이지에 제공 IP를 바탕으로 제작하는 30~120초 AI 영상, 2026.10.30~12.13 접수와 12.23 결과 발표가 명시.",
         "summary": "VIVID가 제공하는 6개 IP의 캐릭터와 이야기를 AI 영상으로 재해석하는 창작 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-10-30T19:00:00+09:00"
+        "status": "진행중",
+        "source_checked_at": "2026-10-31T19:00:00+09:00"
       },
       {
         "title": "문경시 관광 AI 영상 공모전",
@@ -32,11 +33,41 @@
         "discovery_url": "https://www.gbmg.go.kr/portal/bbs/view.do?bIdx=219209&mId=0301050000&ptIdx=70",
         "evidence": "문경시 공식 공고에 출사동이·출사둥이와 주요 관광자원을 주요 요소에 생성형 AI를 활용해 표현하는 60초(±10초) 영상, 2026.10.30~11.30 접수가 명시.",
         "summary": "문경 대표 캐릭터와 관광자원을 생성형 AI 영상으로 표현하는 전 국민 대상 공모전입니다.",
-        "status": "오늘 추가",
-        "source_checked_at": "2026-10-30T19:00:00+09:00"
-      }
-    ],
-    "ongoing": [
+        "status": "진행중",
+        "source_checked_at": "2026-10-31T19:00:00+09:00"
+      },
+      {
+        "title": "AI를 활용한 3분 숏츠 챌린지",
+        "category": "AI 영상",
+        "organizer": "대전일자리경제진흥원",
+        "submission_start": "2026-10-12",
+        "submission_end": "2026-11-13",
+        "result_date": "미정 (기존 공고 2026-11-17 예정)",
+        "url": "https://www.djbea.or.kr/mps/bizTskPbnc/view?tsk_pbnc_id=2026-0166&menuKey=TOfnnvp207",
+        "source_type": "official_notice",
+        "discovery_source": "manual",
+        "discovery_url": "https://www.djbea.or.kr/mps/bizTskPbnc/view?tsk_pbnc_id=2026-0166&menuKey=TOfnnvp207",
+        "evidence": "대전일자리경제진흥원 공식 연장공고에 AI를 활용한 2분 30초 이내 세로형 숏츠 영상과 2026.10.12~11.13 접수가 명시. 기존 공고의 11.17 발표 예정이 연장 후에도 유효한지는 미확인.",
+        "summary": "대전의 사회적경제기업 제품과 지역 브랜드, 생활 속 실천을 AI 숏츠 영상으로 알리는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-31T19:00:00+09:00"
+      },
+      {
+        "title": "제2회 잠실 미디어아트 공모전",
+        "category": "AI 영상",
+        "organizer": "서울시설공단",
+        "submission_start": "2026-10-26",
+        "submission_end": "2026-11-27",
+        "result_date": "2026-12-04 예정",
+        "url": "https://www.sisul.or.kr/open_content/undershop/bbs/bbsMsgDetail.do?bcd=notice&msg_seq=8935",
+        "source_type": "official_notice",
+        "discovery_source": "brave",
+        "discovery_url": "https://www.the-tech.co.kr/news/article.html?no=42096",
+        "evidence": "서울시설공단 공식 공고와 첨부 모집요강에 지하도상가 등 지정 키워드를 생성형 AI 기술과 창작자의 시선으로 표현하는 1~3분 MP4 미디어아트, 2026.10.26~11.27 접수가 명시.",
+        "summary": "잠실역 지하공간의 역사와 문화를 생성형 AI 미디어아트 영상으로 재해석하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-10-31T19:00:00+09:00"
+      },
       {
         "title": "2026 춘천MBC AI영상 공모전",
         "category": "AI 영상",
@@ -52,22 +83,6 @@
         "summary": "춘천·강원 지역의 이야기와 창의적 아이디어를 AI 영상으로 표현하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-10-30T19:00:00+09:00"
-      },
-      {
-        "title": "AI를 활용한 3분 숏츠 챌린지",
-        "category": "AI 영상",
-        "organizer": "대전일자리경제진흥원",
-        "submission_start": "2026-10-12",
-        "submission_end": "2026-10-30",
-        "result_date": "미정 (기존 공고 2026-11-17 예정)",
-        "url": "https://www.djbea.or.kr/mps/bizTskPbnc/view?tsk_pbnc_id=2026-0162&menuKey=TOfnnvp207",
-        "source_type": "official_notice",
-        "discovery_source": "brave",
-        "discovery_url": "https://www.djbea.or.kr/board?menuKey=FPR91wNXjf&bbsId=BOARD00047",
-        "evidence": "대전일자리경제진흥원 공식 공고에 AI를 활용한 2분 30초 이내 세로형 숏츠 영상과 2026.10.12~10.30 접수가 명시. 2026.10.29 공식 보도자료는 11.13 마감으로 안내해 일정 충돌이 있으며, 명시적 정정 공고는 확인되지 않음.",
-        "summary": "대전의 사회적경제기업 제품과 지역 브랜드, 생활 속 실천을 AI 숏츠 영상으로 알리는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-10-29T19:00:00+09:00"
       },
       {
         "title": "AI 활용 옥외광고 간판 디자인 공모전",
@@ -374,38 +389,6 @@
         "source_checked_at": "2026-10-23T19:05:00+09:00"
       },
       {
-        "title": "[BytePlus × AI-Kive] Seedance 2.5 AI 시리즈 제작지원 공모전",
-        "category": "AI 영상",
-        "organizer": "BytePlus / 스튜디오프리윌루전·AI-Kive",
-        "submission_start": "2026-10-01",
-        "submission_end": "2026-10-30",
-        "result_date": "2026-11-16 예정",
-        "url": "https://aikive.com/event/c1f47e0aa9eb45ae9e28305b65c14ce0",
-        "source_type": "official_platform",
-        "discovery_source": "brave",
-        "discovery_url": "https://aimatters.co.kr/news-report/54999/",
-        "evidence": "AI-Kive 공식 공고에 AI 영상·이미지·스토리텔링 결합 프롤로그 영상과 2026.10.01~10.30 23:59 접수가 명시.",
-        "summary": "선정된 8팀의 AI 시리즈 본편 제작을 크레딧으로 지원하는 영상 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-10-23T11:03:00+09:00"
-      },
-      {
-        "title": "2026 자선냄비 나눔 AI 영상공모전",
-        "category": "AI 영상",
-        "organizer": "구세군자선냄비본부",
-        "submission_start": "2026-10-01",
-        "submission_end": "2026-10-30",
-        "result_date": "2026-11-10 예정",
-        "url": "https://www.thesalvationarmy.or.kr/story/news/3341?uid=news&page=0&text=",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.instagram.com/p/Dd5mEZKiU5Y",
-        "evidence": "구세군 공식 공고와 첨부 요강에 생성형 AI 기반 60초 이내 가로형 영상, 2026.10.01~10.30 접수가 명시.",
-        "summary": "자선냄비의 나눔 메시지를 생성형 AI 영상으로 표현하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-10-23T11:03:00+09:00"
-      },
-      {
         "title": "뮤직비디오 제작 이벤트 「모두의 프로듀서」",
         "category": "AI 영상",
         "organizer": "과학기술정보통신부",
@@ -584,6 +567,54 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "AI 달인의 꿀팁 챌린지 시즌3",
+        "category": "AI 영상",
+        "organizer": "과학기술정보통신부 / 정보통신산업진흥원·한국정보통신기술협회",
+        "submission_start": "2026-10-14",
+        "submission_end": "2026-10-30",
+        "result_date": "2026-11-17 예정",
+        "url": "https://aichallenge4all.or.kr/competitions/master100_s3",
+        "source_type": "official_homepage",
+        "discovery_source": "manual",
+        "discovery_url": "https://aichallenge4all.or.kr/competitions/master100_s3",
+        "evidence": "전국민 AI 경진대회 공식 페이지에 일상·학업·업무·취미에서 AI를 활용한 방법과 결과를 담은 60초 이내 세로형 영상, 2026.10.14~10.30 접수와 11.17 발표가 명시.",
+        "summary": "자신만의 AI 활용 방법과 결과를 60초 이내 세로 영상으로 소개하는 시즌3 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-10-31T19:00:00+09:00"
+      },
+      {
+        "title": "[BytePlus × AI-Kive] Seedance 2.5 AI 시리즈 제작지원 공모전",
+        "category": "AI 영상",
+        "organizer": "BytePlus / 스튜디오프리윌루전·AI-Kive",
+        "submission_start": "2026-10-01",
+        "submission_end": "2026-10-30",
+        "result_date": "2026-11-16 예정",
+        "url": "https://aikive.com/event/c1f47e0aa9eb45ae9e28305b65c14ce0",
+        "source_type": "official_platform",
+        "discovery_source": "brave",
+        "discovery_url": "https://aimatters.co.kr/news-report/54999/",
+        "evidence": "AI-Kive 공식 공고에 AI 영상·이미지·스토리텔링 결합 프롤로그 영상과 2026.10.01~10.30 23:59 접수가 명시.",
+        "summary": "선정된 8팀의 AI 시리즈 본편 제작을 크레딧으로 지원하는 영상 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-10-31T19:00:00+09:00"
+      },
+      {
+        "title": "2026 자선냄비 나눔 AI 영상공모전",
+        "category": "AI 영상",
+        "organizer": "구세군자선냄비본부",
+        "submission_start": "2026-10-01",
+        "submission_end": "2026-10-30",
+        "result_date": "2026-11-10 예정",
+        "url": "https://www.thesalvationarmy.or.kr/story/news/3341?uid=news&page=0&text=",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.instagram.com/p/Dd5mEZKiU5Y",
+        "evidence": "구세군 공식 공고와 첨부 요강에 생성형 AI 기반 60초 이내 가로형 영상, 2026.10.01~10.30 접수가 명시.",
+        "summary": "자선냄비의 나눔 메시지를 생성형 AI 영상으로 표현하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-10-31T19:00:00+09:00"
+      },
       {
         "title": "2026년 제15회 도로경관디자인 대전",
         "category": "AI 디자인",
