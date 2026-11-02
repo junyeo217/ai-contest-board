@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-11-01T19:00:00+09:00",
+  "generated_at": "2026-11-02T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [],
+    "starting_today": [
+      {
+        "title": "2026 제주 청소년 AI 리터러시 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "제주콘텐츠진흥원",
+        "submission_start": "2026-11-02",
+        "submission_end": "2026-11-20",
+        "result_date": "2026-12 초 예정",
+        "url": "https://www.ofjeju.kr/communication/notifications/notice.htm?act=view&page=1&seq=2073863",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.code-c.kr/newsroom/1503",
+        "evidence": "제주콘텐츠진흥원 공식 공고와 첨부 요강에 생성형 AI의 답변·이미지·영상에 대한 비판적 수용과 책임 있는 활용을 주제로 한 2분 내외 영상, 2026.11.02~11.20 16:00 접수가 명시.",
+        "summary": "제주 청소년이 AI 정보를 비판적으로 이해하고 책임 있게 활용하는 방법을 2분 내외 영상으로 표현하는 공모전입니다.",
+        "status": "오늘 추가",
+        "source_checked_at": "2026-11-02T19:00:00+09:00"
+      }
+    ],
     "ongoing": [
+      {
+        "title": "하나온 청년온 2026 해방촌 신흥시장 AI 콘텐츠 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "하나금융그룹·해방촌 신흥시장 / 전통시장육성재단",
+        "submission_start": "2026-10-19",
+        "submission_end": "2026-11-02",
+        "result_date": "2026-11-06 예정",
+        "url": "https://www.instagram.com/p/DetY7vHCRRI/",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.code-c.kr/newsroom/1498",
+        "evidence": "공식 인스타그램 공고에 AI로 새롭게 상상한 해방촌 신흥시장을 AI 이미지·영상 또는 AI 기술을 결합한 콘텐츠로 제작해 2026.10.19~11.02 자정까지 게시한다고 명시.",
+        "summary": "AI 이미지·영상으로 해방촌 신흥시장의 새로운 모습을 상상해 개인 인스타그램에 공개하는 콘텐츠 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-02T19:00:00+09:00"
+      },
+      {
+        "title": "글로벌 AI IDOL 어워드 2026 사전 쇼케이스",
+        "category": "AI 영상",
+        "organizer": "이파크AI·한국AI마케팅연구소",
+        "submission_start": "2026-10-25",
+        "submission_end": "2026-11-25",
+        "result_date": "2026-12-11 쇼케이스 선정 / 2026-12-17 시상 예정",
+        "url": "https://korea.svaiff.com/idol",
+        "source_type": "official_homepage",
+        "discovery_source": "manual",
+        "discovery_url": "https://korea.svaiff.com/news?post=notice-1022",
+        "evidence": "공식 요강에 AI 캐릭터 IP와 3~6분 퍼포먼스 영상·음원을 제출하고 캐릭터·세계관, 퍼포먼스·영상, AI 활용·창작 과정을 심사한다고 명시.",
+        "summary": "AI 캐릭터의 세계관과 음악, 퍼포먼스 영상을 결합해 글로벌 AI 아이돌을 선발하는 사전 쇼케이스입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-02T19:00:00+09:00"
+      },
       {
         "title": "제2회 VIVID AI 영상 공모전 「VIVID RE:PLAY」",
         "category": "AI 영상",
@@ -183,18 +232,18 @@
       {
         "title": "SVAIFF AI FILM FESTIVAL 2026 KOREA 출품 공모",
         "category": "AI 영상",
-        "organizer": "이파크AI·한국AI마케팅연구소 / 실리콘밸리AI코리아조직위원회·엠빅",
-        "submission_start": "2026-10-15",
+        "organizer": "이파크AI·한국AI마케팅연구소",
+        "submission_start": "2026-10-25",
         "submission_end": "2026-11-25",
-        "result_date": "2026-12-17 시상 예정",
-        "url": "https://www.newswire.co.kr/newsRead.php?no=1044681",
-        "source_type": "reference_link",
-        "discovery_source": "brave",
-        "discovery_url": "https://www.newswire.co.kr/newsRead.php?no=1044681",
-        "evidence": "주최 측 배포 안내에 생성형 AI로 제작한 극영화·애니메이션·다큐멘터리·광고·뮤직비디오 등 영상 부문과 2026.10.15~11.25 접수가 명시.",
+        "result_date": "2026-12 초 후보 연락 / 2026-12-17 최종 결과",
+        "url": "https://korea.svaiff.com/film",
+        "source_type": "official_homepage",
+        "discovery_source": "manual",
+        "discovery_url": "https://korea.svaiff.com/news?post=notice-1022",
+        "evidence": "현재 공식 요강에 AI 영화·애니메이션·다큐멘터리·광고·뮤직비디오 등 영상 부문, 2026.10.25~11.25 23:59:59 KST 접수와 12.17 최종 결과 발표가 명시.",
         "summary": "생성형 AI 영화와 영상 작품을 모집하고 주요 수상작의 실리콘밸리 글로벌 결선 연계를 추진하는 한국 지역 영화제입니다.",
         "status": "진행중",
-        "source_checked_at": "2026-10-26T19:00:00+09:00"
+        "source_checked_at": "2026-11-02T19:00:00+09:00"
       },
       {
         "title": "PixAI × zeta 자캐 창작 콘테스트 2026",
@@ -1385,22 +1434,6 @@
         "discovery_url": "https://bipa.kr/board/business/view?seq=85305",
         "evidence": "부산정보산업진흥원 사업공고와 참고 공고에 생성형 AI로 만든 1분 이내 영상 또는 이미지 분야, 접수 2026.08.13~08.28 12:00 및 결과 발표 2026.09.04가 명시.",
         "summary": "해양수도 부산을 주제로 생성형 AI 영상 또는 이미지를 제작하는 부산 시민 대상 콘텐츠 공모전입니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-08-29T19:00:00+09:00"
-      },
-      {
-        "title": "제21회 생물다양성 세밀화 및 인공지능(AI) 이미지 공모전",
-        "category": "AI 이미지",
-        "organizer": "국립생물자원관",
-        "submission_start": "2026-05-22",
-        "submission_end": "2026-08-28",
-        "result_date": "2026-10 중순 예정",
-        "url": "http://www.제21회생물다양성공모전.com",
-        "source_type": "official_homepage",
-        "discovery_source": "tavily",
-        "discovery_url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156762922",
-        "evidence": "정책브리핑/국립생물자원관 보도자료 기준 인공지능 이미지 분야 신설, 생성형 언어모델로 자유롭게 제작한 인공지능 이미지 응모 명시.",
-        "summary": "생물다양성을 주제로 세밀화와 생성형 AI 이미지를 모집하는 전 국민 대상 공모전입니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-08-29T19:00:00+09:00"
       },
