@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T07:00:00+09:00",
+  "generated_at": "2026-11-05T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -35,7 +35,25 @@
     "platform_scope_mode": "always_on"
   },
   "sections": {
-    "starting_today": [],
+    "starting_today": [
+      {
+        "title": "Higgsfield WCC#3 – The Whole Scene",
+        "category": "AI 영상",
+        "country": "Global / Online",
+        "organizer": "Higgsfield",
+        "submission_start": "2026-11-05",
+        "submission_end": "2026-11-11",
+        "result_date": "2026-11-12",
+        "url": "https://higgsfield.ai/contests/wcc-the-whole-scene",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://higgsfield.ai/contests/wcc-the-whole-scene",
+        "evidence": "Higgsfield 공식 챌린지 화면이 2026-11-05 02:00 KST 접수 시작, 11-11 02:00 KST 심사 전환, 11-12 02:00 KST 수상 발표를 명시함. 하나의 마스터 테이크에서 최소 12개 숏을 구성한 정확히 120초 가로형 영화와 Higgsfield 내 AI 이미지·영상 생성을 요구하며 총 100,000 credits를 시상함.",
+        "summary": "하나의 마스터 테이크를 최소 12개 숏으로 재구성해 정확히 120초 영화를 만드는 Higgsfield 글로벌 주간 챌린지.",
+        "status": "오늘 시작",
+        "source_checked_at": "2026-11-05T07:00:00+09:00"
+      }
+    ],
     "ongoing": [
       {
         "title": "PixAI Halloween Contest 2026 – A Night at Higan Inn",
@@ -206,40 +224,6 @@
         "summary": "전 세계 창작자의 30~60초 AI 광고 또는 단편영화를 모집하는 애틀랜타 기반 국제 페스티벌.",
         "status": "진행중",
         "source_checked_at": "2026-10-25T07:00:00+09:00"
-      },
-      {
-        "title": "PixAI × zeta Original Character Creation Contest 2026",
-        "category": "AI 이미지",
-        "country": "Global",
-        "organizer": "PixAI × zeta",
-        "submission_start": "2026-10-23",
-        "submission_end": "2026-11-04",
-        "result_date": "미정",
-        "url": "https://pixai.art/contest/pixai-zeta-oc",
-        "source_type": "official_platform",
-        "discovery_source": "aside",
-        "discovery_url": "https://pixai.art/contest/pixai-zeta-oc",
-        "evidence": "PixAI 공식 페이지가 2026-10-23~11-04 일정, 오리지널 캐릭터 일러스트 제출과 36,000,000 크레딧 상금 풀을 명시함.",
-        "summary": "PixAI에서 오리지널 캐릭터 일러스트를 제작·제출하는 PixAI×zeta 공식 글로벌 콘테스트.",
-        "status": "진행중",
-        "source_checked_at": "2026-10-24T07:05:59+09:00"
-      },
-      {
-        "title": "VIC AI Awards 2026",
-        "category": "AI 이미지·영상",
-        "country": "Australia / International",
-        "organizer": "VIC AI Boom / VIC AI Awards",
-        "submission_start": "2026-08-20",
-        "submission_end": "2026-11-04",
-        "result_date": "2026-11-06 통지 예정 · 11/13 수상 발표",
-        "url": "https://filmfreeway.com/VICAIAwards",
-        "source_type": "official_apply_page",
-        "discovery_source": "aside",
-        "discovery_url": "https://filmfreeway.com/VICAIAwards",
-        "evidence": "2026-10-26 Aside로 공식 FilmFreeway 원문을 재확인해 2026-08-20 개시, 11-04 Late Deadline, 11-06 Notification, 11-13 Melbourne 행사·수상 발표와 전 세계 창작자 출품 가능 안내를 확인함. 기존 10-20 마감 정보는 최신 공식 일정으로 보정함.",
-        "summary": "전 세계 AI 창작자의 이미지·애니메이션·단편·광고·AI 뮤직비디오를 모집하는 멜버른 시상식. 연장 마감은 11월 4일입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-10-26T07:00:00+09:00"
       },
       {
         "title": "Uzumasa JidAI Short Film Competition 2026",
@@ -686,21 +670,38 @@
     ],
     "awaiting_results": [
       {
-        "title": "Higgsfield Weekly Challenge WCC#2 – The Place You Know",
-        "category": "AI 영상",
-        "country": "Global / Online",
-        "organizer": "Higgsfield",
-        "submission_start": "2026-10-29",
+        "title": "PixAI × zeta Original Character Creation Contest 2026",
+        "category": "AI 이미지",
+        "country": "Global",
+        "organizer": "PixAI × zeta",
+        "submission_start": "2026-10-23",
         "submission_end": "2026-11-04",
-        "result_date": "2026-11-05",
-        "url": "https://higgsfield.ai/contests/wcc-the-place-you-know",
+        "result_date": "미정",
+        "url": "https://blog.pixai.art/en/pixai-zeta-collaboration-event-rules",
         "source_type": "official_platform",
         "discovery_source": "aside",
-        "discovery_url": "https://higgsfield.ai/contests/wcc-the-place-you-know?tab=rules",
-        "evidence": "Higgsfield 공식 규칙과 브라우저 타임라인이 전 세계 참가자의 접수를 2026-11-03 17:00 UTC(한국시간 11-04 02:00)에 마감하고, 결과를 11-04 17:00 UTC(한국시간 11-05 02:00)에 발표한다고 명시함. Cinema Studio로 제작한 정확히 120초 호러 영상을 요구함.",
-        "summary": "익숙한 실제 장소를 Higgsfield video-to-video로 호러 공간으로 변환한 120초 영화 챌린지로, 결과 발표를 기다립니다.",
+        "discovery_url": "https://pixai.art/contest/pixai-zeta-oc",
+        "evidence": "PixAI 공식 규정이 2026-10-23 15:00~11-04 23:59 KST 접수와 오리지널 캐릭터 일러스트·캐릭터 카드·X 공유 트랙, 심사 후 공식 공지에 따른 수상자 보상 절차를 명시함. 접수 종료 후 실제 수상 결과는 아직 확인되지 않음.",
+        "summary": "PixAI와 zeta에서 오리지널 캐릭터를 제작한 글로벌 콘테스트로, 접수가 종료되어 결과 발표를 기다립니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-11-04T07:00:00+09:00"
+        "source_checked_at": "2026-11-05T07:00:00+09:00"
+      },
+      {
+        "title": "VIC AI Awards 2026",
+        "category": "AI 이미지·영상",
+        "country": "Australia / International",
+        "organizer": "VIC AI Boom / VIC AI Awards",
+        "submission_start": "2026-08-20",
+        "submission_end": "2026-11-04",
+        "result_date": "2026-11-06 통지 예정 · 11/13 수상 발표",
+        "url": "https://filmfreeway.com/VICAIAwards",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/VICAIAwards",
+        "evidence": "공식 FilmFreeway 일정이 2026-08-20 개시, 11-04 Late Deadline, 11-06 Notification, 11-13 Melbourne 행사·수상 발표와 전 세계 창작자 출품 가능을 명시함. 11월 5일 기준 접수 마감 후 실제 후보·수상 결과는 아직 확인되지 않음.",
+        "summary": "전 세계 AI 이미지·애니메이션·단편·광고·AI 뮤직비디오를 모집한 멜버른 시상식으로, 접수가 종료되어 후보·수상 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-05T07:00:00+09:00"
       },
       {
         "title": "Wandura Weekly Challenge Week 01 – The Last Stand",
@@ -1523,7 +1524,7 @@
       }
     ]
   },
-  "change_notes": "2026-11-03: 신규 1건(PixAI Halloween Contest 2026 – A Night at Higan Inn)을 PixAI 공식 원문과 Aside·Brave 교차검증 후 반영함. Runway Weekly Challenge #3 – The Great Escape, Picsart × KLING 4.0 Microdrama Challenge, AI Creativity Awards 2026, The Search for the World’s Catchiest Ad – ElevenCreative는 공식 마감 시각이 한국시간 11월 3일 07:00 이전에 경과해 진행중에서 발표 대기로 전환함. Wandura Weekly Challenge Week 01 – The Last Stand는 2026-11-02 23:59 UTC, Kling Holiday Sparks #10 – Costume Chaos는 2026-11-03 07:59:59 UTC-8, AI MUSIC VIDEO WAVE 2026은 2026-11-03 23:59 JST 마감이므로 실행 시각 기준 진행중을 유지함. Runway Weekly Challenge #2 – The Unexpected Guest는 공식 수상 결과가 공개되어 관리 대상에서 제외함. 기존 PixAI Recipe Creation Contest 2026과 PixAI Tsubaki.3 Creation Contest는 공식 결과 페이지에서 단일 공모전 PixAI Tsubaki.3 Creation Contest: Create with Recipes로 확인되어 중복 기록을 정리하고, 수상 결과 공개에 따라 두 항목 모두 관리 대상에서 제외함. 기존 발표 예정 항목 중 실제 결과 원문을 확인하지 못한 항목은 발표 대기를 유지함.",
+  "change_notes": "2026-11-05: 신규 1건(Higgsfield WCC#3 – The Whole Scene)을 Higgsfield 공식 챌린지 화면으로 검증해 오늘 시작 섹션에 반영함. PixAI × zeta Original Character Creation Contest 2026과 VIC AI Awards 2026은 2026-11-04 접수 마감에 따라 진행중에서 발표 대기로 전환함. Higgsfield Weekly Challenge WCC#2 – The Place You Know는 공식 챌린지 페이지에서 1~3위와 Honorable Mentions 5편의 실제 수상 결과가 공개되어 관리 대상에서 제외함. Wandura Drama Challenge 2026은 공식 1~3위 결과가 공개됐지만 Audience Favorite 집계가 11월 8일까지 남아 발표 대기를 유지함. AICU Create Release – AiCuty Autumn of Art Contest, Todo es Prompt – AI Film Festival 2026, LifeArt AI Global Film Festival 2026은 해당 회차의 실제 최종 수상 결과를 확정하지 못해 발표 대기를 유지함. AI Film Festival Africa 2026은 공식 원문의 접수 시작일이 월 단위로만 확인되어 신규 반영을 보류함.",
   "verification_pending": [
     {
       "title": "WAIFF LA USA 2026",
