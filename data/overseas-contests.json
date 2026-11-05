@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:00:00+09:00",
+  "generated_at": "2026-11-06T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -35,25 +35,7 @@
     "platform_scope_mode": "always_on"
   },
   "sections": {
-    "starting_today": [
-      {
-        "title": "Higgsfield WCC#3 – The Whole Scene",
-        "category": "AI 영상",
-        "country": "Global / Online",
-        "organizer": "Higgsfield",
-        "submission_start": "2026-11-05",
-        "submission_end": "2026-11-11",
-        "result_date": "2026-11-12",
-        "url": "https://higgsfield.ai/contests/wcc-the-whole-scene",
-        "source_type": "official_platform",
-        "discovery_source": "aside",
-        "discovery_url": "https://higgsfield.ai/contests/wcc-the-whole-scene",
-        "evidence": "Higgsfield 공식 챌린지 화면이 2026-11-05 02:00 KST 접수 시작, 11-11 02:00 KST 심사 전환, 11-12 02:00 KST 수상 발표를 명시함. 하나의 마스터 테이크에서 최소 12개 숏을 구성한 정확히 120초 가로형 영화와 Higgsfield 내 AI 이미지·영상 생성을 요구하며 총 100,000 credits를 시상함.",
-        "summary": "하나의 마스터 테이크를 최소 12개 숏으로 재구성해 정확히 120초 영화를 만드는 Higgsfield 글로벌 주간 챌린지.",
-        "status": "오늘 시작",
-        "source_checked_at": "2026-11-05T07:00:00+09:00"
-      }
-    ],
+    "starting_today": [],
     "ongoing": [
       {
         "title": "PixAI Halloween Contest 2026 – A Night at Higan Inn",
@@ -71,6 +53,108 @@
         "summary": "요괴와 핼러윈 몬스터가 모이는 Higan Inn을 주제로 PixAI 일러스트·만화·애니메이션을 모집하는 온라인 공모전.",
         "status": "진행중",
         "source_checked_at": "2026-11-03T07:00:00+09:00"
+      },
+      {
+        "title": "Higgsfield WCC#3 – The Whole Scene",
+        "category": "AI 영상",
+        "country": "Global / Online",
+        "organizer": "Higgsfield",
+        "submission_start": "2026-11-05",
+        "submission_end": "2026-11-11",
+        "result_date": "2026-11-12",
+        "url": "https://higgsfield.ai/contests/wcc-the-whole-scene",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://higgsfield.ai/contests/wcc-the-whole-scene",
+        "evidence": "Higgsfield 공식 챌린지 화면이 2026-11-05 02:00 KST 접수 시작, 11-11 02:00 KST 심사 전환, 11-12 02:00 KST 수상 발표를 명시함. 하나의 마스터 테이크에서 최소 12개 숏을 구성한 정확히 120초 가로형 영화와 Higgsfield 내 AI 이미지·영상 생성을 요구하며 총 100,000 credits를 시상함.",
+        "summary": "하나의 마스터 테이크를 최소 12개 숏으로 재구성해 정확히 120초 영화를 만드는 Higgsfield 글로벌 주간 챌린지.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-06T07:00:00+09:00"
+      },
+      {
+        "title": "Fairground Animation Imagination 2026",
+        "category": "AI 영상",
+        "country": "Global / Online",
+        "organizer": "Fairground Entertainment / CapCut",
+        "submission_start": "2026-11-04",
+        "submission_end": "2026-11-19",
+        "result_date": "2026-12-04 파이널리스트 · 2026-12-10 수상 발표",
+        "url": "https://fairground.tv/creator/fairground-animation-imagination",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://fairground.tv/creator/contest-terms-and-conditions",
+        "evidence": "Fairground 공식 캠페인·규정이 전 세계 18세 이상 창작자를 대상으로 Family Friendly Stories, Saturday Morning Cartoons, Past Your Bedtime의 AI 애니메이션 부문과 CapCut 특별상을 운영한다고 명시함. 캠페인 페이지의 12-01 안내와 공식 규정의 11-19 23:59 PT 마감이 충돌해 보수적으로 공식 규정의 빠른 날짜를 적용했으며, 12-04 파이널리스트와 12-10 수상 발표 일정을 확인함.",
+        "summary": "세 가지 테마의 AI 애니메이션과 CapCut 특별상을 모집하는 Fairground 글로벌 온라인 공모전.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-06T07:00:00+09:00"
+      },
+      {
+        "title": "Cascade Greenlight Competition 2026",
+        "category": "AI 영상",
+        "country": "Global / Online",
+        "organizer": "Cascade Holdings Limited",
+        "submission_start": "2026-10-13",
+        "submission_end": "2026-12-15",
+        "result_date": "2027-02 초",
+        "url": "https://cascadestudio.ai/competition",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://cascadestudio.ai/terms-submission",
+        "evidence": "Cascade 공식 공모 페이지와 제출 약관이 2026-10-13 18:00~12-15 23:59 GST 접수, 국제 성인 참가와 2027년 2월 초 결과 발표를 명시함. 1~5분 16:9 티저·트레일러·파일럿의 모든 영상 숏을 Cascade에서 생성해야 하며 외부 편집은 허용됨. 공식 약관의 국가·제재지역 제외 조건을 적용함.",
+        "summary": "Cascade에서 모든 영상 숏을 생성해 장편 이야기의 1~5분 티저·트레일러·파일럿을 제작하는 국제 공모전.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-06T07:00:00+09:00"
+      },
+      {
+        "title": "さばえeスポーツDAY AIイラストコンテスト 2026",
+        "category": "AI 이미지",
+        "country": "Japan",
+        "organizer": "さばえeスポーツDAY実行委員会",
+        "submission_start": "2026-10-02",
+        "submission_end": "2026-11-06",
+        "result_date": "2026-11-20",
+        "url": "https://aicompe.com/contests/sabae-ai-illustration-contest-2026",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://aicompe.com/contests/sabae-ai-illustration-contest-2026",
+        "evidence": "공식 공모 페이지가 일본 전국 참가자를 대상으로 2026-10-02~11-06 접수와 11-20 결과 발표를 명시함. 사바에시와 e스포츠의 새로운 세계관을 생성형 AI로 표현한 세로 4:5 일러스트를 최대 3점까지 모집함.",
+        "summary": "사바에시와 e스포츠의 새로운 세계관을 생성형 AI 일러스트로 표현하는 일본 공모전.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-06T07:00:00+09:00"
+      },
+      {
+        "title": "Melbourne AI Film Festival 2026",
+        "category": "AI 영상",
+        "country": "Australia / International",
+        "organizer": "Melbourne AI Film Festival",
+        "submission_start": "2026-06-29",
+        "submission_end": "2026-11-29",
+        "result_date": "2026-12-12 행사·시상",
+        "url": "https://maiff.com.au/submit",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://maiff.com.au/submit",
+        "evidence": "Melbourne AI Film Festival 공식 제출 페이지가 전 세계 18세 이상 참가, 2026-06-29 접수 시작, 11-08 정규 마감과 11-29 최종 마감, 12-12 멜버른 행사·시상을 명시함. 1~12분 내러티브·다큐멘터리·애니메이션에 AI 생성 요소를 요구하며 하이브리드 제작도 허용함. 페이지의 10-17 통지 표기는 후속 마감보다 앞서 일정 불일치가 있어 결과일로 사용하지 않음.",
+        "summary": "AI 생성 요소를 활용한 1~12분 내러티브·다큐멘터리·애니메이션을 전 세계에서 모집하는 멜버른 영화제.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-06T07:00:00+09:00"
+      },
+      {
+        "title": "UK Film AI Awards 2027",
+        "category": "AI 영상",
+        "country": "United Kingdom / International",
+        "organizer": "UK Film Network",
+        "submission_start": "2026-09-01",
+        "submission_end": "2027-04-21",
+        "result_date": "2027-04-30 통지 · 2027-05-23 시상",
+        "url": "https://ukfilm.ai/",
+        "source_type": "official_homepage",
+        "discovery_source": "aside",
+        "discovery_url": "https://ukfilm.ai/",
+        "evidence": "UK Film AI 공식 페이지가 국제 참가자를 대상으로 2026-09-01 접수 시작, 2026-11-30 조기 마감, 2027-04-21 최종 마감, 04-30 선정 통지와 05-23 시상 상영을 명시함. AI가 의미 있는 창작 역할을 한 완전 AI 또는 하이브리드 영화를 모집함. 런타임 안내가 페이지 내에서 상충해 세부 길이는 제출 전 공식 규정 재확인이 필요함.",
+        "summary": "AI가 의미 있는 창작 역할을 한 완전 AI·하이브리드 영화를 국제적으로 모집하는 영국 영화 시상식.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-06T07:00:00+09:00"
       },
       {
         "title": "第2回 My Style vintage 生成AIコンテスト 2026『秋』",
@@ -156,23 +240,6 @@
         "summary": "전 세계 창작자의 7분 미만 AI 단편을 모집하는 토론토 국제 AI 영화제.",
         "status": "진행중",
         "source_checked_at": "2026-11-04T07:00:00+09:00"
-      },
-      {
-        "title": "PixAI Manga Contest 2026",
-        "category": "AI 이미지",
-        "country": "Japan / International",
-        "organizer": "PixAI",
-        "submission_start": "2026-10-22",
-        "submission_end": "2026-11-05",
-        "result_date": "2026-12-25",
-        "url": "https://pixai.art/manga-contest",
-        "source_type": "official_platform",
-        "discovery_source": "aside",
-        "discovery_url": "https://blog.pixai.art/en/pixai-manga-contest-2026-applications-now-open",
-        "evidence": "PixAI 공식 공고와 접수 페이지가 2026-10-22~11-05 23:59 JST 신청, 영어 또는 일본어 16~48쪽 오리지널 원샷 만화, Tsubaki.3 주 사용 요건과 12-25 결과 발표를 명시함.",
-        "summary": "Tsubaki.3를 주 도구로 영어 또는 일본어 오리지널 원샷 만화를 제작하는 PixAI 공식 공모전.",
-        "status": "진행중",
-        "source_checked_at": "2026-10-28T07:00:00+09:00"
       },
       {
         "title": "ADC 106th Annual Awards – AI Filmmaking: CapCut AI",
@@ -275,23 +342,6 @@
         "summary": "Adobe Firefly로 AI 패션 이미지 또는 영상을 제작하는 공식 지역 한정 챌린지.",
         "status": "진행중",
         "source_checked_at": "2026-11-01T07:00:00+09:00"
-      },
-      {
-        "title": "I’Mpossible Film Festival 2026 – The Unfilmable Edition",
-        "category": "AI 영상",
-        "country": "International",
-        "organizer": "I’Mpossible Film Festival",
-        "submission_start": "2026-07-01",
-        "submission_end": "2026-11-05",
-        "result_date": "2026-11-24 공식 선정 · 2026-12-12 수상 발표",
-        "url": "https://impossiblefilmfest.com/",
-        "source_type": "official_homepage",
-        "discovery_source": "aside",
-        "discovery_url": "https://impossiblefilmfest.com/",
-        "evidence": "I’Mpossible Film Festival 공식 홈페이지가 국제 온라인 출품을 대상으로 2026-07-01 접수 시작, 11-05 최종 연장 마감, 11-24 공식 선정작 발표, 12-12 수상 발표를 명시함. AI가 창작 과정에서 의미 있게 사용된 마이크로필름·단편·다큐멘터리 재구성·실험·뮤직비디오 등을 모집하고 제작 과정 공개와 권리·동의를 요구함.",
-        "summary": "AI를 의미 있게 활용한 마이크로필름·단편·실험·뮤직비디오를 국제 온라인으로 모집하는 I’Mpossible Film Festival.",
-        "status": "진행중",
-        "source_checked_at": "2026-11-02T07:00:00+09:00"
       },
       {
         "title": "AI Film Award 2027 – 1 Billion Followers Summit",
@@ -669,6 +719,40 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "PixAI Manga Contest 2026",
+        "category": "AI 이미지",
+        "country": "Japan / International",
+        "organizer": "PixAI",
+        "submission_start": "2026-10-22",
+        "submission_end": "2026-11-05",
+        "result_date": "2026-12-25",
+        "url": "https://pixai.art/manga-contest",
+        "source_type": "official_platform",
+        "discovery_source": "aside/brave",
+        "discovery_url": "https://blog.pixai.art/en/pixai-manga-contest-2026-applications-now-open",
+        "evidence": "PixAI 공식 공고와 접수 페이지가 2026-10-22~11-05 23:59 JST 신청, 영어 또는 일본어 16~48쪽 오리지널 원샷 만화, Tsubaki.3 주 사용 요건과 12-25 결과 발표를 명시함. 11월 6일 기준 실제 수상 결과는 아직 확인되지 않음.",
+        "summary": "Tsubaki.3로 제작한 영어 또는 일본어 오리지널 원샷 만화 공모전으로, 접수가 종료되어 결과 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-06T07:00:00+09:00"
+      },
+      {
+        "title": "I’Mpossible Film Festival 2026 – The Unfilmable Edition",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "I’Mpossible Film Festival",
+        "submission_start": "2026-07-01",
+        "submission_end": "2026-11-05",
+        "result_date": "2026-11-24 공식 선정 · 2026-12-12 수상 발표",
+        "url": "https://impossiblefilmfest.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "aside/brave",
+        "discovery_url": "https://impossiblefilmfest.com/",
+        "evidence": "I’Mpossible Film Festival 공식 홈페이지가 국제 온라인 출품을 대상으로 2026-07-01 접수 시작, 11-05 최종 연장 마감, 11-24 공식 선정작 발표, 12-12 수상 발표를 명시함. AI가 창작 과정에서 의미 있게 사용된 마이크로필름·단편·다큐멘터리 재구성·실험·뮤직비디오 등을 모집하며, 11월 6일 기준 공식 선정·수상 결과는 아직 공개되지 않음.",
+        "summary": "AI를 의미 있게 활용한 국제 온라인 영화제로, 접수가 종료되어 공식 선정과 수상 발표를 기다립니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-06T07:00:00+09:00"
+      },
       {
         "title": "PixAI × zeta Original Character Creation Contest 2026",
         "category": "AI 이미지",
@@ -1097,7 +1181,7 @@
       },
       {
         "title": "Slamdance 2027 – DIG AI-driven Film & Music",
-        "category": "AI 영상·음악",
+        "category": "AI 영상",
         "country": "United States",
         "organizer": "Slamdance",
         "submission_start": "2026-05-18",
@@ -1183,7 +1267,7 @@
       },
       {
         "title": "AI International Music Video Festival 2026 – September Submission",
-        "category": "AI 영상·음악",
+        "category": "AI 영상",
         "country": "United States / International",
         "organizer": "The AI Project / AI International Music Video Festival",
         "submission_start": "2026-09-02",
@@ -1235,7 +1319,7 @@
       },
       {
         "title": "AI Media Award 2026",
-        "category": "AI 영상·음악",
+        "category": "AI 영상",
         "country": "International",
         "organizer": "SSIA Smile Swiss Influence Award / AI Media Agency",
         "submission_start": "2026-03-28",
@@ -1524,7 +1608,7 @@
       }
     ]
   },
-  "change_notes": "2026-11-05: 신규 1건(Higgsfield WCC#3 – The Whole Scene)을 Higgsfield 공식 챌린지 화면으로 검증해 오늘 시작 섹션에 반영함. PixAI × zeta Original Character Creation Contest 2026과 VIC AI Awards 2026은 2026-11-04 접수 마감에 따라 진행중에서 발표 대기로 전환함. Higgsfield Weekly Challenge WCC#2 – The Place You Know는 공식 챌린지 페이지에서 1~3위와 Honorable Mentions 5편의 실제 수상 결과가 공개되어 관리 대상에서 제외함. Wandura Drama Challenge 2026은 공식 1~3위 결과가 공개됐지만 Audience Favorite 집계가 11월 8일까지 남아 발표 대기를 유지함. AICU Create Release – AiCuty Autumn of Art Contest, Todo es Prompt – AI Film Festival 2026, LifeArt AI Global Film Festival 2026은 해당 회차의 실제 최종 수상 결과를 확정하지 못해 발표 대기를 유지함. AI Film Festival Africa 2026은 공식 원문의 접수 시작일이 월 단위로만 확인되어 신규 반영을 보류함.",
+  "change_notes": "2026-11-06: 신규 5건(Fairground Animation Imagination 2026, Cascade Greenlight Competition 2026, さばえeスポーツDAY AIイラストコンテスト 2026, Melbourne AI Film Festival 2026, UK Film AI Awards 2027)을 공식 공모 페이지·규정으로 검증해 진행중 섹션에 반영함. Fairground는 캠페인 페이지와 공식 규정의 마감일이 충돌해 공식 규정의 더 빠른 2026-11-19를 보수적으로 적용함. Melbourne AI Film Festival은 통지일과 후속 마감의 일정 불일치를 근거에 명시하고 최종 마감·행사일만 적용함. Higgsfield WCC#3 – The Whole Scene은 접수 시작일이 지난 뒤에도 11월 11일까지 접수 중이므로 오늘 시작에서 진행중으로 상태를 보정함. PixAI Manga Contest 2026과 I’Mpossible Film Festival 2026 – The Unfilmable Edition은 2026-11-05 접수 마감에 따라 진행중에서 발표 대기로 전환함. Slamdance 2027 – DIG AI-driven Film & Music, AI International Music Video Festival 2026 – September Submission, AI Media Award 2026의 비허용 카테고리 `AI 영상·음악`을 UI 필터와 정책에 맞는 `AI 영상`으로 보정함. Runway Weekly Challenge #3 – The Great Escape, Picsart × KLING 4.0 Microdrama Challenge, VIC AI Awards 2026, AICU Create Release – AiCuty Autumn of Art Contest는 예정된 발표일 또는 심사 단계에 도달했으나 실제 공식 수상 결과를 확인하지 못해 발표 대기를 유지함. Aside·Tavily·Brave로 국가별·글로벌·플랫폼별 공모전을 재조사함. AGRI VISION 2036은 11월 10일 접수 시작 예정이라 오늘 보드 분류에는 반영하지 않았고, Digital & AI Art Prize는 정확한 접수 시작일이 없어 보류함.",
   "verification_pending": [
     {
       "title": "WAIFF LA USA 2026",
