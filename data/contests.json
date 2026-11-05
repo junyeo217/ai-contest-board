@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-11-04T19:00:00+09:00",
+  "generated_at": "2026-11-05T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
     "ongoing": [
+      {
+        "title": "제1회 CLIIP AI 웹툰 영상화 공모전",
+        "category": "AI 영상",
+        "organizer": "시원아트·CLIIP",
+        "submission_start": "2026-11-03",
+        "submission_end": "2026-12-05",
+        "result_date": "2026-12 중 예정",
+        "url": "https://www.designdb.com/index.html?act=view&bbsno=69707&keyword=&menuno=700&page=1&siteno=15&ztag=rO0ABXQAPjxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNTczIiBza2luPSJibnNfZXhoaWJpdGlvbl8yMDE5Ij48L2NhbGw%2B",
+        "source_type": "reference_link",
+        "discovery_source": "manual",
+        "discovery_url": "https://www.designdb.com/index.html?act=view&bbsno=69707&keyword=&menuno=700&page=1&siteno=15&ztag=rO0ABXQAPjxjYWxsIHR5cGU9ImJvYXJkIiBubz0iNTczIiBza2luPSJibnNfZXhoaWJpdGlvbl8yMDE5Ij48L2NhbGw%2B",
+        "evidence": "한국디자인진흥원 디자인DB 공모전 안내에 웹툰 원작·캐릭터·스토리를 활용한 AI 애니메이션, 모션코믹, 뮤직비디오, 숏폼 드라마와 2026.11.03~12.05 접수가 명시.",
+        "summary": "웹툰 원작이나 창작 캐릭터·스토리를 생성형 AI 애니메이션, 모션코믹, 뮤직비디오 또는 숏폼 드라마로 영상화하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-05T19:00:00+09:00"
+      },
+      {
+        "title": "2026년 여성폭력 추방주간 기념 AI 콘텐츠 공모전",
+        "category": "AI 이미지·영상",
+        "organizer": "여성긴급전화1366 세종센터",
+        "submission_start": "2026-10-29",
+        "submission_end": "2026-11-20",
+        "result_date": "미정",
+        "url": "https://kcmf.or.kr/KCMF/contents/KCMF050909.do?schM=view&id=20261031115417857677&schBcid=gyeonggiTTTfree",
+        "source_type": "reference_link",
+        "discovery_source": "tavily",
+        "discovery_url": "https://kcmf.or.kr/KCMF/contents/KCMF050909.do?schM=view&id=20261031115417857677&schBcid=gyeonggiTTTfree",
+        "evidence": "공개 공고문에 생성형 AI로 여성폭력 예방·근절 메시지를 표현한 60초 이내 영상 또는 포스터·웹툰·카드뉴스 이미지와 2026.10.29~11.20 접수가 명시.",
+        "summary": "생성형 AI로 여성폭력 예방과 인식 개선 메시지를 담은 영상 또는 이미지 콘텐츠를 모집하는 공모전입니다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-05T19:00:00+09:00"
+      },
       {
         "title": "부산 동구 AI 숏폼 영상 공모전",
         "category": "AI 영상",
@@ -293,22 +325,6 @@
         "source_checked_at": "2026-11-02T19:00:00+09:00"
       },
       {
-        "title": "PixAI × zeta 자캐 창작 콘테스트 2026",
-        "category": "AI 디자인",
-        "organizer": "PixAI·zeta",
-        "submission_start": "2026-10-23",
-        "submission_end": "2026-11-04",
-        "result_date": "미정",
-        "url": "https://pixai.art/contest/pixai-zeta-oc",
-        "source_type": "official_platform",
-        "discovery_source": "tavily",
-        "discovery_url": "https://crowlly.xyz/competitions/pixai-zeta-oc-creation-contest-2026",
-        "evidence": "PixAI 공식 상세 규칙에 2026.10.23 15:00~11.04 23:59(KST) 일정과 AI로 오리지널 캐릭터 일러스트 1장을 제작하는 창작 트랙이 명시.",
-        "summary": "PixAI에서 AI 캐릭터 일러스트를 만들고 zeta에서 성격과 세계관을 더하는 공동 창작 콘테스트입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-10-25T19:00:00+09:00"
-      },
-      {
         "title": "노량진수산시장 AI 숏폼 영상 공모전",
         "category": "AI 영상",
         "organizer": "동서울대학교·수협 노량진수산(주)",
@@ -567,6 +583,22 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "PixAI × zeta 자캐 창작 콘테스트 2026",
+        "category": "AI 디자인",
+        "organizer": "PixAI·zeta",
+        "submission_start": "2026-10-23",
+        "submission_end": "2026-11-04",
+        "result_date": "미정",
+        "url": "https://pixai.art/contest/pixai-zeta-oc",
+        "source_type": "official_platform",
+        "discovery_source": "tavily",
+        "discovery_url": "https://crowlly.xyz/competitions/pixai-zeta-oc-creation-contest-2026",
+        "evidence": "PixAI 공식 상세 규칙에 2026.10.23 15:00~11.04 23:59(KST) 일정과 AI로 오리지널 캐릭터 일러스트 1장을 제작하는 창작 트랙이 명시.",
+        "summary": "PixAI에서 AI 캐릭터 일러스트를 만들고 zeta에서 성격과 세계관을 더하는 공동 창작 콘테스트입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-05T19:00:00+09:00"
+      },
       {
         "title": "하나온 청년온 2026 해방촌 신흥시장 AI 콘텐츠 공모전",
         "category": "AI 이미지·영상",
