@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T01:19:00+09:00",
+  "generated_at": "2026-11-16T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -801,9 +801,77 @@
         "summary": "생성형 AI로 농가와 AI가 협업하는 2036년 농업을 그리는 국제 영상 공모전.",
         "status": "진행중",
         "source_checked_at": "2026-11-16T01:19:00+09:00"
+      },
+      {
+        "title": "ROBOT CARNIVAL AI Film Contest 2026",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "AiHUB株式会社 / Creators' Wonderland",
+        "submission_start": "2026-08-29",
+        "submission_end": "2026-11-30",
+        "result_date": "2027-01 예정 · 2027-01-17 상영·시상",
+        "url": "https://www.creators-wonderland.com/robot-carnival/index.html?lang=ja",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://www.creators-wonderland.com/robot-carnival/index.html?lang=ja",
+        "evidence": "공식 모집요강과 약관은 거주지와 무관한 13세 이상 개인·팀을 대상으로 2026-08-29부터 11-30 23:59 JST까지 AI 기술을 활용한 오리지널 SF 영상(쇼트 90초 이하, 롱 20분 이하)을 무료 모집한다고 명시함. 2027-01-17 상영·시상식 예정.",
+        "summary": "AI·로보틱스와 인류의 공생을 주제로 오리지널 SF 영상을 모집하는 국제 공모전.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-16T07:00:00+09:00"
+      },
+      {
+        "title": "DPIFF 2027 – Best AI Short Film",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "Dadasaheb Phalke International Film Festival",
+        "submission_start": "2026-01-10",
+        "submission_end": "2026-12-31",
+        "result_date": "2027-02-10 선정 통지 · 시상식 발표",
+        "url": "https://dpiff.in/short-film/best-ai-short-film-award-2027-submit-your-ai-film-to-dpiff/",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://dpiff.in/nomination/",
+        "evidence": "DPIFF 공식 안내와 접수 FAQ가 전 세계 참가자의 1~40분 AI 단편을 모집하며 2026-11-30 정규 마감, 12-31 최종 마감, 2027-02-10 선정 통지를 명시함. AI 도구와 기여 수준 공개를 요구함.",
+        "summary": "전 세계 AI 스토리텔러의 1~40분 AI 단편을 모집하는 DPIFF 2027 공식 부문.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-16T07:00:00+09:00"
+      },
+      {
+        "title": "AI FilmFest Málaga 2027",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "AI Filmfest / IndeeHub × Bitfilm",
+        "submission_start": "2026-10-01",
+        "submission_end": "2026-12-01",
+        "result_date": "2027-02-15 선정 통지",
+        "url": "https://aifilmfest.net/",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://indeehub.studio/ai-filmfest",
+        "evidence": "AI Filmfest 공식 홈페이지·규정·지정 접수 페이지가 국제 AI 영화제의 극영화·다큐·실험영상·뮤직비디오를 2026-10-01~12-01 무료 모집한다고 명시함. 주최자 접수 페이지는 2027-02-15 선정 통지를 안내함.",
+        "summary": "AI로 만든 극영화·다큐·실험영상·뮤직비디오를 무료 모집하는 국제 영화제.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-16T07:00:00+09:00"
       }
     ],
     "awaiting_results": [
+      {
+        "title": "8th Hainan Island International Film Festival – AI Film Season",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "HIIFF Organizing Committee",
+        "submission_start": "2026-10-21",
+        "submission_end": "2026-11-15",
+        "result_date": "2026-11 중하순 선정 · 2026-12 초 시상",
+        "url": "https://www.hiiff.net/en/news/20261022-01",
+        "source_type": "official_notice",
+        "discovery_source": "aside",
+        "discovery_url": "http://www.liblib.tv/hiiff-aifilmseason",
+        "evidence": "HIIFF 공식 본부와 지정 모집 원문은 전 세계 창작자의 AI 장편·시리즈·단편·실험영상을 2026-10-21부터 11-15 23:59 중국시간까지 모집하고 11월 중하순 선정작 공개와 12월 초 행사를 명시함. 2026-11-16 07:00 KST 기준 접수 종료 후 결과 미발표 상태임.",
+        "summary": "제8회 HIIFF가 전 세계 AI 장편·시리즈·단편·실험영상을 모집한 공식 AI Film Season.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-16T07:00:00+09:00"
+      },
       {
         "title": "NadouPro × Vidu AI Challenge – Extraordinary Happens Here",
         "category": "AI 영상",
@@ -1126,23 +1194,6 @@
         "summary": "생성형 AI로 제작한 3분 이내 뮤직비디오 온라인 공모전으로, 결과 발표를 기다립니다.",
         "status": "발표 대기",
         "source_checked_at": "2026-11-04T07:00:00+09:00"
-      },
-      {
-        "title": "Runway Weekly Challenge #3 – The Great Escape",
-        "category": "AI 영상",
-        "country": "Global / Online",
-        "organizer": "Runway",
-        "submission_start": "2026-10-27",
-        "submission_end": "2026-11-02",
-        "result_date": "2026-11-06",
-        "url": "https://www.reddit.com/r/runwayml/comments/1xgs1dn/weekly_challenge_3_the_great_escape/",
-        "source_type": "official_platform",
-        "discovery_source": "aside",
-        "discovery_url": "https://www.reddit.com/r/runwayml/comments/1xgs1dn/weekly_challenge_3_the_great_escape/",
-        "evidence": "Runway 공식 커뮤니티 모더레이터 공지가 2026-10-27 개시, 11-02 12:00 EST(한국시간 11-03 02:00) 접수 마감, 11-06 투표 마감·수상자 발표를 명시함. Runway로 제작한 15~30초 AI 영상과 50,000 Runway credits 시상을 확인함.",
-        "summary": "대담하거나 예상 밖의 탈출 장면을 15~30초 Runway 영상으로 제작한 글로벌 온라인 주간 챌린지로, 결과 발표를 기다립니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-11-03T07:00:00+09:00"
       },
       {
         "title": "AI Creativity Awards 2026",
@@ -1607,23 +1658,6 @@
         "source_checked_at": "2026-09-06T07:00:00+09:00"
       },
       {
-        "title": "Adobe MAX 2026 Creativity Awards",
-        "category": "AI 디자인",
-        "country": "International",
-        "organizer": "Adobe",
-        "submission_start": "2026-06-09",
-        "submission_end": "2026-08-24",
-        "result_date": "2026-11-10",
-        "url": "https://max.adobe.com/creativity-awards/",
-        "source_type": "official_notice",
-        "discovery_source": "brave",
-        "discovery_url": "https://blog.adobe.com/en/publish/2026/06/18/adobe-max-2026-creativity-awards-here-are-categories-and-how-to-submit",
-        "evidence": "Adobe MAX Creativity Awards 공식 페이지에서 2026년 접수가 2026-06-09에 열리고 2026-08-24 23:59 PT에 마감된다고 확인함. Design, Image Making, Motion, Photography, Video 카테고리로 Adobe 도구 기반 창작 프로젝트를 접수하며, 공식 페이지는 honorees의 MAX 패스·항공·숙박 및 Adobe 플랫폼 공유 혜택을 안내함.",
-        "summary": "Adobe MAX 2026에서 Design, Image Making, Motion, Video 등 Adobe 도구 기반 창작 프로젝트를 모집한 국제 공모. 접수 마감 후 11월 10일 결과 발표를 기다립니다.",
-        "status": "발표 대기",
-        "source_checked_at": "2026-08-25T07:00:00+09:00"
-      },
-      {
         "title": "Austin AI Film Festival 2026",
         "category": "AI 영상",
         "country": "United States",
@@ -1829,6 +1863,6 @@
       }
     ]
   },
-  "change_notes": "2026-11-16: 신규 8건(Higgsfield Talent Contest 2026, Runway Weekly Challenge #4 – Out of Place, The HeyGen Video Contest 2026, PixVerse TVC Challenge Series – The Advent Reveal, Jade Lens Awards 2026 – ZenCreator × Seedance, AIボツ作品の逆襲 Vol.1, 第1回 AI年賀状グランプリ2027, AGRI VISION 2036)을 공식 주최·플랫폼 원문으로 검증해 진행중 섹션에 반영함. NadouPro × Vidu AI Challenge – Extraordinary Happens Here, TopMediai AI Dance MV Challenge 2026, The AI in Anime 2026, PixAI Halloween Contest 2026 – A Night at Higan Inn, Uzumasa JidAI Short Film Competition 2026, International AI Short Film Festival 2026, Wandura Weekly Challenge Week 02 – The Knock, Wandura Cinematic Ads Challenge – Round 1 등 8건은 접수 종료에 따라 진행중에서 발표 대기로 전환함. AI NEW YORK AWARDS 2026과 Atlanta AI Ad Fest 2026은 미국 현지 11월 15일 마감 시각 전이어서 진행중 상태를 유지함. Higgsfield WCC#3 – The Whole Scene과 Kling 4.0 Epic Scene Creation Challenge는 공식 페이지에서 수상 결과가 확인되어 관리 대상에서 제외함. AGRI VISION 2036은 초기 안내의 11월 10일과 달리 현행 공식 접수 페이지가 11월 9일 개시를 명시해 현행 날짜를 적용함. Aside·Tavily·Brave로 지정 국가·글로벌·플랫폼 공모전을 조사했으며 Runway·Higgsfield·HeyGen·MiniMax 연계·PixVerse·Seedance 신규 현행 공모전을 공식 원문으로 확인함. OiiOii × Kling 4.0 The Journey는 공식 상세 규정이 로그인 뒤에 있어 참가 범위와 시간대를 충분히 검증하지 못해 제외함.",
+  "change_notes": "2026-11-16 07:00: 신규 4건(ROBOT CARNIVAL AI Film Contest 2026, DPIFF 2027 – Best AI Short Film, AI FilmFest Málaga 2027, 8th Hainan Island International Film Festival – AI Film Season)을 공식 원문으로 검증해 반영함. 이 중 Hainan AI Film Season은 2026-11-16 00:59 KST 접수 종료를 확인해 발표 대기에 반영함. Runway Weekly Challenge #3 – The Great Escape와 Adobe MAX 2026 Creativity Awards는 공식 수상 결과가 확인되어 관리 대상에서 제외함. 앞선 01:19 갱신의 신규 8건과 상태 전환 8건은 유지함. AI FUSION FES 2026 WINTER는 해외 참가 범위 미기재, WAICF India 2027은 기존 JIFF World AI Cinema Competition과 중복 가능성, AI Film Festival Africa와 NEXTALE Award는 정확한 접수 시작일 미기재, Higgsfield Discord 300K와 Vidu 상품광고 챌린지는 공개 일정 충돌·미확정으로 편입을 보류함. AI NEW YORK AWARDS 2026과 Atlanta AI Ad Fest 2026은 07:00 KST에도 미국 현지 11월 15일 마감 가능 시간이 남아 진행중 상태를 유지함. Aside·Tavily·Brave로 지정 국가·글로벌·19개 시드 플랫폼 및 일반 공모를 조사함.",
   "verification_pending": []
 }
