@@ -2,6 +2,7 @@ import hashlib
 import os
 import json
 import re
+import shutil
 import subprocess
 import tempfile
 import unittest
@@ -20,10 +21,6 @@ PAGES = {
         "fetch": "../data/overseas-contests.json",
         "data": ROOT / "data" / "overseas-contests.json",
     },
-}
-EXPECTED_DATA_HASHES = {
-    "contests.json": "45cfbfb0d287359e2c764cd4da7b7c4bae6bcb815700a7c51abba0e68cac138e",
-    "overseas-contests.json": "eb1c56d021d5633678432f1c78a87758f735feaf8b94955c3894e2d650e82523",
 }
 
 
@@ -49,8 +46,38 @@ def fnv1a_js(value):
 
 
 class ProductionMigrationTests(unittest.TestCase):
-    def test_source_json_matches_reviewed_snapshot(self):
-        for name, expected in EXPECTED_DATA_HASHES.items():
+    @classmethod
+    def setUpClass(cls):
+        # Build only in an isolated fixture; daily validation must never dirty
+        # the checkout that will be committed by the data-only cron.
+        global ROOT, PAGES, BOARD_DATE
+        source_root = Path(__file__).resolve().parents[1]
+        temporary = tempfile.TemporaryDirectory(prefix="contest-board-tests-")
+        cls.addClassCleanup(temporary.cleanup)
+        ROOT = Path(temporary.name)
+        for name in ("build.mjs", "template.json"):
+            shutil.copy2(source_root / name, ROOT / name)
+        shutil.copytree(source_root / "data", ROOT / "data")
+        PAGES = {
+            ROOT / page.relative_to(source_root): {
+                **config, "data": ROOT / config["data"].relative_to(source_root)
+            }
+            for page, config in PAGES.items()
+        }
+        cls.source_hashes = {
+            name: hashlib.sha256((ROOT / "data" / name).read_bytes()).hexdigest()
+            for name in ("contests.json", "overseas-contests.json")
+        }
+        BOARD_DATE = max(
+            json.loads(read(ROOT / "data" / name))["generated_at"][:10]
+            for name in cls.source_hashes
+        )
+        subprocess.run(["node", "build.mjs"], cwd=ROOT, check=True,
+                       capture_output=True, text=True,
+                       env={**os.environ, "BOARD_DATE": BOARD_DATE})
+
+    def test_build_preserves_source_json(self):
+        for name, expected in self.source_hashes.items():
             actual = hashlib.sha256((ROOT / "data" / name).read_bytes()).hexdigest()
             self.assertEqual(actual, expected)
 
@@ -142,21 +169,25 @@ class ProductionMigrationTests(unittest.TestCase):
     def test_stable_anchor_uses_title_and_submission_end(self):
         for page, config in PAGES.items():
             data = json.loads(read(config["data"]))
-            first = next(
+            first = next((
                 item
                 for values in data["sections"].values()
                 for item in values
                 if not (re.fullmatch(r"\d{4}-\d{2}-\d{2}", (item.get("submission_start") or "")) and item["submission_start"] > BOARD_DATE)
                 and not (re.fullmatch(r"\d{4}-\d{2}-\d{2}", (item.get("submission_end") or "")) and item["submission_end"] < BOARD_DATE)
-            )
+            ), None)
+            if first is None:
+                self.assertNotIn('<article class="entry"', read(page))
+                continue
             expected = "contest-" + fnv1a_js(first["title"] + "|" + first["submission_end"])
             self.assertIn(f'id="{expected}"', read(page))
 
     def test_sitemap_and_robot_scope(self):
         sitemap = read(ROOT / "sitemap.xml")
         self.assertEqual(sitemap.count("<url>"), 2)
-        self.assertIn("<loc>https://junyeo217.github.io/ai-contest-board/</loc><lastmod>2026-10-02</lastmod>", sitemap)
-        self.assertIn("<loc>https://junyeo217.github.io/ai-contest-board/overseas/</loc><lastmod>2026-10-02</lastmod>", sitemap)
+        for config in PAGES.values():
+            modified = json.loads(read(config["data"]))["generated_at"][:10]
+            self.assertIn(f'<loc>{config["canonical"]}</loc><lastmod>{modified}</lastmod>', sitemap)
         self.assertEqual(sitemap.count("<lastmod>"), 2)
         self.assertFalse((ROOT / "robots.txt").exists())
 
