@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T07:00:00+09:00",
+  "generated_at": "2026-11-22T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -129,15 +129,15 @@
         "organizer": "Veritas AI Film Festival",
         "submission_start": "2026-02-20",
         "submission_end": "2026-11-30",
-        "result_date": "2026-12-31",
+        "result_date": "2026-12-31 통지 · 2027-02-20 행사",
         "url": "https://filmfreeway.com/VeritasAIFF",
         "source_type": "official_apply_page",
         "discovery_source": "aside",
         "discovery_url": "https://filmfreeway.com/VeritasAIFF",
-        "evidence": "공식 FilmFreeway 접수 페이지가 2026-02-20 개시, 11-30 마감, 12-31 선정 통지와 2027-02-20 토론토 행사를 명시함. 전 세계 영화인을 대상으로 7분 미만 AI 단편을 모든 장르에서 모집함.",
+        "evidence": "공식 FilmFreeway 접수 페이지가 2026-02-20 개시, 11-30 마감, 12-31 선정 통지와 2027-02-20 토론토 행사를 명시함. 전 세계 영화인을 대상으로 7분 미만 AI 단편을 모든 장르에서 모집함. (2026-11-22 갱신: FilmFreeway 공식 페이지(2026-11-22 확인)의 날짜표에서 'November 30, 2026 Regular Deadline', 'December 31, 2026 Notification Date', 'February 20, 2027 Event Date'를 확인했다. 기존 마감 2026-11-30은 맞고, 결과 날짜만 보완한다.)",
         "summary": "전 세계 창작자의 7분 미만 AI 단편을 모집하는 토론토 국제 AI 영화제.",
         "status": "진행중",
-        "source_checked_at": "2026-11-04T07:00:00+09:00"
+        "source_checked_at": "2026-11-22T07:26:00+09:00"
       },
       {
         "title": "AI Art Championship 2026",
@@ -701,6 +701,23 @@
         "source_checked_at": "2026-06-28T07:00:00+09:00"
       },
       {
+        "title": "CNAIFF New-Vision AI Film Week (Call for AI Films)",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "CNAIFF",
+        "submission_start": "2026-11-01",
+        "submission_end": "2027-01-25",
+        "result_date": "미기재",
+        "url": "https://www.cnaiff.com/en/index.html",
+        "source_type": "official_homepage",
+        "discovery_source": "aside",
+        "discovery_url": "https://www.cnaiff.com/en/index.html",
+        "evidence": "공식 홈페이지(2026-11-22 확인)에 'Submission period 2026.11.01 — 2027.01.25, Open worldwide, UTC+8'과 'Call for AI Films Worldwide'가 있다. 공식 뉴스룸(2026-11-01)에는 7개 부문, 15초~12분, 편당 ¥199 참가비가 표기되어 있다. 시상 발표 시점은 '각 제출 주기 후 발표'라고만 되어 있다.",
+        "summary": "전 세계 AI 영상 작품을 2027년 1월 25일(UTC+8)까지 모집하는 공모로, 편당 참가비는 ¥199이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-22T07:26:00+09:00"
+      },
+      {
         "title": "Indywood International AI Cinefest 2027",
         "category": "AI 영상",
         "country": "International (주최 India, 공식 페이지 worldwide 표기)",
@@ -1070,15 +1087,15 @@
         "organizer": "IASFF Collective",
         "submission_start": "2026-07-10",
         "submission_end": "2026-11-10",
-        "result_date": "2026-11-25",
+        "result_date": "2026-12-08 선정 통지 (Festhome Notification date)",
         "url": "https://filmmakers.festhome.com/en/festival/10485",
         "source_type": "official_apply_page",
         "discovery_source": "aside/tavily",
         "discovery_url": "https://filmmakers.festhome.com/en/festival/10485",
-        "evidence": "공식 Festhome 접수 페이지가 전 세계 참가자를 위한 International Competition에서 생성형 AI와 인간 창작의 협업을 활용한 내러티브·실험 단편을 모집하며 2026-07-10 개시, 11-10 연장 마감, 11-25 통지, 12-08~15 온라인 상영 일정을 명시함. 2026-11-16 기준 접수가 종료되어 공식 결과를 기다리는 상태임.",
+        "evidence": "공식 Festhome 접수 페이지가 전 세계 참가자를 위한 International Competition에서 생성형 AI와 인간 창작의 협업을 활용한 내러티브·실험 단편을 모집하며 2026-07-10 개시, 11-10 연장 마감, 11-25 통지, 12-08~15 온라인 상영 일정을 명시함. 2026-11-16 기준 접수가 종료되어 공식 결과를 기다리는 상태임. (2026-11-22 갱신: Festhome 공식 페이지(2026-11-22 확인)에 'Late deadline 10 Nov 2026', 'Festival closed 25 Nov 2026', 'Notification date 08 Dec 2026'가 표기되어 있다. 기존 result_date 2026-11-25는 'Festival closed' 날짜를 결과 날짜로 잘못 옮긴 것으로 보인다.)",
         "summary": "생성형 AI와 인간 창작의 협업으로 만든 단편·실험영화를 전 세계에서 모집하는 온라인 국제 영화제.",
         "status": "발표 대기",
-        "source_checked_at": "2026-11-16T01:19:00+09:00"
+        "source_checked_at": "2026-11-22T07:26:00+09:00"
       },
       {
         "title": "Wandura Weekly Challenge Week 02 – The Knock",
@@ -1989,6 +2006,6 @@
       }
     ]
   },
-  "change_notes": "2026-11-21 07:00: 신규 6건(Runway AI Festival 2027 (AIF) Film Track, Hollywood AI Short Film Awards 2027 (HASFA), Global AI Music Video Awards 2027 (GAIMVA), Indywood International AI Cinefest 2027, Kling Image 4.0 8K Creative Challenge, Zopia x Vidu 2nd Creation Challenge (Vidu Cinematic)), 변경 12건(AI NEW YORK AWARDS 2026, Reimagine: 5th AI-ARTS Competition 2026, Fairground Animation Imagination 2026, AI Film Award 2027 – 1 Billion Followers Summit, World AI Cinema Competition – JIFF 2027, Atlanta AI Ad Fest 2026, TopMediai AI Dance MV Challenge 2026, Wandura Weekly Challenge Week 02 – The Knock, PAIFF Prague AI Film Festival 2026, Adobe Firefly AI Fashion Lab Challenge, AI M0V1E Film Festival 2026, Graphis AI Creative Awards 2026), 결과 확인 6건(PixAI Halloween Contest 2026 – A Night at Higan Inn, さばえeスポーツDAY AIイラストコンテスト 2026, PixAI × zeta Original Character Creation Contest 2026, AI MUSIC VIDEO WAVE 2026, The Search for the World’s Catchiest Ad – ElevenCreative, NEXT ART AI 2026), 섹션 이동 8건. Cue Christmas ’26(11-20 11:59 PM ET), M.AI International(11-20 FilmFreeway) 등은 KST 날짜 기준으로 발표 대기로 옮겼으며 현지 시각으로는 아직 접수 중일 수 있음. AI Film Festival Africa·AI CINEMA Montreal은 접수 시작일 미기재, CapCut Marketing Skill Challenge는 기간 불일치로 보류. Flick·Veritas·Young Ones CapCut·AI for the Future Festival은 공식 페이지 내 마감 표기 충돌로 기존 값 유지.",
+  "change_notes": "2026-11-22 07:00: 신규 1건(CNAIFF New-Vision AI Film Week (Call for AI Films)), 변경 2건(International AI Short Film Festival 2026, Veritas AI Film Festival 2027), 결과 확인 0건, 섹션 이동 0건. Montreal AI Indie Festival(2027-01-04 마감)은 참가비 미확인·접수 시작일 근거 부족, London AI-Qualified Festival은 시작일 근거 없음으로 보류. NEXTALE Award·Kyoto AI Film Festival·ReelFlix AI Series는 접수 시작일 미기재(Kyoto·ReelFlix는 공식 원문 미확인)로 제외. AI Los Angeles IFF·AI Movie Awards는 다음 에디션 일정이라 기존 레코드에 반영 안 함. Sapporo International AI Film Festival은 2026-12 접수 개시 예정이라 제외.",
   "verification_pending": []
 }
