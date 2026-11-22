@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:00:00+09:00",
+  "generated_at": "2026-11-22T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -261,6 +261,22 @@
         "source_checked_at": "2026-11-21T19:26:00+09:00"
       },
       {
+        "title": "2026 AI 달인의 꿀팁 챌린지 시즌4",
+        "category": "AI 콘텐츠",
+        "organizer": "과학기술정보통신부",
+        "submission_start": "2026-11-02",
+        "submission_end": "2026-11-30",
+        "result_date": "수상자 선정 발표: 2026. 12. 10.(목)",
+        "url": "https://aichallenge4all.or.kr/competitions/master100_s4",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://ai-radar.kr/contests",
+        "evidence": "공식 시즌4 페이지에 '접수기간: 2026. 11. 02.(월) ~ 11. 30.(월)'과 '수상자 선정 발표: 2026. 12. 10.(목)'이 적혀 있다. 60초 이내 세로형 숏폼으로 AI 활용 꿀팁을 제출하는 방식이다. 주최 표기는 집계 사이트 기준이며 공식 페이지의 주최 문구는 확인하지 못했다.",
+        "summary": "AI 활용 노하우를 60초 이내 세로형 숏폼으로 제출하는 챌린지이며, 접수는 11월 30일까지다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-22T19:15:00+09:00"
+      },
+      {
         "title": "서울 로컬브랜드 AI 기반 콘텐츠 마케팅 공모전",
         "category": "AI 영상",
         "organizer": "명지전문대학 앵커사업단",
@@ -309,6 +325,22 @@
         "source_checked_at": "2026-10-30T19:00:00+09:00"
       },
       {
+        "title": "2026 밀양아리랑대축제 AI 포스터 공모전",
+        "category": "AI 이미지",
+        "organizer": "밀양시",
+        "submission_start": "2026-11-16",
+        "submission_end": "2026-12-11",
+        "result_date": "2026. 12. 18.(금) 예정",
+        "url": "https://www.miryang.go.kr/web/bbs/selectNoticeDetail.do?mnNo=20901000000&owd=&bbsId=BBSMSTR_000000000077&nttId=200431&searchCnd=&searchWrd=&pageIndex=1",
+        "source_type": "official_notice",
+        "discovery_source": "aside",
+        "discovery_url": "https://ai-radar.kr/contests",
+        "evidence": "밀양시 공식 공고에서 '생성형 AI를 활용해 축제 홍보 포스터 이미지를 제작'하라고 확인했다. 접수기간은 2026. 11. 16.(월)~12. 11.(금) 18:00까지, 결과발표는 2026. 12. 18.(금) 예정이라고 적혀 있다. 집계 사이트의 12/10 표기보다 공식 공고 값을 썼다.",
+        "summary": "생성형 AI로 밀양아리랑대축제 홍보 포스터 이미지를 만드는 공모전이며, 접수는 12월 11일 18시까지다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-22T19:15:00+09:00"
+      },
+      {
         "title": "제2회 VIVID AI 영상 공모전 「VIVID RE:PLAY」",
         "category": "AI 영상",
         "organizer": "ARKAIN / VIVID",
@@ -323,6 +355,22 @@
         "summary": "VIVID가 제공하는 6개 IP의 캐릭터와 이야기를 AI 영상으로 재해석하는 창작 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-10-31T19:00:00+09:00"
+      },
+      {
+        "title": "제6회 플라이하이 AI 패션 디자인 고교 콘테스트",
+        "category": "AI 디자인",
+        "organizer": "라사라패션교육개발",
+        "submission_start": "2026-10-01",
+        "submission_end": "2026-12-23",
+        "result_date": "수상자 발표: 2027년 1월 22일(금)",
+        "url": "https://www.rasara61.com/제6회-플라이하이-ai-패션-디자인-고교-콘테스트/",
+        "source_type": "official_homepage",
+        "discovery_source": "aside",
+        "discovery_url": "https://ai-radar.kr/contests",
+        "evidence": "공식 페이지에 '접수 기간: 2026년 10월 1일(목)~12월 23일(수) 23:59'와 '수상자 발표: 2027년 1월 22일(금)'이 적혀 있다. 심사 기준에 '생성형 AI 활용의 적절성과 독창성'이 있어 생성형 AI 사용이 허용된다.",
+        "summary": "패션 콘셉트와 디자인에 생성형 AI를 활용해 출품하는 고교 대상 콘테스트이며, 접수는 12월 23일 23시 59분까지다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-22T19:15:00+09:00"
       },
       {
         "title": "2026 SCENE AI·실사 숏드라마 공모전",
