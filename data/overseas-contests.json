@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T07:00:00+09:00",
+  "generated_at": "2026-11-23T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,23 +37,6 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "AI NEW YORK AWARDS 2026",
-        "category": "AI 영상",
-        "country": "United States / International",
-        "organizer": "AI NEW YORK AWARDS",
-        "submission_start": "2026-08-02",
-        "submission_end": "2026-11-22",
-        "result_date": "2026-11-30 시상 (통지일 미기재)",
-        "url": "https://filmfreeway.com/ainyfestival",
-        "source_type": "official_apply_page",
-        "discovery_source": "aside",
-        "discovery_url": "https://filmfreeway.com/ainyfestival",
-        "evidence": "주최 측 공식 FilmFreeway 접수 페이지가 2026-08-02 개시, 11-15 연장 마감, 11-22 통지, 11-30 뉴욕 시상을 명시함. 30초~25분 AI 영화·뮤직비디오·광고와 AI 제작 워크플로 관련 부문을 국제적으로 모집함. (2026-11-21 갱신: https://filmfreeway.com/ainyfestival 에 Late Deadline 2026-11-17, Extended Deadline 2026-11-22, 행사 2026-11-30이 표기되어 있다. 순수 AI 이미지 시퀀스에 음악만 얹은 작품은 받지 않는다고 명시되어 있다.)",
-        "summary": "AI 영화·뮤직비디오·광고와 창작 워크플로 작품을 모집하는 뉴욕 국제 시상식.",
-        "status": "진행중",
-        "source_checked_at": "2026-11-21T07:24:00+09:00"
-      },
       {
         "title": "第2回 My Style vintage 生成AIコンテスト 2026『秋』",
         "category": "AI 이미지·영상",
@@ -274,6 +257,23 @@
         "summary": "AI·로보틱스와 인류의 공생을 주제로 오리지널 SF 영상을 모집하는 국제 공모전.",
         "status": "진행중",
         "source_checked_at": "2026-11-16T07:00:00+09:00"
+      },
+      {
+        "title": "Hailuo Creative Fest #1 Horror Film Contest",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "MiniMax (HailuoAI)",
+        "submission_start": "2026-11-07",
+        "submission_end": "2026-11-30",
+        "result_date": "2026-12-10",
+        "url": "https://hailuo-creative-fest.space.minimax.io/",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://aicallsheet.com/",
+        "evidence": "Hailuo Creative Fest 공식 페이지에서 Submission Nov 7 - Nov 30, Winners Announcement Dec 10을 확인했다(마감 시간대 미기재). 공개 SNS 게시(#HailuoHorror, @HailuoAI), HailuoAI 워터마크, HailuoAI 주 사용이 조건이며 상금은 크레딧(Gold 20,000 등)이다.",
+        "summary": "HailuoAI로 만든 10초~2분 호러 단편을 공개 SNS 게시 후 제출하는 무료 크레딧 공모전이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-23T07:13:00+09:00"
       },
       {
         "title": "Fairground Animation Imagination 2026",
@@ -582,6 +582,40 @@
         "source_checked_at": "2026-10-23T10:58:11+09:00"
       },
       {
+        "title": "Midnight Premiere (OmniRogue Cinema Studio Film Contest)",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "OmniRogue Inc.",
+        "submission_start": "2026-11-02",
+        "submission_end": "2026-12-20",
+        "result_date": "2026-12-31 (자정 ET 우승작 발표 및 프리미어)",
+        "url": "https://omnirogue.com/contest",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://aifc.news/",
+        "evidence": "omnirogue.com/contest 공식 페이지에서 Entries open Nov 2, Entries close Dec 20(US Eastern), Dec 31 midnight ET 프리미어를 확인했다. 참가 무료 표기이나 유료 플랜을 우승자 발표까지 유지해야 하며, 모든 샷은 크레딧으로 생성되어야 한다(무료 생성분 불인정).",
+        "summary": "OmniRogue Cinema Studio로 만든 1분 이상 AI 영화 중 자정 장면이 들어간 작품을 모집하는 글로벌 공모전이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-23T07:13:00+09:00"
+      },
+      {
+        "title": "MetaMorph × TapNow AI Film Competition Winter Edition",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "MetaMorph × TapNow",
+        "submission_start": "2026-10-30",
+        "submission_end": "2026-12-30",
+        "result_date": "미기재",
+        "url": "https://app.tapnow.ai/event/72",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://aifilmcontests.com/topics/ai-film-contests-closing-december-2026",
+        "evidence": "app.tapnow.ai/event/72에서 Submissions 10.30.2026 - 12.30.2026 23:59(시간대 미기재)를 확인했다. 상금은 Winner £500 + 20,000 Tapies, Runner-Up 10,000 Tapies이며, Winners announced 칸에는 날짜가 없다. 참가비 무료 여부와 TapNow 생성 비율 규정은 공식 페이지에서 확인하지 못해 미확인.",
+        "summary": "TapNow 캔버스에서 만든 AI 영화를 모집하는 시즌 공모전으로 £500 상금을 제공한다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-23T07:13:00+09:00"
+      },
+      {
         "title": "CSFCCA International AI Film Festival – Winter 2026",
         "category": "AI 이미지·영상",
         "country": "International / Online",
@@ -605,15 +639,15 @@
         "organizer": "Dadasaheb Phalke International Film Festival",
         "submission_start": "2026-01-10",
         "submission_end": "2026-12-31",
-        "result_date": "2027-02-10 선정 통지 · 시상식 발표",
+        "result_date": "2027-02-10 선정 통지 (시상식 일정 미정)",
         "url": "https://dpiff.in/short-film/best-ai-short-film-award-2027-submit-your-ai-film-to-dpiff/",
         "source_type": "official_apply_page",
         "discovery_source": "aside",
         "discovery_url": "https://dpiff.in/nomination/",
-        "evidence": "DPIFF 공식 안내와 접수 FAQ가 전 세계 참가자의 1~40분 AI 단편을 모집하며 2026-11-30 정규 마감, 12-31 최종 마감, 2027-02-10 선정 통지를 명시함. AI 도구와 기여 수준 공개를 요구함.",
+        "evidence": "DPIFF 공식 안내와 접수 FAQ가 전 세계 참가자의 1~40분 AI 단편을 모집하며 2026-11-30 정규 마감, 12-31 최종 마감, 2027-02-10 선정 통지를 명시함. AI 도구와 기여 수준 공개를 요구함. (2026-11-23 갱신: dpiff.in/short-film/best-ai-short-film-award-2027-submit-your-ai-film-to-dpiff/ 공식 표에서 Regular Deadline 30 November 2026, Late Deadline 31 December 2026, Selected Filmmakers Notified 10 February 2027, 시상식 TBA를 확인했다. 오늘(2026-11-23) 기준 Regular Deadline까지 7일 남았다.)",
         "summary": "전 세계 AI 스토리텔러의 1~40분 AI 단편을 모집하는 DPIFF 2027 공식 부문.",
         "status": "진행중",
-        "source_checked_at": "2026-11-16T07:00:00+09:00"
+        "source_checked_at": "2026-11-23T07:13:00+09:00"
       },
       {
         "title": "Global AI Music Video Awards 2027 (GAIMVA)",
@@ -872,6 +906,23 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "AI NEW YORK AWARDS 2026",
+        "category": "AI 영상",
+        "country": "United States / International",
+        "organizer": "AI NEW YORK AWARDS",
+        "submission_start": "2026-08-02",
+        "submission_end": "2026-11-22",
+        "result_date": "2026-11-30 시상 (통지일 미기재)",
+        "url": "https://filmfreeway.com/ainyfestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/ainyfestival",
+        "evidence": "주최 측 공식 FilmFreeway 접수 페이지가 2026-08-02 개시, 11-15 연장 마감, 11-22 통지, 11-30 뉴욕 시상을 명시함. 30초~25분 AI 영화·뮤직비디오·광고와 AI 제작 워크플로 관련 부문을 국제적으로 모집함. (2026-11-21 갱신: https://filmfreeway.com/ainyfestival 에 Late Deadline 2026-11-17, Extended Deadline 2026-11-22, 행사 2026-11-30이 표기되어 있다. 순수 AI 이미지 시퀀스에 음악만 얹은 작품은 받지 않는다고 명시되어 있다.)",
+        "summary": "AI 영화·뮤직비디오·광고와 창작 워크플로 작품을 모집하는 뉴욕 국제 시상식.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-21T07:24:00+09:00"
+      },
       {
         "title": "Cue Christmas ’26 – Cue Film Fest",
         "category": "AI 영상",
@@ -2006,6 +2057,6 @@
       }
     ]
   },
-  "change_notes": "2026-11-22 07:00: 신규 1건(CNAIFF New-Vision AI Film Week (Call for AI Films)), 변경 2건(International AI Short Film Festival 2026, Veritas AI Film Festival 2027), 결과 확인 0건, 섹션 이동 0건. Montreal AI Indie Festival(2027-01-04 마감)은 참가비 미확인·접수 시작일 근거 부족, London AI-Qualified Festival은 시작일 근거 없음으로 보류. NEXTALE Award·Kyoto AI Film Festival·ReelFlix AI Series는 접수 시작일 미기재(Kyoto·ReelFlix는 공식 원문 미확인)로 제외. AI Los Angeles IFF·AI Movie Awards는 다음 에디션 일정이라 기존 레코드에 반영 안 함. Sapporo International AI Film Festival은 2026-12 접수 개시 예정이라 제외.",
+  "change_notes": "2026-11-23 07:00: 신규 3건(Midnight Premiere (OmniRogue Cinema Studio Film Contest), Hailuo Creative Fest #1 Horror Film Contest, MetaMorph × TapNow AI Film Competition Winter Edition), 변경 1건(DPIFF 2027 – Best AI Short Film), 결과 확인 0건, 섹션 이동 1건. MetaMorph × TapNow는 접수 기간만 공식 확인(시간대·발표일·참가비 미기재/미확인). NEXMUSE 2027 AI Music Video Contest는 한국 주최라 해외 보드에서 제외(국내 보드 후보). AI Cinema Festival Québec City 2027·AIFFA 2026·CapCut Marketing Skill Challenge는 접수 시작일 미확인으로 제외. VIC AI Awards 2026(언론 기사만 확인)·Wandura Week 01(게시일 미확인)은 공식 결과 게시일 미확인으로 결과 반영 보류. AI NEW YORK AWARDS 2026은 마감일(11-22, FilmFreeway 태평양시 기준) 경과로 발표 대기로 이동.",
   "verification_pending": []
 }
