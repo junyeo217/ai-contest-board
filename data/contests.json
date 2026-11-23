@@ -1,57 +1,26 @@
 {
-  "generated_at": "2026-11-22T19:00:00+09:00",
+  "generated_at": "2026-11-23T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [],
+    "starting_today": [
+      {
+        "title": "세종사이버대학교 전국민 AI 공모전 AI 불씨",
+        "category": "AI 콘텐츠",
+        "organizer": "세종사이버대학교",
+        "submission_start": "2026-11-23",
+        "submission_end": "2026-12-20",
+        "result_date": "미기재",
+        "url": "http://home.sjcu.ac.kr/ko/index.do",
+        "source_type": "official_homepage",
+        "discovery_source": "aside",
+        "discovery_url": "https://www.donga.com/news/It/article/all/20261118/135044257/1",
+        "evidence": "세종사이버대학교 공식 홈페이지 배너에서 'AI 불씨 · 11.23~12.20 접수 · 트랙별 대상 200만원'을 확인했다. 동아일보(2026.11.18)는 AI 창작 부문에 음악·영상·웹툰을 포함한다고 보도했다. 공식 세부 요강 PDF는 열지 못했다.",
+        "summary": "AI 창작(영상·음악·웹툰 등)과 AI 활용 부문을 함께 여는 전국민 대상 AI 공모전으로, 접수는 11월 23일부터 12월 20일까지다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-23T19:17:00+09:00"
+      }
+    ],
     "ongoing": [
-      {
-        "title": "2026 조달청 AI 게임·콘텐츠 공모전",
-        "category": "AI 영상",
-        "organizer": "조달청",
-        "submission_start": "2026-10-12",
-        "submission_end": "2026-11-22",
-        "result_date": "2026-12-09 예정",
-        "url": "https://m.blog.naver.com/ppspr/224439199284",
-        "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.suto.co.kr/contest/5095",
-        "evidence": "조달청 공식 블로그와 연결 모집요강에 AI 게임·AI 시나리오·AI 영상 부문, 3분 내외 MP4 영상, 2026.10.12~11.22 접수가 명시.",
-        "summary": "조달청 또는 조달정책을 주제로 AI 게임·시나리오·영상을 제작하는 공모전의 영상 부문입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-10-23T19:05:00+09:00"
-      },
-      {
-        "title": "나무엑스 AI 숏폼 공모전",
-        "category": "AI 영상",
-        "organizer": "SK인텔릭스·NAMUHX",
-        "submission_start": "2026-10-19",
-        "submission_end": "2026-11-22",
-        "result_date": "미정",
-        "url": "https://www.namuhx.com/events/6f150f44-01e0-4263-a538-d051e8b5f3b8",
-        "source_type": "official_homepage",
-        "discovery_source": "tavily",
-        "discovery_url": "https://www.instagram.com/p/Deq8JBRkqyA",
-        "evidence": "공식 이벤트 안내에 AI 세로형 숏폼 10초~1분과 2026.10.19~11.22 18:00 접수가 명시.",
-        "summary": "나무엑스의 일상 활용 아이디어나 밈을 AI 숏폼으로 제작하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-10-23T11:03:00+09:00"
-      },
-      {
-        "title": "부산 동구 AI 숏폼 영상 공모전",
-        "category": "AI 영상",
-        "organizer": "부산광역시 동구",
-        "submission_start": "2026-11-03",
-        "submission_end": "2026-11-22",
-        "result_date": "2026-12 중 예정",
-        "url": "https://www.bsdonggu.go.kr",
-        "source_type": "official_homepage",
-        "discovery_source": "tavily",
-        "discovery_url": "https://blog.naver.com/bsdonggublog/224463183087",
-        "evidence": "부산 동구 공식 홈페이지의 현재 동구뉴스와 고시공고 원문에 동구 관광지·음식·축제·문화 공간을 AI로 표현한 1분 내외 세로형 숏폼 영상, 2026.11.03~11.22 접수가 명시.",
-        "summary": "부산 동구의 관광·문화 자원을 AI로 재해석한 1분 내외 세로형 숏폼 영상을 모집하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-11-08T19:00:00+09:00"
-      },
       {
         "title": "2026 한국세라믹기술원 AI 영상 공모전 「세라믹이 사라진 세상」",
         "category": "AI 영상",
@@ -293,6 +262,22 @@
         "source_checked_at": "2026-11-16T01:10:00+09:00"
       },
       {
+        "title": "제2회 저상버스 인식개선 사진·AI 이미지 공모전",
+        "category": "AI 이미지",
+        "organizer": "부산뇌병변복지관",
+        "submission_start": "2026-11-04",
+        "submission_end": "2026-12-04",
+        "result_date": "2026. 12. 10.(목)",
+        "url": "http://busancp.or.kr/%EB%B3%B5%EC%A7%80%EA%B4%80-%EC%86%8C%EC%8B%9D/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD?no=6276",
+        "source_type": "official_notice",
+        "discovery_source": "aside",
+        "discovery_url": "https://linkareer.com/activity/363649",
+        "evidence": "부산뇌병변복지관 공지(2026.11.09 등록)에서 공모 분야 '일반사진 부문, AI 이미지 부문', 총 상금 250만원, 온라인 폼 접수를 확인했다. 공지 첨부 포스터에서 접수 기간 2026.11.4.(수)~12.4.(금) 18시까지, 응모 대상 '부산에 거주하는 시민 누구나', 수상작 발표 2026.12.10.(목)을 확인했다.",
+        "summary": "부산 시민 대상으로 저상버스를 주제로 한 사진 및 AI 이미지 공모전이며 접수는 12월 4일까지다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-23T19:17:00+09:00"
+      },
+      {
         "title": "제1회 CLIIP AI 웹툰 영상화 공모전",
         "category": "AI 영상",
         "organizer": "시원아트·CLIIP",
@@ -307,6 +292,22 @@
         "summary": "웹툰 원작이나 창작 캐릭터·스토리를 생성형 AI 애니메이션, 모션코믹, 뮤직비디오 또는 숏폼 드라마로 영상화하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-11-05T19:00:00+09:00"
+      },
+      {
+        "title": "2026 깨노니 CM송 가요제 (종근당 깨노니 가요제)",
+        "category": "AI 콘텐츠",
+        "organizer": "종근당",
+        "submission_start": "2026-11-18",
+        "submission_end": "2026-12-08",
+        "result_date": "최종 수상작 발표 2026.12.25 (금) (공식 게시물 표기)",
+        "url": "https://www.instagram.com/p/Df3fWTlmSpj",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://linkareer.com/activity/365606",
+        "evidence": "종근당 공식 인스타그램 계정(kkenoni.official, 2026.11.18 게시)에서 접수 11.18~12.08 23:59, 만 19세 이상, 20~40초 세로형 MP4, 'AI 활용은 선택 사항', 총 1,260만원 상당 시상을 확인했다. AI 활용 작품은 사용 AI 서비스명과 제작 증빙을 제출해야 한다.",
+        "summary": "깨노니 CM송을 활용한 자유 형식 숏폼 공모전으로, 생성형 AI 사용은 선택 사항이며 접수 마감은 12월 8일이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-23T19:17:00+09:00"
       },
       {
         "title": "2026 춘천MBC AI영상 공모전",
@@ -389,6 +390,22 @@
         "source_checked_at": "2026-11-20T19:33:00+09:00"
       },
       {
+        "title": "서울국제AI광고영상제 SIADAFF",
+        "category": "AI 영상",
+        "organizer": "(주)케이미디어진흥원",
+        "submission_start": "2026-10-10",
+        "submission_end": "2027-01-07",
+        "result_date": "2027.01.08 (금) 시상식 당일 발표 (공식 표기)",
+        "url": "https://www.siadaff.com/",
+        "source_type": "official_homepage",
+        "discovery_source": "aside",
+        "discovery_url": "https://ai-radar.kr/contests",
+        "evidence": "공식 사이트에서 접수 시작 2026.10.10 00:00, 접수 마감 2027.01.07 23:59(KST), 시상 및 해커톤 세미나 2027.01.08를 확인했다. 출품 분야는 광고영상 39초 이내, 숏폼드라마 59초 이내, 단편영화 3분 이내, 단편애니메이션 3분 이내이며 '2D·3D·모션·AI·스톱모션'을 포함한다. 참가비 금액은 미확인이다.",
+        "summary": "AI 광고영상과 AI 숏폼 드라마 등을 대상으로 하는 국내 AI 영상제 출품 공고로, 마감은 2027년 1월 7일이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-23T19:17:00+09:00"
+      },
+      {
         "title": "제12회 한국문화 AI영상대전",
         "category": "AI 영상",
         "organizer": "한국미디어영상진흥원",
@@ -406,6 +423,54 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "2026 조달청 AI 게임·콘텐츠 공모전",
+        "category": "AI 영상",
+        "organizer": "조달청",
+        "submission_start": "2026-10-12",
+        "submission_end": "2026-11-22",
+        "result_date": "2026-12-09 예정",
+        "url": "https://m.blog.naver.com/ppspr/224439199284",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.suto.co.kr/contest/5095",
+        "evidence": "조달청 공식 블로그와 연결 모집요강에 AI 게임·AI 시나리오·AI 영상 부문, 3분 내외 MP4 영상, 2026.10.12~11.22 접수가 명시.",
+        "summary": "조달청 또는 조달정책을 주제로 AI 게임·시나리오·영상을 제작하는 공모전의 영상 부문입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-10-23T19:05:00+09:00"
+      },
+      {
+        "title": "나무엑스 AI 숏폼 공모전",
+        "category": "AI 영상",
+        "organizer": "SK인텔릭스·NAMUHX",
+        "submission_start": "2026-10-19",
+        "submission_end": "2026-11-22",
+        "result_date": "미정",
+        "url": "https://www.namuhx.com/events/6f150f44-01e0-4263-a538-d051e8b5f3b8",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://www.instagram.com/p/Deq8JBRkqyA",
+        "evidence": "공식 이벤트 안내에 AI 세로형 숏폼 10초~1분과 2026.10.19~11.22 18:00 접수가 명시.",
+        "summary": "나무엑스의 일상 활용 아이디어나 밈을 AI 숏폼으로 제작하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-10-23T11:03:00+09:00"
+      },
+      {
+        "title": "부산 동구 AI 숏폼 영상 공모전",
+        "category": "AI 영상",
+        "organizer": "부산광역시 동구",
+        "submission_start": "2026-11-03",
+        "submission_end": "2026-11-22",
+        "result_date": "2026-12 중 예정",
+        "url": "https://www.bsdonggu.go.kr",
+        "source_type": "official_homepage",
+        "discovery_source": "tavily",
+        "discovery_url": "https://blog.naver.com/bsdonggublog/224463183087",
+        "evidence": "부산 동구 공식 홈페이지의 현재 동구뉴스와 고시공고 원문에 동구 관광지·음식·축제·문화 공간을 AI로 표현한 1분 내외 세로형 숏폼 영상, 2026.11.03~11.22 접수가 명시.",
+        "summary": "부산 동구의 관광·문화 자원을 AI로 재해석한 1분 내외 세로형 숏폼 영상을 모집하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-08T19:00:00+09:00"
+      },
       {
         "title": "2026 AI 캐릭터창작공모전",
         "category": "AI 디자인",
