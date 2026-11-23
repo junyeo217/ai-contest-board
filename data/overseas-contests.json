@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T07:00:00+09:00",
+  "generated_at": "2026-11-24T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,23 +37,6 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "第2回 My Style vintage 生成AIコンテスト 2026『秋』",
-        "category": "AI 이미지·영상",
-        "country": "Japan / International",
-        "organizer": "株式会社セレ コーポレーション",
-        "submission_start": "2026-11-02",
-        "submission_end": "2026-11-23",
-        "result_date": "2026-12-04",
-        "url": "https://cel-co.com/ai-contest_aut/",
-        "source_type": "official_notice",
-        "discovery_source": "aside",
-        "discovery_url": "https://cel-co.com/ai-contest_aut/",
-        "evidence": "주최사 공식 공모 페이지가 2026-11-02~11-23 23:59 JST 접수, 12-04 결과 발표, 국적 불문·해외 참가 가능과 지정 건물 사진을 활용한 생성형 AI 이미지 또는 10~15초 영상 제출을 명시함. 경품 수령처는 일본 국내 주소가 필요함.",
-        "summary": "지정 건물 사진을 생성형 AI 이미지 또는 짧은 영상으로 재해석하는 일본 국제 온라인 공모전.",
-        "status": "진행중",
-        "source_checked_at": "2026-11-04T07:00:00+09:00"
-      },
       {
         "title": "Higgsfield Talent Contest 2026",
         "category": "AI 영상",
@@ -427,6 +410,23 @@
         "summary": "전 세계 전문 크리에이터와 에이전시의 AI 기반 시각 스토리텔링·디자인·이미지·영상 공모전으로, 접수가 종료되어 결과 발표를 기다립니다.",
         "status": "진행중",
         "source_checked_at": "2026-11-21T07:24:00+09:00"
+      },
+      {
+        "title": "idea.ai Creator Challenge \"Make It Worse. Sell It Better.\"",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "Creative Fabrica (idea.ai 운영사)",
+        "submission_start": "2026-11-11",
+        "submission_end": "2026-12-09",
+        "result_date": "종료 후 14일 이내(공식 규정)",
+        "url": "https://help.creativefabrica.com/hc/en-us/articles/31709390516636-Official-Rules-idea-ai-Creator-Challenge-Make-It-Worse-Sell-It-Better",
+        "source_type": "official_notice",
+        "discovery_source": "aside",
+        "discovery_url": "https://help.creativefabrica.com/hc/en-us/articles/31709390516636-Official-Rules-idea-ai-Creator-Challenge-Make-It-Worse-Sell-It-Better",
+        "evidence": "공식 규정 페이지를 직접 열어 확인했다. 챌린지 기간은 2026-11-11 12:00 CET부터 2026-12-09 23:59 CET까지이며, 당선 발표는 종료 후 14일 이내로 예정되어 있으나 결과 게시물은 확인하지 못했다(미기재).",
+        "summary": "idea.ai에서 생성한 5~30초 세로 광고 영상을 Instagram 또는 X에 올리는 글로벌 AI 영상 챌린지(상금 USD 5,000 + 코인, 마감 2026-12-09 CET). 참가자가 저작권을 유지하고 주최 측은 홍보용 비독점 라이선스를 받는다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-24T07:24:00+09:00"
       },
       {
         "title": "CartesianForms: Architecture Reimagined",
@@ -903,9 +903,43 @@
         "summary": "AI가 의미 있는 창작 역할을 한 완전 AI·하이브리드 영화를 국제적으로 모집하는 영국 영화 시상식.",
         "status": "진행중",
         "source_checked_at": "2026-11-06T07:00:00+09:00"
+      },
+      {
+        "title": "Warsaw Glitch Awards 2027",
+        "category": "AI 영상",
+        "country": "International (주최 Poland, FilmFreeway 접수)",
+        "organizer": "Warsaw Glitch Awards (폴란드 바르샤바)",
+        "submission_start": "2026-09-01",
+        "submission_end": "2027-08-01",
+        "result_date": "2027-08-10 발표 예정(공식 페이지 표기)",
+        "url": "https://warsawglitch.com/submissions",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://warsawglitch.com/submissions",
+        "evidence": "공식 제출 페이지(warsawglitch.com/submissions) 일정표에 2026-09-01 제출 시작, 최종 마감 2027-08-01(얼리버드 2027-01-01, 레귤러 2027-05-31)이 표기됨. 접수는 FilmFreeway로 하며 마감 시각·시간대는 공식 페이지에 미기재. 공식 FAQ는 완전 생성 AI 작품도 접수 대상이라고 밝힘.",
+        "summary": "완전 생성 AI, AI 보조, 혼합 작품을 모두 받는 바르샤바 영상 페스티벌의 단편 부문(Short 5분 이하)으로, 최종 마감은 2027-08-01이다. 얼리버드는 2027-01-01, 레귤러는 2027-05-31까지다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-24T07:24:00+09:00"
       }
     ],
     "awaiting_results": [
+      {
+        "title": "第2回 My Style vintage 生成AIコンテスト 2026『秋』",
+        "category": "AI 이미지·영상",
+        "country": "Japan / International",
+        "organizer": "株式会社セレ コーポレーション",
+        "submission_start": "2026-11-02",
+        "submission_end": "2026-11-23",
+        "result_date": "2026-12-04",
+        "url": "https://cel-co.com/ai-contest_aut/",
+        "source_type": "official_notice",
+        "discovery_source": "aside",
+        "discovery_url": "https://cel-co.com/ai-contest_aut/",
+        "evidence": "주최사 공식 공모 페이지가 2026-11-02~11-23 23:59 JST 접수, 12-04 결과 발표, 국적 불문·해외 참가 가능과 지정 건물 사진을 활용한 생성형 AI 이미지 또는 10~15초 영상 제출을 명시함. 경품 수령처는 일본 국내 주소가 필요함.",
+        "summary": "지정 건물 사진을 생성형 AI 이미지 또는 짧은 영상으로 재해석하는 일본 국제 온라인 공모전.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-04T07:00:00+09:00"
+      },
       {
         "title": "AI NEW YORK AWARDS 2026",
         "category": "AI 영상",
@@ -2057,6 +2091,6 @@
       }
     ]
   },
-  "change_notes": "2026-11-23 07:00: 신규 3건(Midnight Premiere (OmniRogue Cinema Studio Film Contest), Hailuo Creative Fest #1 Horror Film Contest, MetaMorph × TapNow AI Film Competition Winter Edition), 변경 1건(DPIFF 2027 – Best AI Short Film), 결과 확인 0건, 섹션 이동 1건. MetaMorph × TapNow는 접수 기간만 공식 확인(시간대·발표일·참가비 미기재/미확인). NEXMUSE 2027 AI Music Video Contest는 한국 주최라 해외 보드에서 제외(국내 보드 후보). AI Cinema Festival Québec City 2027·AIFFA 2026·CapCut Marketing Skill Challenge는 접수 시작일 미확인으로 제외. VIC AI Awards 2026(언론 기사만 확인)·Wandura Week 01(게시일 미확인)은 공식 결과 게시일 미확인으로 결과 반영 보류. AI NEW YORK AWARDS 2026은 마감일(11-22, FilmFreeway 태평양시 기준) 경과로 발표 대기로 이동.",
+  "change_notes": "2026-11-24 07:00: 신규 2건(idea.ai Creator Challenge \"Make It Worse. Sell It Better.\", Warsaw Glitch Awards 2027), 변경 0건, 결과 확인 0건, 섹션 이동 1건. 이번 실행은 Aside 브라우저 탭 연결 실패(CDP Page.enable timeout)로 HTTP/WebFetch 조사만 가능해 FilmFreeway(차단)와 AI 플랫폼 공식 챌린지 페이지(SPA)는 확인하지 못함. Warsaw Glitch Awards 2027은 폴란드 주최로 글로벌 온라인(FilmFreeway) 기준 포함. 미반영: Flick AI Film Festival 2026(마감 2026-12-15/2027-01-15 표기 충돌), Artefact AI Film Festival 2026(Sept 2–Dec 2와 Dec 9–Jan 13 표기 공존), Adobe Firefly AI Fashion Lab(같은 공식 규정의 발표일 판독 충돌). 접수 시작일 미확인으로 보류: CapCut Marketing Skill Challenge, Kyoto AI Film Festival 2026, LundinStudio AI Film Festival 2027, AI London Film Festival, Montreal AI Indie Festival, AIFFA by LeCinema, AI Cinema Festival Global Network. Higgsfield Talent Contest 마감 시각 표기 불일치(7:00 PM vs 11:00 AM PT), Young Ones 'Next Deadline 2026-12-11' 카테고리 미확인. 결과 게시물 확인 0건.",
   "verification_pending": []
 }
