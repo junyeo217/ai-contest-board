@@ -1,58 +1,9 @@
 {
-  "generated_at": "2026-11-23T19:00:00+09:00",
+  "generated_at": "2026-11-24T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [
-      {
-        "title": "세종사이버대학교 전국민 AI 공모전 AI 불씨",
-        "category": "AI 콘텐츠",
-        "organizer": "세종사이버대학교",
-        "submission_start": "2026-11-23",
-        "submission_end": "2026-12-20",
-        "result_date": "미기재",
-        "url": "http://home.sjcu.ac.kr/ko/index.do",
-        "source_type": "official_homepage",
-        "discovery_source": "aside",
-        "discovery_url": "https://www.donga.com/news/It/article/all/20261118/135044257/1",
-        "evidence": "세종사이버대학교 공식 홈페이지 배너에서 'AI 불씨 · 11.23~12.20 접수 · 트랙별 대상 200만원'을 확인했다. 동아일보(2026.11.18)는 AI 창작 부문에 음악·영상·웹툰을 포함한다고 보도했다. 공식 세부 요강 PDF는 열지 못했다.",
-        "summary": "AI 창작(영상·음악·웹툰 등)과 AI 활용 부문을 함께 여는 전국민 대상 AI 공모전으로, 접수는 11월 23일부터 12월 20일까지다.",
-        "status": "진행중",
-        "source_checked_at": "2026-11-23T19:17:00+09:00"
-      }
-    ],
+    "starting_today": [],
     "ongoing": [
-      {
-        "title": "2026 한국세라믹기술원 AI 영상 공모전 「세라믹이 사라진 세상」",
-        "category": "AI 영상",
-        "organizer": "한국세라믹기술원",
-        "submission_start": "2026-10-23",
-        "submission_end": "2026-11-23",
-        "result_date": "2026-12 중 예정",
-        "url": "https://www.kicet.re.kr/00120.web?amode=view&gcode=1015&idx=12357",
-        "source_type": "official_notice",
-        "discovery_source": "manual",
-        "discovery_url": "https://www.contestkorea.com/sub/view.php?Txt_bcode=030310001&int_gbn=1&str_no=202610210038",
-        "evidence": "한국세라믹기술원 공식 공고에 생성형 AI 활용 숏폼 영상, 45~75초 세로형 MP4, 생성형 AI로 제작한 이미지 또는 영상 장면 포함과 2026.10.23~11.23 접수가 명시.",
-        "summary": "세라믹이 사라진 세상을 생성형 AI 숏폼 영상으로 표현하는 전 국민 대상 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-10-24T19:00:00+09:00"
-      },
-      {
-        "title": "2026 경산시 AI 미디어 콘텐츠 공모전 「AI·스마트도시·YOUR STORY」",
-        "category": "AI 영상",
-        "organizer": "경산시·경북IT융합산업기술원",
-        "submission_start": "2026-11-09",
-        "submission_end": "2026-11-23",
-        "result_date": "2026-12-05",
-        "url": "https://aiart.gbgs.art/notice/1",
-        "source_type": "official_notice",
-        "discovery_source": "manual",
-        "discovery_url": "https://www.contestkorea.com/sub/view.php?Txt_bcode=031210001&int_gbn=1&str_no=202610300001",
-        "evidence": "공식 공고에 AI 활용 필수, 60~90초 권장·최대 90초 가로형 MP4 영상과 2026.11.09~11.23 접수가 명시.",
-        "summary": "AI와 스마트도시, 경산의 명소와 일상을 주제로 90초 이내 AI 영상을 모집하는 공모전입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-11-16T01:10:00+09:00"
-      },
       {
         "title": "KTX광명역 미래비전 AI영상 공모전",
         "category": "AI 영상",
@@ -116,6 +67,22 @@
         "summary": "잠실역 지하공간의 역사와 문화를 생성형 AI 미디어아트 영상으로 재해석하는 공모전입니다.",
         "status": "진행중",
         "source_checked_at": "2026-10-31T19:00:00+09:00"
+      },
+      {
+        "title": "2026 내가 소개하는 서울 숏폼 공모전",
+        "category": "AI 영상",
+        "organizer": "서울특별시 홍보담당관",
+        "submission_start": "2026-11-09",
+        "submission_end": "2026-11-27",
+        "result_date": "12월 중(추후 공지 예정), 공고문 기재 '26. 12. 14.(월) 예정'",
+        "url": "https://mediahub.seoul.go.kr/gongmo/2000791",
+        "source_type": "official_notice",
+        "discovery_source": "aside",
+        "discovery_url": "https://crowlly.xyz/competitions",
+        "evidence": "서울시 미디어허브 공고(2026.11.9 공고)에서 접수기간 2026.11.09 00:00~11.27 17:00, 작품규격 '60초 이내 숏폼 영상 *AI 활용 가능', 응모대상 국내 거주 내외국인 누구나를 직접 확인했다. 공고문에는 최종 수상작 발표 '26.12.14(월) 예정'이 적혀 있다.",
+        "summary": "서울시가 외국인이나 타지역 친구에게 소개하고 싶은 서울 정책을 AI 활용 가능한 60초 숏폼으로 모집하는 공모전이며 총상금 1,000만원이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-24T19:14:00+09:00"
       },
       {
         "title": "2026 서울관광 프롬프톤",
@@ -358,6 +325,22 @@
         "source_checked_at": "2026-10-31T19:00:00+09:00"
       },
       {
+        "title": "세종사이버대학교 전국민 AI 공모전 AI 불씨",
+        "category": "AI 콘텐츠",
+        "organizer": "세종사이버대학교",
+        "submission_start": "2026-11-23",
+        "submission_end": "2026-12-20",
+        "result_date": "미기재",
+        "url": "http://home.sjcu.ac.kr/ko/index.do",
+        "source_type": "official_homepage",
+        "discovery_source": "aside",
+        "discovery_url": "https://www.donga.com/news/It/article/all/20261118/135044257/1",
+        "evidence": "세종사이버대학교 공식 홈페이지 배너에서 'AI 불씨 · 11.23~12.20 접수 · 트랙별 대상 200만원'을 확인했다. 동아일보(2026.11.18)는 AI 창작 부문에 음악·영상·웹툰을 포함한다고 보도했다. 공식 세부 요강 PDF는 열지 못했다.",
+        "summary": "AI 창작(영상·음악·웹툰 등)과 AI 활용 부문을 함께 여는 전국민 대상 AI 공모전으로, 접수는 11월 23일부터 12월 20일까지다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-23T19:17:00+09:00"
+      },
+      {
         "title": "제6회 플라이하이 AI 패션 디자인 고교 콘테스트",
         "category": "AI 디자인",
         "organizer": "라사라패션교육개발",
@@ -423,6 +406,38 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "2026 한국세라믹기술원 AI 영상 공모전 「세라믹이 사라진 세상」",
+        "category": "AI 영상",
+        "organizer": "한국세라믹기술원",
+        "submission_start": "2026-10-23",
+        "submission_end": "2026-11-23",
+        "result_date": "2026년 12월 중 개별 통보",
+        "url": "https://www.kicet.re.kr/00120.web?amode=view&gcode=1015&idx=12357",
+        "source_type": "official_notice",
+        "discovery_source": "manual",
+        "discovery_url": "https://www.contestkorea.com/sub/view.php?Txt_bcode=030310001&int_gbn=1&str_no=202610210038",
+        "evidence": "한국세라믹기술원 공식 공고에 생성형 AI 활용 숏폼 영상, 45~75초 세로형 MP4, 생성형 AI로 제작한 이미지 또는 영상 장면 포함과 2026.10.23~11.23 접수가 명시. (2026-11-24 갱신: 한국세라믹기술원 공지(작성 2026-10-23, 공지 종료 2026-11-23)에서 '작품 접수: 2026.10.23(금)~11.23(월) 17:00까지'와 '수상작 발표: 2026년 12월 중 개별 통보'를 확인했다. 기존 목록의 마감 날짜는 같고 마감 시각 17:00이 정정된다. 원문 URL: https://www.kicet.re.kr/00120.web?amode=view&gcode=1015&idx=12357)",
+        "summary": "세라믹이 사라진 세상을 생성형 AI 숏폼 영상으로 표현하는 전 국민 대상 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-24T19:14:00+09:00"
+      },
+      {
+        "title": "2026 경산시 AI 미디어 콘텐츠 공모전 「AI·스마트도시·YOUR STORY」",
+        "category": "AI 영상",
+        "organizer": "경산시·경북IT융합산업기술원",
+        "submission_start": "2026-11-09",
+        "submission_end": "2026-11-23",
+        "result_date": "2026-12-05",
+        "url": "https://aiart.gbgs.art/notice/1",
+        "source_type": "official_notice",
+        "discovery_source": "manual",
+        "discovery_url": "https://www.contestkorea.com/sub/view.php?Txt_bcode=031210001&int_gbn=1&str_no=202610300001",
+        "evidence": "공식 공고에 AI 활용 필수, 60~90초 권장·최대 90초 가로형 MP4 영상과 2026.11.09~11.23 접수가 명시.",
+        "summary": "AI와 스마트도시, 경산의 명소와 일상을 주제로 90초 이내 AI 영상을 모집하는 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-16T01:10:00+09:00"
+      },
       {
         "title": "2026 조달청 AI 게임·콘텐츠 공모전",
         "category": "AI 영상",
@@ -918,7 +933,11 @@
         "evidence": "전국민 AI 경진대회 공식 공고에 생활·지역사회·교육·업무의 AI 활용사례를 블로그 또는 1분 이내 숏폼으로 제작하고 2026.09.01~10.31 접수한다고 명시.",
         "summary": "일상에서 직접 경험한 AI 활용사례를 블로그나 1분 이내 숏폼으로 소개하는 공모전입니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-11-01T19:00:00+09:00"
+        "source_checked_at": "2026-11-01T19:00:00+09:00",
+        "results_confirmed": true,
+        "results_published_at": "2026-11-17",
+        "results_url": "http://aichallenge4all.or.kr/notice/cmwkf199o0016k6yd88dt2d4m",
+        "results_evidence": "전국민 AI 경진대회 공지(2026년 11월 17일 게시)에서 '시즌3 우수작품 선정 결과 발표'와 시즌3 최우수작(교육·학습을 위한 AI 활용 분야)을 확인했다. 기존 목록의 예정일 11-20보다 앞당겨 발표됐다."
       },
       {
         "title": "2026년 제2회 AI·SW 창작 콘텐츠 공모전: 모두가 크리에이터다",
