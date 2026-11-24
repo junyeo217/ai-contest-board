@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T19:00:00+09:00",
+  "generated_at": "2026-11-25T04:14:32+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
     "starting_today": [],
@@ -371,6 +371,22 @@
         "summary": "AI 또는 실사로 만든 5화 이상 숏드라마를 모집하는 공모전이며, AI 제작 작품도 출품 가능하다.",
         "status": "진행중",
         "source_checked_at": "2026-11-20T19:33:00+09:00"
+      },
+      {
+        "title": "뉴테이크 AI 영상 공모전 (Newtake X AI-Kive)",
+        "category": "AI 영상",
+        "organizer": "뉴테이크(Newtake) / 스튜디오프리윌루전·AI-Kive",
+        "submission_start": "2026-12-07",
+        "submission_end": "2027-01-05",
+        "result_date": "2027-01-22 18:00 예정",
+        "url": "https://aikive.com/event/801d4e8cf26949ddba0ed968517f1e05",
+        "source_type": "official_platform",
+        "discovery_source": "manual",
+        "discovery_url": "https://aikive.com/event/801d4e8cf26949ddba0ed968517f1e05",
+        "evidence": "AI-Kive 공식 이벤트 페이지에 접수 2026.12.07(월) 10:00~2027.01.05(화) 23:59, AI 스토리텔링(단편영화·드라마/숏드라마)·AI 광고(브랜드 필름/숏폼 광고) 4개 하위 부문 각 1편·최대 4편, 만 14세 이상 개인·팀, 생성형 AI 사용 필수, 총 5,024만 원 상당(현금 2,200만 원 + 뉴테이크 크레딧·플랜, 종합 대상 2,000만 원 상당) 명시. 참가비는 미기재.",
+        "summary": "AI 스토리텔링과 뉴테이크 광고 두 부문에서 생성형 AI 영상을 최대 4편까지 출품하는 공모전입니다.",
+        "status": "접수 예정",
+        "source_checked_at": "2026-11-25T04:14:32+09:00"
       },
       {
         "title": "서울국제AI광고영상제 SIADAFF",
