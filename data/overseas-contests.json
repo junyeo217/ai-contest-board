@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T07:00:00+09:00",
+  "generated_at": "2026-11-25T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -259,6 +259,23 @@
         "source_checked_at": "2026-11-23T07:13:00+09:00"
       },
       {
+        "title": "AI Film Festival Africa 2026 (AIFFA by LeCinema)",
+        "category": "AI 영상",
+        "country": "International",
+        "organizer": "LeCinema",
+        "submission_start": "2026-09-14",
+        "submission_end": "2026-11-30",
+        "result_date": "미기재",
+        "url": "https://lecinema.xyz/festivals/aiffa",
+        "source_type": "official_homepage",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20art",
+        "evidence": "공식 페이지에 Submissions close November 30, 2026 11:59 PM Antananarivo time과 Any AI tools, Open worldwide가 명시되어 있다. 접수 시작은 공식 페이지에 September 2026으로만 표기되어 있고, FilmFreeway Opening Date 2026-09-14로 일자를 보완했다.",
+        "summary": "전 세계 누구나 참가할 수 있는 AI 단편 공모전으로 마감은 2026-11-30 (마다가스카르 시간 23:59)이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
+      },
+      {
         "title": "Fairground Animation Imagination 2026",
         "category": "AI 영상",
         "country": "Global / Online",
@@ -497,23 +514,6 @@
         "source_checked_at": "2026-11-06T07:00:00+09:00"
       },
       {
-        "title": "Flick AI Film Festival 2026",
-        "category": "AI 영상",
-        "country": "Global / Online",
-        "organizer": "Flick",
-        "submission_start": "2026-09-29",
-        "submission_end": "2026-12-15",
-        "result_date": "2027-01-20",
-        "url": "https://flick.art/festival/rules",
-        "source_type": "official_notice",
-        "discovery_source": "aside/tavily",
-        "discovery_url": "https://flick.art/festival",
-        "evidence": "Flick 공식 규정이 무료 글로벌 온라인 영화제로 2026-09-29 접수 시작, 12-15 23:59 PT 마감, 2027-01-05 공식선정 통지와 01-20 수상 발표를 명시함. AI 단편·장편·애니메이션·뮤직비디오·세로 드라마·광고를 모집함.",
-        "summary": "AI를 창작 핵심 도구로 활용한 다양한 형식의 영화를 모집하는 무료 글로벌 온라인 영화제.",
-        "status": "진행중",
-        "source_checked_at": "2026-11-04T07:00:00+09:00"
-      },
-      {
         "title": "World AI Cinema Competition – JIFF 2027",
         "category": "AI 영상",
         "country": "International",
@@ -599,6 +599,23 @@
         "source_checked_at": "2026-11-23T07:13:00+09:00"
       },
       {
+        "title": "AI International Advertising Festival",
+        "category": "AI 콘텐츠",
+        "country": "United States",
+        "organizer": "미기재 (FilmFreeway 표기명 AI International Advertising Festival)",
+        "submission_start": "2026-11-08",
+        "submission_end": "2026-12-21",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/AIInternationalAdvertisingFestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20video",
+        "evidence": "FilmFreeway Dates & Deadlines에 Opening Date 2026-11-08, Earlybird 2026-11-30, Regular 2026-12-21, Notification 2027-01-02가 표기되어 있다. 마감은 PT 기준이며, 규칙에서 광고 제작에 AI 도구 사용을 명시적으로 다룬다.",
+        "summary": "AI로 제작한 광고 영상을 대상으로 하는 미국 캘리포니아 기반 공모전으로 2026-11-08부터 접수하며 마감은 2026-12-21이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
+      },
+      {
         "title": "MetaMorph × TapNow AI Film Competition Winter Edition",
         "category": "AI 영상",
         "country": "International",
@@ -667,6 +684,23 @@
         "source_checked_at": "2026-11-21T07:24:00+09:00"
       },
       {
+        "title": "Montreal AI Indie Festival",
+        "category": "AI 영상",
+        "country": "Canada",
+        "organizer": "미기재 (문의 주소 inquiry@montrealaiffestival.com)",
+        "submission_start": "2026-08-25",
+        "submission_end": "2027-01-04",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/montrealaifestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20short",
+        "evidence": "FilmFreeway 페이지에 Opening Date 2026-08-25, 다음 마감 2026-12-13, Final deadline 2027-01-04가 표기되어 있다. 마감은 PT 기준이며, 규칙에서 AI 생성 및 AI 보조 영화를 함께 심사한다고 명시한다.",
+        "summary": "몬트리올의 AI 및 하이브리드 단편 영화제로 2026-08-25부터 접수하며 최종 마감은 2027-01-04이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
+      },
+      {
         "title": "Chroma Awards Season 2",
         "category": "AI 영상",
         "country": "Global",
@@ -699,6 +733,23 @@
         "summary": "AI를 의미 있게 사용한 22분 이하 작품을 받는 시상이며 최종 마감은 2027-01-11이다.",
         "status": "진행중",
         "source_checked_at": "2026-11-21T07:24:00+09:00"
+      },
+      {
+        "title": "Flick AI Film Festival 2026",
+        "category": "AI 영상",
+        "country": "Global / Online",
+        "organizer": "Flick",
+        "submission_start": "2026-09-29",
+        "submission_end": "2027-01-15",
+        "result_date": "2027-01-20",
+        "url": "https://flick.art/festival/rules",
+        "source_type": "official_notice",
+        "discovery_source": "aside/tavily",
+        "discovery_url": "https://flick.art/festival",
+        "evidence": "Flick 공식 규정이 무료 글로벌 온라인 영화제로 2026-09-29 접수 시작, 12-15 23:59 PT 마감, 2027-01-05 공식선정 통지와 01-20 수상 발표를 명시함. AI 단편·장편·애니메이션·뮤직비디오·세로 드라마·광고를 모집함. (2026-11-25 갱신: flick.art/festival/rules(최종 수정 2026-11-19) 타임라인과 flick.art 랜딩 모두 제출 마감 2027-01-15 오후 11:59 PT 표기)",
+        "summary": "AI를 창작 핵심 도구로 활용한 다양한 형식의 영화를 모집하는 무료 글로벌 온라인 영화제.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
       },
       {
         "title": "WAIFF USA Los Angeles 2027",
@@ -769,6 +820,23 @@
         "source_checked_at": "2026-11-21T07:24:00+09:00"
       },
       {
+        "title": "AI CINEMA - Film Festival (Montréal)",
+        "category": "AI 영상",
+        "country": "Canada",
+        "organizer": "미기재 (FilmFreeway 표기명 AI CINEMA - Film Festival)",
+        "submission_start": "2026-05-20",
+        "submission_end": "2027-02-05",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/IAMCINEMA",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20art",
+        "evidence": "FilmFreeway Dates & Deadlines에 Opening Date 2026-05-20, 다음 마감 2026-12-09(Late), 최종 마감 2027-02-05(Final Deadline)이 표기되어 있다. 마감은 PT 기준이며, 규칙에 AI Short, AI Narrative Feature 등 AI 부문이 있다.",
+        "summary": "몬트리올 AI 영화제로 2026-05-20부터 접수하며 최종 마감은 2027-02-05이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
+      },
+      {
         "title": "WAIFF Cannes 2027",
         "category": "AI 영상",
         "country": "International",
@@ -784,6 +852,23 @@
         "summary": "AI·하이브리드 영화와 광고·뮤직비디오·CapCut 작품을 모집하는 WAIFF 칸 그랜드 피날레.",
         "status": "진행중",
         "source_checked_at": "2026-11-08T07:00:00+09:00"
+      },
+      {
+        "title": "AI London Film Festival 2027",
+        "category": "AI 영상",
+        "country": "United Kingdom",
+        "organizer": "미기재 (Festival Director Erich Schultz 표기)",
+        "submission_start": "2026-11-05",
+        "submission_end": "2027-02-24",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/ailondon",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20film",
+        "evidence": "FilmFreeway Dates & Deadlines에 Opening Date 2026-11-05, Early 2026-12-16, Regular 2027-01-13, Late 2027-02-03, Final Deadline 2027-02-24가 표기되어 있다. 마감은 PT 기준이며, 규칙은 AI 도구를 쓴 단편을 받는다고 명시한다.",
+        "summary": "런던 Close-Up Cinema 상영을 목표로 하는 AI 영화제로 2026-11-05부터 접수하며 최종 마감은 2027-02-24이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
       },
       {
         "title": "WAIFF London 2027",
@@ -837,6 +922,40 @@
         "source_checked_at": "2026-11-04T07:00:00+09:00"
       },
       {
+        "title": "Ai Toronto Shorts Fest",
+        "category": "AI 영상",
+        "country": "Canada",
+        "organizer": "미기재 (FilmFreeway 표기명 Ai Toronto Shorts Fest)",
+        "submission_start": "2026-08-24",
+        "submission_end": "2027-03-01",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/taiffest",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20short",
+        "evidence": "FilmFreeway Dates & Deadlines에 Opening Date 2026-08-24, 다음 마감 2026-12-07(Don't miss), 최종 마감 2027-03-01(Final deadline)이 표기되어 있다. 마감은 PT 기준이며, 규칙은 AI 생성 영화와 전통 방식 영화를 동등하게 심사한다고 명시한다.",
+        "summary": "토론토 명칭의 AI 및 하이브리드 단편 공모전으로 2026-08-24부터 접수하며 최종 마감은 2027-03-01이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
+      },
+      {
+        "title": "Filmboard Film & AI Awards",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "미기재 (FilmFreeway 표기명 Filmboard Film & AI Awards)",
+        "submission_start": "2026-06-01",
+        "submission_end": "2027-03-04",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/filmboardawards",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20film",
+        "evidence": "FilmFreeway Dates & Deadlines에 Opening Date 2026-06-01, 다음 마감 2026-12-05(Final Act), 최종 마감 2027-03-04(Final Curtain)가 표기되어 있다. 마감은 PT 기준이며, 카테고리에 Best AI-Generated Short가 있다.",
+        "summary": "Burbank에서 열리는 영화 및 AI 시상으로 2026-06-01부터 접수하며 최종 마감은 2027-03-04이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
+      },
+      {
         "title": "ADC 106th Annual Awards – AI Filmmaking: CapCut AI",
         "category": "AI 영상",
         "country": "International",
@@ -871,6 +990,23 @@
         "source_checked_at": "2026-10-29T07:00:00+09:00"
       },
       {
+        "title": "AI TALENTS NEW YORK",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "미기재 (FilmFreeway 표기명 AI TALENTS NEW YORK)",
+        "submission_start": "2026-10-15",
+        "submission_end": "2027-04-04",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/aitalentsny",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20short",
+        "evidence": "FilmFreeway Dates & Deadlines에 Opening Date 2026-10-15, 다음 마감 2026-12-02(Regular), 최종 마감 2027-04-04(Firm Deadline)가 표기되어 있다. 마감은 PT 기준이며, 카테고리에 Best AI Animation 등 AI 부문이 있다.",
+        "summary": "뉴욕의 AI 영화 공모전으로 2026-10-15부터 접수하며 최종 마감은 2027-04-04이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
+      },
+      {
         "title": "Runway AI Festival 2027 (AIF) Film Track",
         "category": "AI 영상",
         "country": "International (쿠바, 이란, 북한, 러시아, 시리아 등 제재 지역 제외)",
@@ -888,6 +1024,40 @@
         "source_checked_at": "2026-11-21T07:24:00+09:00"
       },
       {
+        "title": "Red Rocks AI Film Festival",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "미기재 (FilmFreeway 표기명 Red Rocks AI Film Festival)",
+        "submission_start": "2026-10-10",
+        "submission_end": "2027-04-10",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/RedRocksAIFilmFestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20film",
+        "evidence": "FilmFreeway Dates & Deadlines에 Opening Date 2026-10-10, 다음 마감 2027-02-06(Regular), 최종 마감 2027-04-10(Extended)이 표기되어 있다. 마감은 PT 기준이며, 규칙은 원본 AI 생성 작품만 허용한다.",
+        "summary": "미국 Utah의 AI 생성 영화 전용 영화제로 2026-10-10부터 접수하며 최종 마감은 2027-04-10이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
+      },
+      {
+        "title": "Dasein AI Film Festival",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "미기재 (FilmFreeway 표기명 Dasein AI Film Festival)",
+        "submission_start": "2026-05-05",
+        "submission_end": "2027-04-18",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/DaseinFilmFestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20film",
+        "evidence": "FilmFreeway Dates & Deadlines에 Opening Date 2026-05-05, 다음 마감 2027-02-01(Late), 최종 마감 2027-04-18(Extended)이 표기되어 있다. 마감은 PT 기준이며, 2027 시상에 AI 활용 작품 부문이 있다.",
+        "summary": "샌프란시스코의 AI 영화제로 2026-05-05부터 접수하며 최종 마감은 2027-04-18이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
+      },
+      {
         "title": "UK Film AI Awards 2027",
         "category": "AI 영상",
         "country": "United Kingdom / International",
@@ -903,6 +1073,91 @@
         "summary": "AI가 의미 있는 창작 역할을 한 완전 AI·하이브리드 영화를 국제적으로 모집하는 영국 영화 시상식.",
         "status": "진행중",
         "source_checked_at": "2026-11-06T07:00:00+09:00"
+      },
+      {
+        "title": "AIMF - AI Media Festival",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "미기재 (FilmFreeway 표기명 AIMF - AI Media Festival)",
+        "submission_start": "2026-11-01",
+        "submission_end": "2027-04-30",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/AIMF",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20video",
+        "evidence": "FilmFreeway Dates & Deadlines에 Opening Date 2026-11-01, Earlybird 2026-12-31, Regular 2027-01-31, Late 2027-04-30가 표기되어 있다. 마감은 PT 기준이며, 페이지에서 AI 기반 스토리텔링 시상을 명시한다.",
+        "summary": "미국 Sherman Oaks에서 열리는 AI 미디어 영화제로 2026-11-01부터 접수하며 최종 마감은 2027-04-30이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
+      },
+      {
+        "title": "Meta Morph AI Film Award",
+        "category": "AI 영상",
+        "country": "United Kingdom",
+        "organizer": "MetaMorph",
+        "submission_start": "2026-07-12",
+        "submission_end": "2027-05-15",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/metamorph-award",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20film",
+        "evidence": "FilmFreeway Dates & Deadlines에 Opening Date 2026-07-12, Earlybird 2026-09-30, Normal 2027-04-30, Late 2027-05-08, Extended 2027-05-15가 표기되어 있다. 마감은 PT 기준이며, 규칙은 생성형 기술을 사용하는 실사 및 애니메이션 작품을 받는다고 명시한다.",
+        "summary": "런던에서 열리는 AI 영화 시상으로 2026-07-12부터 접수하며 최종 마감은 2027-05-15이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
+      },
+      {
+        "title": "London AI Independent",
+        "category": "AI 영상",
+        "country": "United Kingdom",
+        "organizer": "미기재 (FilmFreeway 표기명 London AI Independent)",
+        "submission_start": "2026-09-27",
+        "submission_end": "2027-06-02",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/LondonAIIndependent",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20film",
+        "evidence": "FilmFreeway Dates & Deadlines에 Opening Date 2026-09-27, 다음 마감 2026-11-25(Broken Plane), 최종 마감 2027-06-02(Final Prism)가 표기되어 있다. 마감은 PT 기준이며, 규칙은 제작 과정에 AI가 의미 있게 기여해야 한다고 명시한다.",
+        "summary": "런던의 AI 독립영화 공모전으로 2026-09-27부터 접수하며 최종 마감은 2027-06-02이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
+      },
+      {
+        "title": "AI Indie Valley LA",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "미기재 (주최 Mateusz Murgrabia 표기)",
+        "submission_start": "2026-10-14",
+        "submission_end": "2027-06-21",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/AIIndieValley",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20short",
+        "evidence": "FilmFreeway Dates & Deadlines에 Opening Date 2026-10-14, 다음 마감 2026-12-14(Fast Lane), 최종 마감 2027-06-21(Last Exit)이 표기되어 있다. 마감은 PT 기준이며, 규칙은 제작 과정 어딘가에 AI가 실제로 작업했을 것을 요구한다.",
+        "summary": "로스앤젤레스의 AI 개입 독립영화 공모전으로 2026-10-14부터 접수하며 최종 마감은 2027-06-21이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
+      },
+      {
+        "title": "AI Independent Montreal Festival",
+        "category": "AI 영상",
+        "country": "Canada",
+        "organizer": "미기재 (FilmFreeway 주최자 Sylwester)",
+        "submission_start": "2026-10-17",
+        "submission_end": "2027-07-02",
+        "result_date": "미기재",
+        "url": "https://filmfreeway.com/AIIndependentMontrealFestival",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://filmfreeway.com/festivals?q=AI%20short",
+        "evidence": "FilmFreeway Dates & Deadlines에 Opening Date 2026-10-17, 다음 마감 2026-12-17, 최종 마감 2027-07-02(Final Word)가 표기되어 있다. 마감은 PT 기준이며, 규칙은 AI 도구 사용을 허용한다.",
+        "summary": "독립 영화를 대상으로 한 몬트리올 AI 영화제로 2026-10-17부터 접수하며 최종 마감은 2027-07-02이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T07:25:00+09:00"
       },
       {
         "title": "Warsaw Glitch Awards 2027",
@@ -2091,6 +2346,6 @@
       }
     ]
   },
-  "change_notes": "2026-11-24 07:00: 신규 2건(idea.ai Creator Challenge \"Make It Worse. Sell It Better.\", Warsaw Glitch Awards 2027), 변경 0건, 결과 확인 0건, 섹션 이동 1건. 이번 실행은 Aside 브라우저 탭 연결 실패(CDP Page.enable timeout)로 HTTP/WebFetch 조사만 가능해 FilmFreeway(차단)와 AI 플랫폼 공식 챌린지 페이지(SPA)는 확인하지 못함. Warsaw Glitch Awards 2027은 폴란드 주최로 글로벌 온라인(FilmFreeway) 기준 포함. 미반영: Flick AI Film Festival 2026(마감 2026-12-15/2027-01-15 표기 충돌), Artefact AI Film Festival 2026(Sept 2–Dec 2와 Dec 9–Jan 13 표기 공존), Adobe Firefly AI Fashion Lab(같은 공식 규정의 발표일 판독 충돌). 접수 시작일 미확인으로 보류: CapCut Marketing Skill Challenge, Kyoto AI Film Festival 2026, LundinStudio AI Film Festival 2027, AI London Film Festival, Montreal AI Indie Festival, AIFFA by LeCinema, AI Cinema Festival Global Network. Higgsfield Talent Contest 마감 시각 표기 불일치(7:00 PM vs 11:00 AM PT), Young Ones 'Next Deadline 2026-12-11' 카테고리 미확인. 결과 게시물 확인 0건.",
+  "change_notes": "2026-11-25 07:00: 신규 15건(Montreal AI Indie Festival, AI Independent Montreal Festival, AI CINEMA - Film Festival (Montréal), AI International Advertising Festival, AIMF - AI Media Festival, London AI Independent, AI London Film Festival 2027, Ai Toronto Shorts Fest, Dasein AI Film Festival, Red Rocks AI Film Festival, Filmboard Film & AI Awards, AI TALENTS NEW YORK, AI Film Festival Africa 2026 (AIFFA by LeCinema), Meta Morph AI Film Award, AI Indie Valley LA), 변경 1건(Flick AI Film Festival 2026), 결과 확인 0건, 섹션 이동 0건. Flick AI Film Festival 2026은 공식 규정·랜딩 일치로 마감을 2027-01-15(PT 23:59)로 정정했으며, 기존 결과일 2027-01-20은 정정 전 값으로 재확인하지 못함. FilmFreeway 후보 보류(AI 요건 미확인 등): AI New Orleans SHORTS(evidence에 AI 요건·AI 부문 확인 없음); Broadway Indie & AI Shorts(evidence에 AI 요건·AI 부문 확인 없음); AI Indie Shorts Vancouver(evidence에 AI 요건·AI 부문 확인 없음); Toronto AI Awards(evidence에 AI 요건·AI 부문 확인 없음); London AI-Qualified Festival(마지막 표기 마감이 'Pre-Final'(최종 마감 미확인), AI 요건 미확인); Toronto AI Shorts Film Festival(evidence에 AI 요건·AI 부문 확인 없음); AI TORONTO SHORTS(국가 표기 불일치(명칭 Toronto, 주소 United States), AI 요건 미확인); Neu Wave AI film festival(evidence에 AI 요건·AI 부문 확인 없음); Australian AI Festival(evidence에 AI 요건·AI 부문 확인 없음); AI San Diego Indie(evidence에 AI 요건·AI 부문 확인 없음); AI Indie Cinema London(규칙상 AI 사용 무관 참가(AI 전용·AI 부문 아님)); NYC Indie Cinema and AI(evidence에 AI 요건·AI 부문 확인 없음); AI Toronto Genre Awards(evidence에 AI 요건·AI 부문 확인 없음); Toronto Indie & AI - Association of Filmmakers(evidence에 AI 요건·AI 부문 확인 없음). 접수 시작 전이라 미반영: OMNI: International AI Film Festival(2026-12-01 개시), Genflick AI Film Festival(2026-12-08 개시). Meta Morph AI Film Award는 기존 MetaMorph × TapNow Winter Edition과 주최 동일 가능성 있으나 일정이 달라 별도 반영. 계속 보류: CapCut Marketing Skill Challenge(접수 시작일 11-09/11-11 표기 충돌), Kyoto AI Film Festival 2026(공식 접수 시작일 미확인), Artefact AI Film Festival 2026(접수 기간 표기 충돌, 기존 값 유지). LundinStudio AI Film Festival 2027은 기존 Ai Film Festival 2026과 동일로 판단돼 제외, AI Cinema Festival Global Network는 공식 페이지 미발견. 마감 11-26~11-30 기존 항목은 이번에 재확인하지 못함. 결과 게시물 확인 0건.",
   "verification_pending": []
 }
