@@ -1,25 +1,26 @@
 {
-  "generated_at": "2026-11-25T04:14:32+09:00",
+  "generated_at": "2026-11-25T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [],
-    "ongoing": [
+    "starting_today": [
       {
-        "title": "KTX광명역 미래비전 AI영상 공모전",
+        "title": "제1회 AI 영상 공모전 「AI가 상상하는 중국」",
         "category": "AI 영상",
-        "organizer": "광명시·EBS",
-        "submission_start": "2026-11-11",
-        "submission_end": "2026-11-24",
-        "result_date": "미정",
-        "url": "https://www.gm.go.kr/pt/user/nftcBbs/BD_selectNftcBbsDetail.do?q_nftcBbsCode=1001&q_nftcBbsMgtno=68755",
+        "organizer": "(주)공자아카데미 주최, 서울공자아카데미 주관, 주한중국대사관·(사법)한중문화협력연구원 후원",
+        "submission_start": "2026-11-25",
+        "submission_end": "2026-12-16",
+        "result_date": "2026년 12월 18일(금) (서울공자아카데미 홈페이지 공지)",
+        "url": "https://kongzi.co.kr/?c1=2&c2=1511&uid=1497",
         "source_type": "official_notice",
-        "discovery_source": "tavily",
-        "discovery_url": "https://blog.naver.com/gmcityhall/224474520236",
-        "evidence": "광명시 공식 공고에 생성형 AI 기술을 활용한 AI 영상, MP4·Full HD 이상·가로 16:9 또는 세로 9:16 규격과 2026.11.11~11.24 18:00 접수가 명시.",
-        "summary": "KTX광명역과 대한민국 철도의 미래 비전을 생성형 AI 영상으로 표현하는 전국 단위 공모전입니다.",
+        "discovery_source": "aside",
+        "discovery_url": "https://www.all-con.co.kr/view/contest/545464",
+        "evidence": "서울공자아카데미 공식 공지글(2026-11-23 등록)에 첨부된 공모 포스터 이미지에서 '공모접수 2026년 11월 25일(수)~12월 16일(수) 16:00까지', '결과발표 2026년 12월 18일(금)', '시상식 및 상영회 2026년 12월 22일(화)'을 직접 확인했다. 생성형 AI로 제작한 2~5분 가로형 영상을 받으며, 참가비는 포스터에 기재 없음(미기재).",
+        "summary": "생성형 AI로 중국의 미래를 상상한 2~5분 가로형 창작 영상을 모집하는 공모전이다.",
         "status": "진행중",
-        "source_checked_at": "2026-11-16T19:00:00+09:00"
-      },
+        "source_checked_at": "2026-11-25T19:15:00+09:00"
+      }
+    ],
+    "ongoing": [
       {
         "title": "글로벌 AI IDOL 어워드 2026 사전 쇼케이스",
         "category": "AI 영상",
@@ -298,15 +299,15 @@
         "organizer": "밀양시",
         "submission_start": "2026-11-16",
         "submission_end": "2026-12-11",
-        "result_date": "2026. 12. 18.(금) 예정",
+        "result_date": "2026. 12. 18.(금) 예정 (밀양시 누리집 게시 및 수상자 개별 안내)",
         "url": "https://www.miryang.go.kr/web/bbs/selectNoticeDetail.do?mnNo=20901000000&owd=&bbsId=BBSMSTR_000000000077&nttId=200431&searchCnd=&searchWrd=&pageIndex=1",
         "source_type": "official_notice",
         "discovery_source": "aside",
         "discovery_url": "https://ai-radar.kr/contests",
-        "evidence": "밀양시 공식 공고에서 '생성형 AI를 활용해 축제 홍보 포스터 이미지를 제작'하라고 확인했다. 접수기간은 2026. 11. 16.(월)~12. 11.(금) 18:00까지, 결과발표는 2026. 12. 18.(금) 예정이라고 적혀 있다. 집계 사이트의 12/10 표기보다 공식 공고 값을 썼다.",
+        "evidence": "밀양시 공식 공고에서 '생성형 AI를 활용해 축제 홍보 포스터 이미지를 제작'하라고 확인했다. 접수기간은 2026. 11. 16.(월)~12. 11.(금) 18:00까지, 결과발표는 2026. 12. 18.(금) 예정이라고 적혀 있다. 집계 사이트의 12/10 표기보다 공식 공고 값을 썼다. (2026-11-25 갱신: 밀양시 공식 공고(https://www.miryang.go.kr/web/bbs/selectNoticeDetail.do?mnNo=20901000000&owd=&bbsId=BBSMSTR_000000000077&nttId=200431)의 '결과발표 - 2026. 12. 18.(금) 예정' 문구를 직접 확인했다.)",
         "summary": "생성형 AI로 밀양아리랑대축제 홍보 포스터 이미지를 만드는 공모전이며, 접수는 12월 11일 18시까지다.",
         "status": "진행중",
-        "source_checked_at": "2026-11-22T19:15:00+09:00"
+        "source_checked_at": "2026-11-25T19:15:00+09:00"
       },
       {
         "title": "제2회 VIVID AI 영상 공모전 「VIVID RE:PLAY」",
@@ -422,6 +423,22 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "KTX광명역 미래비전 AI영상 공모전",
+        "category": "AI 영상",
+        "organizer": "광명시·EBS",
+        "submission_start": "2026-11-11",
+        "submission_end": "2026-11-24",
+        "result_date": "미정",
+        "url": "https://www.gm.go.kr/pt/user/nftcBbs/BD_selectNftcBbsDetail.do?q_nftcBbsCode=1001&q_nftcBbsMgtno=68755",
+        "source_type": "official_notice",
+        "discovery_source": "tavily",
+        "discovery_url": "https://blog.naver.com/gmcityhall/224474520236",
+        "evidence": "광명시 공식 공고에 생성형 AI 기술을 활용한 AI 영상, MP4·Full HD 이상·가로 16:9 또는 세로 9:16 규격과 2026.11.11~11.24 18:00 접수가 명시.",
+        "summary": "KTX광명역과 대한민국 철도의 미래 비전을 생성형 AI 영상으로 표현하는 전국 단위 공모전입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-16T19:00:00+09:00"
+      },
       {
         "title": "2026 한국세라믹기술원 AI 영상 공모전 「세라믹이 사라진 세상」",
         "category": "AI 영상",
@@ -580,7 +597,11 @@
         "evidence": "공식 접수 페이지에 AI 음악 생성 필수, AI 생성자료·사진·자막 등을 결합한 30~60초 9:16 세로형 뮤직숏폼 영상과 2026.11.02~11.19 접수가 명시.",
         "summary": "전북 14개 시·군의 이야기를 AI 음악과 세로형 영상으로 표현하는 뮤직숏폼 공모전입니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-11-08T19:00:00+09:00"
+        "source_checked_at": "2026-11-08T19:00:00+09:00",
+        "results_confirmed": true,
+        "results_published_at": "2026-11-25",
+        "results_url": "https://jb-ai.kr/2026-song",
+        "results_evidence": "공식 페이지에 '접수 마감 안내', '결과 발표 2026년 11월 25일(수)'이 적혀 있고, '수상작 발표' 영역에 대상부터 입선까지 수상자 목록과 '수상을 진심으로 축하드립니다' 문구가 있는 것을 확인했다."
       },
       {
         "title": "제1회 AI국제사진대전",
