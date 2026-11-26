@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:00:00+09:00",
+  "generated_at": "2026-11-27T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -37,23 +37,6 @@
   "sections": {
     "starting_today": [],
     "ongoing": [
-      {
-        "title": "Higgsfield Talent Contest 2026",
-        "category": "AI 영상",
-        "country": "Global",
-        "organizer": "Higgsfield Inc.",
-        "submission_start": "2026-11-12",
-        "submission_end": "2026-11-26",
-        "result_date": "2026-12-03 잠정 수상자 발표",
-        "url": "https://higgsfield.ai/contests/talent-contest?tab=rules",
-        "source_type": "official_platform",
-        "discovery_source": "aside",
-        "discovery_url": "https://higgsfield.ai/contests/talent-contest?tab=rules",
-        "evidence": "Higgsfield 공식 규정은 2026-11-12 접수 개시, 11-26 19:00 UTC 마감, 12-03 잠정 수상자 발표를 명시하며 법률·제재상 제한 지역을 제외한 전 세계 18세 이상 개인 또는 최대 4인 팀의 3~7분 AI 영화를 모집함.",
-        "summary": "전 세계 크리에이터가 3~7분 오리지널 AI 영화를 출품하는 Higgsfield 글로벌 콘테스트.",
-        "status": "진행중",
-        "source_checked_at": "2026-11-16T01:19:00+09:00"
-      },
       {
         "title": "Melbourne AI Film Festival 2026",
         "category": "AI 영상",
@@ -701,6 +684,23 @@
         "source_checked_at": "2026-11-21T07:24:00+09:00"
       },
       {
+        "title": "OMNI TOKYO 2027 (国際AI映画祭)",
+        "category": "AI 영상",
+        "country": "Japan / International",
+        "organizer": "OMNI TOKYO",
+        "submission_start": "2026-11-19",
+        "submission_end": "2027-01-01",
+        "result_date": "2027年1月上旬 선정작 발표",
+        "url": "https://www.omnitokyo.com/news/2026-11-19-omni-tokyo-2027-entries-open.html",
+        "source_type": "official_notice",
+        "discovery_source": "aside",
+        "discovery_url": "https://www.omnitokyo.com/news/2026-11-19-omni-tokyo-2027-entries-open.html",
+        "evidence": "공식 공지(2026.11.19 게시)가 '作品応募受付を開始しました'라고 밝히고 응모 마감 2027-01-01 16:59:59(일본시간), 응모료 무료, 국적 불문(개인·팀, 프로·아마추어)을 명시함. 생성AI를 활용한 영상 작품을 쇼트필름·애니메이션·광고 3부문으로 모집하며 접수는 FilmFreeway에서 받음. 선정작 발표는 2027년 1월 상순, 영화제는 2027-01-16 도쿄 개최. 별도 접수 시작일 표기는 없어 접수 개시 공지 게시일(2026-11-19)을 접수 시작일로 기재함.",
+        "summary": "생성AI 활용 영상을 쇼트필름·애니메이션·광고 3부문으로 국적 불문 무료 모집하는 도쿄 국제 AI 영화제.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-27T07:25:00+09:00"
+      },
+      {
         "title": "Montreal AI Indie Festival",
         "category": "AI 영상",
         "country": "Canada",
@@ -1195,6 +1195,23 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "Higgsfield Talent Contest 2026",
+        "category": "AI 영상",
+        "country": "Global",
+        "organizer": "Higgsfield Inc.",
+        "submission_start": "2026-11-12",
+        "submission_end": "2026-11-26",
+        "result_date": "2026-12-03 잠정 수상자 발표",
+        "url": "https://higgsfield.ai/contests/talent-contest?tab=rules",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://higgsfield.ai/contests/talent-contest?tab=rules",
+        "evidence": "Higgsfield 공식 규정은 2026-11-12 접수 개시, 11-26 19:00 UTC 마감, 12-03 잠정 수상자 발표를 명시하며 법률·제재상 제한 지역을 제외한 전 세계 18세 이상 개인 또는 최대 4인 팀의 3~7분 AI 영화를 모집함.",
+        "summary": "전 세계 크리에이터가 3~7분 오리지널 AI 영화를 출품하는 Higgsfield 글로벌 콘테스트.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-16T01:19:00+09:00"
+      },
       {
         "title": "第2回 My Style vintage 生成AIコンテスト 2026『秋』",
         "category": "AI 이미지·영상",
@@ -2363,6 +2380,6 @@
       }
     ]
   },
-  "change_notes": "2026-11-26 07:00: 신규 1건(Migoo Video Challenge), 변경 1건(Flick AI Film Festival 2026), 결과 확인 0건, 섹션 이동 0건. Flick AI Film Festival 2026 결과일을 공식 규정 타임라인 기준 2027-02-20으로 정정(마감 2027-01-15 PT 유지). FilmFreeway는 Cloudflare 봇 확인으로 원문을 열지 못해 FilmFreeway 기반 신규 후보와 지난 보류 후보(AI 요건 미확인)는 계속 보류. 접수 시작일 미확인으로 보류: OMNI AI FILM FESTIVAL TOKYO 2027(규약상 '11월 하순 예정'), 京都AI映画祭2026(마감 11-30, 시작일 미기재), 札幌国際AI映画祭(12월 접수 예정), AI Cinema Festival Québec City 2027(마감 2027-01-24, 시작일 미기재), CapCut Marketing Skill Challenge(마감 12-09 UTC+8, 시작일 11-09/11-11 충돌 미해소), Emerald Prize(마감 11-26, 시작일 미확인), London AI-Qualified Festival. 범위 밖 국가라 제외: Berlin AI Film Festival, Florence AI Festival. 마감 11-26~11-30 기존 항목(Higgsfield, Melbourne AI FF, WAICY, ROBOT CARNIVAL, AI FFA 2026, reEarth, AI Art Championship, AI ZONE)은 공식 값과 일치. Artefact AI Film Festival 2026은 공식 JSON-LD상 09-02~12-02이나 페이지에 'Dec 9~Jan 13' 표기가 함께 있어 기존 값 유지. 결과 게시물 확인 0건(FilmFreeway 전용·JS 페이지 접근 불가 다수).",
+  "change_notes": "2026-11-27 07:00: 신규 1건(OMNI TOKYO 2027 (国際AI映画祭)), 변경 0건, 결과 확인 0건, 섹션 이동 1건. OMNI TOKYO 2027은 공식 공지(11-19 접수 개시, 마감 2027-01-01 16:59:59 JST, 무료)를 별도 재확인 후 추가. Aside가 제안한 신규 2건은 보류: World AI Cinema & Creativity Festival(WAICF, 주최 India·Film Dais, 연장 마감 12-05 시각 미기재, 시작일은 festhome 표기뿐이고 기존 JIFF 2027 World AI Cinema Competition과 중복 여부 미확인), IA Play International Film Festival MADRID(주최 Spain으로 범위 밖 국가, festhome 시작일 07-17/07-25 표기 충돌). FilmFreeway는 Cloudflare 봇 확인으로 계속 열리지 않아 FilmFreeway 기반 기존 항목 재확인과 AI 요건 미확인 보류 후보는 그대로. 접수 시작일 미확인으로 보류: 京都AI映画祭2026(마감 11-30 23:59 JST), 札幌国際AI映画祭(12월 접수 예정), AI Cinema Festival Québec City 2027(마감 2027-01-24), CapCut Marketing Skill Challenge(마감 12-09 UTC+8, 시작일 충돌 미해소), NEXTALE Award(업로드 마감 12-14), SVAIFF 2027·London AI-Qualified Festival(공식 마감 미확인). 공식 값과 일치 확인: Melbourne AI FF 11-29, WAICY 11-29 17:00 ET, AI FFA 11-30, HeyGen 12-01 23:59 PT, Jade Lens 12-03 UTC, Zopia x Vidu 12-07, JIFF 12-15, AKOOL 12-20, Flick 2027-01-15 PT, CNAIFF 2027-01-25, Runway AIF 2027-04-05. 충돌로 기존 값 유지: Artefact AI Film Festival 2026(JSON-LD 09-02~12-02 vs 페이지 'Dec 9~Jan 13'), Chroma Awards Season 2(ElevenLabs 블로그 'until January 1, 2027' vs 목록 2027-01-07), WAIFF London 2027. 결과 게시물 확인 0건(Higgsfield 잠정 수상자 발표 12-03 예정). Hailuo·Kling 8K·PixVerse TVC·Fairground는 JS 렌더링/차단으로 미확인.",
   "verification_pending": []
 }
