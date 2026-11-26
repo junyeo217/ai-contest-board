@@ -1,58 +1,9 @@
 {
-  "generated_at": "2026-11-25T19:00:00+09:00",
+  "generated_at": "2026-11-26T19:00:00+09:00",
   "notice": "국내 AI 이미지·영상·생성형 AI 관련 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "sections": {
-    "starting_today": [
-      {
-        "title": "제1회 AI 영상 공모전 「AI가 상상하는 중국」",
-        "category": "AI 영상",
-        "organizer": "(주)공자아카데미 주최, 서울공자아카데미 주관, 주한중국대사관·(사법)한중문화협력연구원 후원",
-        "submission_start": "2026-11-25",
-        "submission_end": "2026-12-16",
-        "result_date": "2026년 12월 18일(금) (서울공자아카데미 홈페이지 공지)",
-        "url": "https://kongzi.co.kr/?c1=2&c2=1511&uid=1497",
-        "source_type": "official_notice",
-        "discovery_source": "aside",
-        "discovery_url": "https://www.all-con.co.kr/view/contest/545464",
-        "evidence": "서울공자아카데미 공식 공지글(2026-11-23 등록)에 첨부된 공모 포스터 이미지에서 '공모접수 2026년 11월 25일(수)~12월 16일(수) 16:00까지', '결과발표 2026년 12월 18일(금)', '시상식 및 상영회 2026년 12월 22일(화)'을 직접 확인했다. 생성형 AI로 제작한 2~5분 가로형 영상을 받으며, 참가비는 포스터에 기재 없음(미기재).",
-        "summary": "생성형 AI로 중국의 미래를 상상한 2~5분 가로형 창작 영상을 모집하는 공모전이다.",
-        "status": "진행중",
-        "source_checked_at": "2026-11-25T19:15:00+09:00"
-      }
-    ],
+    "starting_today": [],
     "ongoing": [
-      {
-        "title": "글로벌 AI IDOL 어워드 2026 사전 쇼케이스",
-        "category": "AI 영상",
-        "organizer": "이파크AI·한국AI마케팅연구소",
-        "submission_start": "2026-10-25",
-        "submission_end": "2026-11-25",
-        "result_date": "2026-12-11 쇼케이스 선정 / 2026-12-17 시상 예정",
-        "url": "https://korea.svaiff.com/idol",
-        "source_type": "official_homepage",
-        "discovery_source": "manual",
-        "discovery_url": "https://korea.svaiff.com/news?post=notice-1022",
-        "evidence": "공식 요강에 AI 캐릭터 IP와 3~6분 퍼포먼스 영상·음원을 제출하고 캐릭터·세계관, 퍼포먼스·영상, AI 활용·창작 과정을 심사한다고 명시.",
-        "summary": "AI 캐릭터의 세계관과 음악, 퍼포먼스 영상을 결합해 글로벌 AI 아이돌을 선발하는 사전 쇼케이스입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-11-02T19:00:00+09:00"
-      },
-      {
-        "title": "SVAIFF AI FILM FESTIVAL 2026 KOREA 출품 공모",
-        "category": "AI 영상",
-        "organizer": "이파크AI·한국AI마케팅연구소",
-        "submission_start": "2026-10-25",
-        "submission_end": "2026-11-25",
-        "result_date": "2026-12 초 후보 연락 / 2026-12-17 최종 결과",
-        "url": "https://korea.svaiff.com/film",
-        "source_type": "official_homepage",
-        "discovery_source": "manual",
-        "discovery_url": "https://korea.svaiff.com/news?post=notice-1022",
-        "evidence": "현재 공식 요강에 AI 영화·애니메이션·다큐멘터리·광고·뮤직비디오 등 영상 부문, 2026.10.25~11.25 23:59:59 KST 접수와 12.17 최종 결과 발표가 명시.",
-        "summary": "생성형 AI 영화와 영상 작품을 모집하고 주요 수상작의 실리콘밸리 글로벌 결선 연계를 추진하는 한국 지역 영화제입니다.",
-        "status": "진행중",
-        "source_checked_at": "2026-11-02T19:00:00+09:00"
-      },
       {
         "title": "제2회 잠실 미디어아트 공모전",
         "category": "AI 영상",
@@ -262,6 +213,22 @@
         "source_checked_at": "2026-11-05T19:00:00+09:00"
       },
       {
+        "title": "2026 비글루 숏드라마 페스티벌 2 x KlingAI 4.0",
+        "category": "AI 영상",
+        "organizer": "주식회사 스푼랩스 (Vigloo Studio)",
+        "submission_start": "2026-11-16",
+        "submission_end": "2026-12-07",
+        "result_date": "2027.01.18 15:00 최종 수상자 발표 예정 (공식 규칙 일정)",
+        "url": "https://vigloostudio.com/ko/contests/2026-short-drama-festival-2/rules",
+        "source_type": "official_homepage",
+        "discovery_source": "aside",
+        "discovery_url": "https://crowlly.xyz/competitions",
+        "evidence": "공식 규칙 페이지에서 제출 기간 2026-11-16 15:00~2026-12-07 15:00 (KST), 파이널리스트 발표 2026-12-23, 최종 수상자 발표 2027-01-18 15:00을 확인했다. Vigloo Studio 사용이 필수이고 영상 요소는 100% AI 생성이어야 하며 실사 영상이 있으면 접수되지 않는다.",
+        "summary": "Vigloo Studio와 Kling AI로 만든 세로형 2분 30초~3분 에피소드와 5화 시놉시스를 모집하는 숏드라마 공모전(총상금 2만 달러).",
+        "status": "진행중",
+        "source_checked_at": "2026-11-26T19:16:00+09:00"
+      },
+      {
         "title": "2026 깨노니 CM송 가요제 (종근당 깨노니 가요제)",
         "category": "AI 콘텐츠",
         "organizer": "종근당",
@@ -326,6 +293,22 @@
         "source_checked_at": "2026-10-31T19:00:00+09:00"
       },
       {
+        "title": "제1회 AI 영상 공모전 「AI가 상상하는 중국」",
+        "category": "AI 영상",
+        "organizer": "(주)공자아카데미 주최, 서울공자아카데미 주관, 주한중국대사관·(사법)한중문화협력연구원 후원",
+        "submission_start": "2026-11-25",
+        "submission_end": "2026-12-16",
+        "result_date": "2026년 12월 18일(금) (서울공자아카데미 홈페이지 공지)",
+        "url": "https://kongzi.co.kr/?c1=2&c2=1511&uid=1497",
+        "source_type": "official_notice",
+        "discovery_source": "aside",
+        "discovery_url": "https://www.all-con.co.kr/view/contest/545464",
+        "evidence": "서울공자아카데미 공식 공지글(2026-11-23 등록)에 첨부된 공모 포스터 이미지에서 '공모접수 2026년 11월 25일(수)~12월 16일(수) 16:00까지', '결과발표 2026년 12월 18일(금)', '시상식 및 상영회 2026년 12월 22일(화)'을 직접 확인했다. 생성형 AI로 제작한 2~5분 가로형 영상을 받으며, 참가비는 포스터에 기재 없음(미기재).",
+        "summary": "생성형 AI로 중국의 미래를 상상한 2~5분 가로형 창작 영상을 모집하는 공모전이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-25T19:15:00+09:00"
+      },
+      {
         "title": "세종사이버대학교 전국민 AI 공모전 AI 불씨",
         "category": "AI 콘텐츠",
         "organizer": "세종사이버대학교",
@@ -356,6 +339,22 @@
         "summary": "패션 콘셉트와 디자인에 생성형 AI를 활용해 출품하는 고교 대상 콘테스트이며, 접수는 12월 23일 23시 59분까지다.",
         "status": "진행중",
         "source_checked_at": "2026-11-22T19:15:00+09:00"
+      },
+      {
+        "title": "NEXMUSE AI Music Video Contest 2027",
+        "category": "AI 영상",
+        "organizer": "AI아트 (NEXMUSE 공식 사이트 nexmuse.kr 운영, 주최 국가 미확인)",
+        "submission_start": "2026-09-21",
+        "submission_end": "2026-12-28",
+        "result_date": "1차 예선 발표 2027.01.18, 시상식 및 본선 발표 2027.01.30",
+        "url": "https://nexmuse.kr/rules",
+        "source_type": "official_homepage",
+        "discovery_source": "aside",
+        "discovery_url": "https://ai-radar.kr/contests",
+        "evidence": "공식 nexmuse.kr 규정과 소개 페이지에서 접수 2026.09.21~12.28, 접수 마감 2026.12.28(월) 23:59 KST, 1차 예선 발표 2027.01.18, 시상식 2027.01.30을 확인했다. 영상과 음원은 100% 생성형 AI 제작을 원칙으로 하며, 서식 2에 AI 도구와 폰트의 상업적 이용 동의가 포함된다.",
+        "summary": "NEXMUSE의 MUSE 캐릭터 중 1명 이상을 사용해 AI로 음악과 뮤직비디오를 만드는 국제 공모전(총상금 2,100만 원).",
+        "status": "진행중",
+        "source_checked_at": "2026-11-26T19:16:00+09:00"
       },
       {
         "title": "2026 SCENE AI·실사 숏드라마 공모전",
@@ -423,6 +422,38 @@
       }
     ],
     "awaiting_results": [
+      {
+        "title": "글로벌 AI IDOL 어워드 2026 사전 쇼케이스",
+        "category": "AI 영상",
+        "organizer": "이파크AI·한국AI마케팅연구소",
+        "submission_start": "2026-10-25",
+        "submission_end": "2026-11-25",
+        "result_date": "2026-12-11 쇼케이스 선정 / 2026-12-17 시상 예정",
+        "url": "https://korea.svaiff.com/idol",
+        "source_type": "official_homepage",
+        "discovery_source": "manual",
+        "discovery_url": "https://korea.svaiff.com/news?post=notice-1022",
+        "evidence": "공식 요강에 AI 캐릭터 IP와 3~6분 퍼포먼스 영상·음원을 제출하고 캐릭터·세계관, 퍼포먼스·영상, AI 활용·창작 과정을 심사한다고 명시.",
+        "summary": "AI 캐릭터의 세계관과 음악, 퍼포먼스 영상을 결합해 글로벌 AI 아이돌을 선발하는 사전 쇼케이스입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-02T19:00:00+09:00"
+      },
+      {
+        "title": "SVAIFF AI FILM FESTIVAL 2026 KOREA 출품 공모",
+        "category": "AI 영상",
+        "organizer": "이파크AI·한국AI마케팅연구소",
+        "submission_start": "2026-10-25",
+        "submission_end": "2026-11-25",
+        "result_date": "2026-12 초 후보 연락 / 2026-12-17 최종 결과",
+        "url": "https://korea.svaiff.com/film",
+        "source_type": "official_homepage",
+        "discovery_source": "manual",
+        "discovery_url": "https://korea.svaiff.com/news?post=notice-1022",
+        "evidence": "현재 공식 요강에 AI 영화·애니메이션·다큐멘터리·광고·뮤직비디오 등 영상 부문, 2026.10.25~11.25 23:59:59 KST 접수와 12.17 최종 결과 발표가 명시.",
+        "summary": "생성형 AI 영화와 영상 작품을 모집하고 주요 수상작의 실리콘밸리 글로벌 결선 연계를 추진하는 한국 지역 영화제입니다.",
+        "status": "발표 대기",
+        "source_checked_at": "2026-11-02T19:00:00+09:00"
+      },
       {
         "title": "KTX광명역 미래비전 AI영상 공모전",
         "category": "AI 영상",
@@ -1122,7 +1153,11 @@
         "evidence": "구세군 공식 공고와 첨부 요강에 생성형 AI 기반 60초 이내 가로형 영상, 2026.10.01~10.30 접수가 명시.",
         "summary": "자선냄비의 나눔 메시지를 생성형 AI 영상으로 표현하는 공모전입니다.",
         "status": "발표 대기",
-        "source_checked_at": "2026-10-31T19:00:00+09:00"
+        "source_checked_at": "2026-10-31T19:00:00+09:00",
+        "results_confirmed": true,
+        "results_published_at": "2026-11-10",
+        "results_url": "https://www.thesalvationarmy.or.kr/story/news/3369",
+        "results_evidence": "구세군자선냄비본부 공식 새소식 글(2026.11.10 10:49)에 '2026 자선냄비 나눔 AI 영상공모전 수상자 발표'가 게시되어 있고, 대상 1명, 우수상 2명, 특별상 5명, 인기상 2명의 명단이 실려 있다."
       },
       {
         "title": "2026년 제15회 도로경관디자인 대전",
