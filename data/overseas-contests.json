@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:00:00+09:00",
+  "generated_at": "2026-11-28T07:00:00+09:00",
   "notice": "해외 AI 이미지·영상 공모전 공개 정보 기반 보드입니다. 공식 링크 우선, 공식 링크가 없으면 확인 가능한 후보/참고 링크를 사용합니다.",
   "scope": {
     "countries": [
@@ -327,6 +327,23 @@
         "source_checked_at": "2026-10-23T10:58:11+09:00"
       },
       {
+        "title": "Higgsfield WCC#6 – The Fixed Frame",
+        "category": "AI 영상",
+        "country": "Global / Online",
+        "organizer": "Higgsfield",
+        "submission_start": "2026-11-26",
+        "submission_end": "2026-12-02",
+        "result_date": "2026-12-03 02:00 KST 수상작 발표",
+        "url": "https://higgsfield.ai/contests/wcc-the-fixed-frame",
+        "source_type": "official_platform",
+        "discovery_source": "aside",
+        "discovery_url": "https://higgsfield.ai/contests/wcc-the-fixed-frame",
+        "evidence": "Higgsfield 공식 챌린지 화면이 2026-11-26 02:00 KST(11-25 17:00 UTC) 제출 접수 시작, 12-02 02:00 KST(12-01 17:00 UTC) 심사 전환, 12-03 02:00 KST 수상작 발표를 표시하고, '제출 마감까지' 카운트다운이 12-02 02:00 KST에 끝남. 정확히 120초 가로형(16:9·21:9) 애니메이션을 요구하며 AI 이미지·영상 생성은 Higgsfield 안에서 해야 하고(오디오는 다른 AI 도구·보유 음원 가능, 외부 편집 허용) 총 100,000 credits를 시상함.",
+        "summary": "하나의 고정 프레임이 시간에 따라 변하는 모습을 정확히 120초 애니메이션으로 만드는 Higgsfield 글로벌 주간 챌린지.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-28T07:22:00+09:00"
+      },
+      {
         "title": "Jade Lens Awards 2026 – ZenCreator × Seedance",
         "category": "AI 영상",
         "country": "International",
@@ -376,23 +393,6 @@
         "summary": "Seedance를 주 도구로 5~7분 AI 영화를 제작하는 글로벌 100만 달러 AI Film Award.",
         "status": "진행중",
         "source_checked_at": "2026-11-21T07:24:00+09:00"
-      },
-      {
-        "title": "Migoo Video Challenge",
-        "category": "AI 영상",
-        "country": "United States",
-        "organizer": "Migoo",
-        "submission_start": "2026-11-17",
-        "submission_end": "2026-12-06",
-        "result_date": "2026-12-08 (공식 규칙 'expected' 표기, 챌린지 페이지에 게시 예정)",
-        "url": "https://migoo.ai/campaign/agenthon",
-        "source_type": "official_apply_page",
-        "discovery_source": "aside",
-        "discovery_url": "https://aifc.news/contest/migoo-video-challenge-2026",
-        "evidence": "Migoo 공식 챌린지 페이지의 Rules(2026 Official Competition Rules)에서 참가 자격은 미국 거주자, 접수(Register)와 제작 기간은 11월 17일부터, 제출 마감은 12월 6일 23:59 PT(모든 날짜 PT 기준), 당선자 발표는 12월 8일(예정)로 확인했다. 제출물은 Migoo 안에서 만든 영상이어야 한다.",
-        "summary": "미국 거주자 대상으로 Migoo에서 만든 AI 영상(이커머스 광고, AI 숏필름, 브랜드 광고 트랙)을 받는 공모전으로 상금은 12,300달러 이상이다.",
-        "status": "진행중",
-        "source_checked_at": "2026-11-26T07:16:00+09:00"
       },
       {
         "title": "Zopia x Vidu 2nd Creation Challenge (Vidu Cinematic)",
@@ -631,6 +631,23 @@
         "summary": "TapNow 캔버스에서 만든 AI 영화를 모집하는 시즌 공모전으로 £500 상금을 제공한다.",
         "status": "진행중",
         "source_checked_at": "2026-11-23T07:13:00+09:00"
+      },
+      {
+        "title": "Migoo Video Challenge",
+        "category": "AI 영상",
+        "country": "United States",
+        "organizer": "Migoo",
+        "submission_start": "2026-11-17",
+        "submission_end": "2026-12-31",
+        "result_date": "2027-01-07 발표 예정",
+        "url": "https://migoo.ai/campaign/agenthon",
+        "source_type": "official_apply_page",
+        "discovery_source": "aside",
+        "discovery_url": "https://aifc.news/contest/migoo-video-challenge-2026",
+        "evidence": "Migoo 공식 챌린지 페이지의 Rules(2026 Official Competition Rules)에서 참가 자격은 미국 거주자, 접수(Register)와 제작 기간은 11월 17일부터, 제출 마감은 12월 6일 23:59 PT(모든 날짜 PT 기준), 당선자 발표는 12월 8일(예정)로 확인했다. 제출물은 Migoo 안에서 만든 영상이어야 한다. (2026-11-28 갱신: 공식 챌린지 페이지 https://migoo.ai/campaign/agenthon 이 등록 NOV 17–DEC 31, 영상 제작·제출 BY DEC 31, 수상자 발표 JAN 7, 2027(예정)을 표시함. Aside는 Official Rules Key Dates가 PT 기준이라고 보고함.)",
+        "summary": "미국 거주자 대상으로 Migoo에서 만든 AI 영상(이커머스 광고, AI 숏필름, 브랜드 광고 트랙)을 받는 공모전으로 상금은 12,300달러 이상이다.",
+        "status": "진행중",
+        "source_checked_at": "2026-11-28T07:22:00+09:00"
       },
       {
         "title": "CSFCCA International AI Film Festival – Winter 2026",
@@ -2380,6 +2397,6 @@
       }
     ]
   },
-  "change_notes": "2026-11-27 07:00: 신규 1건(OMNI TOKYO 2027 (国際AI映画祭)), 변경 0건, 결과 확인 0건, 섹션 이동 1건. OMNI TOKYO 2027은 공식 공지(11-19 접수 개시, 마감 2027-01-01 16:59:59 JST, 무료)를 별도 재확인 후 추가. Aside가 제안한 신규 2건은 보류: World AI Cinema & Creativity Festival(WAICF, 주최 India·Film Dais, 연장 마감 12-05 시각 미기재, 시작일은 festhome 표기뿐이고 기존 JIFF 2027 World AI Cinema Competition과 중복 여부 미확인), IA Play International Film Festival MADRID(주최 Spain으로 범위 밖 국가, festhome 시작일 07-17/07-25 표기 충돌). FilmFreeway는 Cloudflare 봇 확인으로 계속 열리지 않아 FilmFreeway 기반 기존 항목 재확인과 AI 요건 미확인 보류 후보는 그대로. 접수 시작일 미확인으로 보류: 京都AI映画祭2026(마감 11-30 23:59 JST), 札幌国際AI映画祭(12월 접수 예정), AI Cinema Festival Québec City 2027(마감 2027-01-24), CapCut Marketing Skill Challenge(마감 12-09 UTC+8, 시작일 충돌 미해소), NEXTALE Award(업로드 마감 12-14), SVAIFF 2027·London AI-Qualified Festival(공식 마감 미확인). 공식 값과 일치 확인: Melbourne AI FF 11-29, WAICY 11-29 17:00 ET, AI FFA 11-30, HeyGen 12-01 23:59 PT, Jade Lens 12-03 UTC, Zopia x Vidu 12-07, JIFF 12-15, AKOOL 12-20, Flick 2027-01-15 PT, CNAIFF 2027-01-25, Runway AIF 2027-04-05. 충돌로 기존 값 유지: Artefact AI Film Festival 2026(JSON-LD 09-02~12-02 vs 페이지 'Dec 9~Jan 13'), Chroma Awards Season 2(ElevenLabs 블로그 'until January 1, 2027' vs 목록 2027-01-07), WAIFF London 2027. 결과 게시물 확인 0건(Higgsfield 잠정 수상자 발표 12-03 예정). Hailuo·Kling 8K·PixVerse TVC·Fairground는 JS 렌더링/차단으로 미확인.",
+  "change_notes": "2026-11-28 07:00: 신규 1건(Higgsfield WCC#6 – The Fixed Frame), 변경 1건(Migoo Video Challenge), 결과 확인 0건, 섹션 이동 0건. Higgsfield WCC#6은 공식 챌린지 화면(KST 표시, 카운트다운)으로 일정을 재확인해 추가(이전 WCC 회차와 같이 KST 날짜 기준). Migoo는 공식 페이지에서 제출 마감 DEC 31·발표 2027-01-07 예정을 확인해 마감 연장 반영. Aside 제안 중 미반영: PixVerse TVC 12-01 16:59:59(브라우저 KST 표시 = 11-30 23:59:59 PST로 기존 값과 같음), PAIFF 통지일(Festhome 표 28 Nov vs 설명 29 November 충돌), Jade Lens·Flick·Hailuo(기존 값과 동일). 접수 시작일 미확인으로 보류: 京都AI映画祭2026(마감 11-30 23:59 JST), 札幌国際AI映画祭(12월 접수 예정), AI Cinema Festival Québec City 2027, NEXTALE Award, London AI-Qualified Festival, WAICF India, LundinStudio AI FF 2027, AI Cinema Festival NYC 2027, Dubai AI Film Award 2nd. CapCut Marketing Skill Challenge는 시작일 표기 충돌(11-09/11-11)로 보류. Artefact AI FF 2026(09-02~12-02 vs 'Dec 9~Jan 13')은 충돌로 기존 값 유지. Chroma Awards S2는 공식 페이지 Jan 7, 2027 확인. OMNI TOKYO 2027 시작일 11-19(공식 공지 '受付開始') 유지. FilmFreeway는 Cloudflare 확인 화면으로 계속 열리지 않아 FilmFreeway 기반 항목 재확인과 AI 요건 보류 후보는 그대로. 결과 게시물 확인 0건(Higgsfield Talent 잠정 발표 12-03 예정).",
   "verification_pending": []
 }
